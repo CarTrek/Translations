@@ -1,0 +1,203 @@
+Sections:
+  App:
+    radar.radarWillStartIn:
+      en: 'Radar will start in'
+      ru: 'Радар запустится через'
+    radar.title:
+      en: 'Radar'
+      ru: 'Радар'
+    radar.tapToSelectTitle:
+      en: 'Tap to select the radar location'
+      ru: 'Тапните местоположение для радара'
+    radar.timeToSearch:
+      en: 'time to search'
+      ru: 'время на поиск'
+    radar.startSearch:
+      en: 'start search'
+      ru: 'начало поиска'
+    radar.autoBook:
+      en: 'book automatically'
+      ru: 'авторезервирование'
+    radar.currentLocation:
+      en: 'Current location'
+      ru: 'Текущее место'
+    radar.distance:
+      en: 'Distance'
+      ru: 'Расстояние'
+    radar.change:
+      en: 'CHANGE'
+      ru: 'ИЗМЕНИТЬ'
+    radar.confirm:
+      en: 'CONFIRM'
+      ru: 'ПОДВЕРДИТЬ'
+    radar.apply:
+      en: 'APPLY'
+      ru: 'ПРИМЕНИТЬ'
+    radar.back:
+      en: 'BACK'
+      ru: 'НАЗАД'
+    radar.startSearching:
+      en: 'Start searching'
+      ru: 'Начать поиск'
+    radar.specifyLocation:
+      en: 'Please specify a location for the radar'
+      ru: 'Пожалуйста, укажите местоположение для радара'
+    radar.stopSearching:
+      en: 'Cancel'
+      ru: 'Отменить'
+    radar.searching:
+      en: 'SEARCHING'
+      ru: 'ИЩЕМ'
+    radar.repeat:
+      en: 'repeat'
+      ru: 'Повторять'
+    radar.now:
+      en: 'NOW'
+      ru: 'СЕЙЧАС'
+    radar.timeLeft:
+      en: 'time left'
+      ru: 'осталось времени'
+    radar.repeatNever:
+      en: 'NEVER'
+      ru: 'НИКОГДА'
+    radar.repeatEveryMo:
+      en: 'Every Monday'
+      ru: 'Каждый Понедельник'
+    radar.repeatEveryTu:
+      en: 'Every Tuesday'
+      ru: 'Каждый Вторник'
+    radar.repeatEveryWe:
+      en: 'Every Wednesday'
+      ru: 'Каждую Среду'
+    radar.repeatEveryTh:
+      en: 'Every Thursday'
+      ru: 'Каждый Четверг'
+    radar.repeatEveryFr:
+      en: 'Every Friday'
+      ru: 'Каждый Пятницу'
+    radar.repeatEverySa:
+      en: 'Every Saturday'
+      ru: 'Каждую Субботу'
+    radar.repeatEverySu:
+      en: 'Every Sunday'
+      ru: 'Каждое Воскресенье'
+    radar.repeatShortMo:
+      en: 'Mo'
+      ru: 'Пн'
+    radar.repeatShortTu:
+      en: 'Tu'
+      ru: 'Вт'
+    radar.repeatShortWe:
+      en: 'We'
+      ru: 'Ср'
+    radar.repeatShortTh:
+      en: 'Th'
+      ru: 'Чт'
+    radar.repeatShortFr:
+      en: 'Fr'
+      ru: 'Пт'
+    radar.repeatShortSa:
+      en: 'Sa'
+      ru: 'Сб'
+    radar.repeatShortSu:
+      en: 'Su'
+      ru: 'Вс'
+    radar.timeShort.days:
+      en: 'd.'
+      ru: 'дн.'
+    radar.timeShort.hours:
+      en: 'h.'
+      ru: 'ч.'
+    radar.timeShort.minutes:
+      en: 'm.'
+      ru: 'м.'
+    radar.timeShort.seconds:
+      en: 's.'
+      ru: 'с.'
+    common.systemBackButtonTitle:
+      en: 'Back'
+      ru: 'Назад'
+      cs: 'Zpět'
+    carview.reservebuttontitle:
+      en: 'Reserve'
+      ru: 'Забронировать'
+      cs: 'Rezervovat'
+    car.window.finishrent:
+      en: 'Finish rent'
+      ru: 'Завершить аренду'
+      cs: 'Ukončit pronájem'
+    car.window.finishbook:
+      en: 'Cancel booking'
+      ru: 'Отменить бронь'
+      cs: 'Zrušit rezervaci'
+    corparative:
+      en: 'business'
+      ru: 'корпоративный'
+      cs: 'business'
+    carView.lockButtonTitle:
+      en: 'Lock'
+      ru: 'Закрыть'
+      cs: 'Uzavřít'
+    carView.lockButtonSubTitle:
+      en: 'and set the parking mode'
+      ru: 'и перевести в режим ожидания'
+      cs: 'a přepnout do pohotovostního režimu'
+    carView.openCarNormalTitle:
+      en: 'Open'
+      ru: 'Открыть'
+      cs: 'Otevřít'
+    carView.lockButtonSubTitle:
+      en: 'and start the rent mode'
+      ru: 'и перевести в режим аренды'
+      cs: 'a převést do režimu pronájmu'
+    purchase.bonuses.title:
+        en: Purchase bonuses
+        ru: Покупка бонусов
+    purchase.bonuses.button.buy:
+        en: Buy
+        ru: Купить
+    purchase.bonuses.current-balance:
+        en: Current balance
+        ru: Текущий баланс
+    purchase.bonuses.select-package:
+        en: Please select on of the bonus packages
+        ru: Выберите один из бонусных пакетов
+    purchase.bonuses.bonuses:
+        en: bonuses for
+        ru: бонусов за
+    purchase.bonuses.description:
+        en: You will get {bonuses} bonuses for {money} {currency}. Your discount will be {discount-money} {currency}, that is {discount-percents}%
+        ru: Вы получите {bonuses} бонусов за {money} {currency}. Ваша скидка {discount-money} {currency}, что составляет {discount-percents}%
+    purchase.bonuses.buy-with-default-card:
+        en: Pay with card {default-card-number}
+        ru: Оплатить картой {default-card-number}
+    purchase.bonuses.buy-with-another-card:
+        en: Pay with another card
+        ru: Оплатить другой картой
+    message.box.button.ok:
+        en: Ok
+        ru: Ок
+    message.box.button.yes:
+        en: Yes
+        ru: Да
+    message.box.button.no:
+        en: No
+        ru: Нет
+    message.box.button.cancel:
+        en: Cancel
+        ru: Отмена
+    purchase.bonuses.buy-bonuses-confirmation:
+        en: 'Are you sure you want to buy bonuses?'
+        ru: 'Вы уверены, что хотите купить бонусы?'
+    carView.lockButtonSubTitle:
+        ru: и перевести в режим парковки
+        en: and switch to waiting mode
+    qr.scanCode:
+        ru: Начать поездку
+        en: Start the ride
+    technician.carOrganizations.title:
+        en: Orgnaizations
+        ru: Организации
+    technician.viewOrganizations:
+        en: 'View organizations'
+        ru: 'Организации'

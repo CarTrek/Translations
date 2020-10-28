@@ -1,0 +1,236 @@
+Sections:
+  B2B:
+    B2BClientName:
+      en: Rides management
+      ru: Управление поездками
+    LoginDescription:
+      en: Enter the phone number that you specified during registration
+      ru: Введите телефон, который вы указали при регистрации. 
+    Send:
+      en: Send
+      ru: Отправить
+    SendDescription:
+      en: A confirmation code will be sent to this number.
+      ru: На этот номер будет отправлен код подтверждения.
+    Phone:
+      en: Phone
+      ru: Телефон
+    CodeSms:
+      en: Code SMS
+      ru: Код из СМС
+    LogIn:
+      en: LogIn
+      ru: Войти
+    CodeNotReceivedDescription1:
+      en: Didn’t the code come?
+      ru: Не пришел код?
+    CodeNotReceivedDescription2:
+      en: After
+      ru: Через
+    CodeNotReceivedDescription3:
+      en: seconds you can
+      ru: секунд можно
+    CodeNotReceivedDescription4:
+      en: send the code again.
+      ru: выслать код повторно.
+    RidesOrganization:
+      en: Rides
+      ru: Поездок
+    CashOutOrganization:
+      en: Balance
+      ru: Баланс
+    DownloadReport:
+      en: Download report
+      ru: Скачать отчет
+    DownloadAct:
+      en: Download act
+      ru: Скачать акт
+    LogOut:
+      en: LogOut
+      ru: Выйти
+    Grades:
+      en: Grades
+      ru: Грейды
+    SearchGrade:
+     en: Search grade
+     ru: Найти грейд
+    MonthLimit:
+     en: mo LIMIT
+     ru: мес ЛИМИТ
+    AnyTime:
+     en: any time
+     ru: любое время
+    NoLimits:
+     en: No limits
+     ru: Без ограничений
+    MonFri:
+     en: mo-fr
+     ru: пн-пт
+    Mon:
+     en: mo
+     ru: пн
+    Tue:
+     en: tu
+     ru: вт
+    Wed:
+     en: we
+     ru: ср
+    Thu:
+     en: th
+     ru: чт
+    Fri:
+     en: fr
+     ru: пт
+    Sat:
+     en: sa
+     ru: сб
+    Sun:
+     en: su
+     ru: вс
+    SettingsGrade:
+     en: Settings
+     ru: Настроить
+    DeleteGrade:
+     en: Delete grade
+     ru: Удалить грейд
+    AddGrade:
+      en: Add grade
+      ru: Добавить грейд
+    AddGradeDescription:
+      en: Enter the restriction settings for the user group you want to add
+      ru: Введите параметры ограничений для группы пользователей, которую хотите добавить
+    EditGrade:
+      en: Settings grade options
+      ru: Настроить параметры грейда
+    EditGradeDescription:
+      en: These restrictions will apply to all employees of the grade
+      ru: Эти ограничения будут применены для всех сотрудников грейда
+    DeleteFormGrade:
+      en: Are you sure you want to remove the grade?
+      ru: Вы уверены, что хотите удалить грейд?
+    DeleteFormGradeDescription:
+      en: After deletion, all employees of this grade will be moved to the "No Limitations" grade
+      ru: После удаления все сотрудники этого грейда будут перемещены в грейд «Без ограничений»
+    TitleGrade:
+      en: TITLE
+      ru: НАЗВАНИЕ
+    Limit:
+      en: LIMIT
+      ru: ЛИМИТ
+    Time:
+      en: TIME
+      ru: ВРЕМЯ
+    ServiceAccessHours:
+      en: Service Access Hours
+      ru: Часы доступа к сервису
+    TitleGradeDescription:
+      en: Example, Sales office
+      ru: Например, Бухгалтерия
+    LimitGradeDescription:
+      en: Amount per month per employee
+      ru: Сумма в месяц на одного сотрудника
+    Employees:
+      en: Employees
+      ru: Сотрудники
+    SearchEmployee:
+      en: Search employee
+      ru: Найти сотрудника
+    Mo:
+      en: MO.
+      ru: МЕС
+    EditEmployee:
+      en: Edit
+      ru: Редактировать
+    EditEmployeePhoneError:
+      en: You entered an invalid phone number
+      ru: Вы ввели некорректный номер телефона
+    EditEmployeePhoneErrorRequired:
+      en: This field is required
+      ru: Это поле является обязательным
+    DeleteEmployee:
+      en: Delete employee
+      ru: Удалить сотрудника
+    DeleteEmployeeGrade:
+      en: Delete from grade 
+      ru: Удалить из грейда    
+    AddEmployee:
+      en: Add employee
+      ru: Добавить сотрудника
+    AddEmployeeDescription:
+      en: Enter the data of the employee to be added
+      ru: Введите данные добавляемого сотрудника
+    EditFormNameEmployee:
+      en: Edit employee
+      ru: Редактировать даннные сотрудника
+    DeleteFormEmployee:
+      en: Are you sure you want to delete the employee
+      ru: Вы уверены, что хотите удалить сотрудника?
+    DeleteFormEmployeeGrade:
+      en: Are you sure you want to delete the employee
+      ru: Вы уверены, что хотите удалить сотрудника из грейда?
+    DeleteFormEmployeeDescription:
+      en: After removal, the employee falls into the “Dismissed” grade
+      ru: После удаления сотрудник попадает в грейд «Уволенные»
+    Grade:
+      en: GRADE
+      ru: ГРЕЙД
+    Data:
+      en: DATA
+      ru: ДАННЫЕ
+    Name:
+      en: Full Name
+      ru: ФИО
+    Position:
+      en: Position
+      ru: Должность
+    AddButton:
+      en: Add
+      ru: Добавить
+    SaveButton:
+      en: Save
+      ru: Сохранить
+    CancelButton:
+      en: Cancel
+      ru: Отменить
+    DeleteButton:
+      en: Delete
+      ru: Удалить
+    EmployeeRides:
+      en: Employee rides
+      ru: Поездки сотрудника
+    GradeRides:
+      en: Grade rides
+      ru: Поездки грейда
+    AllRides:
+      en: All rides
+      ru: Все поездки      
+    PeriodRides:
+      en: PERIOD
+      ru: ПЕРИОД
+    Ride:
+      en: RIDE
+      ru: ПОЕЗДКА
+    Waititng:
+      en: WAITING
+      ru: ОЖИДАНИЕ
+    Total:
+      en: TOTAL
+      ru: ВСЕГО
+    Minutes:
+      en: minutes
+      ru: минут
+    ReportForm:
+      en: Download report
+      ru: Скачать отчет
+    ReportFormDescription:
+      en: Excel file with details of employee rides
+      ru: Excel-файл с детализацией поездок сотрудников
+    Employee:
+      en: EMPLOYEE
+      ru: СОТРУДНИК
+    DownloadReportDescription:
+      en: Enter a name or leave the field blank
+      ru: Введите имя или оставьте поле пустым
+    Example:
+      en: Example
+      ru: Пример
