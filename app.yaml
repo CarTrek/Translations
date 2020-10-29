@@ -8,7 +8,7 @@ Sections:
       ru: 'Радар'
     radar.tapToSelectTitle:
       en: 'Tap to select the radar location'
-      ru: 'Тапните местоположение для радара'
+      ru: 'Выберите место, где радар будет искать машины'
     radar.timeToSearch:
       en: 'time to search'
       ru: 'время на поиск'
