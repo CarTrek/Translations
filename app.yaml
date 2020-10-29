@@ -201,3 +201,6 @@ Sections:
     technician.viewOrganizations:
         en: 'View organizations'
         ru: 'Организации'
+    topup.title:
+        en: Top-up
+        ru: Пополнение баланса
