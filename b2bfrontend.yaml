@@ -16,7 +16,7 @@ Sections:
       en: Phone
       ru: Телефон
     CodeSms:
-      en: Code SMS
+      en: Code from SMS
       ru: Код из СМС
     LogIn:
       en: LogIn
