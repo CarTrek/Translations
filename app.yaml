@@ -204,3 +204,6 @@ Sections:
     topup.title:
         en: Top-up
         ru: Пополнение баланса
+    topup.payButton:
+        en: Pay
+        ru: Оплатить
