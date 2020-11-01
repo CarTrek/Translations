@@ -160,7 +160,7 @@ Sections:
         en: Current balance
         ru: Текущий баланс
     purchase.bonuses.select-package:
-        en: Please select on of the bonus packages
+        en: Please select one of the bonus packages
         ru: Выберите один из бонусных пакетов
     purchase.bonuses.bonuses:
         en: bonuses for
