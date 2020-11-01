@@ -210,3 +210,6 @@ Sections:
     topup.subtitle:
         en: Before the ride you need to top-up you account
         ru: Чтобы начать аренду, необходимо внести средства на счёт вашей учётной записи
+    menu.purchaseBonuses:
+        en: Purchase bonuses
+        ru: Купить бонусы
