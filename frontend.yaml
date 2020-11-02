@@ -2734,7 +2734,7 @@ Sections:
       ru: Найдите партнёра по наименованию или укажите нового
     voucher.list.quantity:
       cs: počet certifikátů
-      en: Number fo Vouchers
+      en: Number of Vouchers
       ge: სერტიფიკატების რაოდენობა
       ru: Количество Сертификатов
     voucher.list.price:
