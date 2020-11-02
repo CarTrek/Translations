@@ -213,3 +213,6 @@ Sections:
     menu.purchaseBonuses:
         en: Purchase bonuses
         ru: Купить бонусы
+    whatsapp_chat_with_support_title:
+        en: WhatsApp Chat
+        ru: Чат WahtsApp
