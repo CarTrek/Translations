@@ -1248,7 +1248,7 @@ Sections:
       en: Withdrawals
       ge: გამოტანა
       ru: Списания
-      aside.nav.CanceledWithdrawals:
+    aside.nav.CanceledWithdrawals:
       cs: stržení
       en: Canceled
       ge: გამოტანა
