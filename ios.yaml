@@ -1,0 +1,5 @@
+Sections:
+  iOS
+    test.ios:
+      en: Test
+      ru: Тест
