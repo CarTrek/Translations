@@ -11399,6 +11399,3 @@ Sections:
     clients.editor.penalties.CANCELUSER:
       en: CANCEL
       ru: Отмена
-    aside.nav.CanceledWithdrawals:
-      en: 'Cancelled withdrawals'
-      ru: 'Отменённые списания'
