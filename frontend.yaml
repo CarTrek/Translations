@@ -1248,6 +1248,11 @@ Sections:
       en: Withdrawals
       ge: გამოტანა
       ru: Списания
+      aside.nav.CanceledWithdrawals:
+      cs: stržení
+      en: Canceled
+      ge: გამოტანა
+      ru: Отмененные
     aside.nav.Bonuses:
       cs: poskytnutí bonusů
       en: Bonus accruals
