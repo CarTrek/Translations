@@ -1406,8 +1406,8 @@ Sections:
     aside.nav.LOCKS:
       cs: služba blokace
       en: Edit locks
-      ge: ბლოკირების სერვისი
-      ru: Сервис блокировок
+      ge: საკეტები
+      ru: Блокировки
     aside.nav.SETTINGS:
       cs: nastavení
       en: Settings
