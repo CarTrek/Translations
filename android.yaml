@@ -1,5 +1,5256 @@
 Sections:
   Android:
-    test.android:
-      en: Test
-      ru: Тест
+    rub_min:
+      en: /min
+      cs: /min
+      ka: /წთ
+      kk: ₽/мин
+      ru: /мин
+      uk: ₴/мін
+    rub:
+      en: Kč
+      cs: Kč
+      ka: ₾
+      kk: ₽
+      ru: ₽
+      uk: ₴
+    rub_km:
+      en: /km
+      cs: /km
+      ka: /კმ
+      kk: ₽/км
+      ru: /км
+      uk: ₴/км
+    bonuses_symbol:
+      en: Kč
+      cs: Kč
+      ka: ₾
+      kk: ₽
+      ru: ₽
+      uk: ₴
+    promo_post_text:
+      en: Sign up and get free rides!
+      cs: Registrujte se a získejte jízdy zdarma!\n
+      ka: დარეგისტრირდით აიქარის პლატფორმაზე და მიიღეთ უფასო დრო მგზავრობისთვის
+      kk: Каршеринг CarTrek қызметіне тіркеліп, тегін сапарларға уақыттар алыңыз!
+      ru: Зарегистрируйтесь в каршеринге CarTrek и получите время для бесплатных поездок!
+      uk: Зареєструйтеся в каршерингу GetmanCar та отримайте час для безкоштовних поїздок!
+    selfie_drive_lic:
+      en: Selfie with front side of your ID card
+      cs: Selfie s přední stranou občanského průkazu
+      ka: სელფი მართვის მოწმობასთან ერთად
+      kk: Жүргізуші куәлігімен немесе паспортпен тускен селфи
+      ru: Селфи с ВУ или паспортом
+      uk: Селфі з ВП чи паспортом
+    scale_fuel_indicator_hint:
+      en: fuel level
+      cs: Zbývá paliva
+      ka: მუხტი
+      kk: жанармай қалды
+      ru: осталось топлива
+      uk: залишок палива
+    copyright:
+      en: © CarTrek 2019
+      cs: © CarTrek 2019
+      ka: © aicar, 2018
+      kk: © CarTrek, 2016
+      ru: © CarTrek, 2016
+      uk: © CarTrek, 2016
+    promo_instruction_percent:
+      en: Send your personal promocode to your friends and they will earn 20 minutes of free ride. As soon as your friend makes a first ride you will also get 20 minutes for free.
+      cs: Pošlete Váš osobní promo kód Vašim přátelům a oni získají 20 minut jízdy zdarma. Jakmile Váš přítel dokončí první jízdu, získáte též 20 minut jízdy zdarma.
+      ka: მიიღეთ %1$d\%% (მაგრამ არა უმეტეს %2$d -სა) მეგობრის პირველ მგზავრობაზე (მაგრამ არანაკლებ 1 კმ). მეგობარი  მიიღებს %3$d ბონუსს რეგისტრაციის გავლის შემდეგ. მეგობრების მოწვევის რაოდენობა შეზღუდული არ არის.
+      kk: Досыңыздың алғашқы сапарынан %1$d\%% (бірақ %2$d артық емес) алыңыз. Досыңыз тіркелгеннен кейін бірден %3$d бонустар алады.Шақырылған достардың саны шектеусіз.
+      ru: Получи %1$d\%% (но не более %2$d бонусов) от первой поездки друга (пробег не менее 1 км). Друг получит %3$d бонусов сразу после регистрации. Число приглашаемых друзей не ограничено.
+      uk: Получи %1$d\%% (но не более %2$d) от первой поездки друга (пробег не менее 1 км). Друг получит %3$d бонусов сразу после регистрации. Число приглашаемых друзей не ограничено.
+    promo_instruction_no_percent:
+      en: Send your personal promocode to your friends and they will earn 20 minutes of free ride. As soon as your friend makes a first ride you will also get 20 minutes for free.
+      cs: Pošlete Váš osobní promo kód Vašim přátelům a oni získají 20 minut jízdy zdarma. Jakmile Váš přítel dokončí první jízdu, získáte též 20 minut jízdy zdarma.
+      ka: მიიღეთ %1$d %3$s მეგობრის პირველი მგზავრობისგან. მეგობარი მიიღებს %2$d %3$s ბონუსს რეგისტრაციის გავლის შემდეგ. მეგობრების მოწვევის რაოდენობა შეზღუდული არ არის.
+      kk: Досыңыздың алғашқы сапарынан %1$d алыңыз. Досыңыз тіркелгеннен кейін бірден %2$d бонустар алады.Шақырылған достардың саны шектеусіз.
+      ru: Получи %1$d %3$s от первой поездки друга. Друг получит %2$d %3$s сразу после регистрации. Число приглашаемых друзей не ограничено.
+      uk: Отримай %1$d  від першої поїздки друга. Друг отримає %2$d бонусів одразу після реєстрації. Кількість запрошених друзів не обмежено.
+    fuel_station:
+      en: Fuel station
+      cs: Čerpací stanice
+      ka: АЗС
+      kk: ЖҚС
+      ru: АЗС
+      uk: АЗС
+    overrun:
+      en: Overmileage
+      cs: Překročení limitu kilometrů
+      ka: გარბენი
+      kk: <b>Көліктің жүріп өту шегі</b>
+      ru: Перепробег
+      uk: <b>Overrun</b>
+    rules_item_label_fueling_rules:
+      en: Fueling rules
+      cs: Pravidla tankování
+      ka: დატენვის წესები
+      kk: Жанармай құю ережелері
+      ru: Правила заправки
+      uk: Правила заправки
+    passport_first_page:
+      en: Front side of ID card
+      cs: Přední stranu občanského průkazu
+      ka: პასპორტის პირველი გვერდის სურათი
+      kk: Жеке куәліктің алдыңғы жағын суретке түсіріңіз
+      ru: Фото первого разворота паспорта
+      uk: Фото першого развороту паспорта
+    passport_registration_page:
+      en: Back side of ID card
+      cs: Zadní stranu občanského průkazu
+      ka: პასპორტის რეგისტრაციის ნომერი
+      kk: Жергілікті жерде тұруға арналған рұқсат қағазының суреті
+      ru: Фото страницы с пропиской
+      uk: Фото сторінки з пропискою
+    contract_agree_hint:
+      en: I agree with the contract conditions
+      cs: Souhlas s podmínkami smlouvy o užívání
+      ka: ვეთანხმები ხელშეკრულებას
+      kk: <u>Мен қосымша шарттың ережелерімен келісемін</u>
+      ru: Согласен с положениями договора присоединения
+      uk: <u>Згоден з положеннями договору приєднання</u>
+    overrun_cost:
+      en: Overmileage
+      cs: Překročení kilometrů
+      ka: გარბენი
+      kk: Көліктің жүріп өткен шегі
+      ru: перепробег
+      uk: надпробіг
+    overrun_text:
+      en: '%1$s %2$s overmileage'
+      cs: '%1$s %2$s překročení kilometrů'
+      ka: '%1$s %2$s გადამეტება'
+      kk: '%1$s %2$s көліктің жүріп өту шегі'
+      ru: '%1$s %2$s перепробег'
+      uk: '%1$s %2$s надпробіг'
+    are_you_really_want_to_finish_rent:
+      en: Before you finish the rent be sure that:\n- The car is put on the handbrake.\n- All windows are closed.\n- Lights are off.\n- Internal lights are off.\n- Transmission selector is in P-position if AT or is in N-position if MT.
+      cs: Než ukončíte pronájem:\n- Prepněte převodovku do polohy \"P\"\n- Zatáhněte ruční brzdu\n- Vypněte světla (i v interiéru)\n- Zavřete okna a dveře\n- Vyfoťte celé auto\n
+      ka: გთხოვთ, მგზავრობის დასრულებამდე დარწმუნდეთ, რომ:\n- ამოწეულია ხელის მუხრუჭი.\n- ყველა ფანჯარა აწეულია.\n- გამორთულია გარე განათების ნათურები.\n- გამორთულია სალონის განათება.\n- ავტომატური გადაცემის კოლოფი გადაყვანილია P პოზიციაში ან მექანიკური გადაცემის კოლოფი გადაყვანილია N პოზიციაში.
+      kk: Жалдауды аяқтамас бұрын,\n        что:\n- Барлық терезелер жабық екенін.\n-Шамдары сөндірілгенін.\n-Салон ішіндегі жарық өшірілгенін.\n- Автоматты берілудің селекторы P позициясында немесе қолмен басқару тұтқасы бейтарап қалыпта орналасқанын тексеріңіз .\n
+      ru: Пожалуйста, проверьте что:\n- Машина поставлена на ручной тормоз.\n- Все окна закрыты.\n- Фары выключены.\n- Свет в салоне выключен.\n- Селектор АКПП находится в положении P, либо рычаг МКПП находится в нейтральном положении.\n
+      uk: Будь ласка, перед завершенням прокату перевірте,\nщо:\n- Машина поставлена на ручне гальмо.\n- Всі вікна зачинені.\n- Фари вимкнені.\n- Світло в салоні виключено.\n- Селектор АКПП\n        знаходиться в положенні P, чи ричаг МКПП знаходиться в нейтральному положенні.\n
+    complete_overrun:
+      en: Overmileage
+      cs: Kilometry navíc
+      ka: გარბენი
+      kk: Overmileage
+      ru: Перепробег
+      uk: Overmileage
+    check_documents_message:
+      en: 'The following documents shall be in the glove box: \n1. Insurance policy;\n2. Vehicle certificate;\n3. Fuel card\nIf something is missing report to us through e-mail'
+      cs: Tyto dokumenty mají být v přihrádce:\n1. Doklad o sjednání povinného ručení \n2. Malý technický průkaz\n3. Tankovací karta\nPokud něco chybí, popište nám to v emailu
+      ka: 'სათავსოში იხილავთ: სადაზღვევო პოლისს,  ტექ.პასპორტს, დასატენ ბარათს.'
+      kk: 'Қолғап қорапында: cақтандыру саясаты , автокөлік куәлігі, жанармай карточкасы.'
+      ru: 'В бардачке: Страховой полис, Свидетельство ТС, Топливная карта.'
+      uk: 'В бардачку: Страховий поліс, Свідоцтво ТЗ, Паливна картка. Якщо щось відсутнє, напишіть нам:'
+    penalty_for_dirt_text:
+      en: 'The following documents shall be in the glove box: \n1. Insurance policy;\n2. Vehicle certificate;\n3. Fuel card\nIf something is missing report to us through e-mail'
+      cs: Tyto dokumenty mají být v přihrádce:\n1. Doklad o sjednání povinného ručení \n2. Malý technický průkaz\n3. Tankovací karta\nPokud něco chybí, popište nám to v emailu
+      ka: 'სათავსოში იხილავთ: სადაზღვევო პოლისს,  ტექ.პასპორტს, დასატენ ბარათს. თუ რაიმე აკლია, გთხოვთ მოგვწეროთ:'
+      kk: 'Қолғап қорапында: cақтандыру саясаты, автокөлік куәлігі, жанармай карточкасы. Егер бір құжат жетіспесе, бізге жазыңыз:'
+      ru: 'В бардачке: Страховой полис, Свидетельство ТС, Топливная карта. Если что-то отсутсвует напишите нам:'
+      uk: '<b>Penalty for smoking and garbage - 3000 ₽</b>\nThere are no documents, dirt or traces of smoking in the cabin - contact us:'
+    inspect_second_text:
+      en: Are there all %1$sdocuments%2$s present?
+      cs: Jsou všechny %1$sdoklady%2$s na svém místě?
+      ka: ყველა %1$s დოკუმენტი %2$s ადგილზეა?
+      kk: Барлық %1$sқұжаттары %2$s бар ма?
+      ru: Все ли %1$sдокументы%2$s присутствуют?
+      uk: Все ли %1$sдокументы%2$s присутствуют?
+    navigation_drawer_open:
+      en: Open navigation drawer
+      cs: Otevřít menu
+      ka: მენიუს გახსნა
+      kk: Мәзірді ашу
+      ru: Открыть меню
+      uk: Відкрити
+    navigation_drawer_close:
+      en: Close navigation drawer
+      cs: Zavřít menu
+      ka: მენიუს დახურვა
+      kk: Мәзірді жабу
+      ru: Закрыть меню
+      uk: Закрити меню
+    email:
+      en: E-mail
+      cs: email
+      ka: ელ-ფოსტა
+      kk: E-mail
+      ru: Email
+      uk: E-mail
+    loading_data:
+      en: Loading data...
+      cs: Nahrávání dat...
+      ka: მონაცემთა ჩამოტვირთვა
+      kk: Деректерді жүктеу...
+      ru: Загрузка данных...
+      uk: 'Завантаження: ще пару секунд та ВЖИКнемо'
+    carsharing:
+      en: Short term car rental service
+      cs: Krátkodobý pronájem vozidel
+      ka: მანქანის მოკლევადიანი ქირაობა
+      kk: Автокөліктерді қысқа мерзімге жалға беру
+      ru: Краткосрочная аренда автомобилей
+      uk: Короткострокова оренда авто
+    notification_channel_id_default:
+      en: cartrek_default_channel
+      cs: notification_channel_id_default
+      ka: notification_channel_id_default
+      kk: cartrek_default_channel
+      ru: cartrek_default_channel
+      uk: cartrek_default_channel
+    notification_channel_name_main:
+      en: Main
+      cs: Základní
+      ka: ძირითადი
+      kk: Негізгі
+      ru: Основной
+      uk: Основний
+    enter_phone_hint:
+      en: Phone number
+      cs: Telefonní číslo
+      ka: ტელ.ნომერი
+      kk: Телефон нөмірі
+      ru: Номер телефона
+      uk: Номер телефону
+    prompt_password:
+      en: Password
+      cs: Heslo
+      ka: პაროლი
+      kk: Құпия сөз
+      ru: Пароль
+      uk: Пароль
+    action_sign_in_short:
+      en: Sign in
+      cs: Přihlášení
+      ka: შესვლა
+      kk: <b>Кіру</b>
+      ru: Вход
+      uk: <b>Вхід</b>
+    view_map:
+      en: Show cars
+      cs: Zobrazit auta
+      ka: მანქანის ჩვენება
+      kk: Автокөлікті көрсету
+      ru: Показать авто
+      uk: Показати авто
+    sign_up:
+      en: Sign Up
+      cs: Zaregistrovat se
+      ka: რეგისტრაცია
+      kk: Тіркелу
+      ru: Зарегистрироваться
+      uk: Зареєструватися
+    forgotPassword:
+      en: Forgot password?
+      cs: Zapomněli jste heslo?
+      ka: დაგავიწყდათ პაროლი?
+      kk: Құпия сөзді ұмыттыңыз ба?
+      ru: Забыли пароль?
+      uk: Забули пароль?
+    restore_password_button_label:
+      en: Restore
+      cs: Obnovit
+      ka: აღდგენა
+      kk: Қалпына келтіру
+      ru: Восстановить
+      uk: Відновити
+    login_type_label_text:
+      en: 'Login with:'
+      cs: 'Přihlásit se pomocí:'
+      ka: დახმარებით შესვლა
+      kk: 'Көмекпен кіру:'
+      ru: 'Войти с помощью:'
+      uk: 'Увійти за допомогою:'
+    phone_login_type:
+      en: Phone
+      cs: 'Telefonní číslo:'
+      ka: ტელეფონი
+      kk: Телефон
+      ru: Телефон
+      uk: Телефон
+    email_login_type:
+      en: Email
+      cs: E-mail
+      ka: ელ-ფოსტა
+      kk: E-mail
+      ru: E-mail
+      uk: E-mail
+    enter_email_hint:
+      en: E-mail
+      cs: E-mail
+      ka: ელ-ფოსტა
+      kk: E-mail
+      ru: E-mail
+      uk: E-mail
+    error_field_required:
+      en: This field should be filled
+      cs: Musí být vyplněno
+      ka: შევსება აუცილებელია
+      kk: Толтыру керек
+      ru: Необходимо заполнить
+      uk: Необхідно заповнити
+    error_incorrect_password:
+      en: Sign in failed. login and/or password is incorrect
+      cs: Přihlášení se nezdařilo. Chybný login nebo heslo.
+      ka: შეცდომა ავტორიზაციის ან პაროლის შეყვანისას
+      kk: Жүйеге кіру мүмкін емес. Логин немесе құпия сөз қате ме?
+      ru: Не удалось войти. Ошибка в логине или пароле?
+      uk: Не вдалося увійти. Помилка в логіну чи паролі?
+    email_or_phone:
+      en: E-mail or phone number
+      cs: E-mail nebo telefonní číslo
+      ka: ელ-ფოსტა ან ნომერი
+      kk: E-mail немесе телефон нөмірі
+      ru: E-mail или номер телефона
+      uk: E-mail або номер телефону
+    liters:
+      en: l
+      cs: l.
+      ka: ლ.
+      kk: л
+      ru: л
+      uk: л
+    mileage:
+      en: Mileage
+      cs: ujeto
+      ka: გარბენი
+      kk: Көліктің жүріп өткен жолы
+      ru: Пробег
+      uk: Пробіг
+    km:
+      en: km
+      cs: km.
+      ka: კმ.
+      kk: км
+      ru: км
+      uk: км
+    fuel:
+      en: Fuel
+      cs: Palivo
+      ka: ელემენტი
+      kk: Жанармай
+      ru: Топливо
+      uk: Паливо
+    reg_number:
+      en: license plate number
+      cs: SPZ
+      ka: სახელმწიფო ნომერი
+      kk: Мемлекеттік көлік нөмірі
+      ru: Госномер
+      uk: Держномер
+    color:
+      en: Color
+      cs: Barva
+      ka: ფერი
+      kk: Түсі
+      ru: Цвет
+      uk: Колір
+    m:
+      en: m
+      cs: m
+      ka: მ.
+      kk: м
+      ru: м
+      uk: м
+    distance_to_car:
+      en: Distance
+      cs: Vzdálenost
+      ka: მანძილი
+      kk: Қашықтығы
+      ru: Расстояние
+      uk: Відстань
+    rent:
+      en: Rent
+      cs: Pronájem
+      ka: ქირაობა
+      kk: Жалға алу
+      ru: Аренда
+      uk: Оренда
+    terms_of_usage:
+      en: Terms of rent
+      cs: Pravidla pronájmu
+      ka: ქირაობის წესები
+      kk: Жалдау ережелері
+      ru: Правила аренды
+      uk: Правила оренди
+    wait:
+      en: Reservation
+      cs: Rezervace
+      ka: დაჯავშნა
+      kk: Брондау
+      ru: Бронирование
+      uk: Бронювання
+    checkout:
+      en: Checkout
+      cs: Vracení
+      ka: დაბრუნება
+      kk: Қайтару
+      ru: Возврат
+      uk: Повернення
+    fueling:
+      en: Fueling
+      cs: Tankování
+      ka: დატენვა
+      kk: Жанармай құю
+      ru: Дозаправка
+      uk: Дозаправка
+    callcenter:
+      en: Call center
+      cs: Zákaznická podpora
+      ka: ქოლ-ცენტრი
+      kk: Колл-орталығы
+      ru: Колл-центр
+      uk: Колл-центр
+    driving:
+      en: Rides
+      cs: Jízdy
+      ka: მგზავრობები
+      kk: Сапарлар
+      ru: Поездки
+      uk: Поїздки
+    extra_info:
+      en: Additional Info
+      cs: Další informace
+      ka: დამატებითი ინფორმაცია
+      kk: Қосымша ақпарат
+      ru: Дополнительная информация
+      uk: Додаткова інформація
+    h:
+      en: h.
+      cs: h.
+      ka: სთ.
+      kk: с.
+      ru: ч.
+      uk: ч.
+    min:
+      en: min.
+      cs: min.
+      ka: წთ.
+      kk: мин.
+      ru: мин.
+      uk: хв.
+    on_foot:
+      en: on foot
+      cs: pěšky
+      ka: ფეხით
+      kk: жаяу
+      ru: пешком
+      uk: пішки
+    yes:
+      en: Ok
+      cs: Ok
+      ka: კი
+      kk: Иә
+      ru: Да
+      uk: Так
+    no:
+      en: No
+      cs: Ne
+      ka: არა
+      kk: Жоқ
+      ru: Нет
+      uk: Ні
+    fuel_distance:
+      en: Fuel distance
+      cs: Paliva na
+      ka: დასაშვები მანძილი
+      kk: Жүру қоры
+      ru: Запас хода
+      uk: Запас ходу
+    discount:
+      en: Discount
+      cs: Sleva
+      ka: ფასდაკლება
+      kk: Жеңілдік
+      ru: Скидка
+      uk: Знижка
+    description_booking:
+      en: 20 min. for free, then parking rate will be applied
+      cs: 20 min zdarma, dále dle tarifu pro čekání
+      ka: 20 წთ. უფასო, შემდგომ პარკირების ტარიფით
+      kk: 20 мин. тегін, әрі қарай - автотұрақ тарифіне байланысты
+      ru: 20 мин. бесплатно, далее - по парковочному тарифу
+      uk: 20 хв. безкоштовно, далі - по парковочному тарифу
+    description_fueling:
+      en: Refuel when less than 20%
+      cs: Natankovat, pokud je paliva méně než 20%
+      ka: დატენეთ, თუ დარჩენილია 20%-ზე ნაკლები
+      kk: ' Жанармай 20% -дан аз болғанда толтыру керек'
+      ru: Заправить, когда топлива менее 20%
+      uk: Заправити, коли палива менше 20%
+    book_the_car_now:
+      en: Book
+      cs: Rezervovat
+      ka: დაჯავშნა
+      kk: <b>Брондау</b>
+      ru: Забронировать
+      uk: <b>Забронювати</b>
+    logout_error:
+      en: Sign out was unsuccessful. Perhaps server lost connection
+      cs: Nepodařilo se odhlásit. Pravděpodobně ztraceno spojení se serverem
+      ka: დაფიქსირდა შეცდომა, სისტემიდან გამოსვლა ვერ ხერხდება.
+      kk: Сервермен байланыс жоқтығынан, жүйеден шығу мүмкін емес.
+      ru: Не удалось выйти из системы. Возмжно, отсутствует связь с сервером.
+      uk: Не вдалося вийти з системи. Можливо, відсутній зв’язок із сервером.
+    booking_failed:
+      en: Car book failed
+      cs: Nepodařilo se rezervovat auto
+      ka: ვერ დაიჯავშნა
+      kk: Автокөлікті брондау мүмкін емес.
+      ru: Не удалось забронировать автомобиль.
+      uk: Не вдалося забронювати автомобіль.
+    FailedUserAlreadyHasOrder:
+      en: You have already booked a car
+      cs: Již máte rezervované auto
+      ka: თქვენ უკვე დაჯავშნეთ მანქანა.
+      kk: Сізде брондалған автокөлік бар.
+      ru: У Вас уже есть забронированный автомобиль.
+      uk: У Вас вже є заброньований автомобіль.
+    FailedCarIsOrderedAlready:
+      en: The car has been booked already
+      cs: Auto je již rezervováno
+      ka: მანქანა დაჯავშნილია.
+      kk: Автокөлік брондалған.
+      ru: Автомобиль уже забронирован.
+      uk: Автомобіль вже заброньовано.
+    FailedCarNotFound:
+      en: The car was not found in the system
+      cs: Auto nebylo nalezeno v systému
+      ka: მანქანა ვერ მოიძებნა
+      kk: Автокөлік жүйеде табылмады.
+      ru: Автомобиль не найден в системе.
+      uk: Автомобіль не знайдено в системі.
+    FailedCarIsOffline:
+      en: The car is offline
+      cs: Neexistuje spojení se zvoleným autem
+      ka: მანქანას ვერ ვუკავშირდებით
+      kk: Таңдалған көлікпен байланыс жоқ.
+      ru: Отсутствует связь с выбранным автомобилем.
+      uk: Відсутній зв’язок з обраним автомобілем.
+    FailedUserNotFound:
+      en: Your account was not found in the system
+      cs: Váš uživatelský účet nebyl nalezen
+      ka: თქვენი ანგარიში ვერ მოიძებნა
+      kk: Сіздің тіркеу жазбаңыз жүйеде табылмады.
+      ru: Ваша учётная запись не найдена в системе.
+      uk: Ваш обілковий запис не знайдено в системі.
+    FailedUserIsBlocked:
+      en: Your account is blocked
+      cs: Váš uživatelský účet byl zablokován
+      ka: თქვენი ანგარიში დაბლოკილია
+      kk: Сіздің тіркеу жазбаңыз бұғатталған.
+      ru: Ваша учётная запись заблокирована.
+      uk: Ваш обліковий запис заблоковано.
+    FailedUserIsNotACustomer:
+      en: You have no permission to book cars
+      cs: Nemáte oprávnění k rezervování aut
+      ka: თქვენ არ გაქვთ დაჯავშნის უფლება
+      kk: Автокөліктерге тапсырыс беруге сіздің құқығыңыз жоқ.
+      ru: У Вас отсутствует право на бронирование автомобилей.
+      uk: У Вас відсутнє право бронювання автомобілів.
+    FailedCustomerIsBlocked:
+      en: Your account is blocked
+      cs: Váš uživatelský účet byl zablokován
+      ka: თქვენი ანგარიში დაბლოკილია
+      kk: Сіздің тіркеу жазбаңыз бұғатталған.
+      ru: Ваша учётная запись заблокирована.
+      uk: Ваш обліковий запис заблоковано.
+    FailedUserHasNoCorrectOrganization:
+      en: The car is assigned to organizations which you do not belong
+      cs: Zvolené auto patří k organizacím, jejichž nejste členem
+      ka: მოცემული მანქანა ირიცხება იმ ორგანიზაციებზე, რომელთა წევრიც თქვენ არ ბრძანდებით
+      kk: Таңдалған автокөлік сізге тиесілі емес ұйымдарға тағайындалады.
+      ru: Выбранный автомобиль приписан к организациям, в которых Вы не состоите.
+      uk: Обраний автомобіль відноситься до організацій до яких Ви не включені.
+    FailedHasNoBankCard:
+      en: The system does not contain information about your bank card
+      cs: V systému nejsou údaje o Vaší platební kartě
+      ka: არ იძებნება  საბანკო ბარათის მონაცემები
+      kk: Жүйеде банк картаңыз туралы ақпарат жоқ.
+      ru: В системе отсутствует информация о Вашей банковской карте.
+      uk: В системі відсутні інформація про Вашу банківську карту.
+    FailedNegativeBalance:
+      en: Your account balance is negative\n
+      cs: Stav Vašeho uživatelského účtu je záporný
+      ka: ანგარიშის ბალანსი უარყოფითია
+      kk: Сіздің шотыңызда қаражат жоқ.
+      ru: Баланс Вашей учётной записи отрицательный.
+      uk: Баланс Вашого облікового запису негативний.
+    FailedSecurityCheckDidNotPass:
+      en: Your account has not been approved by the verification yet\n
+      cs: Váš uživatelský účet nebyl prozatím schválen
+      ka: უსაფრთხოების სისტემამ უარყო ანგარიში
+      kk: Сіздің тіркеу жазбаңыз қауіпсіздік қызметі тарапынан бекітілмеді.
+      ru: Ваша учётная запись не была одобрена службой безопасности.
+      uk: Ваш обліковий запис не був схвалений службою безпеки.
+    FailedNoRentEndZonesFound:
+      en: The Home Area was not set up for the selected vehicle
+      cs: Pro zvolené auto není nastavena domácí oblast
+      ka: მანქანაზე არ არის დაყენებული ქირის დასრულების დასაშვები ზონა.
+      kk: Таңдалған автокөлікке жалдауды аяқтау аймағы орнатылмаған.
+      ru: Для выбранного автомобиля не настроена зона завершения аренды.
+      uk: Для обраного автомобіля не налаштована зона завершення прокату.
+    FailedNoDriveZonesFound:
+      en: The Driving Area was not set up for the selected vehicle\n
+      cs: Pro zvolené auto není nastavena povolená oblast
+      ka: მანქანაზე არ არის დაყენებული მგზავრობის დასაშვები ზონა.
+      kk: Таңдалған автокөлікке сапар аймағы орнатылмаған.
+      ru: Для выбранного автомобиля не настроена зона поездок.
+      uk: Для обранного автомобіля не налаштована зона поїздок.
+    the_car_is_booked:
+      en: Car successfully booked\n
+      cs: Auto úspěšně rezervováno
+      ka: მანქანა დაიჯავშნა წარმატებით.
+      kk: Автокөлік сәтті брондалған.
+      ru: Автомобиль успешно забронирован.
+      uk: Автомобіль успішно заброньовано.
+    please_try_again_later:
+      en: Please try again later
+      cs: Prosím, zkuste zopakovat úkon později nebo kontaktujte Zákaznickou podporu
+      ka: სცადეთ მოგვიანებით ან დაუკავშირდით ჩვენს ტექნიკურ სამსახურს.
+      kk: Бұл әрекетті кейінірек қайталап көріңіз немесе техникалық қолдау көрсету қызметіне хабарласыңыз.
+      ru: Пожалуйста, попробуйте повторить действие позже либо обратитесь в нашу службу техподдержки.
+      uk: Будь ласка, спробуйте повторити дію пізніше чи зверніться до нашої служби техпідтримки.
+    rent_finish_failed:
+      en: Failed to finish the rent\n
+      cs: Nepodařilo se ukončit pronájem
+      ka: ქირაობა ვერ დასრულდა
+      kk: Жалдауды аяқтау мүмкін емес.
+      ru: Не удалось завершить аренду.
+      uk: Не вдалося завершити оренду.
+    rent_finish_ok:
+      en: Rent finished successfully. Report on the ride will be sent to your e-mail address.
+      cs: Pronájem úspěšně ukončen. Na Vási e-mailovou adresu a telefon, uvedený při registraci, budou odeslány údaje o pronájmu
+      ka: ქირაობა დასრულდა.  დარეგისტრირებულ ელ-ფოსტაზე და ტელ.ნომერზე გაიგზავნება შეკვეთის მონაცემები
+      kk: Жалдау сәтті аяқталды.Тіркеу кезінде көрсетілген электрондық адресіңізге және телефоныңызға жалдау туралы есеп жіберіледі.
+      ru: Аренда успешно завершена. На Ваши e-mail и телефон, указанные при регистрации, будет отправлен отчёт об аренде.
+      uk: Оренду успішно закінчено. На Ваши e-mail та телефон, вказані при реєстрації, буде відправлено звіт про прокат.
+    cancel_booking:
+      en: Cancel
+      cs: Zrušit
+      ka: დასრულება
+      kk: <b>Аяқтау</b>
+      ru: Завершить
+      uk: <b>Завершити</b>
+    finish_rent:
+      en: Finish rent
+      cs: Ukončit
+      ka: დასრულება
+      kk: <b>Аяқтау</b>
+      ru: Завершить
+      uk: <b>Завершити</b>
+    are_you_really_want_to_finish_book:
+      en: Do you want to cancel the reservation?\n
+      cs: Zrušit
+      ka: გსურთ ჯავშნის გაუქმება?
+      kk: Сіз брондаудан бас тартқыңыз келе ме?
+      ru: Вы действительно хотите отменить бронирование?
+      uk: Вы действительно хотите отменить бронирование?
+    start_the_rent:
+      en: Rent
+      cs: Pronajmout
+      ka: დაქირავება
+      kk: <b>Жалдау</b>
+      ru: Арендовать
+      uk: <b>Начати оренду</b>
+    open_the_car:
+      en: Open car
+      cs: Otevřít
+      ka: გახსნა
+      kk: <b>Ашу</b>
+      ru: Открыть
+      uk: <b>Відкрити</b>
+    close_the_car:
+      en: Parking
+      cs: Čekat
+      ka: პარკირება
+      kk: <b>Күту</b>
+      ru: Ожидание
+      uk: <b>Очікування</b>
+    start_rent_failed:
+      en: Failed to start the rent\n
+      cs: Nepodařilo se přejít do řežimu pronájmu
+      ka: მოხმარების რეჟიმში გადასვლა ვერ ხერხდება
+      kk: Автокөлікті қолдану режиміне ауыстыру сәтсіз аяқталды.
+      ru: Не удалось перевести машину в режим использования.
+      uk: Не вдалося перевести машину в режим використання.
+    start_rent_ok:
+      en: Car is in rent mode now
+      cs: Auto je nyní v režimu pronájmu
+      ka: მანქანა გადავიდა მოხმარების რეჟიმში.
+      kk: Автокөлік қолдану режиміне сәтті ауысты.
+      ru: Машина успешно переведена в режим использования.
+      uk: Машина успішно переведена в режим використання.
+    park_failed:
+      en: Could not park the car
+      cs: Nepodařilo se přejít do režimu čekání
+      ka: პარკირების რეჟიმში გადასვლა ვერ ხერხდება
+      kk: Автокөлікті тұрақ режиміне ауыстыру сәтсіз аяқталды.
+      ru: Не удалось перевести машину в режим парковки.
+      uk: Не вдалося перевести машину в режим парковки.
+    park_ok:
+      en: Car is in parking mode now
+      cs: Auto je nyní v režimu čekání
+      ka: მანქანა გადავიდა პარკირების რეჟიმში
+      kk: Автокөлік тұрақ режиміне сәтті ауысты.
+      ru: Машина успешно переведена в режим парковки.
+      uk: Машина успішно переведена в режим парковки.
+    horn_failed:
+      en: Could not blink headlights\n
+      cs: Nepodařilo se zablikat
+      ka: აციმციმება ვერ მოხერხდა
+      kk: Шамның жанып-өшуі мүмкін емес.
+      ru: Не удалось помигать.
+      uk: Не вдалося посигналити.
+    horn_ok:
+      en: The car is blinking
+      cs: Auto zablikalo
+      ka: აციმციმდა წარმატებით
+      kk: Автокөлік дыбыстық сигналы іске сәтті қосылды.
+      ru: Сигнал машины активирован успешно.
+      uk: Сигнал машини активовано успішно.
+    FailedUserHasNoOrderNow:
+      en: You have no active order at the moment
+      cs: Nemáte žádný aktivní pronájem
+      ka: ამჟამად ქირაობა არ ფიქსირდება
+      kk: Қазіргі уақытта сізде белсенді жалдау жоқ.
+      ru: У Вас в данный момент нет активной аренды.
+      uk: У Вас немає активної оренди в даний час.
+    FailedCarHasNoOrderNow:
+      en: The car is not rented now
+      cs: Auto není pronajato
+      ka: მანქანა ხელმისაწვდომია.
+      kk: Қазіргі уақытта автокөлік жалға берілмеген.
+      ru: Автомобиль в данный момент не арендован.
+      uk: Автомобіль не орендовано в даний час.
+    FailedOrderIsCompletedAlready:
+      en: The rent is already finished
+      cs: Pronájem byl již ukončen
+      ka: ქირაობა დასრულდა
+      kk: Жалдау жабық.
+      ru: Аренда уже закрыта.
+      uk: Оренда вже закрита.
+    FailedCarIsParkedAlready:
+      en: The car is already parked
+      cs: Auto je v režimu čekání
+      ka: მანქანა დაპარკინგებულია
+      kk: Автокөлік тұрақтанған.
+      ru: Автомобиль уже припаркован.
+      uk: Автомобіль вже припаркован.
+    FailedCarTrackerIsOffline:
+      en: The car is offline
+      cs: Nepodařilo se navázat spojení s autem
+      ka: მანქანასთან კავშირის პრობლემა
+      kk: Автокөлікпен байланыс жоқ.
+      ru: Отсутствует связь с автомобилем.
+      uk: Відсутній зв’язок з автомобілем.
+    FailedOrderNotFoundInDatabase:
+      en: Your order was not found in the database
+      cs: Objednávka nenalezena v databázi
+      ka: შეკვეთა ვერ მოიძებნა.
+      kk: Тапсырыс мәліметтер базасында табылмады.
+      ru: Заказ не найден в базе данных.
+      uk: Замовлення не знайдено в базі даних.
+    FailedCarIsMoving:
+      en: The car is moving now
+      cs: Auto je v pohybu
+      ka: მანქანა მოძრაობს.
+      kk: Автокөлік қозғалыста.
+      ru: Машина находится в движении.
+      uk: Машина знаходиться в русі.
+    FailedCarIsInRentStateAlready:
+      en: The car is in drive mode now
+      cs: Auto je nyní v režimu pronájmu
+      ka: მანქანა გამოყენების რეჟიმშია
+      kk: Автокөлік қолданыста.
+      ru: Автомобиль уже находится в состоянии использования.
+      uk: Автомобіль вже знаходиться в стані використання.
+    OkCarIsInDriveModeNow:
+      en: The car is in drive mode now
+      cs: Auto je nyní v režimu pronájmu
+      ka: მანქანა გადავიდა გამოყენების რეჟიმში
+      kk: Автомобиль қолданыс режиміне сәтті ауыстырылды.
+      ru: Автомобиль успешно переведён в режим использования.
+      uk: Автомобіль успішно переведено в режим використання.
+    FailedCarNotFoundInDatabase:
+      en: The car was not found in the database
+      cs: Auto nenalezeno v databázi
+      ka: მანქანა  ვერ მოიძებნა
+      kk: Автокөлік мәліметтер базасында табылмады.
+      ru: Автомобиль не найден в базе данных.
+      uk: Автомобіль не знайдено в базі даних.
+    FailedOutOfRentEndZone:
+      en: The car is outside of the Home Area
+      cs: Auto se nachází mimo domovskou oblast
+      ka: მანქანა ქირაობის ზონის მიღმაა
+      kk: Автокөлік жалдауды аяқтау аймағынан тыс жерде орналасқан.
+      ru: Автомобиль находится вне зоны завершения аренды.
+      uk: Автомобіль знаходиться поза зоною завершення оренди.
+    OkOrderFinished:
+      en: Rent finished successfully
+      cs: Objednávka úspěšně dokončena
+      ka: შეკვეთა წარმატებით დასრულდა.
+      kk: Тапсырыс сәтті аяқталды.
+      ru: Заказ успешно завершён.
+      uk: Заказ успішно завершено.
+    OkNowBeeping:
+      en: The car is blinking now
+      cs: Auto nyní bliká
+      ka: ფარები აინთო
+      kk: Автокөліктің дыбыстық сигналы іске сәтті қосылған.
+      ru: Сигнал автомобиля успешно активирован.
+      uk: Сигнал автомобіля успішно активовано.
+    FailedHornTooOften:
+      en: You are trying to blink too often
+      cs: Příliš častý požadavek zablikat
+      ka: ძალიან ხშირად ანთებთ ფარებს
+      kk: Сіз  жиі дыбыстық сигнал беруге тырысасыз.
+      ru: Вы слишком часто пытаетесь сигналить.
+      uk: Ви дуже часто намагаєтесь сигналити.
+    FailedCarIsTooFar:
+      en: The car is too far away from you. You'll not hear it anyway.
+      cs: Auto je od Vás příliš daleko. Neuvidíte jej.
+      ka: მანქანა შორსაა. ხმას ვერ გაიგონებთ
+      kk: Автокөлік сізден тым алыста орналасқан. Сіз оны естімейсіз.
+      ru: Автомобиль слишком далеко от Вас. Вы всё равно его не услышите.
+      uk: Автомобіль дуже далеко від Вас. Ви все одно його не почуєте.
+    ErrorNoConnectionWithCar:
+      en: The car is offline
+      cs: Spojení s autem není dostupné
+      ka: ვერ ხერხდება მანქანასთან დაკავშირება
+      kk: Автокөлікпен байланыс жоқ.
+      ru: Отсутствует связь с автомобилем.
+      uk: Відсутній зв’язок за автомобілем.
+    ErrorCarInMotion:
+      en: The car is moving now
+      cs: Auto je v pohybu
+      ka: მანქანა მოძრაობს.
+      kk: Автокөлік қозғалыста.
+      ru: Автомобиль находится в движении.
+      uk: Автомобіль знаходиться в русі.
+    ErrorCheckDoors:
+      en: Please check the doors
+      cs: Zkontrolujte dveře
+      ka: შეამოწმეთ კარები.
+      kk: Есіктерді тексеріңіз.
+      ru: Проверьте двери.
+      uk: Перевірте двері.
+    ErrorCheckWindows:
+      en: Please check the windows
+      cs: Zkontrolujte okna
+      ka: შეამოწმეთ ფანჯრები.
+      kk: Терезелерді тексеріңіз.
+      ru: Проверьте окна.
+      uk: Перевірте вікна.
+    ErrorFLDoorIsOpened:
+      en: Front left door is not locked
+      cs: Přední levé dveře nejsou uzamčeny
+      ka: წინა მარცხენა კარი არ არის ჩაკეტილი.
+      kk: Алдыңғы сол жақ есік жабылмаған.
+      ru: Передняя левая дверь не заперта.
+      uk: Двері не зачинено (передня ліва).
+    ErrorFRDoorIsOpened:
+      en: Front  right door is not locked
+      cs: Přední pravé dveře nejsou uzamčeny
+      ka: წინა მარჯვენა კარი არ არის ჩაკეთილი.
+      kk: Алдыңғы оң жақ есік жабылмаған.
+      ru: Передняя правая дверь не заперта.
+      uk: Двері не зачинено (передня права).
+    ErrorRLDoorIsOpened:
+      en: Back left door is not locked
+      cs: Zadní levé dveře nejsou uzamčeny
+      ka: უკანა მარცხენა კარი არ არის ჩაკეტილი.
+      kk: Артқы сол жақ есік жабылмаған.
+      ru: Задняя левая дверь не заперта.
+      uk: Двері не зачинено (задня ліва).
+    ErrorRRDoorIsOpened:
+      en: Back right door is not locked
+      cs: Zadní pravé dveře nejsou uzamčeny
+      ka: უკანა მაჯვენა კარი არ არის ჩაკეტილი.
+      kk: Артқы оң жақ есік жабылмаған.
+      ru: Задняя правая дверь не заперта.
+      uk: Двері не зачинено (задня права).
+    ErrorBootIsOpened:
+      en: The boot is open
+      cs: Kufr není uzamknut
+      ka: საბარგული არ არის ჩაკეტილი.
+      kk: Жүк салғыш жабылмаған.
+      ru: Багажник не закрыт.
+      uk: Багажник не зачинено.
+    ErrorHoodIsOpened:
+      en: The hood is open
+      cs: Kapota není uzamčena
+      ka: წინა ძარა ღიაა
+      kk: Капот жабылмаған.
+      ru: Капот не закрыт.
+      uk: Капот не зачинено.
+    ErrorIgnitionKeyIsTurnedOn:
+      en: The ignition is turned on
+      cs: Zapalování zapnuto
+      ka: მანქანა ანთებულია.
+      kk: Оталғыш іске қосылған.
+      ru: Зажигание включено.
+      uk: Запалення увімкнено.
+    ErrorEngineIsStarted:
+      en: The engine is on
+      cs: Motor je zapnut
+      ka: ძრავი არ არის გამორთული.
+      kk: Қозғалтқыш сөндірілмеген.
+      ru: Двигатель не заглушен.
+      uk: Двигун не заглушено.
+    car_rent_confirmation:
+      en: Do you really want to set the car to driving mode?
+      cs: Uvést auto do režimu pronájmu?
+      ka: გადავიყვანოთ მანქანა გამოყენების რეჟიმში?
+      kk: Автокөлікті қолдану режиміне ауыстыруды қалайсыз ба?
+      ru: Вы действительно хотите перевести автомобиль в режим использования?
+      uk: Ви дійсно хочете перевести автомобіль в режим використання?
+    car_park_confirmation:
+      en: Do you really want to set the car to parking mode?
+      cs: Uvést auto do režimu čekání?
+      ka: გადავიყვანოთ მანქანა პარკირების რეჟიმში?
+      kk: Автокөлікті тұрақ режиміне ауыстыруды қалайсыз ба?
+      ru: Вы действительно хотите перевести автомобиль в режим парковки?
+      uk: Ви дійсно хочете перевести автомобіль в режим парковки?
+    order_state:
+      en: Condition of the order
+      cs: Stav
+      ka: მდგომარეობა
+      kk: Күйі
+      ru: Состояние
+      uk: Стан
+    order_rate:
+      en: Rate
+      cs: Tarif
+      ka: ტარიფი
+      kk: Тариф
+      ru: Тариф
+      uk: Тариф
+    order_duration:
+      en: Duration
+      cs: Trvání
+      ka: ხანგრძლივობა
+      kk: Ұзақтығы
+      ru: Длительность
+      uk: Тривалість
+    order_total:
+      en: Total
+      cs: Celkem
+      ka: თანხა
+      kk: Сома
+      ru: Сумма
+      uk: Сума
+    your_order:
+      en: Your Order
+      cs: Vaše objednávka
+      ka: თქვენი შეკვეთა
+      kk: Сіздің тапсырысыңыз
+      ru: Ваш заказ
+      uk: Ваше замовлення
+    usage_conditions:
+      en: Terms of Use
+      cs: Podmínky užívání
+      ka: გამოყენების პირობები
+      kk: Пайдалану шарттары
+      ru: Условия использования
+      uk: Умови використання
+    orderStateNameBook:
+      en: Booked
+      cs: Rezervováno
+      ka: დაჯავშნილია
+      kk: Брондалған
+      ru: Забронирован
+      uk: Заброньовано
+    orderStateNameDrive:
+      en: Driving
+      cs: Užívání
+      ka: გამოყენება
+      kk: Қолдану
+      ru: Использование
+      uk: Використання
+    orderStateNamePark:
+      en: Closed
+      cs: Zamčeno
+      ka: დაკეტილია
+      kk: Жабық
+      ru: Закрыт
+      uk: Зачинено
+    orderStateNameInspect:
+      en: Inspect
+      cs: Kontrola
+      ka: დათვალიერება
+      kk: Тексеру
+      ru: Осмотр
+      uk: Осмотр
+    order_just_started:
+      en: Just started
+      cs: právě zahájena
+      ka: ახლახანს დაიწყო
+      kk: қазір басталды
+      ru: Только что начался
+      uk: Тільки що розпочався
+    beep_horn:
+      en: Blink
+      cs: Zablikat
+      ka: აციმციმება
+      kk: <b>Жанып-өшу</b>
+      ru: Помигать
+      uk: <b>Посигналити</b>
+    to_free_book_end:
+      en: Free booking ends within
+      cs: Rezervace zdarma skončí za
+      ka: გადახდის დაწყებამდე
+      kk: Төлем басталғанға дейін
+      ru: До начала оплаты
+      uk: До початку оплати
+    to_free_book_inspect_1:
+      en: '%s free minute for inspection'
+      cs: '%s minuta zdarma na kontrolu'
+      ka: '%s უფასო წუთი დასათვალიერებლად'
+      kk: '%s тексеру үшін тегін минут'
+      ru: '%s бесплатная минута на осмотр'
+      uk: '%s бесплатная минута на осмотр'
+    to_free_book_inspect_2:
+      en: '%s free minutes for inspection'
+      cs: '%s minut zdarma na kontrolu'
+      ka: '%s უფასო წუთი დასათვალიერებლად'
+      kk: '%s тексеру үшін тегін минуттар'
+      ru: '%s бесплатные минуты на осмотр'
+      uk: '%s бесплатные минуты на осмотр'
+    to_free_book_inspect_5:
+      en: '%s free minute for inspection'
+      cs: '%s minut zdarma na kontrolu'
+      ka: '%s უფასო წუთი დასათვალიერებლად'
+      kk: '%s тексеру үшін тегін минут'
+      ru: '%s бесплатных минут на осмотр'
+      uk: '%s бесплатных минут на осмотр'
+    your_rent_is_completed:
+      en: Your rent is finished\n
+      cs: Váš pronájem ukončen
+      ka: თქვენი მგზავრობა დასრულებულია
+      kk: Сіздің сапарыңыз аяқталды
+      ru: Ваша поездка завершена
+      uk: Ваша поїздка завершена
+    breif_report:
+      en: Brief rent report
+      cs: Krátká zpráva o pronájmu
+      ka: მოკლე ანგარიში
+      kk: Қысқа есеп
+      ru: Краткий отчёт
+      uk: Короткий звіт
+    kop:
+      en: cent
+      cs: hal.
+      ka: ასლი
+      kk: коп.
+      ru: коп.
+      uk: коп.
+    close_report:
+      en: Close report
+      cs: Zavřít zprávu
+      ka: ანგარიშის დახურვა
+      kk: Есепті жабу
+      ru: Закрыть отчёт
+      uk: Закрити звіт
+    hope_you_enjoed:
+      en: We hope you enjoed your ride and we will meet you soon!
+      cs: Doufáme, že se Vám jízda líbila a těšíme se brzy na shledanou!
+      ka: ვიმედევონებთ რომ ისიამოვნეთ
+      kk: We hope you enjoed your ride and we will meet you soon!
+      ru: Мы надеемся, что вам понравилась поездка!
+      uk: We hope you enjoed your ride and we will meet you soon!
+    less_than_minute:
+      en: Less than a minute
+      cs: Méně než minuta
+      ka: წუთზე ნაკლები
+      kk: Бір минуттан аз
+      ru: Меньше минуты
+      uk: 'Менше хвилини '
+    message:
+      en: Message
+      cs: Zpráva
+      ka: შეტყობინება
+      kk: Хабарлама
+      ru: Сообщение
+      uk: Повідомлення
+    cancel:
+      en: Cancel
+      cs: Zrušit
+      ka: გაუქმება
+      kk: Жою
+      ru: Отмена
+      uk: Відміна
+    run_included:
+      en: Including
+      cs: Včetně
+      ka: ჩათვლით
+      kk: Қосымша
+      ru: Включая
+      uk: Включаючи
+    rate_cost:
+      en: Rate cost
+      cs: Cena tarifu
+      ka: ტარიფის ღირებულება
+      kk: Тарифтің құны
+      ru: Стоимость тарифа
+      uk: Вартість тарифу
+    minutes_included:
+      en: included
+      cs: včetně
+      ka: ჩართულია
+      kk: қосылған
+      ru: включено
+      uk: включено
+    about_admission_act:
+      en: By starting a rental you sign the act of acceptance\n
+      cs: Volbou tarifu podepisuji předávací protokol
+      ka: '*დაქირავებისას ხელს აწერთ მიღების აქტს'
+      kk: <b>*Жалдауды бастаған кезде</b><font color=blue><u>сіз қабылдау актісіне қол қоясыз</u></font>
+      ru: Начиная аренду вы подписываете акт приема передачи
+      uk: <b>*Починаючи оренду ви підписуєте</b><font color=blue><u>акт прийому передачі</u></font>
+    about_auto_act:
+      en: Extend automatically
+      cs: Automatické prodloužení
+      ka: ავტომატური განახლება
+      kk: <b>*Автокөлікті ұзарту</b>
+      ru: Автопродление
+      uk: '*Автопродление'
+    until_refueling:
+      en: until refueling
+      cs: do natankování
+      ka: დასატენ სადგურამდე
+      kk: жанармай құю алдында
+      ru: до заправки
+      uk: до заправки
+    waiting:
+      en: parking
+      cs: čekání
+      ka: მოლოდინი
+      kk: күту
+      ru: ожидание
+      uk: очікування
+    na:
+      en: N/a
+      cs: n/p
+      ka: უცნობია
+      kk: Н/д
+      ru: Н/д
+      uk: Н/д
+    car_ticket:
+      en: Package
+      cs: balíček
+      ka: აბონემენტი
+      kk: абонемент
+      ru: абонемент
+      uk: абонемент
+    active_subscription:
+      en: Package is active
+      cs: balíček je aktivní
+      ka: აბონემენტი გააქტიურებულია
+      kk: Абонемент қосылған
+      ru: Абонемент активен
+      uk: Абонемент активний
+    drive:
+      en: Rent
+      cs: Pronájem
+      ka: დაქირავება
+      kk: Жалдау
+      ru: Аренда
+      uk: Оренда
+    book:
+      en: Reservation
+      cs: Rezervace
+      ka: ჯავშანი
+      kk: Бронь
+      ru: Бронь
+      uk: Бронь
+    park:
+      en: Parking
+      cs: Čekání
+      ka: მოლოდინი
+      kk: күту
+      ru: Ожидание
+      uk: очікування
+    state:
+      en: Status
+      cs: Stav
+      ka: მდგომარეობა
+      kk: Күйі
+      ru: Состояние
+      uk: Стан
+    sec:
+      en: sec.
+      cs: sec.
+      ka: წამი
+      kk: сек.
+      ru: сек.
+      uk: сек.
+    days:
+      en: days
+      cs: dnů
+      ka: დღე
+      kk: күн.
+      ru: дн.
+      uk: дн.
+    current_rate:
+      en: current rate
+      cs: stávající tarif
+      ka: მიმდინარე ტარიფი
+      kk: ағымдағы тариф
+      ru: текущий тариф
+      uk: поточний тариф
+    select_a_car:
+      en: Select a car
+      cs: Vyberte auto
+      ka: აირჩიეთ მანქანა
+      kk: Автокөлікті таңдаңыз
+      ru: Выберите машину
+      uk: Оберіть машину
+    book_a_car:
+      en: Book a car
+      cs: Rezervujte auto
+      ka: დაჯავშნეთ მანქანა
+      kk: Автокөлікті брондаңыз
+      ru: Забронируйте машину
+      uk: Забронюйте машину
+    ticket_until:
+      en: Package until
+      cs: Balíček platný do
+      ka: აბონემენტს ეწურება მოქმედების ვადა
+      kk: Абонемент дейін
+      ru: Абонемент до
+      uk: Абонемент до
+    bonuses:
+      en: Bonuses
+      cs: Bonusy
+      ka: ბონუსები
+      kk: Бонустар
+      ru: Бонусы
+      uk: Бонуси
+    support:
+      en: Support
+      cs: Podpora
+      ka: მომსახურება
+      kk: <b>ҚОЛДАУ</b>
+      ru: ПОДДЕРЖКА
+      uk: <b>ПІДТРИМКА</b>
+    promo_code:
+      en: Your promo code
+      cs: Váš promo kód
+      ka: თქვენი პრომო კოდი
+      kk: Сіздің промо-кодыңыз
+      ru: Ваш промо-код
+      uk: Ваш промо-код
+    accept:
+      en: Send
+      cs: Odeslat
+      ka: გაგზავნა
+      kk: Жіберу
+      ru: Отправить
+      uk: Відправити
+    account_awaits_validation:
+      en: Account waiting for approval
+      cs: Uživatelský účet čeká na schválení
+      ka: მომხმარებლის ანგარიში  დადასტურების მოლოდინშია
+      kk: Сіздің тіркелу жазбаңыз растауды күтуде
+      ru: Ваша учётная запись ожидает одобрения
+      uk: Ваш обілковий запис чекає на схвалення
+    account_has_no_bank_card:
+      en: Add a bank card…
+      cs: Připojte platební kartu
+      ka: საბანკო ბარათის მიმაგრება…
+      kk: <u>Банк картасын тіркеу…</u>
+      ru: Прикрепить банковскую карту…
+      uk: <u>Приєднати банківську картку …</u>
+    close:
+      en: Close
+      cs: Zavřít
+      ka: დახურვა
+      kk: Жабу
+      ru: Закрыть
+      uk: Закрити
+    build_route:
+      en: Build a route
+      cs: Naplánovat trasu
+      ka: მარშუტის შედგენა
+      kk: Бағытты құру
+      ru: Построить маршрут
+      uk: Побудувати маршрут
+    server_url:
+      en: Server url
+      cs: Adresa serveru
+      ka: სერვერის მისამართი
+      kk: Сервер мекенжайы
+      ru: Адрес сервера
+      uk: Адреса серверу
+    refueling:
+      en: Refuel
+      cs: Tankovat
+      ka: დატენვა
+      kk: Жанармай құю
+      ru: Заправка
+      uk: Заправка
+    rate_the_condition_of_the_car:
+      en: Please rate the condition of the car
+      cs: Prosím, ohodnoťte stav vozidla
+      ka: შეაფასეთ მანქანის მდგომარეობა
+      kk: Автокөліктің күйін бағалаңыз.
+      ru: Пожалуйста, оцените состояние автомобиля.
+      uk: Будь ласка, оцініть стан автомобілю.
+    rate_the_car:
+      en: Rate the car
+      cs: Hodnocení stavu vozidla
+      ka: მანქანის მდგომარეობის შეფასება
+      kk: <b>Көлік күйін бағалау</b>
+      ru: Оценка состояния автомобиля
+      uk: <b>Оцінка стану автомобіля</b>
+    accept_the_act:
+      en: Ok
+      cs: Přijmout
+      ka: მიღება
+      kk: Қабылдау
+      ru: Принять
+      uk: Приняти
+    please_sign_in:
+      en: Sign in
+      cs: Prosím, přihlaste se
+      ka: გთხოვთ, გაიაროთ ავტორიზაცია
+      kk: Жүйеге тіркеліңіз
+      ru: Пожалуйста, авторизуйтесь
+      uk: Будь ласка, авторизуйтеся
+    promo_link_copied:
+      en: The promo code was copied
+      cs: Promo-kód byl zkopírován do mezipaměti
+      ka: პრომო ბმული დაკოპირებულია
+      kk: Промо-сілтеме буфер айырбасқа  көшірілді.
+      ru: Промо-ссылка скопирована в буфер обмена
+      uk: Промо-посилання зкопійовано в буфер обміну
+    phone_call:
+      en: Call %s
+      cs: Zavolat %s
+      ka: '%s -ზე დარეკვა'
+      kk: Қоңырау шалу %s
+      ru: Позвонить %s
+      uk: Зателефонувати %s
+    shareToFb:
+      en: Share to Facebook
+      cs: Sdílet na Facebooku
+      ka: Facebook-ზე გაზიარება
+      kk: Facebook-те бөлісу
+      ru: Поделиться в Facebook
+      uk: Поділитися в Facebook
+    shareToVk:
+      en: Share to Facebook
+      cs: Sdílet na Facebooku
+      ka: VK-ზე გაზიარება
+      kk: VK-да бөлісу
+      ru: Поделиться в VK
+      uk: Поділитися в Vk
+    zone_type_rent_end:
+      en: Home Area
+      cs: Domovská zóna
+      ka: ქირაობის დასრულება შესაძლებელია ვარდისფერ ზონაში
+      kk: Қызғылт аймақтарда жалға алуды аяқтауға болады
+      ru: В розовых зонах можно завершать аренду
+      uk: В рожевих зонах можно завершити оренду
+    zone_type_rent_end_bonus:
+      en: 'Bonus area: complete the rental and get bonuses'
+      cs: 'Bonusová zóna: ukončete pronájem zde a získejte bonusy'
+      ka: დაასრულეთ ქირაობა ბონუსის ზონაში და მიიღეთ ბონუსები
+      kk: 'Бонус аймағы: жалға алуды аяқтап, бонустар алыңыз'
+      ru: 'Бонусная зона: завершите в ней аренду и получите бонусы'
+      uk: 'Bonus zone: complete the rental and get bonuses'
+    zone_type_drive:
+      en: Allowed drive area
+      cs: Povolená oblast
+      ka: მგზავრობა დასაშვებია ცისფრად აღნიშნულ ზონაში
+      kk: Көгілдір сызықпен белгіленетін аймақтарға сапар жасауға рұқсат етіледі
+      ru: Поездки разрешены в пределах зон, очерченных голубой линией
+      uk: Поїздки дозволені в межах зон, окреслених блакитною смугою
+    account_is_blocked:
+      en: Access is blocked
+      cs: Účet pozastaven
+      ka: მომხმარებლის ანგარიში დაბლოკილია
+      kk: Кіру тоқтатылды
+      ru: Доступ приостановлен
+      uk: Доступ зупинено
+    currency_format:
+      en: '%.2f'
+      cs: '%.2f'
+      ka: '%.2f'
+      kk: '%.2f'
+      ru: '%.2f'
+      uk: '%.2f'
+    car_acceptance:
+      en: Car Condition
+      cs: Stav vozidla
+      ka: მანქანის მდგომარეობა
+      kk: Автокөліктің күйі
+      ru: Состояние автомобиля
+      uk: Стан автомобіля
+    car_acceptance_description:
+      en: Carefully check the condition of the car
+      cs: Prosím, pozorně si zkontrolujte stav vozidla
+      ka: გთხოვთ შეამოწმეთ მანქანის მდგომარეობა.
+      kk: Автокөліктің күйін мұқият тексеріңіз.
+      ru: Пожалуйста, внимательно проверьте состояние машины.
+      uk: 'Будь ласка, уважно перевірте стан автомобіля. Фото пошкоджень відправте поштою:'
+    body_is_damaged:
+      en: There are damages
+      cs: Jsou zde poškození
+      ka: არის დაზიანებები
+      kk: Зақымдар бар
+      ru: Есть повреждения
+      uk: Кузов пошкоджено
+    tire_is_flat:
+      en: Tire is flat
+      cs: Vypuštěná pneu
+      ka: საბურავი დაშვებულია
+      kk: Дөңгелек жарылған
+      ru: Спущено колесо
+      uk: Спущено колесо
+    broken_window:
+      en: Broken window
+      cs: Rozbité okno
+      ka: მინა გატეხილია
+      kk: Шынысы жарылған
+      ru: Разбито стекло
+      uk: Розбито скло
+    dirty_interior:
+      en: The car is dirty
+      cs: Auto je špinavé
+      ka: მანქანა არ არის სუფთა
+      kk: Автокөлік лас
+      ru: Автомобиль грязный
+      uk: Автомобіль дуже брудний
+    comments:
+      en: Your comments (optional)
+      cs: Komentář (Doporučené)
+      ka: თქვენი კომენტარი (არ არის აუცილებელი)
+      kk: Сіздің пікіріңіз (міндетті емес)
+      ru: Ваш комментарий (необязательно)
+      uk: Ваш коментар (необов’язково)
+    damage_photo_label:
+      en: Send by e-mail pictures of damages
+      cs: Zašlete fotografie poškození na e-mail
+      ka: დაზიანებების სურათები გაგზავნეთ ელ-ფოსტით
+      kk: Зақымдарды тіркеген фотосуреттерді электрондық пошта арқылы жіберіңіз
+      ru: Фотографии повреждений отправьте по почте
+      uk: Фотографії пошкодження відправте на пошту
+    car_reg_number_email_subject:
+      en: Photos of damages. Plate number %s
+      cs: Fotografie poškození. SPZ %s
+      ka: დაზიანებების სურათები. ავტომანქანა %s
+      kk: Зақымдарды тіркеген фотосуреттер. Автокөлік %s
+      ru: Фотографии повреждений. Автомобиль %s
+      uk: Фотографії пошкоджень. Автомобіль %s
+    damage_photos_email_text:
+      en: Attach photos of damages
+      cs: Připojte fotografie poškození
+      ka: მიამაგრეთ  დაზიანებების ამსახველი სურათები
+      kk: Зақымдарды тіркеген фотосуреттерді тіркеңіз
+      ru: Прикрепите фотографии повреждений автомобиля
+      uk: Приєднайте фотографії пошкоджень автомобіля
+    accept_car_rent:
+      en: Rent
+      cs: Pronajmout
+      ka: დაქირავება
+      kk: Жалдау
+      ru: Арендовать
+      uk: Орендувати
+    car_booking_confirmation:
+      en: Do you want to book the car?
+      cs: Rezervovat auto?
+      ka: დავჯავშნოთ მანქანა?
+      kk: Осы автокөлікті брондауды қалайсыз ба?
+      ru: Вы уверены, что хотите забронировать этот автомобиль?
+      uk: Ви впевнені, що хочете забронювати цей автомобіль?
+    nav_menu_label_my_orders:
+      en: MY RIDES
+      cs: Jízdy
+      ka: მგზავრობები
+      kk: <b>МЕНІҢ САПАРЛАРЫМ</b>
+      ru: МОИ ПОЕЗДКИ
+      uk: <b>МОЇ ПОЇЗДКИ</b>
+    nav_menu_label_payment_cards:
+      en: PAYMENT CARDS
+      cs: Platební karty
+      ka: საბანკო ბარათები
+      kk: ТӨЛЕМ КАРТАЛАРЫ<b/>
+      ru: ПЛАТЕЖНЫЕ КАРТЫ
+      uk: <b>ПЛАТІЖНІ КАРТКИ</b>
+    nav_menu_label_voucher:
+      en: Vouchers
+      cs: Poukázky
+      ka: ვაუჩერები
+      kk: <b>СЕРТИФИКАТТАР</b>
+      ru: СЕРТИФИКАТЫ
+      uk: <b>СЕРТИФІКАТИ</b>
+    nav_menu_label_promo:
+      en: FREE RIDES
+      cs: Získat bonusové body
+      ka: ბონუსების მიღება
+      kk: <b>БОНУСТАРДЫ АЛУ</b>
+      ru: ПОЛУЧИТЬ БОНУСЫ
+      uk: <b>ОТРИМАЙТЕ БОНУСИ</b>
+    nav_menu_label_rules:
+      en: RULES
+      cs: Pravidla
+      ka: უფლებები
+      kk: <b>ЕРЕЖЕЛЕР</b>
+      ru: ПРАВИЛА
+      uk: <b>ПРАВИЛА</b>
+    nav_menu_label_buy_certificate:
+      en: BUY VOUCHER
+      cs: Koupit poukázku
+      ka: ვაუჩერის შეძენა
+      kk: КУПИТЬ СЕРТИФИКАТ
+      ru: КУПИТЬ СЕРТИФИКАТ
+      uk: КУПИТЬ СЕРТИФИКАТ
+    nav_menu_label_help:
+      en: '@string/supportPhoneNumber'
+      cs: Kontaktujte nas
+      ka: '@string/supportPhoneNumber'
+      kk: <b>@string/supportPhoneNumber</b>
+      ru: '@string/supportPhoneNumber'
+      uk: <b>@string/supportPhoneNumber</b>
+    nav_menu_label_tech_menu:
+      en: TECH MENU
+      cs: Technické menu
+      ka: მენიუ
+      kk: <b>ТЕХМӘЗІР</b>
+      ru: ТЕХМЕНЮ
+      uk: <b>ТЕХМЕНЮ</b>
+    nav_menu_label_log_out:
+      en: LOG OUT
+      cs: VÝSTUP
+      ka: გამოსვლა
+      kk: <b>ШЫҒУ</b>
+      ru: ВЫХОД
+      uk: <b>ВИХІД</b>
+    nav_menu_label_log_in:
+      en: LOGIN
+      cs: VSTOUPIT
+      ka: შესვლა
+      kk: <b>КІРУ</b>
+      ru: ВОЙТИ
+      uk: <b>УВІЙТИ</b>
+    rules_dialog_title:
+      en: Rules
+      cs: Pravidla
+      ka: წესები
+      kk: Ережелер
+      ru: Правила
+      uk: Правила
+    rules_item_label_service_rules:
+      en: Service rules
+      cs: Pravidla
+      ka: მომსახურება
+      kk: Қызмет көрсету ережелері
+      ru: Правила сервиса
+      uk: Правила сервісу
+    rules_item_label_fines:
+      en: Fines
+      cs: Pokuty
+      ka: ჯარიმები
+      kk: Айыппұлдар
+      ru: Штрафы
+      uk: Штрафи
+    rules_item_label_rates:
+      en: Rates
+      cs: Ceny a balíčky
+      ka: ტარიფები
+      kk: Тарифтер
+      ru: Тарифы
+      uk: Тарифи
+    rules_item_label_parking_rules:
+      en: Parking rules
+      cs: Pravidla parkování
+      ka: პარკირების წესები
+      kk: Тұрақ ережелері
+      ru: Правила парковки
+      uk: Правила парковки
+    help_dialog_title:
+      en: Help
+      cs: Pomoc
+      ka: დახმარება
+      kk: Көмек
+      ru: Помощь
+      uk: Допомога
+    send_email_label:
+      en: Send an e-mail
+      cs: Poslat e-mail
+      ka: წერილის შექმნა
+      kk: Хат жазу
+      ru: Написать письмо
+      uk: Написати листа
+    send_email_title:
+      en: Send email…
+      cs: Odeslat e-mail ...
+      ka: წერილის გაგზავნა
+      kk: Хат жіберу…
+      ru: Отправить письмо…
+      uk: Отправити листа…
+    registration_activity_label:
+      en: Sign up to %s
+      cs: Registrace ve službě %s
+      ka: რეგისტრაცია %s
+      kk: Қызметке тіркелу %s
+      ru: Регистрация в сервисе %s
+      uk: Реєстрація в сервісі %s
+    personal_information_label:
+      en: Personal details
+      cs: Osobní údaje
+      ka: პირადი მონაცემები
+      kk: Жеке ақпарат
+      ru: Личные данные
+      uk: Особисті дані
+    surname_hint:
+      en: Surname*
+      cs: Příjmení*
+      ka: გვარი*
+      kk: Тегі*
+      ru: Фамилия*
+      uk: Прізвище*
+    name_hint:
+      en: First name*
+      cs: Jméno*
+      ka: სახელი*
+      kk: Аты*
+      ru: Имя*
+      uk: Ім’я*
+    patronymic_hint:
+      en: Middle name
+      cs: Prostřední jméno
+      ka: მამის სახელი
+      kk: Әкесінің аты
+      ru: Отчество
+      uk: Побатькові
+    email_hint:
+      en: Email*
+      cs: Email*
+      ka: ელ-ფოსტა*
+      kk: Email*
+      ru: Email*
+      uk: Email*
+    phone_number_hint:
+      en: Phone number*
+      cs: Číslo mobilního telefonu*
+      ka: მობილური ტელეფონის ნომერი*
+      kk: Ұялы телефон нөмірі*
+      ru: Номер мобильного телефона*
+      uk: Номер мобільного телефону*
+    password_hint:
+      en: Password*
+      cs: Heslo*
+      ka: პაროლი*
+      kk: Құпия сөз*
+      ru: Пароль*
+      uk: Пароль*
+    password_confirmation_hint:
+      en: Password confirmation*
+      cs: Ověření hesla*
+      ka: პაროლის დადასტურება*
+      kk: Құпия сөзді растау*
+      ru: Подтверждение пароля*
+      uk: Підтверждення паролю*
+    promo_code_hint:
+      en: If you have a promo code, please type it above
+      cs: Promo kód (Pokud máte)
+      ka: პრომო კოდი ( არსებობის შემთხვევაში)
+      kk: Промо-код (егер бар болса)
+      ru: Промо-код (если есть)
+      uk: Промо-код (якщо є)
+    older_than_hint:
+      en: I am older than %d years
+      cs: Mám více než %d let
+      ka: '%d წელი შემისრულდა'
+      kk: Мен %d жастан асқанмын
+      ru: Я старше %d лет
+      uk: Я старше %d років
+    driving_exp_hint:
+      en: My driving experience is more than %s years
+      cs: Řídím více než %s roky
+      ka: ჩემი ტარების გამოცდილება აღემატება %s წელს
+      kk: Менің тәжірибем %s жылдан артық
+      ru: Мой стаж вождения более %s лет
+      uk: Мій стаж водіння більше %s років
+    next_button_label:
+      en: Next
+      cs: Dále
+      ka: შემდეგი
+      kk: Әрі қарай
+      ru: Далее
+      uk: Далі
+    documents_label:
+      en: Photo uploading
+      cs: Prosím vyfoťte následující dokumenty
+      ka: დოკუმენტების სურათების ჩამოტვირთვა
+      kk: Фотосурет құжаттарын жүктеу
+      ru: Загрузка фото документов
+      uk: Завантаження фото документів
+    back_button_label:
+      en: Cancel
+      cs: Zrušit
+      ka: გაუქმება
+      kk: Жою
+      ru: Отменить
+      uk: Відмінити
+    done_button_label:
+      en: Submit
+      cs: Odeslat
+      ka: გაგზავნა
+      kk: Жіберу
+      ru: Отправить
+      uk: Відправити
+    rates_and_terms_label:
+      en: Rates and terms of service
+      cs: Sazby a pravidla užívání služby
+      ka: გამოყენების პირობები და ტარიფიკაცია
+      kk: <u>Тарифтер мен пайдалану шарттары</u>
+      ru: Тарифы и условия использования
+      uk: <u>Тарифи та умови використання</u>
+    term_of_use_agree_hint:
+      en: I accept the terms of service
+      cs: Souhlasím s podmínkami užívání služby
+      ka: ვეთანხმები მომსახურების პირობებს
+      kk: <u>Мен қызметті пайдалану шарттарын қабылдаймын</u>
+      ru: Принимаю условия использования сервиса
+      uk: <u>Приймаю умови використання сервісу</u>
+    personal_data_agree_hint:
+      en: I allow to process my personal data
+      cs: Souhlasím se zpracováním mých osobních údajů\n
+      ka: თანხმობა პირადი მონაცემების დამუშავებაზე
+      kk: Мен келісімшарт талаптарына келісемін Anytime
+      ru: Даю согласие на обработку моих персональных данных
+      uk: <u>Даю згоду на обробку моїх персональних даних</u>
+    sign_up_dialog_title:
+      en: Sign up
+      cs: Registrace
+      ka: რეგისტრაცია
+      kk: Тіркеу
+      ru: Регистрация
+      uk: Реєстрація
+    sign_up_dialog_message:
+      en: Please wait while the data is being uploaded to the server
+      cs: Prosím, vyčkejte
+      ka: მოიცადეთ,  მონაცემები სერვერზე იგზავნება
+      kk: Күтіңіз, енгізілген деректер серверге жіберіледі
+      ru: Подождите, введенные данные отправляются на сервер
+      uk: Зачекайте, введені дані відправляються на сервер
+    captcha_hint:
+      en: Please enter the captcha
+      cs: Zadejte symboly z obrázku
+      ka: შეიყვანეთ სურათის სიმბოლოები
+      kk: Суреттегі таңбаларды енгізіңіз
+      ru: Введите символы с картинки
+      uk: Введіть символи з картинки
+    attach_card_title:
+      en: Attach a bank card
+      cs: Zadejte údaje karty
+      ka: საბანკო ბარათის მიმაგრება
+      kk: Банк картасын тіркеңіз
+      ru: Прикрепите банковскую карту
+      uk: Приєднайте банківську картку
+    attach_card_chancel_button_label:
+      en: Cancel
+      cs: Přeskočit
+      ka: გაუქმება
+      kk: Жою
+      ru: Отменить
+      uk: Відмінити
+    attach_card_done_button_label:
+      en: Done
+      cs: Hotovo
+      ka: მზადაა
+      kk: Аяқталды
+      ru: Готово
+      uk: Готово
+    bank_card_attached_success_message:
+      en: Bank car attached successfully
+      cs: Bankovní karta připojena
+      ka: საბანკო ბარათი მიმაგრებულია
+      kk: 'Банк картасы бекітілді '
+      ru: Банковская карта прикреплена
+      uk: Банківська картка приєднана
+    pick_photo_intent_title:
+      en: Please pick the source
+      cs: Vyberte zdroj
+      ka: აირჩიეთ წყარო
+      kk: Деректі таңдаңыз
+      ru: Выберите источник
+      uk: Оберіть джерело
+    attach_card_progress_dialog_title:
+      en: Attaching a bank card
+      cs: Přidat platební kartu
+      ka: საბანკო ბარათების მიმაგრება
+      kk: Банк картасын тіркеу
+      ru: Прикрепление бакновской карты
+      uk: Приєднання банківської картки
+    attach_card_progress_dialog_message:
+      en: Awaiting confirmation of operation\n
+      cs: Čeká se na potvrzení operace
+      ka: დადასტურების მოლოდინი
+      kk: Операцияны растау күтілуде
+      ru: Ожидается подтверждение операции
+      uk: Очікується підтвердження операції
+    attach_card_progress_continue:
+      en: Сontinue
+      cs: Pokračovat
+      ka: გაგრძელება
+      kk: Жалғастыру
+      ru: Продолжить
+      uk: Продовжити
+    take_photo_button_label:
+      en: Take a picture
+      cs: Vyfotit
+      ka: სურათის გადაღება
+      kk: Суретке түсу
+      ru: Сделать фото
+      uk: Зробити фото
+    selfie_instruction_text:
+      en: Make Selfi with a driver's license or ID card
+      cs: Udělejte si selfie s přední stranou občanského nebo řidičského průkazu
+      ka: გადაიღეთ სელფი მართვის მოწმობასთან ან პასპორტთან ერთად
+      kk: Жеке куәлікпен түскен селфи жасаңыз
+      ru: Сделайте селфи с водительским удостоверением или паспортом
+      uk: Зробіть селфі з водійським посвідченням чи паспортом
+    passport_first_page_instruction_text:
+      en: Make a picture of the front side of your ID card
+      cs: Pořiďte fotografie přední strany občanského průkazu
+      ka: გადაიღეთ პასპორტის პირველი გვერდი
+      kk: Жеке куәліктің алдыңғы жағын суретке түсіріңіз
+      ru: Сделайте фотографию первого разворота паспорта
+      uk: Зробіть фотографію першого розвороту паспорта
+    passport_registration_page_instruction_text:
+      en: Make a picture of the back side of your ID card
+      cs: Pořiďte fotografie zadní strany občanského průkazu
+      ka: გადაიღეთ პასპორტის რეგისტრაციის გვერდი
+      kk: Жеке куәліктің артқы жағын суретке түсіріңіз
+      ru: Сделайте фотографию разворота паспорта с последним местом регистрации
+      uk: Зробіть фотографію розвороту паспорта з останнім місцем реєстрації
+    drive_license_first_page_instruction_text:
+      en: Make a picture of the front side of your  driver's license
+      cs: Pořiďte fotografie přední strany řidičského průkazu
+      ka: გადაიღეთ მართვის მოწმობის წინა გვერდი
+      kk: Жүргізуші куәлігінің алдыңғы жағын суретке түсіріңіз
+      ru: Сделайте фотографию лицевой стороны водительского удостоверения
+      uk: Зробіть фотографію лицьової сторони водійського посвідчення
+    drive_license_back_page_instruction_text:
+      en: Make a picture of the back side of your  driver's license
+      cs: Pořiďte fotografie zadní strany řidičského průkazu
+      ka: გადაიღეთ მართვის მოწმობის უკანა გვერდი
+      kk: Жүргізуші куәлігінің артқы жағын суретке түсіріңіз
+      ru: Сделайте фотографию обратной стороны водительского удостоверения
+      uk: Зробіть фотографію зворотньої сторони водійського посвідчення
+    rent_duration:
+      en: Duration
+      cs: Trvání
+      ka: ხანგრძლივობა
+      kk: <b>Ұзақтығы</b>
+      ru: Длительность
+      uk: <b>Тривалість</b>
+    bonuses_spent:
+      en: Paid by bonuses
+      cs: Uhrazeno bonusovými body
+      ka: გადახდილია ბონუსით
+      kk: <b>Бонуспен төленген</b>
+      ru: Оплачено бонусами
+      uk: <b>Сплачено бонусами</b>
+    will_be_charged:
+      en: Will be charged
+      cs: Bude odepsáno
+      ka: ჩამოიჭრება
+      kk: <b>Алынады</b>
+      ru: Будет списано
+      uk: <b>Буде списано</b>
+    rent_total_cost:
+      en: Total cost
+      cs: Celková cena
+      ka: საერთო ღირებულება
+      kk: <b>Жалпы құны</b>
+      ru: Общая стоимость
+      uk: <b>Загальна вартість</b>
+    sum_day_limit_was_reached:
+      en: '* Maximum daily payment reached. Congratulations, you got a discount!'
+      cs: '* Dosáhli maximální denní platby. Gratulujeme, máte slevu!'
+      ka: '*დღიური გადახდის მაქსიმუმი მიღწეულია. გილოცავთ, თქვენ მიიღეთ ფასდაკლება!'
+      kk: '*Ең көп тәуліктік төлемге қол жеткізілді.Құттықтаймыз,сіз жеңілдікке ие болдыңыз!\n\n'
+      ru: '* Достигнут максимальный суточный платёж. Поздравляем, Вы получили скидку!'
+      uk: '* Досягнуто максимальний добовий платіж. Вітаємо, Ви отримали знижку!'
+    share_promo_code:
+      en: Send your personal promocode to your friends and they will earn 20 minutes of free ride. As soon as your friend makes a first ride you will also get 20 minutes for free.
+      cs: Sdílej svůj promo kód s přáteli a oni tak získají 20 minut zdarma. Jakmile tvůj přítel dokončí první jízdu, vy dostane 20 minut zdarma také.
+      ka: 'გაუგზავნე პრომო კოდი მეგობარს და მიიღე 10\%% (მაგრამ %d ნაკლები) მისი პირველი მგზავრობიდან:'
+      kk: 'Промо-коды досыңызбен бөлісіңіз, оның алғашқы сапары үшін %d  бонус алыңыз:'
+      ru: 'Поделись промокодом с другом и получи 10\%% (но не более %d бонусов) от первой поездки друга:'
+      uk: 'Поділись промокодом з другом, отримай до %d бонусів за його першу поїздку:'
+    thanks_for_rent:
+      en: Thank you for choosing our service!\n
+      cs: Děkujeme za využití naší služby!
+      ka: მადლობას გიხდით ჩვენი მომსახურების არჩევისთვის!
+      kk: Спасибо что выбрали наш сервис!
+      ru: Спасибо что выбрали наш сервис!
+      uk: Дякуємо, що обрали наш сервіс!
+    title_activity_my_orders:
+      en: My rides
+      cs: Moje jízdy
+      ka: მგზვრობები
+      kk: Менің сапарларым
+      ru: Мои поездки
+      uk: Мої поїздки
+    order_begin_label:
+      en: Start
+      cs: Začněte
+      ka: დაწყება
+      kk: Басы
+      ru: Начало
+      uk: Початок
+    order_end_label:
+      en: End
+      cs: Konec
+      ka: დასრულება
+      kk: Аяғы
+      ru: Конец
+      uk: Кінець
+    not_trips_message:
+      en: You have not made any rides yet
+      cs: Zatím nemáte žádné jízdy
+      ka: თქვენ ჯერ არ გიმგზავრიათ
+      kk: Сіз әлі сапарға шыққан жоқсыз
+      ru: Вы еще не совершили ни одной поездки
+      uk: Ви ще не здійснили жодної поїздки
+    detailing_calculation:
+      en: '%d:%d * %s'
+      cs: '%d:%d * %s'
+      ka: '%d:%d* %s'
+      kk: '%d:%d * %s'
+      ru: '%d:%d * %s'
+      uk: '%d:%d * %s'
+    title_activity_order_details:
+      en: OrderDetailsActivity
+      cs: OrderDetailsActivity
+      ka: OrderDetailsActivity
+      kk: OrderDetailsActivity
+      ru: OrderDetailsActivity
+      uk: OrderDetailsActivity
+    car_text_placeholder:
+      en: Car
+      cs: Auto
+      ka: მანქანა
+      kk: Автокөлік
+      ru: Автомобиль
+      uk: Автомобіль
+    car_reg_number_placeholder:
+      en: xxx000xx00
+      cs: xxx000xx00
+      ka: xxx000xx00
+      kk: xxx000xx00
+      ru: xxx000xx00
+      uk: xxx000xx00
+    cost_placeholder:
+      en: --,--
+      cs: --,--
+      ka: --,--
+      kk: --,--
+      ru: --,--
+      uk: --,--
+    minutes_placeholder:
+      en: -- min
+      cs: -- min
+      ka: წთ.
+      kk: -- мин
+      ru: -- мин
+      uk: -- хв
+    payments_and_charges:
+      en: Payments and credits
+      cs: Platby a poplatky
+      ka: გადახდები და ხარჯები
+      kk: Алымдар мен төлемдер
+      ru: Списания и начисления
+      uk: Списання та нарахування
+    detailing:
+      en: Details
+      cs: Podrobnosti
+      ka: დეტალურად
+      kk: Детализация
+      ru: Детализация
+      uk: Деталізація
+    free_booking_label:
+      en: Free booking
+      cs: Rezervace zdarma
+      ka: უფასო ჯავშანი
+      kk: Тегін брондау
+      ru: Бесплатная бронь
+      uk: Безкоштовна бронь
+    parking_label:
+      en: Parking
+      cs: V režimu čekání
+      ka: პარკინგზე
+      kk: Тұрақта
+      ru: На парковке
+      uk: На парковці
+    riding_label:
+      en: Driving
+      cs: V pohybu
+      ka: მოძრაობაში
+      kk: Қозғалыста
+      ru: В движении
+      uk: Їзда
+    none:
+      en: None
+      cs: Žádné
+      ka: არ იძებნება
+      kk: Жоқ
+      ru: Остутствуют
+      uk: Відсутні
+    date_time_placeholder:
+      en: --.--.---- --:--:--
+      cs: --.--.---- --:--:--
+      ka: --.--.---- --:--:--
+      kk: --.--.---- --:--:--
+      ru: --.--.---- --:--:--
+      uk: --.--.---- --:--:--
+    from_card_label:
+      en: By card
+      cs: Platební kartou
+      ka: ბარათით
+      kk: Карта арқылы
+      ru: Картой
+      uk: Карткою
+    bonuses_label:
+      en: Bonuses
+      cs: Bonusové body
+      ka: ბონუსით
+      kk: Бонустармен
+      ru: Бонусами
+      uk: Бонусами
+    order_route_map_error_message:
+      en: Could not display route
+      cs: Nelze zobrazit trasu\n
+      ka: მარშრუტი ვერ აისახა
+      kk: Бағытты көрсету мүмкін болмады
+      ru: Не удалось отобразить маршрут
+      uk: Не вдалося показати маршрут
+    surname_validation_error:
+      en: Enter surname
+      cs: Zadejte příjmení
+      ka: შეიყვანეთ გვარი
+      kk: Тегіңізді енгізіңіз
+      ru: Введите фамилию
+      uk: Введіть прізвище
+    name_validation_error:
+      en: Enter first name
+      cs: Zadejte své jméno
+      ka: შეიყვანეთ სახელი
+      kk: Атыңызды енгізіңіз
+      ru: Введите имя
+      uk: Введіть ім’я
+    email_validation_error:
+      en: Invalid e-mail
+      cs: Neplatná e-mailová adresa
+      ka: არასწორი ელ.ფოსტა
+      kk: Электрондық адрес қате көрсетілген
+      ru: Некорректный адрес электронной почты
+      uk: Некоректна адреса електроної пошти
+    phone_number_valdation_error:
+      en: Incorrect phone number
+      cs: Neplatné telefonní číslo
+      ka: არასწორი ტელ.ნომერი
+      kk: 'Телефон нөмір қате көрсетілген '
+      ru: Некорректный телефонный номер
+      uk: Некоректний номер телефону
+    password_validation_error:
+      en: Password must contain at least 6 symbols and include at least 3 different characters
+      cs: Heslo musí obsahovat nejméně 6 znaků a musí obsahovat alespoň 3 různé znaky
+      ka: პაროლი უნდა შედგებოდეს არანაკლებ 6 და სულ მცირე 3 განსხვავებული სიმბოლოსგან
+      kk: Құпия сөз кем дегенде 6 таңбадан және кемінде 3 әртүрлі таңбадан тұруы керек
+      ru: Пароль должен состоять не менее чем из 6 символов и включать в себя минимум 3 разных символа
+      uk: Пароль повинен складатися не меше ніж із 6 символів та включати в себе мінімум 3 різні символи
+    password_confirmation_validation_error:
+      en: Password confirmation is not equal to the password
+      cs: Zadaná hesla nejsou stejná
+      ka: პაროლები არ ემთხვევა
+      kk: Құпия сөздер сәйкес келмейді
+      ru: Пароли не совпадают
+      uk: Паролі не співпадають
+    order_than_validation_error:
+      en: Confirm your age
+      cs: Potvrďte svůj věk
+      ka: დაადასტურეთ თქვენი ასაკი
+      kk: Жасыңызды растаңыз
+      ru: Подтвердите свой возраст
+      uk: Підтвердіть свій вік
+    driving_exp_validation_error:
+      en: Confirm your driving experience\n
+      cs: Doložte zkušenost s řízením
+      ka: დაადასტურეთ თქვენი გამოცდილება
+      kk: Тәжірибеңізді растаңыз
+      ru: Подтвердите стаж
+      uk: Підтвердіть стаж
+    sign_up_exception_error:
+      en: Something went wrong. Please contact customer care service
+      cs: Něco se pokazilo, použijte stránku k registraci
+      ka: შეცდომა, გთხოვთ რეგისტრაციისთვის გამოიყენოთ ვებ გვერდი
+      kk: Бірдеңе дұрыс болмады, тіркелу үшін сайтты пайдаланыңыз
+      ru: Что то пошло не так, используйте сайт чтобы зарегистрироваться
+      uk: Щось не так, використайте сайт для реєстрації
+    sign_up_canNotLogin_error:
+      en: Account registered, but login failed, try again later
+      cs: Účet byl zaregistrován, ale nepodařilo se přihlásit. Zkuste to znovu později
+      ka: მომხმარებელი დარეგისტრირდა, მაგრამ ვერ მოხერხდა სისტემაში შესვლა. ხელახლა სცადეთ
+      kk: Тіркелу жазбасы тіркелді, бірақ кіру мүмкін емес. Әрекетті қайталаңыз.
+      ru: Учетная запись зарегистрированна, но в нее не удалось войти. Попробуте еще раз.
+      uk: Обліковий запис зареєстровано, але в ньго не вдається увійти. Спробуйте ще раз.
+    refuel:
+      en: Fuel
+      cs: Natankovat
+      ka: დატენვა
+      kk: Жанармай құю
+      ru: Заправить
+      uk: Заправити
+    low_fuel_message:
+      en: You finish the rent with a fuel level of less than 10%.\n
+      cs: Nájem dokončíte s úrovní paliva nižší než 10%
+      ka: დარჩენილია 10%-ზე ნაკლები
+      kk: Сіз жалдауды 10% -дан төмен жанармай деңгейімен аяқтайсыз.
+      ru: Вы завершаете аренду с уровнем топлива в баке менее 10%.
+      uk: Ви завершуєте оренду з рівнем палива в баку менше 10%.
+    refuel_needed_message:
+      en: According to the rules of our service, you must refuel the car. Please call our customer service first and follow operators instructions.
+      cs: Podle pravidel naší služby musíte auto natankovat. V přihrádce spolujezdce je tankovací karta, se kterou můžete natankovat. Pokud zde karta není, prosím kontaktujte zákaznický servis.
+      ka: წესების მიხედვით, თქვენ უნდა დატენოთ ავტომანქანა.  დატენეთ მანქანა სათავსოში არსებული დასატენი ბარათით. თუ ბარათი  ვერ იპოვეთ, ჩვენ აგინაზღაურებთ დატენვის საფასურს, თქვენს საბონუსე ანგარიშზე.
+      kk: Қызмет көрсету ережелеріне сәйкес, сіз автокөлікке жанармай құюңыз қажет. Автокөліктің қолғап бөлігінде жанармай картасы болса, жанармайды картаның көмегімен толтырыңыз. Егер карта болмаса, сіздің бонустық шотыңызға біз жанармай құнын қайтарамыз.
+      ru: По правилам нашего сервиса Вы должны заправить автомобиль. Если в бардачке автомобиля есть топливная карта, заправьте автомобиль с помощью неё. Если топливной карты нет, мы компенсируем стоимость заправки на Ваш бонусный счёт.
+      uk: Згідно з правилами нашого сервісу ви повинні заправити автомобіль. Якщо в бардачку є паливна картка, заправте автомобіль з її допомогою. Якщо паливної картки немає, ми компенсуємо вартість заправки на Ваш бонусний рахунок.
+    penalty_warning_message:
+      en: If you complete the rent without refueling the car, according to the rules of our service, we will be forced to fine you.
+      cs: Pokud dokončíte pronájem bez doplnění paliva, podle pravidel naší služby, budeme Vás muset pokutovat.
+      ka: თუ დაასრულებთ მანქანის ქირაობას დატენვის გარეშე, დაჯარდებით.
+      kk: Автокөлік жалдауды жанармайсыз аяқтасаңыз, біздің қызметіміздің ережелеріне сәйкес  айыппұл төлетуге мәжбүр боламыз.
+      ru: Если Вы завершите аренду, не заправив автомобиль, согласно правилам нашего сервиса мы будем вынуждены оштрафовать Вас.
+      uk: Якщо ви завершите оренду, не заправивши автомобіль, згідно з правилами нашого сервісу, ми будемо змушені накласти штраф на Вас.
+    service_rules_label:
+      en: Terms of Use
+      cs: Pravidla užívání služby
+      ka: მომსახურების წესები
+      kk: Қызмет көрсету ережелері
+      ru: Правила сервиса
+      uk: Правила сервису
+    penalty_dialog_title:
+      en: Warning about the penalty!
+      cs: Upozornění na pokutu!
+      ka: გაფრთხილება ჯარიმის დაკისრების შესახებ!
+      kk: Айыппұл туралы ескерту!
+      ru: Предупреждение о штрафе!
+      uk: Попередження про штраф!
+    finish_rent_penalty_dialog_button:
+      en: Finish rent
+      cs: Ukončit
+      ka: ქირაობის დასრულება
+      kk: Жалдауды аяқтау
+      ru: Завершить аренду
+      uk: Завершити оренду
+    negative_balance_dialog_title:
+      en: Negative balance
+      cs: Stav Vašeho účtu je záporný
+      ka: უარყოფითი ბალანსი ანგარიშზე
+      kk: Қаражаттың теріс теңгерімі
+      ru: Отрицательный баланс средств
+      uk: Від’ємний баланс коштів
+    negative_balance_dialog_message:
+      en: You need to add funds to the balance of your card, otherwise the car will be blocked\n
+      cs: Musíte navýšit prostředky na Vaší kreditní kartě, jinak bude auto zablokováno
+      ka: თუ ბარათის ბალანსს არ შეავსებთ, მანქანა დაიბლოკება
+      kk: Сіз өзіңіздің банк картаңыздың балансын толтыруыңыз қажет, кері жағдайда, автокөлік бұғатталады.
+      ru: Вам необходимо пополнить баланс Вашей банковской карты, иначе автомобиль будет заблокирован.
+      uk: Вам необхідно поповнити баланс Вашої банківської картки, або автомобіль буде заблоковано.
+    next:
+      en: Continue
+      cs: Pokračovat
+      ka: გაგრძელება
+      kk: Жалғастыру
+      ru: Продолжить
+      uk: Продовжити
+    pay_now:
+      en: Pay now
+      cs: Uhradit
+      ka: გადახდა
+      kk: Төлеу
+      ru: Погасить
+      uk: Погасити
+    sign_up_error_dialog_title:
+      en: Unable to register\n
+      cs: Nelze se zaregistrovat
+      ka: ვერ ხერხდება რეგისტრაცია
+      kk: Тіркелу мүмкін емес
+      ru: Не удается зарегистрироваться
+      uk: Не вдається зареєструватися
+    sign_up_error_dialog_message:
+      en: An unexpected error occurred during the registration process
+      cs: Během procesu registrace došlo k neočekávané chybě
+      ka: შეცდომა რეგისტრაციისას
+      kk: Тіркеу кезінде қате пайда болды.H
+      ru: В процессе регистрации возникла непредвиденная ошибка.H
+      uk: Під час реєстрації виникла помилка. Продовжити реєстрацію на сайті?
+    sign_up_error_dialog_continue:
+      en: Continue
+      cs: Pokračovat
+      ka: გაგრძელება
+      kk: Жалғастыру
+      ru: Продолжить
+      uk: Продовжити
+    sign_up_error_dialog_cancel:
+      en: Cancel
+      cs: Zrušit
+      ka: გაუქმება
+      kk: Жою
+      ru: Отмена
+      uk: Відміна
+    tariff_selection_dialog_title:
+      en: Choose a rate
+      cs: Zvolte si tarif
+      ka: ამოირჩიეთ ტარიფი
+      kk: Тарифті таңдаңыз
+      ru: Выберите тариф
+      uk: Оберіть тариф
+    tariff_selection_dialog_subhead:
+      en: Please select one to start the rent\n
+      cs: Vyberte prosím možnost, kterou chcete zahájit
+      ka: შეარჩიეთ მანქანა  ქირაობის დასაწყებად
+      kk: Жалға алуды бастау үшін, біреуін таңдаңыз
+      ru: Пожалуйста, выберите один для начала аренды
+      uk: Будь ласка, оберіть один для початку оренди
+    need_act_signing_message:
+      en: You can not choose a rate untill the act of acceptence is signed!\n
+      cs: Nemůžete si zvolit tarif před podpisem protokolu o stavu vozidla!
+      ka: ტარიფის არჩევა შეუძლებელია აქტის ხელმოწერის გარეშე!
+      kk: Егер актке қол қойылмаса, тарифті таңдай алмайсыз!
+      ru: Нельзя выбрать тариф если не подписан акт!
+      uk: Неможна обрати тариф, не підписано акт!
+    new_version_dialog_title:
+      en: New version
+      cs: Nová verze\n
+      ka: განახლებული ვერსია
+      kk: Жаңа нұсқа
+      ru: Новая версия
+      uk: Нова версія
+    new_version_dialog_message:
+      en: A new version of the application is available. Do you want to update now?
+      cs: K dispozici je nová verze aplikace. Chcete nyní upgradovat?
+      ka: 'აპლიკაციის განახლებული ვერსია ხელმისაწვდომია. განაახლებთ? '
+      kk: Мобилді қосымшаның жаңа нұсқасы қол жетімді. Қазір жаңарту керек пе??
+      ru: Доступна новая версия приложения. Хотите обновиться сейчас?
+      uk: Доступна нова версія додатку. Хочете оновити зараз?
+    new_version_dialog_update_button_label:
+      en: Update
+      cs: Obnovit
+      ka: განახლება
+      kk: Жаңарту
+      ru: Обновить
+      uk: Оновити
+    new_version_dialog_later_cancel_button_label:
+      en: Later
+      cs: Později
+      ka: მოგვიანებით
+      kk: Кейін
+      ru: Позже
+      uk: Пізніше
+    attach_card_dialog_title:
+      en: Documents uploaded
+      cs: Dokumenty nahrány
+      ka: მიამაგრეთ საბანკო ბარათი
+      kk: Банк картасын тіркеу
+      ru: Прикрепить банковскую карту
+      uk: Приєднати банківську картку
+    attach_card_dialog_message:
+      en: Your documents have been accepted and are under verification. We will inform you about the status of registration as soon as possible.\n\nDo you wan to attach a bank card?
+      cs: Vaše dokumenty jsme přijali a nyní je ověřujeme. O výsledku registrace Vás budeme informovat co nejdříve.\n\nChcete připojit platební kartu?
+      ka: გსურთ ბარათის მიბმა მომსახურების გადასახდელად?
+      kk: Қызмет ақысын төлеу үшін банк картасын тіркегіңіз келе ме?
+      ru: Спасибо, Ваши документы отправлены на рассмотрение. Хотите прикрепить банковскую карту прямо сейчас?
+      uk: Хочете приєднати банківську картку для оплати послуг сервісу?
+    attach_card_dialog_positive_button_label:
+      en: Add bank card
+      cs: Připojit
+      ka: მიმაგრება
+      kk: Тіркеу
+      ru: Прикрепить
+      uk: Приєднати
+    attach_card_dialog_negative_button_label:
+      en: Later
+      cs: Později
+      ka: გაუქმება
+      kk: Жою
+      ru: Пропустить
+      uk: Відмінити
+    tutorial_dialog_title:
+      en: Show tutorial
+      cs: Zobrazit návod
+      ka: სწავლების გავლა
+      kk: Нұсқау алу
+      ru: Пройти инструктаж
+      uk: Пройти інструктаж
+    tutorial_dialog_message:
+      en: Would you like to see tutorial how to use the service?
+      cs: Chcete zobrazit návod jak používat naši službu?
+      ka: გსურთ გაიაროთ სწავლება მომსახურებასთან დაკავშირებით?
+      kk: Қызметті қалай пайдалану туралы нұсқау алғыңыз келе ме?
+      ru: Хотите пройти инструктаж по использованию сервиса?
+      uk: Хочете пройти інструктаж по користуванню сервісом?
+    tutorial_dialog_negative_button_label:
+      en: Later
+      cs: Později
+      ka: გამოტოვება
+      kk: Өткізу
+      ru: Пропустить
+      uk: Пропустити
+    tutorial_dialog_positive_button_label:
+      en: Show tutorial
+      cs: Zobrazit návod
+      ka: გავლა
+      kk: Өту
+      ru: Пройти
+      uk: Пройти
+    car_report_description_page_title:
+      en: Remarks
+      cs: Poznámky
+      ka: შენიშვნები
+      kk: Ескертулер
+      ru: Замечания
+      uk: Опис
+    car_report_gallery_page_title:
+      en: Photo
+      cs: Foto
+      ka: სურათი
+      kk: Сурет
+      ru: Фото
+      uk: Фотографії
+    car_report_comment_page_title:
+      en: Comment
+      cs: Komentář
+      ka: კომენტარი
+      kk: Пікірлер
+      ru: Комментарий
+      uk: Комментарий
+    take_photo_of_damages:
+      en: Take a picture
+      cs: Vyfotit
+      ka: სურათის გადაღება
+      kk: Фотосуретке түсу
+      ru: Сделать фото
+      uk: Сфотографувати пошкодження
+    processing_request:
+      en: Processing request…
+      cs: Požadavek se zpracovává...
+      ka: მოთხოვნის დამუშავება...
+      kk: Сұрақтарды өңдеу…
+      ru: Обработка запроса…
+      uk: Обробка запиту…
+    damage_photo:
+      en: Take pictures of damage
+      cs: Poškození fotografie\n
+      ka: დაზიანების სურათის გადაღება
+      kk: Зақымданған жерлерді суретке түсіру
+      ru: Сфотографировать повреждения
+      uk: Сфотографувати пошкодження
+    car_damage_email_subject:
+      en: Photo of the car %s %s from %s
+      cs: Vyfoťte auto %s %s z %s.
+      ka: '%s ავტომობილის ფოტო %s  %s-დან.'
+      kk: Автокөліктің фотасы %s %s бастап %s.
+      ru: Фото автомобиля %s %s от %s.
+      uk: Фото автомобіля %s %s від %s.
+    send_email:
+      en: Send email
+      cs: Pošlete email
+      ka: წერილის გაგზავნა
+      kk: Хат жолдау
+      ru: Отправить письмо
+      uk: Відправити лист
+    navigator_chooser_title:
+      en: Build a route
+      cs: Vygenerovat trasu pomocí
+      ka: მარშრუტის დათვალიერება
+      kk: Бағытты құру
+      ru: Построить маршрут
+      uk: Побудувати маршрут
+    internet_connection_lost_message:
+      en: Check connection to the Internet
+      cs: Zkontrolujte připojení na Internet
+      ka: შეამოწმეთ ინტერნეტთან კავშირი
+      kk: <b>Интернетке қосылуды тексеріңіз</b>
+      ru: Проверьте соединение с интернетом
+      uk: <b>Перевірте з’єднання з інтернетом</b>
+    version_label:
+      en: version %s powered by CarTrek
+      cs: verze %s powered by CarTrek
+      ka: ვერსია %s CarTrek
+      kk: нұсқасы %s powered by CarTrek
+      ru: версия %s powered by CarTrek
+      uk: версія %s
+    can_not_take_photo:
+      en: Unable to take a photo\n
+      cs: Nelze pořídit fotografii\n
+      ka: სურათის გადაღება ვერ ხერხდება
+      kk: Суретке түсіру мүмкін емес
+      ru: Неудается сделать фотографию
+      uk: Невдається зробити фото
+    invite_friend_by_promo:
+      en: Invite your friends using promo code
+      cs: Pozvěte přátele použitím promo kódu
+      ka: მოიწვიეთ მეგობრები პრომო კოდით
+      kk: <b>Достарыңызды промокодпен шақырыңыз</b>
+      ru: Приглашайте друзей по промокоду
+      uk: <b>Запрошуйте друзів по промокоду</b>
+    intent_write_to:
+      en: Write to support
+      cs: Napište na Zákaznickou podporu
+      ka: დაწერა
+      kk: Жазу
+      ru: Написать
+      uk: Написати
+    apply:
+      en: Apply
+      cs: Použít
+      ka: გამოყენება
+      kk: Қолдану
+      ru: Применить
+      uk: Застосувати
+    settings:
+      en: SETTINGS
+      cs: NASTAVENÍ
+      ka: პარამეტრები
+      kk: Орнатулар
+      ru: Настройки
+      uk: Налаштунки
+    remaining:
+      en: left
+      cs: zůstává
+      ka: დარჩენილი
+      kk: қалды
+      ru: осталось
+      uk: залишилось
+    fuel_type_label:
+      en: Fuel type
+      cs: Druh paliva
+      ka: საწვავის სახეობა
+      kk: Жанармай түрі
+      ru: Тип бензина
+      uk: Тип бензину
+    need_to_refill_liters_label:
+      en: Liters to fill
+      cs: Potřeba natankovat
+      ka: დასატენია
+      kk: Жанармай құю қажет
+      ru: Надо заправить
+      uk: Треба заправити
+    card_number_label:
+      en: 'Card number:'
+      cs: Číslo karty:\n
+      ka: ბარათის ნომერი
+      kk: 'Картаның нөмірі:'
+      ru: 'Номер карты:'
+      uk: 'Номер картки:'
+    pin_code_label_text:
+      en: PIN code of fuel card
+      cs: 'PIN palivové karty:'
+      ka: დატენვის ბარათის პინ კოდი
+      kk: Жанармай картасының пині
+      ru: Пин топливной карты
+      uk: Пін паливної картки
+    instruction_refueling_label:
+      en: How to fuel
+      cs: Jak natankovat
+      ka: როგორ დავტენოთ
+      kk: Жанармайды қалай құюға болады
+      ru: Как заправляться
+      uk: Як заправлятися
+    refueling_successful_title:
+      en: Fuel completed successfully
+      cs: Tankování bylo úspěšně dokončeno\n
+      ka: წარმატებით დაიტენა
+      kk: Жанармайды толтыру сәтті аяқталды
+      ru: Заправка успешно завершена
+      uk: Заправка успішно завершена
+    refueling_instruction:
+      en: First, please call our customer service. Money for refueling will be charged from the fuel card stored in glove box, and you will receive bonuses for the time spent.
+      cs: Před natankováním volejte Zákaznickou linku. Platba bude provedena pomocí tankovací karty, která je v přihrádce a Vy získáte bonusové body za čas strávený tankováním.
+      ka: დატენეთ მანქანა დასატენ სადგურში ("<a href="https://auto.lukoil.ru/ru/ProductsAndServices/PetrolStations">заправки на карте</a>"). ამოიღეთ სათავსოდან დასატენი ბარათი და მიაწოდეთ სადგურის ოპერატორს. თანხა ჩამოიჭრება დასატენი ბარათიდან, ხოლო თქვენ მიიღებთ ბონუსს დახარჯული დროისთვის
+      kk: Автокөлікті «Лукойл» ЖҚС-да толтырыңыз ("<a href="https://auto.lukoil.ru/ru/ProductsAndServices/PetrolStations">заправки на карте</a>").\n        Жанармай картасын қолғаптан алып, оны жанармай құю станциясының операторына ұсыныңыз. Қаражат жанармай картасынан алынады, ал сіз жұмсалған уақытқа бонустар аласыз.
+      ru: Заправить автомобиль необходимо на АЗС “Лукойл”.\n        Возьмите из бардачка топливную карту и предъявите ее оператору АЗС. Деньги спишутся с топливной карты, а Вы получите бонусы за потраченное время.
+      uk: Заправляти автомобіль необхідно на АЗС OKKO ("<a href="https://www.okko.ua/uk/network_map">станції на мапі</a>").\n        Щоб заправитися, візьміть з відділу для рукавичок паливну картку та передайте її оператору АЗС. Гроші спишуться з паливної картки, а Ви отримаєте бонуси за витрачений час.
+    refueling_successful_message:
+      en: Thank you for refueling the car. To compensate for the time spent, you will get bonuses to your account.
+      cs: Děkujeme za doplnění paliva. Abychom Vám vynahradili vynaložený čas, zašleme Vám bonusové body na Váš účet.
+      ka: 'გმადლობთ დატენვისთვის. დახარჯული დროისთვის თქვენ დაგერიცხებათ ბონუსები. '
+      kk: Автокөлікті жанармаймен камтамасыз еткеніңізге рахмет. Жұмсалған уақыт үшін, сізге бонустар беріледі
+      ru: Благодарим за заправку автомобиля. В качестве компенсации потраченного времени Вам будут начиленны бонусы.
+      uk: Вдячні за заправку автомобіля. В якості компенсації витраченого часу Вам будуть нараховані бонуси.
+    refueling_not_needed_message:
+      en: No need to refuel\n
+      cs: Není třeba tankovat
+      ka: არ არის დასატენი
+      kk: Жанармай қажет емес
+      ru: В заправке нет необходимости
+      uk: В заправці немає необхідності
+    refueling_finished_button_label:
+      en: Finish
+      cs: Dokončit
+      ka: დასრულება
+      kk: Аяқтау
+      ru: Завершить
+      uk: Завершити
+    close_the_car_refueling:
+      en: Close the car
+      cs: Uzamknout auto
+      ka: ავტომობილის სატენის დახურვა
+      kk: Көлікті жабу
+      ru: Закрыть авто
+      uk: Зачинити авто
+    open_the_car_refueling:
+      en: Open car
+      cs: Odemknout auto
+      ka: ავტომობილის სატენის გახსნა
+      kk: Көлікті ашу
+      ru: Открыть авто
+      uk: Відкрити авто
+    accept_refueling_result:
+      en: Ok
+      cs: OK
+      ka: მიღება
+      kk: Қабылдау
+      ru: Принять
+      uk: Прийняти
+    no_active_rent:
+      en: You do not have an active rent
+      cs: Nemáte žádný aktivní pronájem
+      ka: თქვენ არ გაქვთ აქტიური შეკვეთა
+      kk: Белсенді жалдауыңыз жоқ
+      ru: У Вас нет активной аренды
+      uk: У Вас немає активної оренди
+    something_went_wrong:
+      en: Something went wrong
+      cs: Něco se pokazilo\n
+      ka: შეცდომა
+      kk: Бірдеңе дұрыс емес
+      ru: Что-то пошло не так
+      uk: Щось пішло не так
+    car_opened_success:
+      en: Car is open
+      cs: Аuto je otevřené\n
+      ka: მანქანა ღიაა
+      kk: Көлік ашық
+      ru: Машина открыта
+      uk: Машина відкрита
+    refueling_rules_button_label:
+      en: Show rules
+      cs: Pravidla tankování
+      ka: დატენვის წესების ჩვენება
+      kk: Ережелерді көрсету
+      ru: Показать правила
+      uk: Показати правила
+    bank_cards_screen_title:
+      en: Payment
+      cs: Platba
+      ka: საბანკო ბარათები
+      kk: Банк карталары
+      ru: Банковские карты
+      uk: Банківські картки
+    no_bank_cards_message:
+      en: You do not have any bank cards attached
+      cs: Nemáte připojenou žádnou platební kartu
+      ka: ' საბანკო ბარათი არაა მიმაგრებული'
+      kk: Сізде тіркелген банк карталары жоқ
+      ru: У Вас нет прикрепленных банковских карт
+      uk: У Вас немає приєднаних банківських карток
+    failed_to_load_cards:
+      en: Could not get a list of bank cards. Try again later
+      cs: Nelze získat seznam připojených bankovních karet. Zkuste to za chvíli znovu
+      ka: საბანკო ბარათები არაა მიმაგრებული. შეამოწმეთ ინტერნეტ კავშირი და სცადეთ ხელახლა
+      kk: Тіркелген карталардың тізімін алу сәтсіз аяқталды. Интернетті тексеріп, әрекетті қайталаңыз.
+      ru: Не удалось получить список пркрепленных карт. Проверьте интернет и попробуйте еще раз.
+      uk: Не вдалося отримати список приєднаних карток. Перевірте інтернет та спробуйте ще раз.
+    make_card_default:
+      en: Select card %s as main card?
+      cs: Zvolit kartu %s jako primární?
+      ka: მივუთითოთ %s ბარათი როგორც ძირითადი?
+      kk: Картаны %s негізгі карта ретінде көрсету керек пе?
+      ru: Выбрать карту %s в качестве основной?
+      uk: Обрати картку %s в якості основної?
+    confirm_removal:
+      en: Are you sure you want to remove the card %s?
+      cs: Skutečně chcete odebrat platební kartu %s?
+      ka: ნამდვილად გსურთ %s საბანკო ბარათის წაშლა?
+      kk: Сіз картаны жойғыңыз келе ме %s?
+      ru: Вы действительно хотите удалить карту %s?
+      uk: Ви дійсно хочете видалити картку %s?
+    remove:
+      en: Delete
+      cs: Ok
+      ka: წაშლა
+      kk: Жою
+      ru: Удалить
+      uk: Видалити
+    confirm_removing:
+      en: Remove card
+      cs: Odebrat kartu
+      ka: საბანკო ბარათების წაშლა
+      kk: Картаны жою
+      ru: Удалить карту
+      uk: Видалити картку
+    bank_card_verification:
+      en: Checking your bank card…
+      cs: Kontrola Vaší bankovní karty ...
+      ka: საბანკო ბარათების შემოწმება...
+      kk: Банк картасын тексеру…
+      ru: Проверка банковской карты…
+      uk: Перевірка банківської картки…
+    bank_cards_negative_balance_message:
+      en: You have a debt
+      cs: Máte dluh
+      ka: თქვენ გერიცხებათ დავალიანება
+      kk: Сіздің қарызыңыз бар
+      ru: У Вас задолженность
+      uk: У Вас заборгованість
+    rate_dialog_title:
+      en: Please, rate us
+      cs: Ohodnoťte nás, prosím
+      ka: შეგვაფასეთ
+      kk: Бізге баға беріңіз
+      ru: Оцените нас
+      uk: Оцінить нас
+    rate_button_label:
+      en: Rate
+      cs: Hodnotit
+      ka: შეფასება
+      kk: Бағалау
+      ru: Оценить
+      uk: Оцінить
+    later_button_label:
+      en: Later
+      cs: Později
+      ka: მოგვიანებით
+      kk: Кейінірек
+      ru: Позже
+      uk: Пізніше
+    never_ask_button_label:
+      en: Never ask again
+      cs: Nikdy
+      ka: არასოდეს
+      kk: Ешқашан
+      ru: Никогда
+      uk: Ніколи
+    feedback_hint:
+      en: Describe what you did not like and what you would like to improve\n
+      cs: Napište nám co se Vám nelíbí a co chcete zlepšit
+      ka: რა არ მოგეწონათ და რის გაუმჯობესებას ისურვებდით
+      kk: Нені ұнатпағаныңызды және жақсартқыңыз келетінін сипаттаңыз
+      ru: Опишите что Вам не понравилось и что вы бы хотели улучшить
+      uk: Опишіть, що Вам сподобалось і що би ви хотіли покращити
+    voucher_hint:
+      en: 'Enter 9 digit voucher number:'
+      cs: Zadejte 9 místné číslo poukázky
+      ka: 'შეიყვანეთ ვაუჩერის 9-ნიშნა კოდი:'
+      kk: 'Тоғыз таңбалы сертификат кодын енгізіңіз:'
+      ru: 'Введите код сертификата:'
+      uk: 'Введіть дев`ятизначний код сертифікату:'
+    activate_voucher_button_label:
+      en: Apply
+      cs: Zadat
+      ka: გააქტიურება
+      kk: Активациялау
+      ru: Активировать
+      uk: Активувати
+    voucher_activity_title:
+      en: Vouchers
+      cs: Poukázky
+      ka: ვაუჩერები
+      kk: Сертификаттар
+      ru: Сертификаты
+      uk: Сертифікати
+    voucher_error_dialog_title:
+      en: Activation error
+      cs: Chyba autorizace
+      ka: შეცდომა აქტივაციისას
+      kk: Активация қатесі
+      ru: Ошибка активации
+      uk: Помилка активації
+    voucher_unexpected_error_message:
+      en: An error occurred while activating the voucher. Check your internet connection and try again later
+      cs: Při aktivaci pokukázky došlo k chybě. Zkontrolujte připojení k internetu a zkuste to za chvíli znovu
+      ka: პრობლემა ვაუჩერის აქტივაციისას. შეამოწმეთ ინტერნეტთან კავშირი და სცადეთ ხელახლა
+      kk: Куәлікті активациялау кезінде қателік пайда болды. Интернет байланысын тексеріп, әрекетті қайталаңыз.
+      ru: В процессе активации сертификата возникла ошибка. Проверьте подключение к интернету и попробуйте еще раз.
+      uk: В процесі активації сертифіката виникла помилка. Перевірте підключення до інтернет та спробуйте ще раз.
+    voucher_code_validation_error:
+      en: Enter 9 digit voucher number
+      cs: Zadejte 9 místné číslo poukázky
+      ka: შეიყვანეთ ვაუჩერის 9-ნიშნა კოდი
+      kk: Тоғыз таңбалы сертификат кодын енгізіңіз
+      ru: 'Введите код сертификата:'
+      uk: Введіть дев’ятизначний код сертифікату
+    voucher_activated_dialog_title:
+      en: Voucher activated
+      cs: Poukázka aktivována
+      ka: ვაუჩერი გააქტიურებულია
+      kk: Куәлік активацияланды
+      ru: Сертификат активирован
+      uk: Сертифікат активовано
+    voucher_activated_dialog_message:
+      en: You have been accredited %s bonuses! Have a nice trip.\n
+      cs: Bylo vám připsáno %s bonusových bodů! Šťastnou jízdu.
+      ka: თქვენ ჩაგერიცხათ %s ბონუსი!  სასიამოვნო მგზავრობას გისურვებთ.
+      kk: Сізге % s бонустары есептелінді! Сапарлар сәтті болсын!.
+      ru: Вам начисленно %s бонусов! Приятных поездок.
+      uk: Вам нараховано %s бонусів! Гарних поїздок.
+    validation_hours:
+      en: "'h'"
+      cs: "'h'"
+      ka: სთ.
+      kk: сағ
+      ru: ч
+      uk: г
+    validation_min:
+      en: "'min'"
+      cs: "'min'"
+      ka: წთ.
+      kk: мин
+      ru: мин
+      uk: хв
+    check_documents_dialog_title:
+      en: Check documents
+      cs: Zkontrolujte dokumenty
+      ka: შეამოწმეთ დოკუმენტები
+      kk: Құжаттарды тексеріңіз
+      ru: Проверьте документы
+      uk: Перевірте документи
+    no_documents_email_subject:
+      en: Documents in %s
+      cs: Doklady jsou v %s
+      ka: დოკუმენტები %s -შია
+      kk: Құжаттар %s
+      ru: Документы в %s
+      uk: Документи в %s
+    no_documents_email_text:
+      en: Documents are missing:\n{write what is missing}
+      cs: Chybějící doklady:\n{napište co chybí}
+      ka: 'დაკარგულია დოკუმენტები: {მიუთითეთ რა არის დაკარგული}'
+      kk: Құжаттар жоқ:\n{қандай құжат жоқтығын жазыңыз}
+      ru: Отсутствуют документы:\n{напишите что отсутствует}
+      uk: Відсутні документи:\n{напишіть що відсутнє}
+    enter_car_number_hint:
+      en: '{Enter the plate number of the car}'
+      cs: '{Zadejte SPZ vozidla}'
+      ka: '{შეიყვანეთ მანქანის ნომერი}'
+      kk: '{Автокөліктің нөмірін енгізіңіз}'
+      ru: '{Впишите номер автомобиля}'
+      uk: '{Впишіть номер автомобіля}'
+    contact_us:
+      en: Contact us
+      cs: Kontaktujte nás
+      ka: შეგვატყობინეთ
+      kk: Хабарлау
+      ru: Сообщить
+      uk: Contact us
+    title_activity_promo:
+      en: Free rides
+      cs: Jízdy zdarma
+      ka: უფასო მგზავრობები
+      kk: Тегін сапарлар
+      ru: Бесплатные поездки
+      uk: Безкоштовні поїздки
+    get_free_rides:
+      en: Share promo code
+      cs: Sdílet promo-kód
+      ka: უფასო ბონუსების მიღება
+      kk: Тегін бонустар алу
+      ru: Получить бесплатные бонусы
+      uk: Отримати безкоштовні бонуси
+    promo_instruction:
+      en: Promo instruction
+      cs: Návod k promo
+      ka: promo_instruction
+      kk: Promo instruction
+      ru: Promo instruction
+      uk: Якщо при реєстрації в нашому сервісі хтось зазначить Ваш промо-код, він одразу ж отримає %1$d бонусів на свій рахунок, а ви отримаєте %2$d бонусів на ваш рахунок після його першої поїздки. Кількість запрошених друзів не обмежена!
+    promo_invite_message:
+      en: Register in the app using the promo code %1$s or clicking on the link %2$s and get %3$d bonuses!
+      cs: Ahoj! Používám Stáhni aplikaci a získej 20 minut zdarma na základě mého promo kódu %1$s\n
+      ka: დარეგისტრირდი %1$s პრომო კოდის გამოყენებით ან გადადი %2$s ბმულზე და მიიღე %3$d ბონუსი.
+      kk: ' %1$s промокодты қолданып, %2$s сілтемесін басып, %3$d бонустарын алу арқылы мобильді қосымшаға тіркеліңіз!'
+      ru: Зарегистрируйся в приложении используя промо код %1$s или перейдя по ссылке %2$s и получи %3$d бонусов!
+      uk: Зареєструйся в додатку використовуючи промо код %1$s чи перейди по посиланню %2$s та отримай %3$d бонусів!
+    thanks_for_the_sharing_message:
+      en: Thank you! You can invite more friends!
+      cs: Pokud máte přátele, kteří by mohli ocenit naší službu, zašlete jim Váš osobní promo kód a oni získají 20 minut volné jízdy. Ihned, jakmile Váš přítel ukončí svou první jízdu, získáte též 20 minut jízdy zdarma.
+      ka: გმადლობთ! კიდევ მოიწვიეთ მეგობრები!
+      kk: Рахмет! Сіз көп достарыңызды шақыра аласыз!
+      ru: Спасибо! Можно пригласить ещё друзей!
+      uk: Дякуємо! Можно запросити ще друзів!
+    title_activity_personal_data:
+      en: Profile
+      cs: Profil
+      ka: პირადი მონაცემები
+      kk: Жеке ақпарат
+      ru: Личные данные
+      uk: Особисті дані
+    full_name_title:
+      en: Full name
+      cs: Jméno příjmení
+      ka: გვარი, სახელი, მამის სახელი
+      kk: Аты-жөні
+      ru: ФИО
+      uk: ПІБ
+    personal_data_surname_label:
+      en: Surname
+      cs: Příjmení
+      ka: გვარი
+      kk: Тегі
+      ru: Фамилия
+      uk: Прізвище
+    personal_data_name_label:
+      en: Name
+      cs: Jméno
+      ka: სახელი
+      kk: Аты
+      ru: Имя
+      uk: Ім’я
+    personal_data_patronymic_label:
+      en: Middle name
+      cs: Prostřední jméno
+      ka: მამის სახელი
+      kk: Әкесінің аты
+      ru: Отчество
+      uk: Побатькові
+    personal_data_email_label:
+      en: E-mail
+      cs: E-mail
+      ka: ელ-ფოსტა
+      kk: E-mail
+      ru: E-mail
+      uk: E-mail
+    personal_data_phone_label:
+      en: Phone number
+      cs: Telefonní číslo
+      ka: ტელეფონის ნომერი
+      kk: Телефон нөмірі
+      ru: Номер телефона
+      uk: Номер мобільного телефону
+    discount_title:
+      en: Get a discount!
+      cs: Sdílet promo-kód
+      ka: მიიღეთ ბონუსები!
+      kk: Бонустар алыңыз!
+      ru: Получите бонусы!
+      uk: Отримайте бонуси!
+    discount_subhead_text:
+      en: Invite your friends and get up to %d bonuses on your account for their first trip!
+      cs: Sdílej svůj promo kód s přáteli a získej %d bonusových bodů za jejich první jízdu!
+      ka: მოიწვიეთ მეგობრები და მიიღეთ ანგარიშზე %d ბონუსი მათი პირველი მგზავრობაზე
+      kk: Достарыңызды шақырып, олардың алғашқы сапары үшін %d дейін бонусқа қол жеткізіңіз!
+      ru: Приглашайте друзей и получайте на свой счёт до %d бонусов за их первую поездку!
+      uk: Запрошуйте друзів та отримайте на свій рахунок %d бонуси за їх першу поїздку!
+    contact_details_title:
+      en: Contact details
+      cs: Podrobnosti o kontaktu
+      ka: საკონტაქტო მონაცემები
+      kk: Байланыс мәліметтері
+      ru: Контактные данные
+      uk: Контактні дані
+    discount_text:
+      en: '@string/promo_instruction'
+      cs: '@string/promo_instruction'
+      ka: '@string/promo_instruction'
+      kk: '@string/promo_instruction'
+      ru: '@string/promo_instruction'
+      uk: Якщо при реєстрації в нашому сервісі хтось зазначить Ваш промо-код, він одразу ж отримає %1$d бонусів на свій рахунок, а ви отримаєте %2$d бонусів на Ваш рахунок після його першої поїздки. Число запрошених друзів необмежено!
+    your_promo_code_label:
+      en: 'Your promo code:'
+      cs: 'Váš promo kód:'
+      ka: 'თქვენი პრომო კოდი:'
+      kk: 'Сіздің промо кодыңыз:'
+      ru: 'Ваш промо код:'
+      uk: 'Ваш промо код:'
+    your_invitation_link_label:
+      en: 'Your link for the invitation:'
+      cs: 'Váš odkaz na pozvánku:'
+      ka: 'თქვენი ბმული მეგობრების მოსაწვევად:'
+      kk: 'Шақыруға арналған сіздің сілтемеңіз:'
+      ru: 'Ваша ссылка для приглашения:'
+      uk: 'Ваше посилання для запрошення:'
+    change_password_title:
+      en: Change password
+      cs: Změnit heslo
+      ka: პაროლის შეცვლა
+      kk: Құпия сөздің өзгеруі
+      ru: Изменение пароля
+      uk: Зміна пароля
+    change_password_text:
+      en: Please note that the password must contain at least six characters, three of which are different
+      cs: Upozorňujeme, že heslo musí obsahovat nejméně šest znaků, z nichž tři jsou odlišné
+      ka: პაროლი უნდა შედგებოდეს მინიმუმ 6 და 3 განსხვავებული სიმბოლოსგან
+      kk: Назар аударыңыз, құпия сөзде кемінде алты таңба, олардың үшеуі әртүрлі болуы керек.
+      ru: Обратите внимание, что пароль должен содержать не менее шести символов, три из которых - разные.
+      uk: Зверніть увагу, що пароль повинен мати не менше шести символів, три з яких - різні.
+    change_password_new_hint:
+      en: New password
+      cs: Nové heslo
+      ka: ახალი პაროლი
+      kk: Жаңа құпия сөз
+      ru: Новый пароль
+      uk: Новий пароль
+    change_password_confirmation_hint:
+      en: Confirm password
+      cs: Potvrďte heslo
+      ka: პაროლის დადასტურება
+      kk: Құпия сөзді растаңыз
+      ru: Подтвердите пароль
+      uk: Підтвердіть пароль
+    change_password_button_label:
+      en: Change password
+      cs: Změnit heslo
+      ka: პაროლის ცვლილება
+      kk: Құпия сөзді өзгерту
+      ru: Изменить пароль
+      uk: Змінити пароль
+    password_successfully_changed_message:
+      en: Password changed successfully
+      cs: Heslo bylo úspěšně změněno
+      ka: პაროლი წარმატებით შეიცვალა
+      kk: Құпия сөз сәтті өзгертілді
+      ru: Пароль успешно изменен
+      uk: Пароль успішно змінено
+    password_not_match_error_hint:
+      en: Passwords do not match
+      cs: Hesla neodpovídají\n
+      ka: პაროლები არ ემთხვევა
+      kk: Құпия сөздер сәйкес келмейді
+      ru: Пароли не совпадают
+      uk: Паролі не співпадають
+    password_too_short_error_hint:
+      en: Password is too short
+      cs: Heslo je příliš krátké\n
+      ka: პაროლი მოკლეა
+      kk: Құпия сөз өте қысқа
+      ru: Пароль слишком короткий
+      uk: Пароль занадто короткий
+    password_too_simple_error_hint:
+      en: Password is too simple
+      cs: Heslo je příliš jednoduché\n
+      ka: პაროლი ძალიან მარტივია
+      kk: Құпия сөз өте қарапайым
+      ru: Пароль слишком простой
+      uk: Пароль занадто простий
+    confirm_change_password_button_label:
+      en: Confirm
+      cs: Potvrďte
+      ka: დადასტურება
+      kk: Растау
+      ru: Подтвердить
+      uk: Підтвердити
+    promo_code_copied_message:
+      en: Promo code copied to clipboard
+      cs: Promo kód byl zkopírován
+      ka: პრომო კოდი დაკოპირებულია
+      kk: Промо код буфер айырбасқа көшірілді
+      ru: Промо код скопирован в буфер обмена
+      uk: Промо код скопійовано в буфер обміну
+    invitation_link_copied_message:
+      en: Invitation link copied to clipboard
+      cs: Pozvánka byla zkopírována\n
+      ka: მოსაწვევი ბმული დაკოპირებულია
+      kk: Шақыру сілтемесі буфер айырбасқа  көшірілді
+      ru: Пригласительная ссылка скопирована в буфер обмена
+      uk: Посилання на запрошення скопійовано в буфер обміну
+    pay_debt_success_message:
+      en: Debt has been paid
+      cs: Dluh byl uhrazen
+      ka: დავალიანება დაფარულია
+      kk: Қарыз өтелді
+      ru: Долг погашен
+      uk: Борг погашено
+    pay_debt_fail_message:
+      en: Failed to pay debt
+      cs: Nelze uhradit dluh
+      ka: დავალიანება ვერ დაიფარა
+      kk: Қарызды өтеу сәтсіз аяқталды
+      ru: Не удалось погасить долг
+      uk: Не вдалось погасити борг
+    validation_alert_dialog_title:
+      en: Thank you for registering
+      cs: Děkujeme za registraci
+      ka: გმადლობთ რეგისტრაციისთვის
+      kk: Тіркелгеніңіз үшін рахмет
+      ru: Спасибо за регистрацию
+      uk: Спасибі за реєстрацію
+    validation_alert_dialog_text:
+      en: We will review your inquiry within %1$d %2$s of registration
+      cs: Ověření Vašeho účtu proběhne během %1$d %2$s od registrace
+      ka: განაცხადს განვიხილავთ %1$d %2$s რეგისტრაციიდან
+      kk: Біз сіздің сұрағыңызды %1$d қарастырамыз %2$s\n        тіркелген сәттен бастап
+      ru: Мы рассмотрим вашу заявку в течение %1$d %2$s с момента регистрации
+      uk: Ми розглянемо вашу заявку протягом %1$d %2$s\n        з моменту реєстрації
+    validation_alert_dialog_report_text:
+      en: If after the expiration of the time you have not received a response, please let us know
+      cs: Pokud po uplynutí uvedené doby neobdržíte odpověď, prosím, kontaktujte nás
+      ka: შეგვატყობინეთ თუ მითითებულ ვადაში ვერ მიიღებთ პასუხს
+      kk: Егер бұл уақыт аралығында сіз жауап алмасаңыз, бізге хабарлаңыз
+      ru: Если по истечении времени вы не получили ответ, пожалуйста сообщите нам
+      uk: Якщо протягом часу ви не отримали відповідь, будь ласка повідомте нам
+    before_approval:
+      en: Activate the profile
+      cs: Aktivovat účet
+      ka: გასააქტიურებლად საჭიროა
+      kk: Профильді іске қосамыз
+      ru: Активируем профиль в течение
+      uk: Активуємо профіль протягом
+    apply_to_support:
+      en: Write to support
+      cs: Kontaktovat podporu
+      ka: დაკავშირება ტექ. სამსახურთან
+      kk: Қолдау көрсету қызметіне хабарласу
+      ru: Обратиться в поддержку
+      uk: Звернутися в підтримку
+    finish_rent_on_subscription_message:
+      en: You can not complete the rent during valid package rate\n
+      cs: Nemůžete ukončit pronájem během platnosti balíčku
+      ka: ქირაობა ვერ დასრულდება საპაკეტო ტარიფის მოქმედებისას
+      kk: 'Пакеттік тарифпен қолданғанда жалдауды аяқтауға болмайды '
+      ru: Нельзя завершить аренду во время действия пакетного тарифа
+      uk: Неможливо завершити оренду протягом дії пакетного тарифу
+    make_car_photo:
+      en: Take a photo of the car
+      cs: Pořiďte fotografii auta
+      ka: გთხოვთ გადაუღოთ მანქანას სურათი
+      kk: <b>Автокөліктің суретін түсіріңіз</b>
+      ru: Сделайте фотографию автомобиля
+      uk: <b>Зробіть фотографію автомобіля</b>
+    bluetooth_connecting:
+      en: Connecting…
+      cs: Spojení…
+      ka: შეერთება...
+      kk: Қосу…
+      ru: Соединение…
+      uk: З’єднання…
+    bluetooth_open_close_car:
+      en: Open/close car
+      cs: Otevřete / zavřete auto
+      ka: მანქანის გახსნა/დაკეტვა
+      kk: Көлікті ашу/жабу
+      ru: Открыть/закрыть машину
+      uk: Відкрити/закрити машину
+    bluetooth_error_close_doors:
+      en: Close the doors
+      cs: Zavřete dveře
+      ka: დახურეთ კარები
+      kk: Есіктерді жабыңыз
+      ru: Закройте двери
+      uk: Закрийте двері
+    bluetooth_error_off_engine:
+      en: Turn off engine
+      cs: Vypněte zapalování
+      ka: ჩააქრეთ მანქანა
+      kk: 'Оталғышты өшіріңіз '
+      ru: Выключите зажигание
+      uk: Вимкніть запалення
+    location_permission_title:
+      en: Permission required
+      cs: Povolit akci
+      ka: ნების დართვა
+      kk: Әрекет етіңіз
+      ru: Разрешите действие
+      uk: Дозвольте дію
+    location_permission_message:
+      en: To control the car through the bluetooth, the application needs access to the current location
+      cs: Pro ovládání zařízení přes bluetooth aplikace potřebuje přístup k aktuální pozici
+      ka: მანქანის ბლუთუზით სამართავად საჭიროა წვდომა მიმდინარე ადგილმდებარეობაზე
+      kk: Автокөлікті блютуз арқылы басқару үшін, қосымшаны ағымдағы орынға қосу қажет.
+      ru: Для управления машиной через блютуз приложению необходим доступ к текущему местоположению.
+      uk: Для управління машиною через блютуз додатку необхідно доступ до місцеположення.
+    location_permission_error:
+      en: Access to location denied\n
+      cs: Přístup k pozici byl odepřen
+      ka: ადგილმდებარეობაზე წვდომა აკრძალულია
+      kk: Орналасқан жеріне қосылуға мүмкіндік жоқ
+      ru: Доступ к местоположению запрещен
+      uk: Доступ до місцеположення заборонено
+    bluetooth_permission_hint:
+      en: Open Permissions and grant the Location permission
+      cs: Otevřít Oprávnění a povolit Zjišťování polohy
+      ka: გახსენით ნებართვები და გააქტიურეთ ადგილმდებარეობაზე წვდომა
+      kk: Open Permissions and grant the Location permission
+      ru: Open Permissions and grant the Location permission
+      uk: Open Permissions and grant the Location permission
+    bluetooth_connect:
+      en: Connect to the car
+      cs: Připojte se k autu
+      ka: მანქანასთან  დაკავშირება
+      kk: Көлікке қосылу
+      ru: Подключиться к машине
+      uk: Підключитися до машини
+    request_enable_location_title:
+      en: Enable geolocation
+      cs: Zapněte geolokaci
+      ka: ჩართეთ ადგილმდებარეობა
+      kk: Геолокацияны қосыңыз
+      ru: Включите геолокацию
+      uk: Включити геолокацію
+    request_enable_location_message:
+      en: To control the car with bluetooth, you need to enable geolocation
+      cs: Chcete-li ovládat auto pomocí bluetooth, musíte povolit geolokaci
+      ka: მანქანის ბლუთუზით სამართავად საჭიროა ადგილმდებარეობის ჩართვა
+      kk: Көлікті блютуз арқылы жүргізу үшін, сізге геолокацияны қосу керек
+      ru: Для управления автомобилем с помощью блютуз необходимо включить геолокацию
+      uk: Для управління автомобілем за допомогою блютуз необхідно включити геолокацію
+    sign_in_greeting:
+      en: Welcome
+      cs: Vítejte
+      ka: მოგესალმებით!
+      kk: Қош келдіңіз
+      ru: Добро пожаловать
+      uk: Добро пожаловать
+    sign_in_phone_hint:
+      en: To start, enter your phone number
+      cs: Pro zahájení zadejte své telefonní číslo
+      ka: გთხოთ შეიყვანოთ ტელ.ნომერი
+      kk: Жұмысын бастау үшін телефон нөміріңізді енгізіңіз
+      ru: Для начала работы введите свой номер телефона
+      uk: Для начала работы введите свой номер телефона
+    sign_in_show_cars:
+      en: Show cars
+      cs: Prohlédněte si auta
+      ka: მაქანის დათვალიერება
+      kk: Автокөліктерді қарау
+      ru: Посмотреть автомобили
+      uk: Посмотреть автомобили
+    sign_in_continue:
+      en: Continue
+      cs: Pokračovat
+      ka: გაგრძელება
+      kk: Жалғастыру
+      ru: Продолжить
+      uk: Продолжить
+    sms_verification_title:
+      en: Enter authorization code
+      cs: Zadejte autorizační kód\n
+      ka: შეიყვანეთ დადასტრების კოდი
+      kk: Растау кодын енгізіңіз
+      ru: Введите код подтверждения
+      uk: Введите код подтверждения
+    sms_verification_subtitle:
+      en: received by SMS to the number
+      cs: SMS zpráva odeslána na číslo
+      ka: მიღებული SMS შეტყობინების სახით, ნომერზე
+      kk: нөмірге SMS арқылы жолданған
+      ru: полученный по SMS на номер
+      uk: полученный по SMS на номер
+    sms_code_recreate_hint:
+      en: You can resend the SMS within %s
+      cs: Opětovné zaslání SMS za %s vteřin
+      ka: 'შეგიძლიათ მოითხოვოთ ახალი კოდი '
+      kk: '%s кейін сіз жаңа SMS кодын сұрай аласыз'
+      ru: Вы можете запросить новое SMS c кодом через %s
+      uk: Вы можете запросить новое SMS c кодом через %s
+    sms_code_digit_placeholder:
+      en: •
+      cs: •
+      ka: •
+      kk: •
+      ru: •
+      uk: •
+    sms_code_hint_placeholder:
+      en: ••••••
+      cs: ••••••
+      ka: ••••••
+      kk: ••••••
+      ru: ••••••
+      uk: ••••••
+    sms_code_waiting_hint:
+      en: Sending sms with verification code
+      cs: Odeslání SMS s potvrzovacím kódem\n
+      ka: SMS-ის გაგზავნა დასტურის კოდით
+      kk: Растау коды бар SMS жолдау
+      ru: Отправка SMS с кодом подтверждения
+      uk: Отправка SMS с кодом подтверждения
+    sms_code_waiting_title:
+      en: Sms verification
+      cs: Ověřování SMS
+      ka: მოიცადეთ
+      kk: Күтіңіз
+      ru: Подождите
+      uk: Подождите
+    sign_in_dialog_error_title:
+      en: Authorization Error
+      cs: Chyba autorizace
+      ka: შეცდომა
+      kk: Аутентификация сәтсіз аяқталды
+      ru: Ошибка аутентификации
+      uk: Ошибка аутентификации
+    sign_in_dialog_wrong_code_message:
+      en: Invalid SMS code
+      cs: Neplatný kód SMS
+      ka: SMS კოდი არასწორია
+      kk: SMS код қате
+      ru: Неверный SMS код
+      uk: Неверный SMS код
+    sign_in_dialog_attempt_exceeded:
+      en: The number of attempts to enter SMS code has been exceeded
+      cs: Překročen povolený počet pokusů o zadání SMS
+      ka: SMS კოდების შეყვანის ლიმიტი მიღწეულია
+      kk: SMS-кодты енгізу әрекеттері таусылды, жаңа код сұраңыз
+      ru: Количество попыток ввода SMS кода исчерпаны, запросите новый код
+      uk: Количество попыток ввода SMS кода исчерпаны, запросите новый код
+    sign_in_dialog_code_expired:
+      en: SMS code expired
+      cs: Platnost SMS kódu vypršela
+      ka: SMS კოდი ვადაგასულია
+      kk: SMS код мерзімі кешіктірілген
+      ru: SMS код просрочен
+      uk: SMS код просрочен
+    resend_code_button_label:
+      en: Get the authorization code again
+      cs: Znovu odeslat autorizační kód
+      ka: კოდის ხელახლა მიღება
+      kk: Кодты қайтадан алу
+      ru: Получить код еще раз
+      uk: Получить код еще раз
+    count_image_photo_rent:
+      en: The limit for this category of photos has been reached
+      cs: Byl dosažen limit fotografií v této kategorii
+      ka: მიღწეულია ამ კატეგორიის სურათების ლიმიტი
+      kk: sadasd
+      ru: Достигнут лимит фотографий этой категории
+      uk: Достигнут лимит фотографий этой категории
+    start_rent:
+      en: Start the rent
+      cs: Zahájit pronájem
+      ka: ქირაობის დაწყება
+      kk: Жалға алуды бастау
+      ru: Начать аренду
+      uk: Начать аренду
+    finish_book:
+      en: Cancel the reservation
+      cs: Zrušit
+      ka: ჯავშნის გაუქმება
+      kk: Брондаудан бас тарту
+      ru: Отменить бронь
+      uk: Отменить бронь
+    agreement:
+      en: I accept
+      cs: Souhlasím
+      ka: ვეთანხმები პირობებს
+      kk: Мен шарттарды қабылдаймын
+      ru: Принимаю условия
+      uk: Принимаю условия
+    promo_checkout:
+      en: promo checkout
+      cs: promo_checkout
+      ka: promo_checkout
+      kk: promo checkout
+      ru: promo checkout
+      uk: promo checkout
+    inspect_open_title:
+      en: Open the car?
+      cs: Otevřít auto?
+      ka: გავხსნათ?
+      kk: Автокөлікті ашайын ба?
+      ru: Открыть машину?
+      uk: Открыть машину?
+    inspect_open_message:
+      en: You will have %1$s%2$d free minutes%3$s to inspect the car
+      cs: Budete mít %1$s %2$d minuty zdarma%3$s na kontrolu stavu vozidla
+      ka: თქვენ გექნებათ %1$s %2$d %3$s უფასო წუთი მანქანის დასათვარიელებლად
+      kk: Автокөлікті қарау үшін сізде %1$s %2$d %3$s, тегін минут болады.
+      ru: У вас будет %1$s %2$d бесплатных минут%3$s, чтобы осмотреть автомобиль.
+      uk: У вас будет %1$s %2$d бесплатных минут%3$s, чтобы осмотреть автомобиль.
+    inspect_open_text_button:
+      en: Open
+      cs: Otevřít
+      ka: გაღება
+      kk: Ашу
+      ru: Открыть
+      uk: Открыть
+    inspect_reject_title:
+      en: Car Inspection
+      cs: Prohlídka vozidla
+      ka: მანქანის დათვალიერება
+      kk: Автокөлікті тексеру
+      ru: Осмотр автомобиля
+      uk: Осмотр автомобиля
+    inspect_first_text:
+      en: Are there any new damages?
+      cs: Vidíte nějaká nová poškození?
+      ka: არის ახალი დაზიანება?
+      kk: Жаңа зақымданған жерлері бар ма?
+      ru: Есть ли новые повреждения?
+      uk: Есть ли новые повреждения?
+    inspect_third_text:
+      en: Can start the rent?
+      cs: Je auto pojízdné?
+      ka: შესაძლებელია მოძრაობა?
+      kk: Жүруге бола ма?
+      ru: Можно ехать?
+      uk: Можно ехать?
+    inspect_fail_reject:
+      en: Report problem
+      cs: Nahlásit potíže
+      ka: შეტყობინება პრობლემაზე
+      kk: Мәселені хабарлау
+      ru: Сообщить о проблеме
+      uk: Сообщить о проблеме
+    inspect_ok_reject:
+      en: OK, continue
+      cs: Vše je v pořádku, pokračovat
+      ka: ყველაფერი რიგზეა, გაგრძელება
+      kk: Барлығы дұрыс болса, жалғастырыңыз
+      ru: Все ОК, продолжить
+      uk: Все ОК, продолжить
+    inspect_lost_timer:
+      en: ' %1$s  free minutes left'
+      cs: ' zůstává %1$s  volných minut'
+      ka: დარჩენილია %1$s უფასო წუთი
+      kk: ' %1$s тегін минуттар қалды'
+      ru: Осталось %1$s  бесплатных минут
+      uk: Осталось %1$s  бесплатных минут
+    inspect_lost_timer_1:
+      en: ' %1$s  free minute left'
+      cs: ' zůstává %1$s volných minut'
+      ka: დარჩენილია %1$s უფასო წუთი
+      kk: '%1$s тегін минут қалды'
+      ru: Осталось %1$s  бесплатная минута
+      uk: Осталось %1$s  бесплатная минута
+    inspect_lost_timer_4:
+      en: ' %1$s  free minutes left'
+      cs: ' zůstává %1$s volných minut'
+      ka: დარჩენილია %1$s უფასო წუთი
+      kk: '%1$s  тегін минуттар қалды'
+      ru: Осталось %1$s  бесплатные минуту
+      uk: Осталось %1$s  бесплатные минуту
+    inspect_title_bar:
+      en: Free car inspection
+      cs: Prohlídka stavu vozidla
+      ka: ავტომობილის უფასო დათვალიერება
+      kk: Бесплатный осмотр автомобиля
+      ru: Бесплатный осмотр автомобиля
+      uk: Бесплатный осмотр автомобиля
+    reject_bad:
+      en: Bad
+      cs: Špatný
+      ka: ცუდი
+      kk: Жаман
+      ru: Плохое
+      uk: Плохое
+    reject_good:
+      en: Good
+      cs: Dobrý
+      ka: კარგი
+      kk: Жақсы
+      ru: Хорошее
+      uk: Хорошее
+    registration_user:
+      en: Registration User
+      cs: Registrace uživatele
+      ka: registration_user
+      kk: Registration User
+      ru: Registration User
+      uk: Registration User
+    booking_car:
+      en: Book a car
+      cs: Rezervovat
+      ka: booking_car
+      kk: Book a car
+      ru: Забронируйте автомобиль
+      uk: Book a car
+    walk_routy:
+      en: Build a route
+      cs: Vygenerovat trasu pomocí
+      ka: მარშრუტის შედგენა
+      kk: Построить маршрут
+      ru: Построить маршрут
+      uk: Построить маршрут
+    finish_rent_end:
+      en: Finish the rent
+      cs: Ukončit
+      ka: მანქანის დაკეტვა
+      kk: Закрытие автомобиля
+      ru: Закрытие автомобиля
+      uk: Закрытие автомобиля
+    finish_rent_end_btn:
+      en: Finish
+      cs: Dokončit
+      ka: დასრულება
+      kk: Завершить
+      ru: Завершить
+      uk: Завершить
+    privace_policy:
+      en: Privacy policy
+      cs: Zásady ochrany osobních údajů
+      ka: კონფიდენციალობის პოლიტიკა
+      kk: Политика конфидециальности
+      ru: Политика конфидециальности
+      uk: Политика конфидециальности
+    video_fix:
+      en: Video surveillance can be done in the car
+      cs: Ve vozidle může být kamerový záznam
+      ka: მანქანაში შესაძლებელია მიმდინარეობდეს ვიდეო კონტროლი
+      kk: В автомобиле может вестись видеонаблюдение
+      ru: В автомобиле может вестись видеонаблюдение
+      uk: В автомобиле может вестись видеонаблюдение
+    nav_menu_cards:
+      en: Payment
+      cs: Platební karty
+      ka: საბანკო ბარათები
+      kk: Банктік карталар
+      ru: Банковские карты
+      uk: Банковские карты
+    nav_menu_rates:
+      en: Rates
+      cs: Ceny a balíčky
+      ka: ტარიფები
+      kk: Тарифтер
+      ru: Тарифы
+      uk: Тарифы
+    nav_menu_bonuses:
+      en: Free rides
+      cs: Jízdy zdarma
+      ka: უფასო მგზავრობა
+      kk: Тегін саяхат
+      ru: Бесплатные поездки
+      uk: Бесплатные поездки
+    nav_menu_rules:
+      en: Rules
+      cs: Pravidla
+      ka: წესები
+      kk: Ережелер
+      ru: Правила
+      uk: Правила
+    nav_menu_contacts:
+      en: Contacts
+      cs: Kontakty
+      ka: კონტაქტი
+      kk: Бізбен байланысыңыз
+      ru: Контакты
+      uk: Контакты
+    nav_menu_help:
+      en: FAQ
+      cs: Časté dotazy
+      ka: დახმარება
+      kk: Көмек
+      ru: FAQ
+      uk: Помощь
+    nav_menu_about:
+      en: About
+      cs: O programu
+      ka: პროგრამის შესახებ
+      kk: бағдарлама туралы
+      ru: О программе
+      uk: О программе
+    bonuses_kz:
+      en: Bonus account
+      cs: Bonusy
+      ka: საბონუსე ანგარიში
+      kk: Бонустық шот
+      ru: Бонусный счет
+      uk: Бонусный счет
+    title_login:
+      en: By continuing, you agree to the terms of use and consent to the processing of your personal data
+      cs: Pokračováním souhlasíte s podmínkami používání a souhlasíte se zpracováním vašich osobních údajů
+      ka: გაგრძელებით, თქვენ ეთანხმებით გამოყენების პირობებს და აცხადებთ თანხმობას პირადი მონაცემების დამუშავებაზე
+      kk: Жалғастыру арқылы <b> пайдалану шарттарына </b> келісесіз және <b> сіздің жеке деректеріңізді өңдеуге келісім бересіз </b>
+      ru: Продолжая, вы соглашаетесь с условиями использования и даете согласие на обработку Ваших персональных данных
+      uk: Продолжая, вы соглашаетесь с условиями использования и даете согласие на обработку Ваших персональных данных
+    login:
+      en: Login and registration
+      cs: Přihlášení a registrace
+      ka: შესვლა და რეგისტრაცია
+      kk: Кіру және тіркеу
+      ru: Вход и регистрация
+      uk: Вход и регистрация
+    enter_phone:
+      en: Enter your phone number
+      cs: Zadejte vaše telefonní číslo
+      ka: შეიყვანეთ ტელეფონის ნომერი
+      kk: Телефон нөміріңізді енгізіңіз
+      ru: Введите ваш номер телефона
+      uk: Введите ваш номер телефона
+    sign_in_send:
+      en: Send code
+      cs: Odeslat kód
+      ka: კოდის გაგზავნა
+      kk: Кодты жіберіңіз
+      ru: Отправить код
+      uk: Отправить код
+    title_trips:
+      en: Rides
+      cs: Jízdy
+      ka: მარშრუტები
+      kk: Сапарлар
+      ru: Поездки
+      uk: Поездки
+    title_promo:
+      en: Voucher
+      cs: Poukázky
+      ka: პრომო კოდი
+      kk: Жарнамалық кодекс
+      ru: Сертификат
+      uk: Промо код
+    active_status:
+      en: Active
+      cs: Aktivní
+      ka: აქტიურია
+      kk: Белсенді
+      ru: Активен
+      uk: Активен
+    reject_car_defect:
+      en: Body of the car is damaged
+      cs: Karoserie je poškozená
+      ka: მანქანა დაზიანებულია
+      kk: Дене зақымдалған
+      ru: Кузов поврежден
+      uk: Кузов поврежден
+    reject_car_flat:
+      en: Glass is broken
+      cs: Okno je rozbité
+      ka: მინა გატეხილია
+      kk: Шыны сынған
+      ru: Стекло разбито
+      uk: Стекло разбито
+    reject_car_bus:
+      en: Tire is flat
+      cs: Pneumatika je prázdná
+      ka: საბურავი დაშვებულია
+      kk: Доңғалақ құлады
+      ru: Шина спущена
+      uk: Шина спущена
+    reject_car_dirt:
+      en: Car is dirty
+      cs: Auto je špinavé
+      ka: მანქანა არ არის სუფთა
+      kk: Лас автомобиль
+      ru: Машина грязная
+      uk: Машина грязная
+    reject_car_comment:
+      en: Comment
+      cs: Komentář
+      ka: კომენტარები
+      kk: Түсініктеме
+      ru: Комментарий
+      uk: Комментарий
+    terms_text:
+      en: Terms of use
+      cs: Podmínky užívání služby
+      ka: გამოყენების პირობები
+      kk: Пайдалану шарттары
+      ru: Условия использования
+      uk: Условия использования
+    cancel_book:
+      en: Cancel the reservation
+      cs: Zrušit
+      ka: ჯავშნის გაუქმება
+      kk: Брондауды болдырмау
+      ru: Отменить бронь
+      uk: Отменить бронь
+    data_user:
+      en: Consent to the processing of personal data
+      cs: Souhlasím se zpracováním Vašich osobních údajů
+      ka: თანხმობა პირად მონაცემთა დამუშავებაზე
+      kk: Жеке деректерді өңдеуге келісім
+      ru: Согласие на обработку персональных данных
+      uk: Согласие на обработку персональных данных
+    chat_title:
+      en: СUSTOMER CHAT
+      cs: Client chat
+      ka: ჩატი
+      kk: ЧАТ КЛИЕНТОВ
+      ru: ЧАТ КЛИЕНТОВ
+      uk: ЧАТ КЛИЕНТОВ
+    title_after:
+      en: Are you a Delimobil/Anytime customer?\n
+      cs: Jste zákazník Delimobil/Anytime?
+      ka: ხართ ქარშეარინგის მომხმარებელი?
+      kk: Являетесь ли Вы клиентом Делимобиль?
+      ru: Являетесь ли Вы клиентом Делимобиль?
+      uk: Являетесь ли Вы клиентом Делимобиль?
+    title_import:
+      en: Do you agree to the cross-border transfer of your personal data?
+      cs: Souhlasíte s přeshraničním přenosem vašich osobních údajů?
+      ka: თანახმა ხართ მონაცემების საზღვარგარეთ გადაცემაზე?
+      kk: Согласны ли Вы на трансграничную передачу ваших персональных данных?
+      ru: Согласны ли Вы на трансграничную передачу ваших персональных данных?
+      uk: Согласны ли Вы на трансграничную передачу ваших персональных данных?
+    passportNumber:
+      en: ID card number
+      cs: Číslo občanského průkazu
+      ka: პასპორტის ნომერი
+      kk: ID card number
+      ru: Номер паспорта
+      uk: ID card number
+    passportDate:
+      en: Date of issue of ID card
+      cs: Datum vydání OP
+      ka: პასპორტის თარიღი
+      kk: Date of issue of ID card
+      ru: Дата выдачи паспорта
+      uk: Date of issue of ID card
+    passportIssued:
+      en: Issued by
+      cs: Vydáno kým
+      ka: პასპორტის გაცემის თარიღი
+      kk: Issued by
+      ru: Кем выдан паспорт
+      uk: Issued by
+    driversLicenceNumber:
+      en: Driver's license number
+      cs: Číslo řidičského průkazu
+      ka: მართვის მოწმობის ნომერი
+      kk: Driver's license number
+      ru: Номер ВУ
+      uk: Driver's license number
+    driversLicenceDate:
+      en: Date of issue of driver's license
+      cs: Datum vydání řidičského průkazu
+      ka: მართვის მოწმობის გაცემის თარიღი
+      kk: Date of issue of driver's license
+      ru: Дата выдачи ВУ
+      uk: Date of issue of driver's license
+    driverSince:
+      en: Start date of driving experience\n
+      cs: Řidičská praxe od
+      ka: ტარების გამოცდილება
+      kk: Start date of driving experience\n
+      ru: Стаж вождения с
+      uk: Start date of driving experience\n
+    birthDate:
+      en: Date of birth
+      cs: Datum narození
+      ka: დაბადების თარიღი
+      kk: Date of birth
+      ru: Дата рождения
+      uk: Date of birth
+    title_dialog_select_disabled:
+      en: Turn off service
+      cs: Vypnout službu
+      ka: მომსახურების გამორთვა
+      kk: Turn off service
+      ru: Отключить услугу
+      uk: Turn off service
+    title_dialog_select_enabled:
+      en: Enable service
+      cs: Zapnout službu
+      ka: მომსახურების ჩართვა
+      kk: Enable service
+      ru: Включить услугу
+      uk: Enable service
+    bank_cards_can_not:
+      en: During the rent you can not remove a bank card\n
+      cs: Během pronájmu nemůžete odstranit platební  kartu
+      ka: ქირაობისას ვერ წაშლით ბარათს
+      kk: 'Жалға алу кезінде банк картасын жою мүмкін емес '
+      ru: Во время аренды вы не можете удалить банковскую карту
+      uk: Во время аренды вы не можете удалить банковскую карту
+    inspect_lost_time:
+      en: Free minutes left\n
+      cs: Zůstává volných minut
+      ka: უფასო წუთების დარჩენილი რაოდენობა
+      kk: Тегін минуттар қалды
+      ru: Осталось  бесплатных минут
+      uk: Осталось  бесплатных минут
+    inspect_total:
+      en: Inspection %1$s %2$s
+      cs: Prohlídka %1$s %2$s
+      ka: შემოწმება %1$s %2$s
+      kk: Қарау %1$s %2$s
+      ru: Осмотр %1$s %2$s
+      uk: Осмотр %1$s %2$s
+    title_select_region:
+      en: Choose your city
+      cs: Vyberte Vaše město
+      ka: აირჩიეთ ქალაქი
+      kk: Choose your city
+      ru: 'Выберите ваш город '
+      uk: Choose your city
+    title_region:
+      en: 'City:'
+      cs: 'Město:'
+      ka: 'ქალაქი:'
+      kk: 'City:'
+      ru: 'Город:'
+      uk: 'City:'
+    title_change_region:
+      en: Change city
+      cs: Změnit město
+      ka: შეცვალეთ ქალაქი
+      kk: Change city
+      ru: Изенить город
+      uk: Change city
+    title_your_city:
+      en: Are you in
+      cs: Jste v
+      ka: თქვენ იმყოფებით ქალაქში
+      kk: Are you in
+      ru: 'Вы находитесь в городе '
+      uk: Are you in
+    user_agreement:
+      en: User Agreement
+      cs: Uživatelská smlouva
+      ka: ხელშეკრულება
+      kk: User Agreement
+      ru: Пользовательское соглашение
+      uk: User Agreement
+    enebled_title:
+      en: Enabled
+      cs: Zapnuto
+      ka: ჩართულია
+      kk: Enabled
+      ru: Включено
+      uk: Enabled
+    turned_off_title:
+      en: Turned off
+      cs: Vypnuto
+      ka: გამორთულია
+      kk: Turned off
+      ru: Выключено
+      uk: Turned off
+    cannot_switch:
+      en: Cannot switch rate during your rent
+      cs: Nelze přepínat mezi tarify v průběhu nájmu
+      ka: შეკვეთისას ტარიფის შეცვლა შეუძლებელია
+      kk: Cannot switch rate during your rent
+      ru: Нельзя переключать тарифные опции во время заказа
+      uk: Cannot switch rate during your rent
+    fuel_indicator_progress_hint:
+      en: Charging
+      cs: Nabíjí se
+      ka: იტენება
+      kk: Charging
+      ru: Заряжается
+      uk: Charging
+    within_hours:
+      en: hour
+      cs: hodin
+      ka: საათი
+      kk: сағат
+      ru: часа
+      uk: години
+    minutes:
+      en: minutes
+      cs: minut
+      ka: წუთები
+      kk: минут
+      ru: минут
+      uk: хвилина
+    app_rating_email_subject:
+      en: 'Application feedback: %d stars\n'
+      cs: 'Hodnocení aplikace: %d hvězdiček'
+      ka: 'აპლიკაციის შეფასება: %d ვარსკვლავი'
+      kk: 'Application feedback: %d stars\n'
+      ru: 'Отзыв о приложении: %d звезд'
+      uk: 'Відгук про додаток: %d зірка'
+    show_count_cars_filtered:
+      en: SHOW %1$d CARS
+      cs: UKÁZAT %1$d VOZIDEL
+      ka: '%1$d მანქანის ნახვა'
+      kk: SHOW %1$d CARS
+      ru: ПОКАЗАТЬ %1$d АВТОМОБИЛЕЙ
+      uk: SHOW %1$d CARS
+    car_filter_header:
+      en: Car filter
+      cs: Filtr dle vozů
+      ka: მანქანების ფილტრი
+      kk: Car filter
+      ru: Фильтр по машинам
+      uk: Car filter
+    licence_agreement_title:
+      en: Licence agreement
+      cs: Licenční smlouva\n
+      ka: ლიცენზირებული თანხმობა
+      kk: Licence agreement
+      ru: Лицензионное соглашение
+      uk: Licence agreement
+    is_default_card_message:
+      en: Main card
+      cs: Hlavní karta
+      ka: ძირითადი ბარათი
+      kk: Main card
+      ru: Основная карта
+      uk: Main card
+    webview_update_dialog_message:
+      en: Your WebView provider is currently out of date. We recommend that you update to the latest version before continuing.
+      cs: Váš internetový prohlížeč je zastaralý. Než budete pokračovat, doporučujeme Vám stáhnout poslední verzi prohlížeče.
+      ka: თქვენი WebView პროვაიდერი ამჟამად ვადაგასულია. გირჩევთ გაგრძელებამდე, განაახლოთ ბოლო ვერსიამდე.
+      kk: Your WebView provider is currently out of date. We recommend that you update to the latest version before continuing.
+      ru: Your WebView provider is currently out of date. We recommend that you update to the latest version before continuing.
+      uk: Your WebView provider is currently out of date. We recommend that you update to the latest version before continuing.
+    webview_update_go_to_play_store:
+      en: Take me to the Play Store
+      cs: Navštívit Play Store
+      ka: Play Store-ზე გადაყვანა
+      kk: Take me to the Play Store
+      ru: Take me to the Play Store
+      uk: Take me to the Play Store
+    webview_will_update_manually:
+      en: I will update my WebView<
+      cs: I zaktualizuje můj webový prohlížeč<
+      ka: I will update my WebView<
+      kk: I will update my WebView<
+      ru: I will update my WebView<
+      uk: I will update my WebView<
+    signup_validation_error:
+      en: Please fill the form
+      cs: Vyplňte prosím pole registračního formuláře
+      ka: გთხოვთ, შეავსოთ სარეგისტრაციო ფორმა
+      kk: Please fill the form
+      ru: Пожалуйста, заполните поля формы регистрации
+      uk: Please fill the form
+    i_agree_with_terms_of_use:
+      en: I agree with Terms of use of the app
+      cs: Souhlasím s Podmínkami použití aplikace
+      ka: ვეთანხმები აპლიკაციის გამოყენების წესებს
+      kk: I agree with Terms of use of the app
+      ru: Я согласен с Условиями использования приложения
+      uk: I agree with Terms of use of the app
+    i_give_consent_to_process_personal_data:
+      en: I give consent to my personal data processing
+      cs: Souhlasím se zpracováním osobních údajů
+      ka: გაძლევთ თანხმობას ჩემი პირადი მონაცემების დამუშავებაზე
+      kk: I give consent to my personal data processing
+      ru: Я даю согласие на обработку моих персональных данных
+      uk: I give consent to my personal data processing
+    ride_is_complete:
+      en: Rent finished
+      cs: Pronájem ukončen
+      ka: მგზავრობა დასრულებულია
+      kk: Rent finished
+      ru: Аренда завершена
+      uk: Rent finished
+    chat_with_support:
+      en: Chat with support
+      cs: Chat se Zákaznickou podporou
+      ka: დაკავშირება ტექ. სამსახურთან
+      kk: Chat with support
+      ru: Чат поддержки
+      uk: Chat with support
+    checkout_existing_damages:
+      en: Checkout existing damages
+      cs: Ověřit existující poškození
+      ka: იხილეთ არსებული დაზიანებები
+      kk: Checkout existing damages
+      ru: Ознакомьтесь с повреждениями
+      uk: Checkout existing damages
+    do_you_want_to_tell_us_more:
+      en: Do you want to tell us more?
+      cs: Chcete nám říct víc?
+      ka: გსურთ ჩვენთვის რაიმეს შეტყობინება?
+      kk: Do you want to tell us more?
+      ru: Вы хотите сообщить нам о чём-то ещё?
+      uk: Do you want to tell us more?
+    rate_selection:
+      en: Rate selection
+      cs: Výběr tarifu
+      ka: ტარიფის არჩევა
+      kk: Rate selection
+      ru: Выбор тарифа
+      uk: Rate selection
+    car_filled_smoke:
+      en: The car is filled with smoke
+      cs: Auto je cítit kouřem
+      ka: მანქანაში სიგარეტის სუნია
+      kk: The car is filled with smoke
+      ru: Накурено в салоне
+      uk: The car is filled with smoke
+    car_dirty:
+      en: The car is dirty
+      cs: Auto je špinavé
+      ka: მანქანა დაბინძურებულია
+      kk: The car is dirty
+      ru: Автомобиль грязный
+      uk: The car is dirty
+    no_documents:
+      en: No documents
+      cs: Žádné dokumenty
+      ka: არ არის დოკუმენტები
+      kk: No documents
+      ru: Нет документов
+      uk: No documents
+    unable_to_drive:
+      en: Car cannot drive
+      cs: Unable to drive
+      ka: ავტომობილი არ იძვრება
+      kk: Car cannot drive
+      ru: Нельзя ехать
+      uk: Car cannot drive
+    a_comment:
+      en: A comment
+      cs: Komentář
+      ka: კომენტარი
+      kk: A comment
+      ru: Комментарий
+      uk: A comment
+    notify_damages:
+      en: Notify us about new damages
+      cs: Informujte nás o novém poškození
+      ka: შეგვატყობინეთ ახალი დაზიანების შესახებ
+      kk: Notify us about new damages
+      ru: Зафиксируйте новые недостатки
+      uk: Notify us about new damages
+    contact_operator:
+      en: Contact customer care service
+      cs: Kontaktujte zákaznickou podporu
+      ka: ოპერატორთან დაკავშირება
+      kk: Contact customer care service
+      ru: Связаться с оператором
+      uk: Contact customer care service
+    support_dialog:
+      en: Support
+      cs: Zákaznická podpora
+      ka: დახმარება
+      kk: Support
+      ru: Техподдержка
+      uk: Support
+    support_dialog_text:
+      en: Call to support?
+      cs: Volat zákaznickou podporu?
+      ka: გსურთ ტექ. სამსახურთან დარეკვა?
+      kk: Call to support?
+      ru: Позвонить в службу технической поддержки?
+      uk: Call to support?
+    cancel_reservation:
+      en: Do you want to cancel the reservation?
+      cs: Chcete zrušit rezervaci?
+      ka: გსურთ ჯავშნის გაუქმება?
+      kk: Do you want to cancel the reservation?
+      ru: Отменить бронирование?
+      uk: Do you want to cancel the reservation?
+    dialog_ok:
+      en: OK
+      cs: OK
+      ka: კარგი
+      kk: OK
+      ru: OK
+      uk: OK
+    everything_is_ok:
+      en: All ok, continue
+      cs: Vše ok, pokračovat
+      ka: 'ყველაფერი წესრიგშია,გაგრზელება '
+      kk: All ok, continue
+      ru: Всё ОК, продолжить
+      uk: All ok, continue
+    defectsEmail:
+      en: '@string/supportEmail'
+      cs: '@string/supportEmail'
+      ka: '@string/supportEmail'
+      kk: '@string/supportEmail'
+      ru: '@string/supportEmail'
+      uk: '@string/supportEmail'
+    telegramBotContact:
+      en: BotNotAvailable_bot
+      cs: BotNotAvailable_bot
+      ka: BotNotAvailable_bot
+      kk: BotNotAvailable_bot
+      ru: BotNotAvailable_bot
+      uk: BotNotAvailable_bot
+    total_trip:
+      en: Total trip
+      cs: Jízda celkem
+      ka: მთლიანი მგზავრობა
+      kk: Total trip
+      ru: Вся поездка
+      uk: Total trip
+    share:
+      en: Share
+      cs: Sdílet
+      ka: გაზიარება
+      kk: Share
+      ru: Поделиться
+      uk: Share
+    tech_menu:
+      en: Tech menu
+      cs: Technické menu
+      ka: Tech menu
+      kk: Tech menu
+      ru: Tech menu
+      uk: Tech menu
+    log_out:
+      en: Log out
+      cs: Odhlásit
+      ka: Log out
+      kk: Log out
+      ru: Log out
+      uk: Log out
+    customServer:
+      en: Custom server
+      cs: Vlastní server
+      ka: Custom server
+      kk: Custom server
+      ru: Локальный сервер
+      uk: Custom server
+    faultWindow:
+      en: '* Fault window (photos are not sent) \ n * Extras. markers (parking, refueling, etc.)'
+      cs: '* Chybové zpráva (fotografie nebyly odeslány) \n * '
+      ka: '* Fault window (photos are not sent) \ n * Extras. markers (parking, refueling, etc.)'
+      kk: '* Fault window (photos are not sent) \ n * Extras. markers (parking, refueling, etc.)'
+      ru: '*Окно неисправностей (фотографии не отправляются)\n*Доп. маркеры (парковки, заправки и т.д.)'
+      uk: '* Fault window (photos are not sent) \ n * Extras. markers (parking, refueling, etc.)'
+    testCarTrek:
+      en: Test Anytime
+      cs: Test Anytime
+      ka: Test Anytime
+      kk: Test Anytime
+      ru: Test Anytime
+      uk: Test Anytime
+    enableTechMode:
+      en: Enable tech mode
+      cs: Povolit technické menu
+      ka: Enable tech mode
+      kk: Enable tech mode
+      ru: Enable tech mode
+      uk: Enable tech mode
+    enableBetaFunctions:
+      en: Enable beta functions
+      cs: Povolit funkce beta
+      ka: Enable beta functions
+      kk: Enable beta functions
+      ru: Enable beta functions
+      uk: Enable beta functions
+    add_a_card:
+      en: Add a card
+      cs: PŘIDAT KARTU
+      ka: Add a card
+      kk: Add a card
+      ru: Добавить карту
+      uk: Add a card
+    enter_card_details:
+      en: Enter card details
+      cs: Enter card details
+      ka: Enter card details
+      kk: Enter card details
+      ru: Введите данные карты
+      uk: Enter card details
+    scan_card:
+      en: Scan card
+      cs: Scan card
+      ka: Scan card
+      kk: Scan card
+      ru: Scan card
+      uk: Scan card
+    card_number:
+      en: Number
+      cs: Number
+      ka: Number
+      kk: Number
+      ru: Номер карты
+      uk: Number
+    expiration_date:
+      en: 'Expiration date in format: MM/YY'
+      cs: 'Expiration date in format: MM/YY'
+      ka: 'Expiration date in format: MM/YY'
+      kk: 'Expiration date in format: MM/YY'
+      ru: 'Срок действия в формате: ММ/ГГ'
+      uk: 'Expiration date in format: MM/YY'
+    card_name:
+      en: Holder's name
+      cs: Holder's name
+      ka: Holder's name
+      kk: Holder's name
+      ru: Holder's name
+      uk: Holder's name
+    cvv_code:
+      en: CVV code
+      cs: CVV code
+      ka: CVV code
+      kk: CVV code
+      ru: CVV код
+      uk: CVV code
+    please_enter_16_digits:
+      en: Please enter a valid card number
+      cs: Please enter a valid card number
+      ka: Please enter a valid card number
+      kk: Please enter a valid card number
+      ru: Please enter a valid card number
+      uk: Please enter a valid card number
+    please_enter_date:
+      en: Please enter date as MM/YY
+      cs: Please enter date as MM/YY
+      ka: Please enter date as MM/YY
+      kk: Please enter date as MM/YY
+      ru: Please enter date as MM/YY
+      uk: Please enter date as MM/YY
+    please_enter_3_or_4_digits:
+      en: Please enter 3 or 4 digits
+      cs: Please enter 3 or 4 digits
+      ka: Please enter 3 or 4 digits
+      kk: Please enter 3 or 4 digits
+      ru: Please enter 3 or 4 digits
+      uk: Please enter 3 or 4 digits
+    please_enter_a_name:
+      en: Please enter a name
+      cs: Please enter a name
+      ka: Please enter a name
+      kk: Please enter a name
+      ru: Please enter a name
+      uk: Please enter a name
+    send_system_log:
+      en: Send system log
+      cs: Send system log
+      ka: Send system log
+      kk: Send system log
+      ru: Send system log
+      uk: Send system log
+    telegram_chat:
+      en: Telegram chat
+      cs: Telegram chat
+      ka: Users chat
+      kk: Telegram chat
+      ru: Чат в Telegram
+      uk: Telegram chat
+    getDirections:
+      en: Get directions
+      cs: Get directions
+      ka: Get directions
+      kk: Get directions
+      ru: Построить маршрут
+      uk: Get directions
+    fuelLeft:
+      en: fuel left
+      cs: fuel left
+      ka: fuel left
+      kk: fuel left
+      ru: топливо
+      uk: fuel left
+    ok:
+      en: OK
+      cs: OK
+      ka: OK
+      kk: OK
+      ru: ОК
+      uk: OK
+    unknown_error:
+      en: An unknown error occurred
+      cs: An unknown error occurred
+      ka: An unknown error occurred
+      kk: An unknown error occurred
+      ru: An unknown error occurred
+      uk: An unknown error occurred
+    news_title:
+      en: NEWS
+      cs: NEWS
+      ka: NEWS
+      kk: NEWS
+      ru: НОВОСТИ
+      uk: NEWS
+    copy_marketing_info:
+      en: Copy marketing info
+      cs: Copy marketing info
+      ka: Copy marketing info
+      kk: Copy marketing info
+      ru: Copy marketing info
+      uk: Copy marketing info
+    card_already_added:
+      en: This card is already added to your account
+      cs: This card is already added to your account
+      ka: This card is already added to your account
+      kk: This card is already added to your account
+      ru: This card is already added to your account
+      uk: This card is already added to your account
+    private_trip:
+      en: Private trip
+      cs: Private trip
+      ka: Private trip
+      kk: Private trip
+      ru: Частная поездка
+      uk: Private trip
+    park_car_photo_dialog:
+      en: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
+      cs: Než ukončíte pronájem:\n- Prepněte převodovku do polohy \"P\"\n- Zatáhněte ruční brzdu\n- Vypněte světla (i v interiéru)\n- Zavřete okna a dveře\n- Vyfoťte celé auto
+      ka: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
+      kk: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
+      ru: Пожалуйста, проверьте что:\n- Машина поставлена на ручной тормоз.\n- Все окна закрыты.\n- Фары выключены.\n- Свет в салоне выключен.\n- Селектор АКПП находится в положении P, либо рычаг МКПП находится в нейтральном положении.
+      uk: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
+    parkButton:
+      en: Park
+      cs: Zavřít auto
+      ka: Park
+      kk: Park
+      ru: Закрыть машину
+      uk: Park
+    finishRide:
+      en: Are you sure you want to finish your ride?
+      cs: Určitě chcete dokončit nájem?
+      ka: Are you sure you want to finish your ride?
+      kk: Are you sure you want to finish your ride?
+      ru: Вы уверены, что хотите завершить аренду?
+      uk: Are you sure you want to finish your ride?
+    tutorial_skip:
+      en: Skip
+      cs: Skip
+      ka: Skip
+      kk: Skip
+      ru: Пропустить
+      uk: Skip
+    tutorial_next:
+      en: Next
+      cs: Next
+      ka: Next
+      kk: Next
+      ru: Далее
+      uk: Next
+    tutorial_0_text:
+      en: Sign up
+      cs: Sign up
+      ka: Sign up
+      kk: Sign up
+      ru: Зарегистируйтесь
+      uk: Sign up
+    tutorial_0_description:
+      en: Make a registration and attach a payment card. After check up your account will be activated
+      cs: Make a registration and attach a payment card. After check up your account will be activated
+      ka: Make a registration and attach a payment card. After check up your account will be activated
+      kk: Make a registration and attach a payment card. After check up your account will be activated
+      ru: Пройдите регистрацию за пару минут и прикрепите банковскую карту. После проверки вашего аккаунта ваш профиль активируется.
+      uk: Make a registration and attach a payment card. After check up your account will be activated
+    tutorial_1_text:
+      en: Book a car
+      cs: Book a car
+      ka: Book a car
+      kk: Book a car
+      ru: Бронируйте автомобиль
+      uk: Book a car
+    tutorial_1_description:
+      en: Find nearest car on the map and book it. You'll have 20 free minutes to reach it and observe
+      cs: Find nearest car on the map and book it. You'll have 20 free minutes to reach it and observe
+      ka: Find nearest car on the map and book it. You'll have 20 free minutes to reach it and observe
+      kk: Find nearest car on the map and book it. You'll have 20 free minutes to reach it and observe
+      ru: Найдите на карте ближайшую машину и забронируйте ее. У вас будет 20 бесплатных минут чтобы добраться до нее и осмотреть.
+      uk: Find nearest car on the map and book it. You'll have 20 free minutes to reach it and observe
+    tutorial_2_text:
+      en: Commit the trips
+      cs: Commit the trips
+      ka: Commit the trips
+      kk: Commit the trips
+      ru: Совершайте поездки
+      uk: Commit the trips
+    tutorial_2_description:
+      en: Book the car using per minute or per day tariff with profitable price. Control your trips within permitted zone
+      cs: Book the car using per minute or per day tariff with profitable price. Control your trips within permitted zone
+      ka: Book the car using per minute or per day tariff with profitable price. Control your trips within permitted zone
+      kk: Book the car using per minute or per day tariff with profitable price. Control your trips within permitted zone
+      ru: Арендуйте автомобиль поминутно или посуточно по выгодным тарифам. Корректируйте свои поездки в рамках разрешенной зоны.
+      uk: Book the car using per minute or per day tariff with profitable price. Control your trips within permitted zone
+    tutorial_3_text:
+      en: Complete the trip
+      cs: Complete the trip
+      ka: Complete the trip
+      kk: Complete the trip
+      ru: Завершите поездку
+      uk: Complete the trip
+    tutorial_3_description:
+      en: Leave the car and complete the rent within parking zone. The application will automatically lock the doors. Rent cost will be charged from your payment card. You'll be able to see the details in \"Trips\" section.
+      cs: Leave the car and complete the rent within parking zone. The application will automatically lock the doors. Rent cost will be charged from your payment card. You'll be able to see the details in \"Trips\" section.
+      ka: Leave the car and complete the rent within parking zone. The application will automatically lock the doors. Rent cost will be charged from your payment card. You'll be able to see the details in \"Trips\" section.
+      kk: Leave the car and complete the rent within parking zone. The application will automatically lock the doors. Rent cost will be charged from your payment card. You'll be able to see the details in \"Trips\" section.
+      ru: Завершите аренду в пределах парковочной зоны, выйдя из машины. Приложение автоматически закроет двери. Стоимость аренды спишется с банковской карты. Детализацию можно смотреть в разделе \"Поездки\".
+      uk: Leave the car and complete the rent within parking zone. The application will automatically lock the doors. Rent cost will be charged from your payment card. You'll be able to see the details in \"Trips\" section.
+    tutorial_4_text:
+      en: Get the bonus
+      cs: Get the bonus
+      ka: Get the bonus
+      kk: Get the bonus
+      ru: Получайте бонусы
+      uk: Get the bonus
+    tutorial_4_description:
+      en: Share unique promocode to your friends, they will get 880 bonus scores after registration! After they commit their first trips over 20 minutes you'll receive 880 bonus scores for the car rent.
+      cs: Share unique promocode to your friends, they will get 880 bonus scores after registration! After they commit their first trips over 20 minutes you'll receive 880 bonus scores for the car rent.
+      ka: Share unique promocode to your friends, they will get 880 bonus scores after registration! After they commit their first trips over 20 minutes you'll receive 880 bonus scores for the car rent.
+      kk: Share unique promocode to your friends, they will get 880 bonus scores after registration! After they commit their first trips over 20 minutes you'll receive 880 bonus scores for the car rent.
+      ru: Делитесь вашим уникальным промокодом с друзьями, они получат 880 бонусов при регистрации! После того, как они совершат свои первые поездки свыше 20 минут, вы получите 880 бонусов за аренду авто.
+      uk: Share unique promocode to your friends, they will get 880 bonus scores after registration! After they commit their first trips over 20 minutes you'll receive 880 bonus scores for the car rent.
+    select_all:
+      en: Select all
+      cs: Select all
+      ka: Select all
+      kk: Select all
+      ru: Select all
+      uk: Select all
+    remove_all:
+      en: Remove all
+      cs: Remove all
+      ka: Remove all
+      kk: Remove all
+      ru: Remove all
+      uk: Remove all
+    contract:
+      en: Contract
+      cs: Contract
+      ka: Contract
+      kk: Contract
+      ru: Договор присоединения
+      uk: Contract
+    minutes_included_new:
+      en: minutes included
+      cs: minutes included
+      ka: minutes included
+      kk: minutes included
+      ru: minutes included
+      uk: minutes included
+    waiting_new:
+      en: Waiting
+      cs: Waiting
+      ka: Waiting
+      kk: Waiting
+      ru: Waiting
+      uk: Waiting
+    mileageLower:
+      en: Mileage
+      cs: Mileage
+      ka: Mileage
+      kk: Mileage
+      ru: Mileage
+      uk: Mileage
+    overmileage:
+      en: overmileage
+      cs: overmileage
+      ka: overmileage
+      kk: overmileage
+      ru: перепробег
+      uk: overmileage
+    pleaseUploadYourDocuments:
+      en: Tap to upload your documents
+      cs: Tap to upload your documents
+      ka: Please upload your documents
+      kk: Tap to upload your documents
+      ru: Нажмите для загрузки документов
+      uk: Tap to upload your documents
+    addPhotos:
+      en: Please add at least %d photos
+      cs: Please add at least %d photos
+      ka: Please add at least %d photos
+      kk: Please add at least %d photos
+      ru: Please add at least %d photos
+      uk: Please add at least %d photos
+    hours:
+      en: hours
+      cs: hours
+      ka: hours
+      kk: hours
+      ru: часов
+      uk: hours
+    hour:
+      en: hour
+      cs: hour
+      ka: hour
+      kk: hour
+      ru: часов
+      uk: hour
+    minute:
+      en: minute
+      cs: minute
+      ka: minute
+      kk: minute
+      ru: минут
+      uk: minute
+    finishRentDialog:
+      en: '@string/yes'
+      cs: '@string/yes'
+      ka: '@string/yes'
+      kk: '@string/yes'
+      ru: '@string/yes'
+      uk: '@string/yes'
+    promoCodeShare:
+      en: SHARE FOR FRIENDS
+      cs: SHARE FOR FRIENDS
+      ka: SHARE FOR FRIENDS
+      kk: SHARE FOR FRIENDS
+      ru: SHARE FOR FRIENDS
+      uk: SHARE FOR FRIENDS
+    promoCodeRemind:
+      en: REMIND ME LATER
+      cs: REMIND ME LATER
+      ka: REMIND ME LATER
+      kk: REMIND ME LATER
+      ru: REMIND ME LATER
+      uk: REMIND ME LATER
+    back:
+      en: BACK
+      cs: BACK
+      ka: BACK
+      kk: BACK
+      ru: BACK
+      uk: BACK
+    goToProfile:
+      en: go to profile
+      cs: go to profile
+      ka: go to profile
+      kk: go to profile
+      ru: go to profile
+      uk: go to profile
+    day_word_clipped:
+      en: d
+      cs: d
+      ka: d
+      kk: d
+      ru: дн.
+      uk: d
+    hour_word_clipped:
+      en: h
+      cs: h
+      ka: h
+      kk: h
+      ru: ч.
+      uk: h
+    minute_word_clipped:
+      en: m
+      cs: m
+      ka: m
+      kk: m
+      ru: мин.
+      uk: m
+    refresh_captcha:
+      en: Refresh captcha
+      cs: Refresh captcha
+      ka: Refresh captcha
+      kk: Refresh captcha
+      ru: Обновить капчу
+      uk: Refresh captcha
+    radarTitle:
+      en: The Radar
+      cs: The Radar
+      ka: The Radar
+      kk: The Radar
+      ru: Радар
+      uk: The Radar
+    radarTitleChoose:
+      en: Select the radar location
+      cs: Select the radar location
+      ka: Select the radar location
+      kk: Select the radar location
+      ru: Выбрать место для поиска
+      uk: Select the radar location
+    currentLocation:
+      en: Current location
+      cs: Current location
+      ka: Current location
+      kk: Current location
+      ru: Текущее место
+      uk: Current location
+    change:
+      en: CHANGE
+      cs: CHANGE
+      ka: CHANGE
+      kk: CHANGE
+      ru: Изменить
+      uk: CHANGE
+    startSearching:
+      en: Start searching
+      cs: Start searching
+      ka: Start searching
+      kk: Start searching
+      ru: Начать поиск
+      uk: Start searching
+    timeToSearch:
+      en: time to search
+      cs: time to search
+      ka: time to search
+      kk: time to search
+      ru: Как долго искать
+      uk: time to search
+    bookAutomatically:
+      en: book automatically
+      cs: book automatically
+      ka: book automatically
+      kk: book automatically
+      ru: Автобронирование
+      uk: book automatically
+    distance:
+      en: distance
+      cs: distance
+      ka: distance
+      kk: distance
+      ru: Расстояние
+      uk: distance
+    confirm:
+      en: CONFIRM
+      cs: CONFIRM
+      ka: CONFIRM
+      kk: CONFIRM
+      ru: Подтвердить
+      uk: CONFIRM
+    radarTitleSettings:
+      en: Radar settings
+      cs: Radar settings
+      ka: Radar settings
+      kk: Radar settings
+      ru: Настройки радара
+      uk: Radar settings
+    backCapitalized:
+      en: Back
+      cs: Back
+      ka: Back
+      kk: Back
+      ru: Назад
+      uk: Back
+    searching:
+      en: Searching
+      cs: Searching
+      ka: Searching
+      kk: Searching
+      ru: Поиск
+      uk: Searching
+    timeLeft:
+      en: time left
+      cs: time left
+      ka: time left
+      kk: time left
+      ru: Осталось
+      uk: time left
+    cartrek:
+      en: CarTrek
+      cs: CarTrek
+      ka: CarTrek
+      kk: CarTrek
+      ru: CarTrek
+      uk: CarTrek
+    payDebtToolbar:
+      en: 'You have a debt: %s. Tap to pay'
+      cs: 'You have a debt: %s. Tap to pay'
+      ka: 'თქვენ გაქვთ დავალიანება: %s. გადახდა'
+      kk: 'You have a debt: %s. Tap to pay'
+      ru: У вас долг %s. Нажмите, чтобы оплатить
+      uk: 'You have a debt: %s. Tap to pay'
+    payDebtDialog:
+      en: Are you sure to pay the debt?
+      cs: Are you sure to pay the debt?
+      ka: გსურთ დავაკიანების გადახდა?
+      kk: Are you sure to pay the debt?
+      ru: Долг будет списан с карты. Продолжить?
+      uk: Are you sure to pay the debt?
+    unlock_price:
+      en: Unlock
+      cs: Unlock
+      ka: Unlock
+      kk: Unlock
+      ru: Разблокировка
+      uk: Unlock
+    rate_packs:
+      en: Rate packs
+      cs: Rate packs
+      ka: Rate packs
+      kk: Rate packs
+      ru: Абонементы
+      uk: Rate packs
+    familiarize_with_agreement:
+      en: there will be <b>%d min</b> of free reservation, \n \n but first you need to familiarize with the contract
+      cs: there will be <b>%d min</b> of free reservation, \n \n but first you need to familiarize with the contract
+      ka: there will be <b>%d min</b> of free reservation, \n \n but first you need to familiarize with the contract
+      kk: there will be <b>%d min</b> of free reservation, \n \n but first you need to familiarize with the contract
+      ru: будет <b>%d мин.</b> бесплатного бронирования, \n \n но перед этим необходимо ознакомиться с договором
+      uk: there will be <b>%d min</b> of free reservation, \n \n but first you need to familiarize with the contract
+    open_car_and_sign_act:
+      en: Open a car and sign an act
+      cs: Open a car and sign an act
+      ka: 'მანქანის გაღება და აქტზე ხელის მოწერა '
+      kk: Open a car and sign an act
+      ru: Открыть машину и подписать акт
+      uk: Open a car and sign an act
+    open_and_sign_act:
+      en: Open and sign an act
+      cs: Open and sign an act
+      ka: აქტის გახსნა და ხელის მოწერა
+      kk: Open and sign an act
+      ru: Открыть и подписать акт
+      uk: Open and sign an act
+    first_minutes_free:
+      en: First %d minutes for free
+      cs: First %d minutes for free
+      ka: First %d minutes for free
+      kk: First %d minutes for free
+      ru: Первые %d минут бесплатно
+      uk: First %d minutes for free
+    yandex_maps:
+      en: Yandex.Maps
+      cs: Yandex.Maps
+      ka: Yandex რუკები
+      kk: Yandex.Maps
+      ru: Яндекс.Карты
+      uk: Yandex.Maps
+    google_maps:
+      en: Google maps
+      cs: Google maps
+      ka: Google რუკები
+      kk: Google maps
+      ru: Карты Google
+      uk: Google maps
+    unknown_adress:
+      en: Unknown address
+      cs: Unknown address
+      ka: ამოუცნობი მისამართი
+      kk: Unknown address
+      ru: Неизветный адрес
+      uk: Unknown address
+    reserving:
+      en: Reserving...
+      cs: Reserving...
+      ka: იჯავშნება...
+      kk: Reserving...
+      ru: Бронирование...
+      uk: Reserving...
+    excess_miliage:
+      en: Excess mileage
+      cs: Excess mileage
+      ka: ზედმეტი გარბენი
+      kk: Excess mileage
+      ru: Перепробег
+      uk: Excess mileage
+    mileage_free:
+      en: 'mileage: %d km free'
+      cs: 'mileage: %d km free'
+      ka: 'mileage: %d km free'
+      kk: 'mileage: %d km free'
+      ru: 'пробег: %d км бесплатно'
+      uk: 'mileage: %d km free'
+    vehicle_rental_agreement:
+      en: Vehicle rental agreement
+      cs: Vehicle rental agreement
+      ka: ავტომობილის ქირაობის ხელშეკრულება
+      kk: Vehicle rental agreement
+      ru: Договор аренды
+      uk: Vehicle rental agreement
+    got_acquainted_reserve:
+      en: Okay, reserve
+      cs: Okay, reserve
+      ka: 'ვეთანხმები, დაჯავშნა '
+      kk: Okay, reserve
+      ru: Ок, забронировать
+      uk: Okay, reserve
+    free_reservation:
+      en: Free reservation
+      cs: Free reservation
+      ka: უფასო ჯავშანი
+      kk: Free reservation
+      ru: Бесплатная бронь
+      uk: Free reservation
+    warm_up:
+      en: warm up
+      cs: warm up
+      ka: warm up
+      kk: warm up
+      ru: прогрев
+      uk: warm up
+    blink_small:
+      en: blink
+      cs: blink
+      ka: აციმციმება
+      kk: blink
+      ru: помигать
+      uk: blink
+    car_acceptance_act:
+      en: Car Acceptance Act
+      cs: Car Acceptance Act
+      ka: მანქანის მიღების აქტი
+      kk: Car Acceptance Act
+      ru: Акт приёма-передачи
+      uk: Car Acceptance Act
+    paid_reservation:
+      en: Paid reservation
+      cs: Paid reservation
+      ka: 'ფასიანი ჯავშანი '
+      kk: Paid reservation
+      ru: Платная бронь
+      uk: Paid reservation
+    engine_started_successful:
+      en: Engine started successful
+      cs: Engine started successful
+      ka: მანქანა ანთებულია
+      kk: Engine started successful
+      ru: Двигатель запущен
+      uk: Engine started successful
+    failed_start_engine:
+      en: Failed to start engine
+      cs: Failed to start engine
+      ka: მანქანის ანთება ვერ მოხერხდა
+      kk: Failed to start engine
+      ru: Не удалось запустить двигатель
+      uk: Failed to start engine
+    total_time:
+      en: Total time
+      cs: Total time
+      ka: 'საერთო დრო '
+      kk: Total time
+      ru: Прошло времени
+      uk: Total time
+    refuel_car:
+      en: refuel car
+      cs: refuel car
+      ka: refuel car
+      kk: refuel car
+      ru: заправить автомобиль
+      uk: refuel car
+    switch_to_standby_mode:
+      en: Switch to standby mode
+      cs: Switch to standby mode
+      ka: Switch to standby mode
+      kk: Switch to standby mode
+      ru: В режим ожидания
+      uk: Switch to standby mode
+    change_rate:
+      en: Change rate
+      cs: Change rate
+      ka: ტარიფის შეცვლა
+      kk: Change rate
+      ru: Сменить тариф
+      uk: Change rate
+    there_is_a_problem:
+      en: There is a problem
+      cs: There is a problem
+      ka: პრობლემა
+      kk: There is a problem
+      ru: Есть проблема
+      uk: There is a problem
+    personal:
+      en: PERSONAL
+      cs: PERSONAL
+      ka: PERSONAL
+      kk: PERSONAL
+      ru: ЧАСТНАЯ ПОЕЗДКА
+      uk: PERSONAL
+    corporate:
+      en: CORPORATE
+      cs: CORPORATE
+      ka: კორპორატიული
+      kk: CORPORATE
+      ru: КОРПОРАТИВНАЯ ПОЕЗДКА
+      uk: CORPORATE
+    start_rent_in_reject_dialog:
+      en: START RENT
+      cs: START RENT
+      ka: 'ქირის დაწყება '
+      kk: START RENT
+      ru: Начать аренду
+      uk: START RENT
+    parked:
+      en: PARKED
+      cs: OČEKÁVÁNÍ
+      ka: PARKED
+      kk: PARKED
+      ru: ПАРКОВКА
+      uk: PARKED
+    loading:
+      en: …
+      cs: …
+      ka: იტვირთება
+      kk: …
+      ru: …
+      uk: …
+    rate_pack_buy_confirmation:
+      en: After the start of the rent your account will be charged the full cost of the package. You will be able to use our cars during the whole period of the package. Shall we continue?
+      cs: Po zahájení pronájmu bude z Vašeho účtu stržena plná cena předplatného. Naše auta budete moci používat po celou dobu platnosti předplatného. Pokračovat?
+      ka: დაქირავების შემდეგ ანგარიშზე დაგერიცხებათ  აბონემენტის სრული ღირებულება. მანქანების გამოყენება შესაძლებელია აბონემენტის მოქმედების ვადაში. განვაგრძოთ?
+      kk: 'Жалға алғаннан кейін сіздің шотыңыздан абонементтің толық құны шешіледі.Сіз біздің автокөліктерді абонементтің толық әрекет ету мерзімінде қолдана аласыз. Жалғастырғыңыз келе ме? '
+      ru: После начала аренды Вашего счёта будет списана полная стоимость абонемента. Вы сможете использовать наши автомобили в течение всего периода действия абонемента. Продолжить?
+      uk: Після початку оренди з Вашого рахунка буде списано повну варість абонементу. Ви зможете використовувати наші автомобілі протягом всього періоду дії абонементу. Продовжити?
+    finishRentTime:
+      en: You still have %s of rent, do you really want to finish it?
+      cs: You still have %s of rent, do you really want to finish it?
+      ka: You still have %s of rent, do you really want to finish it?
+      kk: You still have %s of rent, do you really want to finish it?
+      ru: у вас осталось еще %s, вы уверены, что хотите завершить абонемент?
+      uk: You still have %s of rent, do you really want to finish it?
+    drive_lic_front:
+      en: Front side of driver's licence
+      cs: Přední stranu řidičského průkazu
+      ka: მართვის მოწმობის წინა მხარე
+      kk: Жүргізуші куәлігінің алдыңғы жағы
+      ru: Лицевая сторона ВУ
+      uk: Лицьова сторона ВП
+    drive_lic_back:
+      en: Back side of driver's licence
+      cs: Zadní stranu řidičského průkazu
+      ka: მართვის მოწმობის უკანა მხარე
+      kk: Жүргізуші куәлігінің артқы жағы
+      ru: Обратная сторона ВУ
+      uk: Зворотня сторона ВП
+    registration_itentity_front:
+      en: Front of the identity card
+      cs: Front of the identity card
+      ka: Front of the identity card
+      kk: Front of the identity card
+      ru: Лицевая сторона удостоверения личности
+      uk: Front of the identity card
+    registration_identity_back:
+      en: Reverse side of the identity card
+      cs: Reverse side of the identity card
+      ka: Reverse side of the identity card
+      kk: Reverse side of the identity card
+      ru: Оборотная сторона удостоверения личности
+      uk: Reverse side of the identity card
+    registration_license_front:
+      en: Driver’s license front side
+      cs: Driver’s license front side
+      ka: Driver’s license front side
+      kk: Driver’s license front side
+      ru: Лицевая сторона водительского удостоверения
+      uk: Driver’s license front side
+    registration_license_back:
+      en: Driver’s license back side
+      cs: Driver’s license back side
+      ka: Driver’s license back side
+      kk: Driver’s license back side
+      ru: Оборотная сторона водительского удостоверения
+      uk: Driver’s license back side
+    registration_selfie:
+      en: Selfie with the identity card
+      cs: Selfie with the identity card
+      ka: Selfie with the identity card
+      kk: Selfie with the identity card
+      ru: Селфи с удостоверением личности
+      uk: Selfie with the identity card
+    registration_title:
+      en: REGISTRATION
+      cs: REGISTRATION
+      ka: REGISTRATION
+      kk: REGISTRATION
+      ru: REGISTRATION
+      uk: REGISTRATION
+    registration_camera_retake:
+      en: Retake
+      cs: Znovu
+      ka: ახალი ფოტო
+      kk: Retake
+      ru: Переснять
+      uk: Retake
+    pleaseTakePhoto:
+      en: Please take photo
+      cs: Vytvořte fotografii
+      ka: მიიღეთ ფოტო
+      kk: Please take photo
+      ru: Сделайте фото
+      uk: Please take photo
+    youCanTakeMorePhotos:
+      en: You can take more photos
+      cs: You can take more photos
+      ka: You can take more photos
+      kk: You can take more photos
+      ru: You can take more photos
+      uk: You can take more photos
+    pleaseAddAtLeastNPhotos:
+      en: Please add at least %d photos
+      cs: Please add at least %d photos
+      ka: Please add at least %d photos
+      kk: Please add at least %d photos
+      ru: Please add at least %d photos
+      uk: Please add at least %d photos
+    enter_pin:
+      en: Enter PIN to unlock
+      cs: Enter PIN to unlock
+      ka: Enter PIN to unlock
+      kk: Enter PIN to unlock
+      ru: Enter PIN to unlock
+      uk: Enter PIN to unlock
+    locker_pin:
+      en: 'Locker PIN:'
+      cs: 'Locker PIN:'
+      ka: 'Locker PIN:'
+      kk: 'Locker PIN:'
+      ru: 'Locker PIN:'
+      uk: 'Locker PIN:'
+    bonusesUpper:
+      en: BONUSES
+      cs: BONUSY
+      ka: BONUSES
+      kk: БОНУСТАР
+      ru: БОНУСЫ
+      uk: BONUSES
+    sendTo:
+      en: 'Send to:'
+      cs: 'Send to:'
+      ka: 'Send to:'
+      kk: 'Send to:'
+      ru: 'Send to:'
+      uk: 'Send to:'
+    scanTheCode:
+      en: Scan the code
+      cs: Scan the code
+      ka: Scan the code
+      kk: Scan the code
+      ru: Scan the code
+      uk: Scan the code
+    toEnterManually:
+      en: To enter manually
+      cs: To enter manually
+      ka: To enter manually
+      kk: To enter manually
+      ru: To enter manually
+      uk: To enter manually
+    enter_the_number_under_qr_code:
+      en: Enter the number under QR code
+      cs: Enter the number under QR code
+      ka: Enter the number under QR code
+      kk: Enter the number under QR code
+      ru: Enter the number under QR code
+      uk: Enter the number under QR code
+    fuelLevelFormat:
+      en: fuel %d%%
+      cs: fuel %d%%
+      ka: fuel %d%%
+      kk: fuel %d%%
+      ru: топливо %d%%
+      uk: fuel %d%%
+    batteryLevelFormat:
+      en: battery %d%%
+      cs: battery %d%%
+      ka: battery %d%%
+      kk: battery %d%%
+      ru: заряд %d%%
+      uk: battery %d%%
+    reserveTitle:
+      en: Reserve
+      cs: Reserve
+      ka: Reserve
+      kk: Reserve
+      ru: Забронировать
+      uk: Reserve
+    freeMinutesToReachCar:
+      en: '%d free minutes to reach the car'
+      cs: '%d free minutes to reach the car'
+      ka: '%d free minutes to reach the car'
+      kk: '%d free minutes to reach the car'
+      ru: '%d бесплатных минут добраться до машины'
+      uk: '%d free minutes to reach the car'
+    lockTitle:
+      en: Lock
+      cs: Lock
+      ka: Lock
+      kk: Lock
+      ru: Закрыть
+      uk: Lock
+    andSetParkingMode:
+      en: and set the parking mode
+      cs: and set the parking mode
+      ka: and set the parking mode
+      kk: and set the parking mode
+      ru: и перевести в режим ожидания
+      uk: and set the parking mode
+    scanQrCodeTitle:
+      en: Scan QR code
+      cs: Scan QR code
+      ka: Scan QR code
+      kk: Scan QR code
+      ru: Отсканировать QR-код
+      uk: Scan QR code
+    scootersRentWillStartedTitle:
+      en: and scooter's rent will be started
+      cs: and scooter's rent will be started
+      ka: and scooter's rent will be started
+      kk: and scooter's rent will be started
+      ru: и аренда самоката начнётся
+      uk: and scooter's rent will be started
+    unlockTitle:
+      en: Unlock
+      cs: Unlock
+      ka: Unlock
+      kk: Unlock
+      ru: Разблокировать
+      uk: Unlock
+    freeMinutesToInspectTitle:
+      en: '%d free minutes to inspect the car'
+      cs: '%d free minutes to inspect the car'
+      ka: '%d free minutes to inspect the car'
+      kk: '%d free minutes to inspect the car'
+      ru: '%d бесплатных минут на осмотр'
+      uk: '%d free minutes to inspect the car'
+    leaveScooterTitle:
+      en: leave the scooter on the station
+      cs: leave the scooter on the station
+      ka: leave the scooter on the station
+      kk: leave the scooter on the station
+      ru: оставьте самокат на станции
+      uk: leave the scooter on the station
+    get_directions:
+      en: Get directions
+      cs: Get directions
+      ka: Get directions
+      kk: Get directions
+      ru: Построить маршрут
+      uk: Get directions
+    and_start_the_rent_mode_subtitle:
+      en: and start the rent mode
+      cs: and start the rent mode
+      ka: and start the rent mode
+      kk: and start the rent mode
+      ru: и перевести в режим аренды
+      uk: and start the rent mode
+    no_free_time_subtitle:
+      en: no free time
+      cs: no free time
+      ka: no free time
+      kk: no free time
+      ru: нет бесплатного времени
+      uk: no free time
+    current_rate_title:
+      en: current rate
+      cs: current rate
+      ka: current rate
+      kk: current rate
+      ru: текущий тариф
+      uk: current rate
+    overmileage_formatting:
+      en: overmileage %dkm %d%s
+      cs: overmileage %dkm %d%s
+      ka: overmileage %dkm %d%s
+      kk: overmileage %dkm %d%s
+      ru: перепробег %dkm %d%s
+      uk: overmileage %dkm %d%s
+    refuel_title:
+      en: Refuel
+      cs: Refuel
+      ka: Refuel
+      kk: Refuel
+      ru: Заправка
+      uk: Refuel
+    blink_title:
+      en: Blink
+      cs: Blink
+      ka: Blink
+      kk: Blink
+      ru: Помигать
+      uk: Blink
+    cancel_book_button_title:
+      en: Cancel book
+      cs: Cancel book
+      ka: Cancel book
+      kk: Cancel book
+      ru: Отменить бронь
+      uk: Cancel book
+    left_title:
+      en: left
+      cs: left
+      ka: left
+      kk: left
+      ru: осталось
+      uk: left
+    rate_pack_title:
+      en: rate pack
+      cs: rate pack
+      ka: rate pack
+      kk: rate pack
+      ru: абонемент
+      uk: rate pack
+    tell_about_the_problem_title:
+      en: Tell about the problem
+      cs: Tell about the problem
+      ka: Tell about the problem
+      kk: Tell about the problem
+      ru: Сообщить о проблеме
+      uk: Tell about the problem
+    park_title:
+      en: park
+      cs: park
+      ka: park
+      kk: park
+      ru: ожидание
+      uk: park
+    expire_date_title:
+      en: Expire Date
+      cs: Expire Date
+      ka: Expire Date
+      kk: Expire Date
+      ru: Дата окончания
+      uk: Expire Date
+    earn_credits:
+      en: Earn credits
+      cs: Earn credits
+      ka: Earn credits
+      kk: Earn credits
+      ru: Получить бонусы
+      uk: Earn credits
+    telegram_title:
+      en: Telegram
+      cs: Telegram
+      ka: Telegram
+      kk: Telegram
+      ru: Telegram
+      uk: Telegram
+    viber_title:
+      en: Viber
+      cs: Viber
+      ka: Viber
+      kk: Viber
+      ru: Viber
+      uk: Viber
+    whats_app_title:
+      en: WhatsApp
+      cs: WhatsApp
+      ka: WhatsApp
+      kk: WhatsApp
+      ru: WhatsApp
+      uk: WhatsApp
+    delete_card_title:
+      en: Delete
+      cs: Delete
+      ka: Delete
+      kk: Delete
+      ru: Удалить
+      uk: Delete
+    faq:
+      en: FAQ
+      cs: FAQ
+      ka: FAQ
+      kk: FAQ
+      ru: FAQ
+      uk: FAQ
+    selfieMessage:
+      en: Before you open the car you should take a selfie.
+      cs: Before you open the car you should take a selfie.
+      ka: მანქანის გაღებამდე გთხოვთ გადაიღოთ სელფი
+      kk: Before you open the car you should take a selfie.
+      ru: Перед тем как открыть автомобиль, необходимо сделать селфи.
+      uk: Before you open the car you should take a selfie.
+    takeSelfie:
+      en: Take selfie
+      cs: Take selfie
+      ka: გადაიღეთ სელფი
+      kk: Take selfie
+      ru: Сделать селфи
+      uk: Take selfie
+    viber_chat:
+      en: Viber chat
+      cs: Viber chat
+      ka: Viber chat
+      kk: Viber chat
+      ru: Чат в Viber
+      uk: Viber chat
+    pincode:
+      en: pincode
+      cs: pincode
+      ka: pincode
+      kk: pincode
+      ru: код замка
+      uk: pincode
+    activation:
+      en: activation
+      cs: activation
+      ka: activation
+      kk: activation
+      ru: активация
+      uk: activation
+    confirmAutoBooking:
+      en: Do you really want to turn autobooking?
+      cs: Do you really want to turn autobooking?
+      ka: Do you really want to turn autobooking?
+      kk: Do you really want to turn autobooking?
+      ru: Do you really want to turn autobooking?
+      uk: Do you really want to turn autobooking?
+    show_rates:
+      en: See prices
+      cs: See prices
+      ka: See prices
+      kk: See prices
+      ru: Показать цены
+      uk: See prices
+    payments_show_name:
+      en: Successfully received payment data for %s!
+    disable_insurance_message:
+      en: Do you want to disable insurance?
+      cs: Chcete zrušit pojištění?
+      ka: Do you want to disable insurance?
+      kk: Do you want to disable insurance?
+      ru: Вы действительно хотите выключить страховку?
+      uk: Do you want to disable insurance?
+    enable_insurance_message:
+      en: Do you want to enable insurance?
+      cs: Chcete umožnit pojištění?
+      ka: Do you want to enable insurance?
+      kk: Do you want to enable insurance?
+      ru: Вы действительно хотите включить страховку?
+      uk: Do you want to enable insurance?
+    mileage_included:
+      en: mileage included
+      cs: mileage included
+      ka: mileage included
+      kk: mileage included
+      ru: включено
+      uk: mileage included
+    rent_rate_item:
+      en: rent
+      cs: rent
+      ka: rent
+      kk: rate
+      ru: аренда
+      uk: rent
+    unlockButtonText:
+      en: Unlock the lock
+      cs: Unlock the lock
+      ka: Unlock the lock
+      kk: Unlock the lock
+      ru: Открыть замок
+      uk: Unlock the lock
+    buy_tariff_message:
+      en: Are you sure you want to buy a subscription?
+      cs: Are you sure you want to buy a subscription?
+      ka: Are you sure you want to buy a subscription?
+      kk: Are you sure you want to buy a subscription?
+      ru: Вы действительно хотите приобрести абонемент?
+      uk: Are you sure you want to buy a subscription?
+    nav_menu_label_how_to:
+      en: How to use
+    nav_menu_label_instagram:
+      en: Instagram
+    rides:
+      en: rides
+    kms:
+      en: kilimeters
+    menu_bonuses:
+      en: bonuses
+    setup:
+      en: Setup
+      ru: Настроить
+    successPayment:
+      en: Payment completed successfully!
+      ru: Оплата завершена успешно!
+    first_name:
+      en: First name
+      ru: Имя
+    second_name:
+      en: Second name
+      ru: Фамилия
+    birthday:
+      en: Birthday
+      ru: День рождения
+    profile:
+      en: Profile
+      ru: Профиль
+    travel_history:
+      en: Travel history
+      ru: История поездок
+    you_have_already_driven:
+      en: You have already driven
+      ru: Вы уже проехали
+    cancel_booking_message:
+      en: Are you sure you want to cancel your reservation?
+      ru: Вы точно хотите отменить бронь?
+    do_not_cancel:
+      en: Do not cancel
+    pay_one_ruble:
+      en: Pay 1 do ruble
+      ru: Оплатить 1 руб.
+    start:
+      en: Start
+      ru: Начать
+    nav_menu_label_purchase_bonuses:
+      en: Purchase bonuses
+      cs: Purchase bonuses
+      ka: Purchase bonuses
+      kk: Purchase bonuses
+      ru: Purchase bonuses
+      uk: Purchase bonuses
+    whatsapp_chat_with_support_title:
+      en: WhatsApp Chat
+    cancel_book_or_finish_rent:
+      en: Cancel
+    technician_organizations_button:
+      en: View organizations
