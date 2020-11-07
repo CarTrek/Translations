@@ -1513,12 +1513,7 @@ Sections:
       ru: КУПИТЬ СЕРТИФИКАТ
       uk: КУПИТЬ СЕРТИФИКАТ
     nav_menu_label_help:
-      en: '@string/supportPhoneNumber'
-      cs: Kontaktujte nas
-      ka: '@string/supportPhoneNumber'
-      kk: <b>@string/supportPhoneNumber</b>
-      ru: '@string/supportPhoneNumber'
-      uk: <b>@string/supportPhoneNumber</b>
+      en: ''
     nav_menu_label_tech_menu:
       en: TECH MENU
       cs: Technické menu
