@@ -1,5 +1,7 @@
 Sections:
   AdminFrontend:
+    testtest:
+      en: test
     voucher.status.outdated:
       en: Outdated
       ru: Просрочен
