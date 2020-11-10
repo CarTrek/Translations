@@ -5243,11 +5243,7 @@ Sections:
       ru: Начать
     nav_menu_label_purchase_bonuses:
       en: Purchase bonuses
-      cs: Purchase bonuses
-      ka: Purchase bonuses
-      kk: Purchase bonuses
-      ru: Purchase bonuses
-      uk: Purchase bonuses
+      ru: Купить бонусы
     whatsapp_chat_with_support_title:
       en: WhatsApp Chat
     cancel_book_or_finish_rent:
