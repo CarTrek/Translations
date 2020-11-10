@@ -2680,7 +2680,7 @@ Sections:
       be: Активирован сигнал автомобиля
       cs: Aktivován klakson vozidla
       ka: გააქტიურებულია ავტომობილის ხმოვანი სიგნალი
-      en: Car alarm has been activated
+      en: Honk and blink
       ru: Активирован сигнал автомобиля
     HornMyCarResultFailedCarIsTooFar:
       be: Автомобиль слишком далеко от Вас. Вы всё равно его не услышите.
@@ -3160,7 +3160,7 @@ Sections:
       be: Авторизация клиента
       cs: Přihlášení zákazníka
       ka: კლიენტების ავტორიზაცია
-      en: customer registration
+      en: Client signed in
       ru: Авторизация клиента
     LoggedInToFrontendFailed:
       be: Авторизация в личном кабинете отклонена
