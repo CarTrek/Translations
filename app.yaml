@@ -153,21 +153,27 @@ Sections:
     purchase.bonuses.title:
         en: Purchase bonuses
         ru: Покупка бонусов
+        cs: Nákup bonusů
     purchase.bonuses.button.buy:
         en: Buy
         ru: Купить
+        cs: Koupit
     purchase.bonuses.current-balance:
         en: Current balance
         ru: Текущий баланс
+        cs: Aktuální bilance
     purchase.bonuses.select-package:
         en: Please select one of the bonus packages
         ru: Выберите один из бонусных пакетов
+        cs: Vyberte si z bonusových balíčků
     purchase.bonuses.bonuses:
         en: bonuses for
         ru: бонусов за
+        cs: bonusy za
     purchase.bonuses.description:
         en: You will get {bonuses} bonuses for {money} {currency}. Your discount will be {discount-money} {currency}, that is {discount-percents}%
         ru: Вы получите {bonuses} бонусов за {money} {currency}. Ваша скидка {discount-money} {currency}, что составляет {discount-percents}%
+        cs: Získáte {bonuses} bonusy za {money} {currency}. Vaše sleva {discount-money} {currency}, což je {discount-percents}%
     purchase.bonuses.description2:
         en: You will get {bonuses} bonuses for {money} {currency}. You will get {discount-percents}% ({discount-money} {currency}) for free!
         ru: Вы получите {bonuses} бонусов за {money} {currency}. Подарок составит {discount-percents}% ({discount-money} {currency})!
@@ -175,24 +181,31 @@ Sections:
     purchase.bonuses.buy-with-default-card:
         en: Pay with card {default-card-number}
         ru: Оплатить картой {default-card-number}
+        cs: Platit kartou {default-card-number}
     purchase.bonuses.buy-with-another-card:
         en: Pay with another card
         ru: Оплатить другой картой
+        cs: Platit jinou kartou
     message.box.button.ok:
         en: Ok
         ru: Ок
+        cs: Ok
     message.box.button.yes:
         en: Yes
         ru: Да
+        cs: Ano
     message.box.button.no:
         en: No
         ru: Нет
+        cs: Ne
     message.box.button.cancel:
         en: Cancel
         ru: Отмена
+        cs: Zrušení
     purchase.bonuses.buy-bonuses-confirmation:
         en: 'Are you sure you want to buy bonuses?'
         ru: 'Вы уверены, что хотите купить бонусы?'
+        cs: 'Jste si jisti, že chcete koupit bonusy?'
     carView.lockButtonSubTitle:
         ru: и перевести в режим парковки
         en: and switch to waiting mode
