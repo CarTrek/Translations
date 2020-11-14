@@ -224,7 +224,7 @@ Sections:
     topup.sum-description:
         en: This amount will be withdrawed from you bank card
         ru: С вашей банковской карты будет списана следующая сумма
-    topup.payButton:
+    topup.pay:
         en: Pay
         ru: Оплатить
     topup.subtitle:
