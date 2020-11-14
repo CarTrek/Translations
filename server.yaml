@@ -1,5 +1,8 @@
 Sections:
   Server:
+    TopupActivityRequested:
+      en: Please top up your balance
+      ru: Пожалуйста, пополните ваш баланс
     VoucherIsOutdated:
       en: This voucher is outdated
       ru: Сертификат просрочен
