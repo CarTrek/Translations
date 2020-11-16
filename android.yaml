@@ -4355,12 +4355,12 @@ Sections:
       ru: минут
       uk: minute
     finishRentDialog:
-      en: '@string/yes'
-      cs: '@string/yes'
-      ka: '@string/yes'
-      kk: '@string/yes'
-      ru: '@string/yes'
-      uk: '@string/yes'
+      en: yes
+      cs: yes
+      ka: yes
+      kk: yes
+      ru: Да
+      uk: yes
     promoCodeShare:
       en: SHARE FOR FRIENDS
       cs: SHARE FOR FRIENDS
