@@ -230,6 +230,9 @@ Sections:
     topup.subtitle:
         en: Before the ride you need to top-up you account
         ru: Чтобы начать аренду, необходимо внести средства на счёт вашей учётной записи
+    topup.subtitle.done:
+        en: The payment was successful. Please tap OK button
+        ru: Оплата прошла успешно. Пожалуйста, нажкмите кнопку ОК
     topup.ok:
         en: Ok
         ru: Ок
