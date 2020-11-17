@@ -233,6 +233,9 @@ Sections:
     topup.subtitle.done:
         en: The payment was successful. Please tap OK button
         ru: Оплата прошла успешно. Пожалуйста, нажмите кнопку ОК
+    topup.subtitle.failed:
+        en: The payment was unsuccessful. Please try again later
+        ru: Не удалось произвести оплату. Пожалуйста, попробуйте ещё раз позже
     topup.ok:
         en: Ok
         ru: Ок
