@@ -935,7 +935,7 @@ Sections:
       be: Бронь
       cs: Rezervace
       ka: ჯავშნები.
-      en: reservations
+      en: Book
       ru: Бронь
       uk: Бронювання
     BookCarResultFailedCarIsNotAvailableNow:
