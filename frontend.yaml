@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orderevents.RATEDESCRIPTION:
+      en: Rate description
+      ru: Комментарий к тарифу
     voucher.status.outdated:
       en: Outdated
       ru: Просрочен
