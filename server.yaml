@@ -6460,8 +6460,8 @@ Sections:
       ru: За абонемент
     WithdrawalReasonPurchaseBonuses:
       be: 'Покупка бонусов'
-      cs: 'Nákup bonusů'
-      en: 'Buying bonuses'
+      cs: 'Dobití účtu'
+      en: 'Account top up'
       ru: 'Покупка бонусов'
     WithdrawalReasonManual:
       be: Прочее
