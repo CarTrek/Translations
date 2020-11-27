@@ -1,5 +1,10 @@
 Sections:
   Server:
+    FailedUserIsDebtor:
+      en: You will not be able to buy bonuses until you pay off the debt
+      ru: Перед покупкой бонусов необходимо погасить долг
+      cs: Před nákupem bonusů je třeba splatit dluh
+      el: Πριν από την αγορά το μπόνους θα πρέπει να εξοφλήσει το χρέος
     FailedSelectedRatePackIsNotAvailable:
       en: Selected rate pack is not available for you
       ru: Выбранный тариф для вас недоступен
