@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedSelectedRatePackIsNotAvailable:
+      en: Selected rate pack is not available for you
+      ru: Выбранный тариф для вас недоступен
     TopupActivityRequested:
       en: Please top up your balance
       ru: Пожалуйста, пополните ваш баланс
