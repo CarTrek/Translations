@@ -1,5 +1,8 @@
 Sections:
   App:
+    access-denied:
+      en: Access denied. Please sign in
+      ru: У вас нет доступа. Пожалуйста, авторизуйтесь
     radar.radarWillStartIn:
       en: 'Radar will start in'
       ru: 'Радар запустится через'
