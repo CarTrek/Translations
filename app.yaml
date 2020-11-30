@@ -178,6 +178,9 @@ Sections:
         en: You will get {bonuses} bonuses for {money} {currency}. You will get {discount-percents}% ({discount-money} {currency}) for free!
         ru: Вы получите {bonuses} бонусов за {money} {currency}. Подарок составит {discount-percents}% ({discount-money} {currency})!
         cs: Získáte {bonuses} bonusy za {money} {currency}. Dárek bude {discount-percents}% ({discount-money} {currency})!
+    purchase.bonuses.description3:
+        en: ''
+        ru: ''
     purchase.bonuses.buy-with-default-card:
         en: Pay with card {default-card-number}
         ru: Оплатить картой {default-card-number}
