@@ -171,7 +171,7 @@ Sections:
         ru: бонусов за
         cs: bonusy za
     purchase.bonuses.card-line-3:
-        en: '{price} {currency}'
+        en: {price} {currency}
     purchase.bonuses.description:
         en: You will get {bonuses} bonuses for {money} {currency}. Your discount will be {discount-money} {currency}, that is {discount-percents}%
         ru: Вы получите {bonuses} бонусов за {money} {currency}. Ваша скидка {discount-money} {currency}, что составляет {discount-percents}%
