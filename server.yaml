@@ -1,5 +1,8 @@
 Sections:
   Server:
+    SwitchedToPrivateTrips:
+      en: Switched to private rides
+      ru: Переключено в режим частных поездок
     SpeedingFineDescription:
       en: 'Speeding fine, {speed} km/h'
       ru: 'Штраф за превышение скорости, {speed} км/ч'
