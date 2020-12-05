@@ -1,5 +1,8 @@
 Sections:
   Server:
+    SpeedingFine:
+      en: Speeding fine
+      ru: Штраф за превышение скорости
     FailedUserIsDebtor:
       en: You will not be able to buy bonuses until you pay off the debt
       ru: Перед покупкой бонусов необходимо погасить долг
