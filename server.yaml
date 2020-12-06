@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightUnlockBattery:
+      en: Unlock battery
+      ru: Открывать отсек батареи
     FuelLevelFine:
       en: Low fuel fine
       ru: Штраф за низкий уровень топлива
