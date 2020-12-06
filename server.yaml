@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FuelLevelFine:
+      en: Low fuel fine
+      ru: Штраф за низкий уровень топлива
     SwitchedToPrivateTrips:
       en: Switched to private rides
       ru: Переключено в режим частных поездок
