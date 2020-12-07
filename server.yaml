@@ -223,7 +223,7 @@ Sections:
       en: Your driving experience is insufficient to rent this car
     RateNotFoundReasonUserAge:
       ru: Для пользователей вашего возраста доступ к этому автомобилю ограничен
-      en: This car has restrictins for users your age.
+      en: This car has restrictions for users of your age.
     RateNotFoundReasonRateTime:
       ru: Не найдено тарифов для текущего времени дня. Пожалуйста, обратитесь в поддержку
       en: No rates found for current time of day. Please, contact support
