@@ -3586,15 +3586,10 @@ Sections:
       ru: Открыть автомобиль?
       uk: Открыть автомобиль?
     inspect.confirmMessageOne:
-      be: You will have
-      cs: Budete mít
-      en: You will have
-      hr: You will have
-      ka: თქვენ გაქვთ
-      kk: You will have
-      pl: You will have
-      ru: У вас будет
-      uk: У вас будет
+      cs: 'Budete mít ' 
+      en: 'You will have '
+      ka: 'თქვენ გაქვთ '
+      ru: 'У вас будет '
     inspect.confirmMessageTwo:
       be: ' to inspect the car.'
       cs: ' na kontrolu stavu vozidla.'
