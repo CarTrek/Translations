@@ -1,5 +1,9 @@
 Sections:
   Server:
+    PurchaseBonusesPaymentDescription:
+      en: Purchase bonuses
+      ru: Покупка бонусов
+      cs: Nákup bonusů
     RightUnlockBattery:
       en: Unlock battery
       ru: Открывать отсек батареи
