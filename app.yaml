@@ -149,7 +149,7 @@ Sections:
       en: 'Open'
       ru: 'Открыть'
       cs: 'Otevřít'
-    carView.lockButtonSubTitle:
+    carView.unlockButtonSubTitle:
       en: 'and start the rent mode'
       ru: 'и перевести в режим аренды'
       cs: 'a převést do režimu pronájmu'
