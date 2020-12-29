@@ -217,7 +217,7 @@ Sections:
         ru: 'Вы уверены, что хотите купить бонусы?'
         cs: 'Jste si jisti, že chcete koupit bonusy?'
     purchase.bonuses.add-card:
-        en: 'Add a bankc card'
+        en: 'Add a bank card'
         ru: 'Добавить платёжную карту'
         cs: 'Přidat platební kartu'
     carView.lockButtonSubTitle:
