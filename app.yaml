@@ -216,6 +216,10 @@ Sections:
         en: 'Are you sure you want to buy bonuses?'
         ru: 'Вы уверены, что хотите купить бонусы?'
         cs: 'Jste si jisti, že chcete koupit bonusy?'
+    purchase.bonuses.add-card:
+        en: 'Add a bankc card'
+        ru: 'Добавить платёжную карту'
+        cs: 'Přidat platební kartu'
     carView.lockButtonSubTitle:
         ru: и перевести в режим парковки
         en: and switch to waiting mode
