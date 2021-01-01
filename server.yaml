@@ -529,8 +529,8 @@ Sections:
       en: Failed trying to finish rent. Need More photos
       ru: Ошибка при попытке завершить аренду. Нужно больше фотографий
     FailedOutOfRentEndZone:
-      en: Failed trying to finish rent outside of rent end zone
-      ru: Ошибка при попытке завершить аренду вне зоны завершения
+      en: Attempt to finish rent outside of rent end zone
+      ru: Попытка завершить аренду вне зоны завершения
     CarAvaliabilityChanged:
       en: 'Avaliable to clients'
       ru: 'Доступна клиентам'
