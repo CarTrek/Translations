@@ -4216,10 +4216,10 @@ Sections:
       ge: შეკვეთა
       ru: Заказы
     clients.preHoldSettings.NotSetted:
-      cs: Blokovat prostředky dle obecného nastavení
-      en: Hold with global customization
+      cs: Použijte globální nastavení
+      en: Use global setting
       ge: შეჩერდეს თანხა გლობალური პარამეტრების მიხედვით
-      ru: Холдировать с соответствии с глобальной настройкой
+      ru: Использовать глобальную настройку
     clients.preHoldSettings.Always:
       cs: Blokovat prostředky před každou objednávkou
       en: Hold before each order
