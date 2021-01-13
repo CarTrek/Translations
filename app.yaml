@@ -259,3 +259,6 @@ Sections:
     whatsapp_chat_with_support_title:
         en: WhatsApp Chat
         ru: Чат WahtsApp
+    appless.button.login:
+        en: Log In
+        ru: Вход
