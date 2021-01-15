@@ -274,6 +274,12 @@ Sections:
     appless.for-unlock:
         en: start
         ru: за начало
+    appless.accept-rules:
+        en: I accept rules
+        ru: Я согласен
+    appless.cancel-rules:
+        en: Back
+        ru: Назад
     closecar.text:
         en: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
         cs: Než ukončíte pronájem:\n- Prepněte převodovku do polohy \"P\"\n- Zatáhněte ruční brzdu\n- Vypněte světla (i v interiéru)\n- Zavřete okna a dveře\n- Vyfoťte celé auto
