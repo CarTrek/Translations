@@ -5207,12 +5207,12 @@ Sections:
       ru: Просмотр автомобилей
       uk: Перегляд автомобілів
     RightViewCarsInAnyOrganization:
-      be: Просмотр автомобилей из любой организации
-      cs: Kontrola vozidel libovolné skupiny
-      ka: ნებისმიერი ორგანიზაციიდან  ავტომობილების ნახვა.
-      en: View cars from any organization
+      be: Доступ ко всем организациям
+      cs: Přístup ke všem organizacím
+      ka: ყველა ორგანიზაციის ხელმისაწვდომობა.
+      en: Access to all organizations
       ru: Просмотр автомобилей из любой организации
-      uk: Перегляд автомобілів з будь-якої організації
+      uk: Доступ до всіх організацій
     RightViewCarsModels:
       be: Просматривать модели автомобилей
       cs: prohlížení modelů vozidel
