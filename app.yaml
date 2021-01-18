@@ -281,8 +281,8 @@ Sections:
         en: Back
         ru: Назад
     appless.agree-with-terms:
-        en: I agree with terms and conditions of the service
-        ru: Я согласен с правилами использования сервиса
+        en: I agree with terms and conditions of the service.
+        ru: Я согласен с правилами использования сервиса.
     appless.rules-details:
         en: Details...
         ru: Подробнее...
