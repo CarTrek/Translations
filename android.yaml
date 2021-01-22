@@ -5251,3 +5251,12 @@ Sections:
     technician_organizations_button:
       en: View organizations
       ru: Организации
+    user_metrics_rides_count:
+        en: Rides count
+        ru: Число поездок
+    user_metrics_total_run:
+        en: Total run
+        ru: Пробег
+    user_metrics_total_time:
+        en: Total time
+        ru: Всего времени
