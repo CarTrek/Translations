@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RateCardForUnlock:
+      en: for start
+      ru: за старт
     CannotSetRightsBecauseOfAccess:
       en: 'Cannot set following rights (access denied):'
       ru: 'Невозможно установить следующие права (доступ запрещен):'
