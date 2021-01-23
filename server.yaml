@@ -5186,7 +5186,7 @@ Sections:
       be: View Car Defect
       cs: prohlížení poškození vozidel
       ka: ავტომანქანის დეფექტების ნახვა
-      en: Browse machine defects
+      en: Browse cars defects
       ru: View Car Defect
       uk: View Car Defect
     RightViewCarDefectTypes:
@@ -5873,7 +5873,7 @@ Sections:
     ThisCarHasAnOrderCanNotBeDeactivated:
       cs: Toto vozidlo je nyní pronajato. Před deaktivací vozidla je potřeba ukončit pronájem.
       ka: მანქანა ამჟამად დაქირავებულია. დაქირავების  გაუქმებამდე აუცილებელია ქირაობის დასრულება.
-      en: This machine is currently on loan. Before it is necessary to complete the deactivation of the lease.
+      en: This car is currently is rented.
       ru: Эта машина в данный момент в аренде. Перед её деактивацией необходимо завершить аренду.
       uk: Ця машина в даний момент в оренді. Перед її деактивацією необхідно завершити оренду.
     ThisCarHasAnOrderCanNotDelete:
