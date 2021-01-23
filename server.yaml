@@ -9,6 +9,9 @@ Sections:
     RateCardIncluded:
       en: Included
       ru: Включено
+    RateCardDriving:
+      en: Driving
+      ru: Аренда
     CannotSetRightsBecauseOfAccess:
       en: 'Cannot set following rights (access denied):'
       ru: 'Невозможно установить следующие права (доступ запрещен):'
