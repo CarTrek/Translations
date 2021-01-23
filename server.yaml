@@ -6,6 +6,9 @@ Sections:
     RateCardWaiting:
       en: Waiting
       ru: Ожидание
+    RateCardIncluded:
+      en: Included
+      ru: Включено
     CannotSetRightsBecauseOfAccess:
       en: 'Cannot set following rights (access denied):'
       ru: 'Невозможно установить следующие права (доступ запрещен):'
