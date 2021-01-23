@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    zones.AlwaysAvaliable:
+      en: Always available
+      ru: Всегда доступна
     orderevents.RATEDESCRIPTION:
       en: Rate description
       ru: Комментарий к тарифу
