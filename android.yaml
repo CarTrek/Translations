@@ -5253,7 +5253,7 @@ Sections:
       ru: Организации
     user_metrics_rides_count:
         en: Rides count
-        ru: Поездок
+        ru: Поездки
     user_metrics_total_run:
         en: Total run
         ru: Пробег
