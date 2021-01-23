@@ -5252,11 +5252,11 @@ Sections:
       en: View organizations
       ru: Организации
     user_metrics_rides_count:
-        en: Rides count
-        ru: Поездки
+      en: Rides count
+      ru: Поездки
     user_metrics_total_run:
-        en: Total run
-        ru: Пробег
+      en: Total run
+      ru: Пробег
     user_metrics_total_time:
-        en: Total time
-        ru: Длительность
+      en: Total time
+      ru: Длительность
