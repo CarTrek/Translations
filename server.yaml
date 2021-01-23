@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RatePackCardIncludedTime:
+      en: Included
+      ru: Включено
     RateCardForUnlock:
       en: for start
       ru: за старт
