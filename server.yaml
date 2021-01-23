@@ -3,6 +3,9 @@ Sections:
     RateCardForUnlock:
       en: for start
       ru: за старт
+    RateCardWaiting:
+      en: Waiting
+      ru: Ожидание
     CannotSetRightsBecauseOfAccess:
       en: 'Cannot set following rights (access denied):'
       ru: 'Невозможно установить следующие права (доступ запрещен):'
