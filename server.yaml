@@ -1,5 +1,20 @@
 Sections:
   Server:
+    RightSearchWithdrawals:
+      en: Search withdrawals
+      ru: Поиск списаний
+    RightSearchPayments:
+      en: Search payments
+      ru: Поиск платежей
+    RightSearchBonusesAdditions:
+      en: Search bonuses additions
+      ru: Поиск начислений бонусов
+    RightSearchBankCards:
+      en: Search bank cards
+      ru: Поиск карт
+    RightSearchUsers:
+      en: Search users
+      ru: Поиск пользователей
     RatePackCardIncludedTime:
       en: Included
       ru: Включено
