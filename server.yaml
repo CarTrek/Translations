@@ -1,7 +1,7 @@
 Sections:
   Server:
     TooManyRowsAccessCause:
-      en: 'There's too many rows in result set. You don't have permission to view all of them. Please clarify your search conditions'
+      en: 'There is too many rows in result set. You don't have permission to view all of them. Please clarify your search conditions'
       ru: 'Нашлось слишком много записей. У вас нет права на просмотр полного списка. Пожалуйста, уточните условия поиска'
     RightSearchWithdrawals:
       en: Search withdrawals
