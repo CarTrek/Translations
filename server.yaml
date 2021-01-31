@@ -1,5 +1,11 @@
 Sections:
   Server:
+    UnknownUserName:
+      en: Unknown
+      ru: Неизвестен
+    UnknownUserSurname:
+      en: Unknown
+      ru: Неизвестен
     TooManyRowsAccessCause:
       en: 'There is too many rows in result set. You have no permission to view all of them. Please clarify your search conditions'
       ru: 'Нашлось слишком много записей. У вас нет права на просмотр полного списка. Пожалуйста, уточните условия поиска'
