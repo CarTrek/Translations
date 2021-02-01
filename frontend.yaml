@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    ratepacks.editor.RateInfoUrl:
+      en: Rate pack info url
+      ru: Ссылка на описание абонемента
+    rates.editor.RateInfoUrl:
+      en: Rate info url
+      ru: Ссылка на описание тарифа
     zones.AlwaysAvaliable:
       en: Always available
       ru: Всегда доступна
