@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.notification.None:
+      en: Disabled
+      ru: Отключено
     ratepacks.editor.RateInfoUrl:
       en: Rate pack info url
       ru: Ссылка на описание абонемента
