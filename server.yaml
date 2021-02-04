@@ -1,5 +1,11 @@
 Sections:
   Server:
+    MassAssignOrganizations:
+      en: Organizations mass assignment
+      ru: Массовое назначение организации
+    Mass_Organizations:
+      en: Organizations
+      ru: Организации
     UnknownUserName:
       en: Unknown
       ru: Неизвестен
