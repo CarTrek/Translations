@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CanNotRentScooterWithGpsDisabledOnDevice:
+      en: To rent a scooter, turn on the GPS on your phone
+      ru: Чтобы арендовать самокат, включите GPS на вашем телефоне
     MassAssignOrganizations:
       en: Organizations mass assignment
       ru: Массовое назначение организации
