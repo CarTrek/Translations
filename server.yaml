@@ -1,7 +1,10 @@
 Sections:
   Server:
+    CanNotRentCarWithGpsDisabledOnDevice:
+      en: To rent a car, please turn on the GPS on your phone
+      ru: Чтобы арендовать автомобиль, включите GPS на вашем телефоне
     CanNotRentScooterWithGpsDisabledOnDevice:
-      en: To rent a scooter, turn on the GPS on your phone
+      en: To rent a scooter, please turn on the GPS on your phone
       ru: Чтобы арендовать самокат, включите GPS на вашем телефоне
     MassAssignOrganizations:
       en: Organizations mass assignment
