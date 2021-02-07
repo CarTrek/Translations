@@ -3414,7 +3414,7 @@ Sections:
       uk: Середній суму нарахованих бонусів
     MinGPSDistanceBetweenStationAndCar:
       en: Min GPS distance between station and car to fuel car (in meters). 0 for not checking the distance
-      ru: Расстояние между заправочной станцией и машиной, необъодимое для заправки (в метрах). Если 0, то расстояние не проверяется
+      ru: Расстояние между заправочной станцией и машиной, необходимое для заправки (в метрах). Если 0, то расстояние не проверяется
     MinimumFuelLevelPercentsSettingDescription:
       be: Минимальный уровень топлива, в процентах
       cs: Minimální hladina paliva, v procentech
@@ -5555,7 +5555,7 @@ Sections:
       uk: Розмір зображень не повинен перевищувати {0} Мб
     ScootersGPSDistanceInMeters:
       en: Distance in meters between user and vehicle for rent access
-      ru: Расстояние между самокатом и пользователям, необходимо для начала аренды (в мерах)
+      ru: Максимальное расстояние между самокатом и пользователям перед началом аренды (в метрах)
     SeatsNumber:
       en: Seats number
       ru: Количество посадочных мест
