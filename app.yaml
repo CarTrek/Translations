@@ -296,8 +296,14 @@ Sections:
         en: GPS is disable
         ru: Отключен GPS
     appless.location.ask-gsp-message:
-        en: Please enable GPS. We need to know how far are you from the scooter.
-        ru: Пожалуйста, включите GPS на вашем устройстве. Нам необходимо знать, как далеко вы от самоката.
+        en: Please enable GPS and allow your browser to access it. We need to know how far are you from the scooter.
+        ru: Пожалуйста, включите GPS на вашем устройстве и разрешите к нему доступ браузеру. Нам необходимо знать, как далеко вы от самоката.
+    appless.button.map:
+        en: Map
+        ru: Карта
+    appless.button.my-account:
+        en: Account
+        ru: Профиль
     closecar.text:
         en: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
         cs: Než ukončíte pronájem:\n- Prepněte převodovku do polohy \"P\"\n- Zatáhněte ruční brzdu\n- Vypněte světla (i v interiéru)\n- Zavřete okna a dveře\n- Vyfoťte celé auto
