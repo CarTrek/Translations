@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    rates.RentDurationFrom:
+      en: Rent duration from
+      ru: Длительность заказа от
+    rates.RentDurationTo:
+      en: Rent duration to
+      ru: Длительность заказа до
     clients.editor.notification.None:
       en: Disabled
       ru: Отключено
