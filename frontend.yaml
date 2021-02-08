@@ -6890,7 +6890,7 @@ Sections:
       ru: От
     rates.hiddenrate:
       cs: Nedostupný k výběru zákazníkem
-      en: not available for customers
+      en: Not available for select by customer
       ge: მიუწვდომელია მომხმარებლისთვის
       ru: Недоступен для выбора пользователем
     rates.Comments:
