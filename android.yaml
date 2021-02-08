@@ -1,5 +1,8 @@
 Sections:
   Android:
+    button_select_rate:
+      en: Select rate
+      ru: Выбрать
     rub_min:
       en: /min
       cs: /min
