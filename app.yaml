@@ -77,7 +77,7 @@ Sections:
       ru: 'Каждый Четверг'
     radar.repeatEveryFr:
       en: 'Every Friday'
-      ru: 'Каждый Пятницу'
+      ru: 'Каждую Пятницу'
     radar.repeatEverySa:
       en: 'Every Saturday'
       ru: 'Каждую Субботу'
