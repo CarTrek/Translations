@@ -330,7 +330,7 @@ Sections:
         ru: Похоже, вы запретили нам доступ к GPS
     appless.enable-gps-header-desciprtion:
         en: Without access to GPS, we can't make sure you're near the scooter. In this case, you may accidentally unlock a scooter that is far away from you. And then someone else will use the scooter.
-        ru: Без доступа к GPS мы не сможем убедиться, что вы рядом с самокатом. В этом случае вы можете случайно разблокировать самокат, находящийся далеко от вас. И тогда самокатом воспользуется кто-то другой.
+        ru: Без доступа к GPS мы не сможем убедиться, что вы рядом с самокатом. В этом случае вы можете нечаянно разблокировать самокат, находящийся далеко от вас. И тогда самокатом воспользуется кто-то другой.
     appless.enable-gps-instruction-desciprtion:
         en: 'Good news - you can fix it with ease. How to give us access to GPS is shown in the picture below:'
         ru: 'Хорошая новость - это легко исправить. Ниже инструкция, как разрешить доступ к GPS:'
