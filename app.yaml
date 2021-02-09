@@ -325,6 +325,11 @@ Sections:
     appless.rent.you-can-add-more:
         en: You can rent {count} more scooters
         ru: Вы можете арендовать ещё {count} самокат(а)
+    appless.enable-gps-header:
+        en: Looks like you've banned us from accessing the GPS
+        ru: Похоже, вы запретили нам доступ к GPS
+    appless.enable-gps-header-desciprtion:
+        ru: Без доступа к GPS мы не сможем определить, насколько далеко вы от самоката. В этом случае вы можете случайно разблокировать самокат, находящийся далеко от вас. И тогда самокатом воспользуется кто-то другой.
     closecar.text:
         en: Lift the handbrake\n\nSwitch the automatic transmission to P mode\n\nTurn off the lights\n\nClose the windows and doors\n\nTake a photo of the car
         cs: Než ukončíte pronájem:\n- Prepněte převodovku do polohy \"P\"\n- Zatáhněte ruční brzdu\n- Vypněte světla (i v interiéru)\n- Zavřete okna a dveře\n- Vyfoťte celé auto
