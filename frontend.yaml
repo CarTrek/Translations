@@ -8815,6 +8815,9 @@ Sections:
     organizations.LimitOfUser:
       cs: Limit pro zaměstnance
       en: Limit per employee
+    organizations.Limit:
+      en: Limit
+      ru: Лимит
     organizations.EmployeeGroupEdit:
       cs: Upravit skupinu zaměstnanců
       en: Edit group
