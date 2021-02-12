@@ -1,5 +1,8 @@
 Sections:
   Server:
+    EmailSubjectSpeedLimitExceeded:
+      en: Speed limit violation
+      ru: Вы превысили скорость
     YouDontHavePermissionToView:
       en: You do not have permission to view all result set
       ru: У вас нет права на просмотр всего списка, пожалуйста используйте поиск
