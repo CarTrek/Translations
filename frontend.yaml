@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.FuelMustBePaidByCustomer:
+      en: Fuel paid by customer
+      ru: Бензин за свой счет
     rates.RentDurationFrom:
       en: Rent duration from
       ru: Длительность заказа от
