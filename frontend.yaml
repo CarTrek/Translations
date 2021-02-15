@@ -6848,6 +6848,10 @@ Sections:
       en: minutes
       ge: წუთები
       ru: минут
+    rates.seconds:
+      en: seconds
+      ru: секунд
+      cs: sekunda
     rates.From1:
       cs: Od
       en: from
