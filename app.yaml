@@ -379,7 +379,7 @@ Sections:
         en: Settings
         ru: Настройки
         cs: Nastavení
-      settings-screen.description:
+     settings-screen.description:
         en: Here you can set up your preferences
         ru: Здесь вы можете настроить ваше приложение
 
