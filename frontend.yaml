@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    refueling.editor.FuelPaidByCustomer:
+      en: 'Rate was marked as "Fuel paid by customer". Bonuses will not be credited'
+      ru: 'Тариф был помечен галочкой "Бензин за свой счет". Бонусы не будут начислены'
     rates.FuelMustBePaidByCustomer:
       en: Fuel paid by customer
       ru: Бензин за свой счет
