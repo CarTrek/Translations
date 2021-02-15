@@ -382,4 +382,7 @@ Sections:
     settings-screen.description:
         en: Here you can set up your preferences
         ru: Здесь вы можете настроить ваше приложение
-
+    settings-screen.done-button:
+        en: Done
+        ru: Готово
+        cs: Hotovo
