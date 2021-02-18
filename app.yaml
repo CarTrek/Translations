@@ -387,5 +387,5 @@ Sections:
         ru: Готово
         cs: Hotovo
     appless.qr-scanner.no-permission-warning:
-        en: 'You disable access to your cam so we can not scan QR:('
+        en: 'You disabled access to your cam so we can not scan QR:('
         ru: 'Вы запретили доступ к камере, мы не можем сканировать QR-код:('
