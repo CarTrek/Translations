@@ -1,5 +1,11 @@
 Sections:
   App:
+    rent-finish-screen.total-rent:
+      en: Total rent
+      ru: Всего
+    km:
+      en: km
+      ru: км
     rent-finish-screen.rent-finished-sucessfully:
       en: Your rent finished successfully
       ru: Ваша аренда завершена успешно
