@@ -5989,6 +5989,11 @@ Sections:
       en: Parking
       ge: პარკინგი
       ru: Паркинг
+    cars.editor.GearboxState:
+      cs: Bezpečnostní pás řidiče
+      en: Gearbox
+      ge: მძღოლის ღვედი
+      ru: АКПП
     cars.editor.Ignition:
       en: Ignition
       ru: Зажигание
