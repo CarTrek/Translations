@@ -1,5 +1,8 @@
 Sections:
   App:
+    rent-finish-screen.done-button:
+      en: Done
+      ru: Закрыть
     access-denied:
       en: Access denied. Please sign in
       ru: У вас нет доступа. Пожалуйста, авторизуйтесь
