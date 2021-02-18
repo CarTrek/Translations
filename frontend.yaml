@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    voucher.organizationsToAdd:
+      en: Organizations to add
+      ru: Поместить в организации
+    voucher.organizationsToRemove:
+      en: Organizations to remove
+      ru: Убрать из организаций
     cars.editor.UNLOCKBATTERY:
       en: Unlock battery
       ru: Открыть батарею
