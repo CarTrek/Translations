@@ -1,7 +1,7 @@
 Sections:
   App:
     ride-report.go-to-profile-button:
-      en: Take advantages
+      en: Get advantages
       ru: Получить преимущества
     ride-report.incognito-call-to-action:
       en: Enter your e-mail and phone number and get bonuses and discounts!
