@@ -1,12 +1,12 @@
 Sections:
   App:
-    overrun:
+    rent-finish-screen.overrun:
       en: Overrun
       ru: Перепробег
-    unlock:
+    rent-finish-screen.unlock:
       en: Unlock
       ru: За начало
-    rate-packs:
+    rent-finish-screen.rate-packs:
       en: Packages
       ru: Пакеты
     rent-finish-screen.riding:
