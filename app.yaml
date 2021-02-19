@@ -1,5 +1,11 @@
 Sections:
   App:
+    rent-finish-screen.riding:
+      en: Ride
+      ru: Поездка
+    rent-finish-screen.parking:
+      en: Park
+      ru: Ожидание
     ds:
       en: d.
       ru: д.
