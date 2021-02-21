@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.incognito.phone-number-description:
+      ru: Введите ваш номер телефона. Мы пришлём не него код подтверждения.
+      en: Please enter your mobile phone number. We will send a confirmation code to the number.
     profile.phone-number:
       en: Phone number
       ru: Номер телефона
