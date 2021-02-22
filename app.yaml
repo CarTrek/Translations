@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.incognito.sms-code-description:
+      en: We sent an SMS code to the phone number {phone-number}. If the code is not received within a minute, please click the Send code again button.
+      ru: Мы отправили SMS-код на номер телефона {phone-number}. Если код не пришёл в течение минуты, пожалуйста, нажмите кнопку Отправить код повторно
+    profile.sms-code:
+      en: SMS code
+      ru: SMS-код
     profile.next-button:
       en: Next
       ru: Далее
