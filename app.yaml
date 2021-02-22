@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.screen-title:
+      en: My profile
+      ru: Мои данные
     profile.resend-sms:
       en: Send code again
       ru: Отправить код повторно
