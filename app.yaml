@@ -3,6 +3,12 @@ Sections:
     profile.next-button:
       en: Next
       ru: Далее
+    profile.incognito.email-description:
+      en: Please enter your e-mail. We will send recipes for your ride to your e-mail.
+      ru: Пожалуйста, введите ваш e-mail. На e-mail мы будем отправлять чеки.
+    profile.incognito.captcha-description:
+      en: 'Please enter the captcha code you see on the picture below:'
+      ru: 'Пожалуйста, введите код с картинки, которую вы видите ниже:'
     profile.incognito.phone-number-description:
       en: Please enter your mobile phone number. We will send a confirmation code to the number.
       ru: Введите ваш номер телефона. Мы пришлём на него код подтверждения.
