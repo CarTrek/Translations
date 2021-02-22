@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedUserIsNotIncognito:
+      en: You can change your account data with help of our support team only
+      ru: Поменять данные пользователя можно только через техподдержку
     FailedCouldNotRecognizeQrCode:
       en: Could not read QR-code. Please try to scan it again.
       ru: На фото не удалось найти QR-код. Пожалуйста, попробуйте сфотографировать код ещё раз.
