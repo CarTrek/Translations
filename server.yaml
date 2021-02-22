@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedWrongSmsCode:
+      en: Wrong SMS code
+      ru: Неправильный код подтверждения из SMS
     FailedUserIsNotIncognito:
       en: You can change your account data with help of our support team only
       ru: Поменять данные пользователя можно только через техподдержку
