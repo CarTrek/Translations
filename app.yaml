@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.promo-code:
+      en: Promo code
+      ru: Промо-код
     debt-card.charge-button:
       en: Pay off
       ru: Погасить долг
