@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.DoNotPayForRefuelingTime:
+      en: Do not enroll for refueling time
+      ru: Не начислять бонусы за время заправки
     refueling.editor.WillNotPayForRefuelingTime:
       en: Bonuses for refueling time will not be enrolled
       ru: Бонусы за время заправки не будут начислены
