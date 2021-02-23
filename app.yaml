@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.name:
+      en: Name
+      ru: Имя
+    profile.surname:
+      en: Surname
+      ru: Фамилия
     profile.incognito.name-and-surname-description:
       en: You can tell us your name. Then we can call you by your name.
       ru: Вы можете рассказать нам, как вас зовут. Тогда мы сможем обращаться к вам по имени.
