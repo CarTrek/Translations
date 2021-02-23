@@ -1,5 +1,8 @@
 Sections:
   App:
+    debt-card.charge-button:
+      en: Pay off
+      ru: Погасить долг
     debt-card.you-have-a-debt:
       en: You have a debt of {currency}{sum}. Please top up your bank card and press the button.
       ru: У вас долг {currency}{sum}. Пожалуйста, пополните карту и нажмите кнопку.
