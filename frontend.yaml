@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    refueling.editor.WillNotPayForRefuelingTime:
+      en: Bonuses for refueling time will not be enrolled
+      ru: Бонусы за время заправки не будут начислены
     voucher.organizationsToAdd:
       en: Organizations to add
       ru: Поместить в организации
