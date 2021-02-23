@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.blocked:
+      en: Blocked
+      ru: Заблокирован
     profile.screen-title:
       en: My profile
       ru: Мои данные
