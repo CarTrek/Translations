@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.bonus-account:
+      en: Bonuses
+      ru: Бонусный счёт
     profile.blocked:
       en: Blocked
       ru: Заблокирован
