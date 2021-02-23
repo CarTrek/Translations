@@ -13,8 +13,8 @@ Sections:
       en: Unlock battery
       ru: Открыть батарею
     refueling.editor.FuelPaidByCustomer:
-      en: 'Rate was marked as "Fuel paid by customer". Bonuses will not be credited'
-      ru: 'Тариф был помечен галочкой "Бензин за свой счет". Бонусы не будут начислены'
+      en: 'Rate was marked as "Fuel paid by customer"'
+      ru: 'Тариф был помечен галочкой "Бензин за свой счет"'
     rates.FuelMustBePaidByCustomer:
       en: Fuel paid by customer
       ru: Бензин за свой счет
