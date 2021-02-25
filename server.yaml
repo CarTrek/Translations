@@ -494,9 +494,9 @@ Sections:
       en: 'User has checked this troubles:'
       ru: 'Пользователь отметил следующие проблемы:'
     Success:
-      en: 'Account is topped up, enjoy your rides!'
+      en: Success
       ru: Действие выполнено успешно
-      cs: 'Účet je dobitý, vyrazte na cestu!'
+      cs: Akce byla úspěšně provedena
     IdleTime:
       cs: Čas nečinnosti
       en: Downtime
