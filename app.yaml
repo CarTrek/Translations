@@ -1,5 +1,8 @@
 Sections:
   App:
+    sigin.header-text:
+      en: To start please enter your phone number
+      ru: Чтобы начать, введите ваш номер телефона
     profile.name:
       en: Name
       ru: Имя
