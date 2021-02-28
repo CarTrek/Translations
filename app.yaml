@@ -1,5 +1,8 @@
 Sections:
   App:
+    signin.button-signin:
+      en: Sign in
+      ru: Вход
     sigin.header-text:
       en: To start please enter your phone number
       ru: Чтобы начать, введите ваш номер телефона
