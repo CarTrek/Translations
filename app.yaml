@@ -1,11 +1,23 @@
 Sections:
   App:
-    signin.button-signin:
+    signin.phonenumber-button:
       en: Sign in
       ru: Вход
-    sigin.header-text:
+    signin.captcha-button:
+      en: Next
+      ru: Далее
+    signin.smscode-button:
+      en: Next
+      ru: Далее
+    signin.phonenumber-header-text:
       en: To start please enter your phone number
       ru: Чтобы начать, введите ваш номер телефона
+    signin.captcha-header-text:
+      en: Please enter the text from the captcha
+      ru: Пожалуйста, введите текст с картинки
+    signin.sms-code-header-text:
+      en: We sent a text message with a code to phone number {phone-number}. Please enter the code
+      ru: Мы отправили SMS c кодом на телефон {phone-number}. Пожалуйста, введите этот код
     profile.name:
       en: Name
       ru: Имя
