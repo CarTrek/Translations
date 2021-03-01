@@ -1,5 +1,11 @@
 Sections:
   App:
+    signin.resend-code:
+      en: Resend code
+      ru: Выслать код повторно
+    signin.resend-code-description:
+      en: You will be able to request a new code in {seconds} seconds
+      ru: Вы сможете запросить код повторно через {seconds} секунд
     signin.unsuccess-title:
       en: Login failed
       ru: Не удалось войти
