@@ -1,5 +1,23 @@
 Sections:
   App:
+    signin.unsuccess-title:
+      en: Login failed
+      ru: Не удалось войти
+    signin.unsuccess-Rejected:
+      en: Code is incorrect
+      ru: Вы ввели неправильный код
+    signin.unsuccess-MaxNumberOfAttemptsExceeded:
+      en: Too many attempts
+      ru: Слишком много неуспешных попыток входа
+    signin.unsuccess-UserBlocked:
+      en: Your acount is blocked
+      ru: Ваша учётная запись заблокирована
+    signin.unsuccess-UserNotFound:
+      en: Your account is not found
+      ru: Ваша учётная запись не зарегистрирована
+    signin.unsuccess-CodeHasExpired:
+      en: The code is expired
+      ru: Истёк срок действия кода
     signin.phonenumber-button:
       en: Sign in
       ru: Вход
