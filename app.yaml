@@ -1,8 +1,8 @@
 Sections:
   App:
     signin.wrong-phone-number:
-      en: {phone-number} is not your number?
-      ru: Ваш номер не {phone-number}?
+      en: '{phone-number} is not your number?'
+      ru: 'Ваш номер не {phone-number}?'
     signin.resend-code:
       en: Resend code
       ru: Выслать код повторно
