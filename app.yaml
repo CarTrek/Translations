@@ -1,5 +1,11 @@
 Sections:
   App:
+    appless.rent.show-pin-title:
+      en: How to open lock
+      ru: Как открыть замок
+    appless.rent.show-pin-message:
+      en: This scooter has a mechanical lock. To open the lock, set the PIN code {pin} and open the lock with your hands. To close the lock: set the PIN, insert the end of the cable into the lock and turn the lock rings to random position.
+      ru: На этом самокате механический замок. Чтобы открыть замок, выставьте ПИН-код {pin} и откройте замок руками. Чтобы закрыть замок: выставьте ПИН, вставьте конец троса в замок и проверните кольца замка в произвольное положение.
     appless.rent.button-pin:
       en: 'PIN: {pin}'
       ru: 'ПИН: {pin}'
