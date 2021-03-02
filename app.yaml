@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.rent.button-unlock:
+      en: Unlock the lock
+      ru: Открыть замок
     signin.wrong-phone-number:
       en: '{phone-number} is not your number?'
       ru: 'Ваш номер не {phone-number}?'
