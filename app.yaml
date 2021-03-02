@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.rent.button-pin:
+      en: 'PIN: {pin}'
+      ru: 'ПИН: {pin}'
     appless.rent.button-unlock:
       en: Unlock
       ru: Открыть
