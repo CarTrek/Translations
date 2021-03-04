@@ -467,8 +467,8 @@ Sections:
         en: Map
         ru: Карта
     appless.button.my-account:
-        en: Account
-        ru: Профиль
+        en: Menu
+        ru: Меню
     appless.order-details-total:
         en: Total
         ru: Итого
