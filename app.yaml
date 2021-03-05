@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-methods.add-payment-method:
+      en: Add a card
+      ru: Добавить карту
     payment-methods.screen-title:
       en: Payment methods
       ru: Способы оплаты
