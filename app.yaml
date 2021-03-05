@@ -1,5 +1,17 @@
 Sections:
   App:
+    payment-methods.set-default-title:
+      en: Set default payment method
+      ru: Сделать картой по умолчанию
+    payment-methods.set-default-message:
+      en: 'Are you sure you want to make {card-number} the default payment method?'
+      ru: 'Вы уверены, что хотите сделать карту {card-number} способом оплаты по умолчанию?'
+    payment-methods.remove-bank-card-title:
+      en: Remove bank card
+      ru: Удалить карту
+    payment-methods.remove-bank-card-message:
+      en: 'Do you really want to remove the car with number {card-number}?'
+      ru: 'Вы действительно хотите удалить карту с номером {card-number}'
     payment-methods.add-payment-method:
       en: Add a card
       ru: Добавить карту
