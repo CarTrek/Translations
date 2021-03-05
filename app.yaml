@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-methods.screen-title:
+      en: Payment methods
+      ru: Способы оплаты
     drawer.profile:
       en: My profile
       ru: Мои данные
