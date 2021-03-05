@@ -1,5 +1,20 @@
 Sections:
   App:
+    drawer.profile:
+      en: My profile
+      ru: Мои данные
+    drawer.payment-methods:
+      en: Payment methods
+      ru: Способ оплаты
+    drawer.rides:
+      en: My rides
+      ru: Мои поездки
+    drawer.support:
+      en: Support
+      ru: Поддержка
+    drawer.rules:
+      en: Rules
+      ru: Правила сервиса
     appless.rent.show-pin-title:
       en: 'How to open lock'
       ru: 'Как открыть замок'
