@@ -1,5 +1,8 @@
 Sections:
   App:
+    rides-history.screen-title:
+      en: My rides
+      ru: Мои поездки
     payment-methods.no-card:
       en: You haven't linked any bank cards
       ru: Вы не привязали ни одной банковской карты
