@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-methods.no-card:
+      en: You haven't linked any bank cards
+      ru: Вы не привязали ни одной банковской карты
     payment-methods.set-default-title:
       en: Set default payment method
       ru: Сделать картой по умолчанию
