@@ -1,5 +1,8 @@
 Sections:
   App:
+    ride-details.details:
+      en: Details
+      ru: Детализация
     ride-details.summary-free-booking:
       en: Free reservation
       ru: Бесплатная бронь
