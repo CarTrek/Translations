@@ -1,5 +1,17 @@
 Sections:
   App:
+    ride-details.summary-free-booking:
+      en: Free reservation
+      ru: Бесплатная бронь
+    ride-details.summary-inspect:
+      en: Inpection
+      ru: Осмотр
+    ride-details.summary-park:
+      en: Park mode
+      ru: На парковке
+    ride-details.summary-drive:
+      en: Drive mode
+      ru: Использование
     ride-details.screen-title:
       en: Ride details
       ru:  Детализация поездки
