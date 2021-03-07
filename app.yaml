@@ -1,5 +1,8 @@
 Sections:
   App:
+    ride-details.overrun:
+      en: Extra milage
+      ru: Перепробег
     ride-details.with-card:
       en: From card
       ru: Картой
