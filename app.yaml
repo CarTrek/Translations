@@ -1,5 +1,8 @@
 Sections:
   App:
+    ride-details.screen-title:
+      en: Ride details
+      ru:  Детализация поездки
     rides-history.no-rides:
       en: You have no rides yet
       ru: Вы ещё не совершили ни одной поездки
