@@ -1,5 +1,8 @@
 Sections:
   App:
+    rides-history.load-more:
+      en: Load more
+      ru: Ещё
     rides-history.total-rides-label:
       en: Rides
       ru: Поездки
