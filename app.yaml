@@ -1,5 +1,14 @@
 Sections:
   App:
+    rides-history.total-rides-label:
+      en: Rides
+      ru: Поездки
+    rides-history.total-run-label:
+      en: Run
+      ru: Пробег
+    rides-history.total-time-label:
+      en: Duration
+      ru: Длительность
     rides-history.screen-title:
       en: My rides
       ru: Мои поездки
