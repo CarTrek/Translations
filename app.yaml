@@ -1,5 +1,11 @@
 Sections:
   App:
+    ride-details.with-card:
+      en: From card
+      ru: Картой
+    ride-details.with-bonuses:
+      en: From bonuses
+      ru: Бонусами
     ride-details.payments:
       en: Payments
       ru: Платежи
