@@ -1,5 +1,8 @@
 Sections:
   App:
+    rides-history.no-rides:
+      en: You have no rides yet
+      ru: Вы ещё не совершили ни одной поездки
     rides-history.load-more:
       en: Load more
       ru: Ещё
