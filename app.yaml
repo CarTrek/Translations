@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.purchase-bonuses:
+      en: Purchase bonuses
+      ru: Купить бонусы
     ride-details.overrun:
       en: Extra milage
       ru: Перепробег
