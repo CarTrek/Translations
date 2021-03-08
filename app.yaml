@@ -1,5 +1,8 @@
 Sections:
   App:
+    ride-details.no-payments:
+      en: No payments was made
+      ru: Платежей во время аренды не было
     drawer.purchase-bonuses:
       en: Purchase bonuses
       ru: Купить бонусы
