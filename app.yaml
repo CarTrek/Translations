@@ -1,5 +1,11 @@
 Sections:
   App:
+    map-stub.title:
+      en: Map
+      ru: Карта
+    map-stub.message:
+      en: 'Map still is not available, but coming soon😃 Now you can rent scooter with QR codes🛴'
+      ru: 'Карту ещё не доделали, но скоро будет тут😃 А пока вы можете арендовать самокаты, просто отсканировав QR-код🛴'
     support.chat:
       en: Chat with support
       ru: Чат с поддержкой
