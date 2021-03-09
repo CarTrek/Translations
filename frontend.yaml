@@ -2800,10 +2800,10 @@ Sections:
       ge: აღწერა
       ru: Примечание
     voucher.list.addConfirm:
-      cs: 'budou vytvořeny certifikáty: {{quantity}} ks. pro {{agent}}. Pokračovat?'
-      en: 'Will be created new vouchers: {{quantity}} amount for {{agent}}. Do you want to continue?'
-      ge: 'შეიქმნება სერტიფიქატები : {{quantity}} რაოდენობით  {{agent}} ისთვის გავაგრძელოთ?'
-      ru: 'Будут созданы Сертификаты: {{quantity}} шт. для {{agent}}. Продолжить?'
+      cs: 'budou vytvořeny certifikáty: {{quantity}} ks. pro {{agent.displayName}}. Pokračovat?'
+      en: 'Will be created new vouchers: {{quantity}} amount for {{agent.displayName}}. Do you want to continue?'
+      ge: 'შეიქმნება სერტიფიქატები : {{quantity}} რაოდენობით  {{agent.displayName}} ისთვის გავაგრძელოთ?'
+      ru: 'Будут созданы Сертификаты: {{quantity}} шт. для {{agent.displayName}}. Продолжить?'
     voucher.list.creationdate:
       cs: datum a čas vytvoření
       en: Creation date and time
