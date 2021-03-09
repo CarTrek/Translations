@@ -1,8 +1,5 @@
 Sections:
   App:
-    show-url.screen-title:
-      en: Document view
-      ru: Просмотр документа
     show-url.done:
       en: Close
       ru: Закрыть
