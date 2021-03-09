@@ -1,5 +1,8 @@
 Sections:
   App:
+    show-url.done:
+      en: Close
+      ru: Закрыть
     rules-menu.helpUrl:
       en: Help
       ru: Помощь
