@@ -1,5 +1,8 @@
 Sections:
   App:
+    support.chat:
+      en: Chat with support
+      ru: Чат с поддержкой
     show-url.done:
       en: Close
       ru: Закрыть
