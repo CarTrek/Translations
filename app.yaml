@@ -1,8 +1,32 @@
 Sections:
   App:
+    rules-menu.helpUrl:
+      en: Help
+      ru: Помощь
+    rules-menu.ratesUrl:
+      en: Tariffs
+      ru: Тарифы
+    rules-menu.rulesUrl:
+      en: Service rules
+      ru: Правила сервиса
+    rules-menu.licenceAgreementUrl:
+      en: Licence agreement
+      ru: Лицензионное соглашение
+    rules-menu.privacyPolicyUrl:
+      en: Privacy policy
+      ru: Политика конфиденциальности
+    rules-menu.contractUrl:
+      en: Contract
+      ru: Договор присоединения
+    rules-menu.refuelingRulesUrl:
+      en: Refueling rules
+      ru: Правила заправки
     ride-details.no-payments:
       en: No payments was made
       ru: Платежей во время аренды не было
+    rules-menu.privateDataProcessingConsent:
+      en: Private data processing consent
+      ru: Согласие на обработку персональных данных
     drawer.purchase-bonuses:
       en: Purchase bonuses
       ru: Купить бонусы
