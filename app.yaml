@@ -34,7 +34,7 @@ Sections:
       en: Refueling rules
       ru: Правила заправки
     ride-details.no-payments:
-      en: No payments was made
+      en: No payments were made
       ru: Платежей во время аренды не было
     rules-menu.privateDataProcessingConsent:
       en: Private data processing consent
