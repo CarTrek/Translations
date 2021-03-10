@@ -507,7 +507,7 @@ Sections:
       ge: მანქანა
       ru: Машина
     zones.NOTIFICATIONS_TYPEDriveIn:
-      en: Notify about driv in to the zone
+      en: Notify about drive in to the zone
       ru: Уведомлять о въезде в зону
       cs: Informovat o vstupu do zóny
       ka: აცნობოს შესვლის ზონაში
@@ -6584,10 +6584,10 @@ Sections:
       ge: შეტყობინება
       ru: Уведомления
     zones.NOTIFICATIONS_TYPERENTEND:
-      cs: Ukažte uživatele, kteří obdrží oznámení v případě ukončení pronájmu v této oblasti
-      en: Please indicate users which will receive notifications in case of finishing their rental in this zone
-      ge: მოუთითეთ მომხმარებელი, რომელიც მიიღებს შეტყობინებას ამ ზონაში ქირაობის დასრულებაზე
-      ru: Укажите пользователей, которые получат уведомления в случае завершения аренды в этой зоне
+      cs: Upozornit v případě dokončení pronájmu v této oblasti
+      en: Notify in case of rental completion in this area
+      ge: აცნობეთ ამ სფეროში დაქირავების დასრულების შემთხვევაში
+      ru: Уведомлять в случае завершения аренды в этой зоне
     zones.notificationPlaceholder:
       cs: Začněte zadávaj příjmení uživatele
       en: Please enter users last name
