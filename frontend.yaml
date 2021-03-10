@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    clients.editor.Gender.Female:
+      en: Female
+      ru: Женский
+    clients.editor.Gender.Male:
+      en: Male
+      ru: Мужской
+    clients.editor.Gender:
+      en: Gender
+      ru: Пол
     rates.DoNotPayForRefuelingTime:
       en: Do not enroll for refueling time
       ru: Не начислять бонусы за время заправки
