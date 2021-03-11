@@ -1,5 +1,23 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.day-of-week:
+      en: Day of week
+      ru: День недели
+    heatmap.ride-insight.part-of-the-day:
+      en: Time of the day
+      ru: Время суток
+    heatmap.ride-insight.night:
+      en: 'Night (00:00-05:59)'
+      ru: 'Ночь (00:00-05:59)'
+    heatmap.ride-insight.morning:
+      en: 'Morning (06:00-11:59)'
+      ru: 'Утро (06:00-11:59)'
+    heatmap.ride-insight.aternoon:
+      en: 'Aternoon (12:00-17:59)'
+      ru: 'День (12:00-17:59)'
+    heatmap.ride-insight.evening:
+      en: 'Evening (18:00-23:59)'
+      ru: 'Вечер (18:00-23:59)'
     heatmap.display-params:
       en: Display parameters
       ru: Параметры отображения
