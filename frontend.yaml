@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.analisys-params:
+      en: Analisys parameters
+      ru: Параметры анализа
     heatmap.header.rides-insight:
       en: Rides insight
       ru: Анализ поездок
