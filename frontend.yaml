@@ -15,8 +15,8 @@ Sections:
     heatmap.ride-insight.morning:
       en: 'Morning (06:00-11:59)'
       ru: 'Утро (06:00-11:59)'
-    heatmap.ride-insight.aternoon:
-      en: 'Aternoon (12:00-17:59)'
+    heatmap.ride-insight.afternoon:
+      en: 'Afternoon (12:00-17:59)'
       ru: 'День (12:00-17:59)'
     heatmap.ride-insight.evening:
       en: 'Evening (18:00-23:59)'
