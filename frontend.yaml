@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.what-to-show:
+      en: What to show by heatmap
+      ru: Что показывать на карте
+    heatmap.ride-insight.show-cost:
+      en: Cost
+      ru: Деньги
+    heatmap.ride-insight.show-time:
+      en: Duration
+      ru: Длительность
+    heatmap.ride-insight.show-rides:
+      en: Rides count
+      ru: Число поездок
     heatmap.ride-insight.redraw:
       en: Refresh map
       ru: Обновить на карте
