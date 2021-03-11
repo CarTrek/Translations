@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.lat-parts:
+      en: Count by Y
+      ru: Число делений по Y
+    heatmap.ride-insight.lon-parts:
+      en: Count by X
+      ru: Число делений по X
     heatmap.ride-insight.top-left:
       en: Top left
       ru: Верхний левый угол
