@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.top-left:
+      en: Top left
+      ru: Верхний левый угол
+    heatmap.ride-insight.bottom-right:
+      en: Bottom right
+      ru: Нижний правый угол
     heatmap.analisys-params:
       en: Analisys parameters
       ru: Параметры анализа
