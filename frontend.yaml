@@ -4,7 +4,7 @@ Sections:
       en: What to show by heatmap
       ru: Что показывать на карте
     heatmap.ride-insight.show-cost:
-      en: Cost
+      en: Money
       ru: Деньги
     heatmap.ride-insight.show-time:
       en: Duration
