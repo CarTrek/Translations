@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.header.rides-insight:
+      en: Rides insight
+      ru: Анализ поездок
     aside.nav.HEATMAP:
       en: Heatmap
       ru: Тепловая карта
