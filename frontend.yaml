@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.redraw:
+      en: Refresh map
+      ru: Обновить на карте
     heatmap.ride-insight.day-of-week:
       en: Day of week
       ru: День недели
