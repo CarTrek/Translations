@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.HEATMAP:
+      en: Heatmap
+      ru: Тепловая карта
     clients.editor.Gender.Female:
       en: Female
       ru: Женский
