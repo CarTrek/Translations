@@ -1,5 +1,8 @@
 Sections:
   Server:
+    OrdersAnalisysIsInProgressNow:
+      en: Orders calcalation is running already
+      ru: Расчёт статистики заказов уже выполняется
     FailedWrongSmsCode:
       en: Wrong SMS code
       ru: Неправильный код подтверждения из SMS
