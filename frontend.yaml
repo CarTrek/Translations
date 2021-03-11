@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.display-params:
+      en: Display parameters
+      ru: Параметры отображения
     heatmap.ride-insight.calculate:
       en: Start data preparation
       ru: Запустить подготовку данных
