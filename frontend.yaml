@@ -301,10 +301,10 @@ Sections:
       en: KBM limit
       ru: Ограничение по КБМ
       kz: KBM шегі
-    notifications.DriveIn:
+    notifications.ZoneDriveIn:
       en: Zone drive in
       ru: Въезд в зону
-    notifications.DriveOut:
+    notifications.ZoneDriveOut:
       en: Zone drive out
       ru: Выезд из зоны
     notifications.EngineSpeedTooHigh:
