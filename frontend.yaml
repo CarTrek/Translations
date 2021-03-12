@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.show-idle-time:
+      en: Idle time
+      ru: Время простоя
     zones.DriveOutNotifications:
       en: Notify about drive out of the zone
       ru: Уведомлять о выезде из зоны
