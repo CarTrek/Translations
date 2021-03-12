@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    min:
+      en: 'min.'
+      ru: 'мин.'
     heat-map.rides-insight.popup.rentalsCount:
       en: Число поездок
       ru: Rides count
