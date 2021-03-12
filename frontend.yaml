@@ -4,8 +4,8 @@ Sections:
       en: 'min.'
       ru: 'мин.'
     heat-map.rides-insight.popup.rentalsCount:
-      en: Число поездок
-      ru: Rides count
+      en: Rides count
+      ru: Число поездок
     heat-map.rides-insight.popup.avgMinutesBeforeOrder:
       en: Average idle before order
       ru: Средний простой перед арендой
