@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    heat-map.rides-insight.popup.id:
+      en: ID
+      ru: ID
+    heat-map.rides-insight.popup.latNumber:
+      en: Lat index
+      ru: Индекс широты
+    heat-map.rides-insight.popup.lonNumber:
+      en: Lon index
+      ru: Индекс долготы
     min:
       en: 'min.'
       ru: 'мин.'
