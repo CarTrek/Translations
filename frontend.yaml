@@ -301,6 +301,12 @@ Sections:
       en: KBM limit
       ru: Ограничение по КБМ
       kz: KBM шегі
+    notifications.DriveIn:
+      en: Zone drive in
+      ru: Въезд в зону
+    notifications.DriveOut:
+      en: Zone drive out
+      ru: Выезд из зоны
     notifications.EngineSpeedTooHigh:
       en: Engine speed too high
       ru: Высокие обороты двигателя
