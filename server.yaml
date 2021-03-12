@@ -225,6 +225,12 @@ Sections:
     EngineSpeedTooHigh:
       ru: Высокие обороты двигателя
       en: Engine speed too high
+    ZoneDriveIn:
+      ru: Car entered the zone
+      en: Въезд взону
+    ZoneDriveOut:
+      ru: Car left the zone
+      en: Выезд из зоны
     EngineSpeedLimitDescription:
       ru: Ограничение по оборотам двигателя
       en: Engine speed limit
