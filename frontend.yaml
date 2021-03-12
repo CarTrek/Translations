@@ -1,7 +1,7 @@
 Sections:
   AdminFrontend:
     zones.DriveOutNotifications:
-      en: Drive out notifications
+      en: Notify about drive out of the zone
       ru: Уведомлять о выезде из зоны
     heatmap.ride-insight.stop-calculation:
       en: Stop
