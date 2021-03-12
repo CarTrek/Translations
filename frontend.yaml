@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.stop-calculation:
+      en: Stop
+      ru: Остановить
     heatmap.ride-insight.what-to-show:
       en: What to show with the heatmap
       ru: Что показывать на карте
