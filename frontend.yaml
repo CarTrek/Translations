@@ -1,5 +1,26 @@
 Sections:
   AdminFrontend:
+    heat-map.rides-insight.popup.rentalsCount:
+      en: Число поездок
+      ru: Rides count
+    heat-map.rides-insight.popup.avgMinutesBeforeOrder:
+      en: Average idle before order
+      ru: Средний простой перед арендой
+    heat-map.rides-insight.popup.medMinutesBeforeOrder:
+      en: Median idle before order
+      ru: Медианный простой перед арендой
+    heat-map.rides-insight.popup.avgCostInKops:
+      en: Average cost of ride
+      ru: Средняя стоимость поездки
+    heat-map.rides-insight.popup.medCostInKops:
+      en: Median cost of ride
+      ru: Медианная стоимость поездки
+    heat-map.rides-insight.popup.avgRentMinutes:
+      en: Average duration of ride
+      ru: Средняя длительность поездки
+    heat-map.rides-insight.popup.medRentMinutes:
+      en: Median duration of ride
+      ru: Медианная длительность поездки
     heatmap.ride-insight.show-idle-time:
       en: Idle time
       ru: Время простоя
