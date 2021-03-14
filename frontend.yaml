@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.ride-insight.reset:
+      en: Reset heatmap
+      ru: Очистить
     heat-map.rides-insight.popup.id:
       en: ID
       ru: ID
