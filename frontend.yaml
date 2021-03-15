@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.selected-item:
+      en: Selected item
+      ru: Выбранный элемент
     heatmap.ride-insight.reset:
       en: Reset heatmap
       ru: Очистить
