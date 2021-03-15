@@ -504,8 +504,8 @@ Sections:
         ru: Отмена
         cs: Zrušení
     purchase.bonuses.buy-bonuses-confirmation:
-        en: 'Are you sure you want to buy {purchase.bonuses.buy-bonuses-confirmation} bonuses?'
-        ru: 'Вы уверены, что хотите купить {purchase.bonuses.buy-bonuses-confirmation} бонусов?'
+        en: 'Are you sure you want to buy {bonuses-amount} bonuses?'
+        ru: 'Вы уверены, что хотите купить {bonuses-amount} бонусов?'
         cs: 'Jste si jisti, že chcete koupit bonusy?'
     purchase.bonuses.add-card:
         en: 'Add a bank card'
