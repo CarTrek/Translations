@@ -1,5 +1,13 @@
 Sections:
   Server:
+    PuchaseBonusesEnumFailedUserIsBlocked:
+      en: 'You account is blocked. You can not purchase bonuses'
+      ru: 'Ваш аккант заблокирован, поэтому вы не можете покупать бонусы'
+      cs: 'Váš akkant je zablokován, takže si nemůžete koupit bonusy'
+    PuchaseBonusesEnumFailedUserIsNotValidated:
+      en: 'You account still is not validated so you can not purchase bonuses'
+      ru: 'Ваш аккаунт ещё не одобрен, поэтому пока вы не можете покупать бонусы'
+      cs: 'Váš účet ještě není schválen, takže zatím nemůžete koupit bonusy'
     OrdersAnalisysIsInProgressNow:
       en: Orders calcalation is running already
       ru: Расчёт статистики заказов уже выполняется
