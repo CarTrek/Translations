@@ -1,5 +1,20 @@
 Sections:
   AdminFrontend:
+    users.typeToSearchPlaceholder:
+      en: Start typing to search...
+      ru: Начните печатать для поиска...
+    users.selectUser:
+      en: Select user
+      ru: Выберите пользователя
+    system.users.clear:
+      ru: Очистить
+      en: Clear rights
+    system.users.copy:
+      ru: Скопировать права
+      en: Copy from user
+    system.users.showEnabled:
+      ru: Показать разрешенные
+      en: Show enabled
     heatmap.selected-item:
       en: Selected item
       ru: Выбранный элемент
