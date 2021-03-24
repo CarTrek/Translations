@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    payments.canceled:
+      en: Cancelled payments
+      ru: Отменённые платежи
     clients.editor.TOTALUNPAIDSUM:
       en: Total unpaid
       ru: Итого не оплачено
@@ -3029,7 +3032,7 @@ Sections:
       cs: neúspěšné pokusy o stržení
       en: Unsuccessful write-off
       ge: წარუმატებელი ჩამოწერა
-      ru: Неудачные списания
+      ru: Неуспешные списания
     payments.Car:
       cs: vozidlo
       en: Car
