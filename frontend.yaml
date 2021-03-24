@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.TOTALUNPAIDSUM:
+      en: Total unpaid
+      ru: Итого не оплачено
     users.typeToSearchPlaceholder:
       en: Start typing to search...
       ru: Начните печатать для поиска...
