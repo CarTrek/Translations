@@ -1,7 +1,9 @@
 Sections:
   Server:
     BepaidPayButtonText:
-      en: ''
+      en: 'Pay {amount}'
+      ru: 'Оплатить {amount}'
+      ge: 'გადახდა {amount}'
     PuchaseBonusesEnumFailedUserIsBlocked:
       en: 'You account is blocked. You can not purchase bonuses'
       ru: 'Ваш аккант заблокирован, поэтому вы не можете покупать бонусы'
