@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.list.OfflineTime:
+      en: Offline time
+      ru: Время оффлайн
     payments.canceled:
       en: Cancelled payments
       ru: Отменённые платежи
