@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserDontHaveActiveSessions:
+      en: 'User does not have active sessions'
+      ru: 'У пользователя нет активных сеансов'
     BepaidPayButtonText:
       en: ''
     PuchaseBonusesEnumFailedUserIsBlocked:
