@@ -16,11 +16,11 @@ Sections:
       en: 'Unlock the scooter'
       ru: 'Разблокировать самокат'
     technician.button.block:
-      en: 'Block'
-      ru: 'Блокировать'
+      en: 'Immobilize'
+      ru: 'Обездвижить'
     technician.button.unblock:
-      en: 'Unblock'
-      ru: 'Разблокировать'
+      en: 'Mobilize'
+      ru: 'Разрешить движение'
     technician.button.rent:
       en: 'Rent the scooter'
       ru: 'Арендовать самокат'
