@@ -1,5 +1,8 @@
 Sections:
   App:
+    technician-vehicle-menu.screen-title:
+      en: 'Scooter {vehicle-number}'
+      ru: 'Самокат {vehicle-number}'
     map-stub.title:
       en: Map
       ru: Карта
