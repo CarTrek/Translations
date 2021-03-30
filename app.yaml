@@ -1,5 +1,47 @@
 Sections:
   App:
+    technician.button.goto-organizations:
+      en: 'View organizations'
+      ru: 'Посмотреть организации'
+    technician.button.make-available:
+      en: 'Make available'
+      ru: 'Сделать доступным'
+    technician.button.make-unavailable:
+      en: 'Make unavailable'
+      ru: 'Сделать недоступным'
+    technician.button.lock:
+      en: 'Lock the scooter'
+      ru: 'Заблокировать самокат'
+    technician.button.unlock:
+      en: 'Unlock the scooter'
+      ru: 'Разблокировать самокат'
+    technician.button.block:
+      en: 'Block'
+      ru: 'Блокировать'
+    technician.button.unblock:
+      en: 'Unblock'
+      ru: 'Разблокировать'
+    technician.button.rent:
+      en: 'Rent the scooter'
+      ru: 'Арендовать самокат'
+    technician.button.switch-to-drive:
+      en: 'Switch to drive mode'
+      ru: 'В режим использования'
+    technician.button.switch-to-park:
+      en: 'Switch to park mode'
+      ru: 'В режим ожидания'
+    technician.button.finish-ride:
+      en: 'Finish ride'
+      ru: 'Завершить аренду'
+    technician.button.beep:
+      en: 'Blink'
+      ru: 'Посигналить'
+    technician.button.unlock-battery:
+      en: 'Unlock battery'
+      ru: 'Открыть батарею'
+    technician.button.unlock-lock:
+      en: 'Unlock lock'
+      ru: 'Открыть замок'
     technician-vehicle-menu.screen-title:
       en: 'Scooter {vehicle-number}'
       ru: 'Самокат {vehicle-number}'
@@ -7,8 +49,8 @@ Sections:
       en: Map
       ru: Карта
     map-stub.message:
-      en: 'Map still is not available, but coming soon😃 Now you can rent scooter with QR codes🛴'
-      ru: 'Карту мы ещё не доделали, но она скоро будет тут😃 А пока вы можете арендовать самокаты, просто отсканировав QR-код🛴'
+      en: 'Map still is not available, but coming soon. Now you can rent scooter with QR codes🛴'
+      ru: 'Карту мы ещё не доделали, но она скоро будет тут. А пока вы можете арендовать самокаты, просто отсканировав QR-код🛴'
     support.chat:
       en: Chat with support
       ru: Чат с поддержкой
