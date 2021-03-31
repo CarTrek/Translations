@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightViewOldCustomersDocuments:
+      en: 'View customers documents which was uploaded some time ago'
+      ru: 'Просмотр документов пользователей, которые были загружены давно'
     BepaidPayButtonText:
       en: 'Pay {amount}'
       ru: 'Оплатить {amount}'
