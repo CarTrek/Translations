@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless-start-screen.screen-title:
+      en: 'Scooter'
+      ru: 'Самокат'
     technician.button.goto-organizations:
       en: 'View organizations'
       ru: 'Посмотреть организации'
