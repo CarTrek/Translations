@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.enable-insurance-switch:
+      en: 'Add accident insurance'
+      ru: 'Добавить страховку от несчастного случая'
     appless-start-screen.screen-title:
       en: 'Scooter'
       ru: 'Самокат'
