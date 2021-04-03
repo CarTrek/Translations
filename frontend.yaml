@@ -8848,7 +8848,7 @@ Sections:
       ru: Для новых пользователей
     payments.cards.NotificationSended:
       cs: Upozornění bylo odesláno
-      en: Notification has been sended
+      en: Notification has been sent
       ru: Уведомление было отправлено
     payments.cards.SendBankCardAttachNotification:
       cs: Zaslat upozornění o připojení platební karty
@@ -9246,7 +9246,7 @@ Sections:
     clients.editor.notifications.Push:
       en: Push
     clients.editor.notificationSended:
-      en: Notification sended
+      en: Notification sent
       ru: Уведомление было успешно отправлено
     clients.editor.failedToSendNotification:
       en: An error occured while sending the notification
