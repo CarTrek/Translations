@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.insurance-conditions-title:
+      en: 'Insurance conditions'
+      ru: 'Условия страховки'
     appless.enable-insurance-switch:
       en: 'Add accident insurance'
       ru: 'Добавить страховку от несчастного случая'
