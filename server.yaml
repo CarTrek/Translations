@@ -1,5 +1,8 @@
 Sections:
   Server:
+    DebtWithdrawalAlreadyInProgress:
+      en: Debt withdrawal process already in progress
+      ru: Вы уже запустили списание долгов. Дождитесь завершения выполнения команды
     RightViewOldCustomersDocuments:
       en: 'View customers documents which was uploaded some time ago'
       ru: 'Просмотр документов пользователей, которые были загружены давно'
