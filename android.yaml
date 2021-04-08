@@ -2567,8 +2567,8 @@ Sections:
       cs: Nemáte připojenou žádnou platební kartu
       ka: ' საბანკო ბარათი არაა მიმაგრებული'
       kk: Сізде тіркелген банк карталары жоқ
-      ru: У Вас нет прикрепленных банковских карт
-      uk: У Вас немає приєднаних банківських карток
+      ru: У вас пока нет прикреплённых банковских карт
+      uk: У вас немає приєднаних банківських карток
     failed_to_load_cards:
       en: Could not get a list of bank cards. Try again later
       cs: Nelze získat seznam připojených bankovních karet. Zkuste to za chvíli znovu
