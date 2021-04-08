@@ -6074,7 +6074,7 @@ Sections:
       be: Отключено питание трекера
       cs: vypnutí napájení trackeru
       ka: კვების კვების სისტემის გამორთვა
-      en: Power outage tracker
+      en: Trakers power is lost
       ru: Отключено питание трекера
     TrackerId:
       be: ИД треккера
