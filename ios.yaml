@@ -6212,3 +6212,6 @@ Sections:
       ru: Бонусы
     J5C-V5-LJA.text:
       ru: ТЕХ. МЕНЮ
+    freerides.invitation:
+      en: 'Hello!\nRegister in the app by using the promo code {promocode} or by clicking on the {link} link and get {bonuses} bonuses!'
+      ru: 'Привет!\nЗарегистрируйся в приложении с помощью промо-кода {promocode} или перейдя по ссылке {link} и получи {bonuses} бонусы!'
