@@ -1,5 +1,14 @@
 Sections:
   Server:
+    RightDeleteInAppMessages:
+      en: Delete in app messages
+      ru: Удалять in app сообщения
+    RightEditInAppMessages:
+      en: Edit in app messages parameters
+      ru: Редактировать параметры in app сообщений
+    RightViewInAppMessages:
+      en: View in app messages parameters in admin panel
+      ru: Просматривать in app параметризированные сообщения в админке
     DebtWithdrawalAlreadyInProgress:
       en: Debt withdrawal process already in progress
       ru: Вы уже запустили списание долгов. Дождитесь завершения выполнения команды
