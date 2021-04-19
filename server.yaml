@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedNoNeedToRefuelThisTypeOfVehicle:
+      en: 'You do not need to refuel or charge this car. We do it ourselves.'
+      ru: 'Вам не требуется заправлять или заряжать этот автомобиль. Мы делаем это сами.'
     RightDeleteInAppMessages:
       en: Delete in app messages
       ru: Удалять in app сообщения
