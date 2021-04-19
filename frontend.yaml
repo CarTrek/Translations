@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.models.fuelType:
+      en: Fuel type
+      ru: Тип топлива
     cars.list.OfflineTime:
       en: Offline time
       ru: Время оффлайн
