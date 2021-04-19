@@ -5140,11 +5140,11 @@ Sections:
       uk: activation
     confirmAutoBooking:
       en: Do you really want to turn autobooking?
-      cs: Do you really want to turn autobooking?
-      ka: Do you really want to turn autobooking?
-      kk: Do you really want to turn autobooking?
-      ru: Do you really want to turn autobooking?
-      uk: Do you really want to turn autobooking?
+      cs: Opravdu chcete povolit automatickou rezervaci?
+      ka: დარწმუნებული ხართ, რომ გსურთ ავტომატური დაჯავშნის ჩართვა?
+      kk: დარწმუნებული ხართ, რომ გსურთ ავტომატური დაჯავშნის ჩართვა?
+      ru: Вы действительно хотите включить автоматическое бронирование?
+      uk: Вы действительно хотите включить автоматическое бронирование?
     show_rates:
       en: See prices
       cs: See prices
