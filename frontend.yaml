@@ -5232,6 +5232,16 @@ Sections:
       en: hardware
       ge: hardware
       ru: устройство
+    cars.editor.FIRMWARE:
+      cs: firmware
+      en: firmware
+      ge: firmware
+      ru: прошивка
+    cars.editor.HARDWARE:
+      cs: hardware
+      en: hardware
+      ge: hardware
+      ru: устройство
     cars.editor.LASTIP:
       cs: last ip
       en: last ip
