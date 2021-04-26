@@ -4,7 +4,7 @@ Sections:
       en: 'Loading...'
       ru: 'Загрузка...'
     take-photo.message.error:
-      en: 'Could not acess your cam 📷'
+      en: 'Could not access your cam 📷'
       ru: 'Не удалось получить доступ к камере 📷'
     appless.insurance-conditions-title:
       en: 'Insurance conditions'
