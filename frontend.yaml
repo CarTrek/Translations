@@ -5222,16 +5222,16 @@ Sections:
       en: Available features
       ge: ხელმისაწვდომი შესაძლებლობები
       ru: Доступные возможности
-    cars.editor.FIRMWARE:
-      cs: firmware
-      en: firmware
-      ge: firmware
-      ru: прошивка
-    cars.editor.HARDWARE:
-      cs: hardware
-      en: hardware
-      ge: hardware
-      ru: устройство
+    cars.editor.ERRORS:
+      cs: errors
+      en: errors
+      ge: errors
+      ru: ошибки
+    cars.editor.ALARMS:
+      cs: alarms
+      en: alarms
+      ge: alarms
+      ru: тревоги
     cars.editor.FIRMWARE:
       cs: firmware
       en: firmware
