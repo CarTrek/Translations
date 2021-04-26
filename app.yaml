@@ -1,5 +1,11 @@
 Sections:
   App:
+    take-photo.message.loading:
+      en: 'Loading...'
+      ru: 'Загрузка...'
+    take-photo.message.error:
+      en: 'Could not acess your cam 📷'
+      ru: 'Не удалось получить доступ к камере 📷'
     appless.insurance-conditions-title:
       en: 'Insurance conditions'
       ru: 'Условия страховки'
