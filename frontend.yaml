@@ -1612,7 +1612,7 @@ Sections:
       ru: Настройки
     aside.nav.REFUELING:
       cs: tankování
-      en: Gas station
+      en: Fuelings
       ge: დამუხტვა
       ru: Заправки
     aside.nav.RESERVES:
