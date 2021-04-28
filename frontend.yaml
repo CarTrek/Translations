@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    ratesmultiplier.RatePackMultiplier:
+      en: Rate pack multiplier
+      ru: Коэффициент абонемента
     cars.models.fuelType:
       en: Fuel type
       ru: Тип топлива
