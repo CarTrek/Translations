@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightCustomCommand:
+      en: 'Execute a custom command'
+      ru: 'Выполнять произвольные команды'
+    CustomCommandSent:
+      en: 'A custom command was sent'
+      ru: 'Отправлена произвольная команда'
     FailedNoNeedToRefuelThisTypeOfVehicle:
       en: 'You do not need to refuel or charge this car. We do it ourselves.'
       ru: 'Вам не требуется заправлять или заряжать этот автомобиль. Мы делаем это сами.'
