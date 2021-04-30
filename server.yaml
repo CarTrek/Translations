@@ -150,6 +150,9 @@ Sections:
     ViewMarketingNews:
       en: View news
       ru: Просмотр новостей
+    RightUnlockBattery:
+      en: Unlock battery compartment
+      ru: Открывать отсек батареи
     EditMarketingNews:
       en: Edit news
       ru: Редактировать новости
