@@ -109,9 +109,9 @@ Sections:
       en: Purchase bonuses
       ru: Покупка бонусов
       cs: Nákup bonusů
-    RightUnlockBattery:
-      en: Unlock battery
-      ru: Открывать отсек батареи
+    BatteryUnlocked:
+      en: Battery compartment unlocked
+      ru: Открыт отсек батареи
     FuelLevelFine:
       en: Low fuel fine
       ru: Штраф за низкий уровень топлива
