@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.clients.WithBankCards:
+      en: With bank cards
+      ru: Есть банк. карты
     ratesmultiplier.RatePackMultiplier:
       en: Rate pack multiplier
       ru: Коэффициент абонемента
