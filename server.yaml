@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightManagePushJobs:
+      en: 'Manage push jobs'
+      ru: 'Управление заданиями на рассылку пушей'
     RightCustomCommand:
       en: 'Execute a custom command'
       ru: 'Выполнять произвольные команды'
