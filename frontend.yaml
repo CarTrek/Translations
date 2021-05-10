@@ -1,5 +1,89 @@
 Sections:
   AdminFrontend:
+    inapp.parameters.PhonesList:
+      en: Users phones list
+      ru: Список тел. номеров пользователей
+    inapp.parameters.EmailsList:
+      en: Users emails list
+      ru: Список email пользователей
+    inapp.parameters.IdsList:
+      en: Users ids list
+      ru: Список id пользователей
+    inapp.LastRideFrom:
+      en: Last ride date from
+      ru: Дата последней поездки от
+    inapp.LastRideTo:
+      en: Last ride date to
+      ru: Дата последней поездки до
+    inapp.DaysSinceFirstRide:
+      en: Days since first ride
+      ru: Дней с начала 1й поездки
+    inapp.ActivationDateFrom:
+      en: User activation date from
+      ru: Дата активации пользователя от
+    inapp.ActivationDateTo:
+      en: User activation date to
+      ru: Дата активации пользователя до
+    inapp.BonusesFrom:
+      en: Bonuses sum from
+      ru: Сумма бонусов от
+    inapp.BonusesTo:
+      en: Bonuses sum to
+      ru: Сумма бонусов до
+    inapp.RidesCountFrom:
+      en: Rides count from
+      ru: Общая кол-во аренд от
+    inapp.RidesCountTo:
+      en: Rides count to
+      ru: Общая кол-во аренд до
+    inapp.RidesSumFromInCops:
+      en: Rides total sum from
+      ru: Общая сумма аренд от
+    inapp.RidesSumToInCops:
+      en: Rides total sum to
+      ru: Общая сумма аренд до
+    inapp.AgeTo:
+      en: Age to
+      ru: Возраст до
+    inapp.AgeFrom:
+      en: Age from
+      ru: Возраст от
+    inapp.editor.Parameters:
+      en: Parameters
+      ru: Параметры
+    inapp.ButtonText:
+      en: Button text
+      ru: Текст кнопки
+    inapp.BackgroundColor:
+      en: Background color
+      ru: Цвет фона
+    inapp.Enabled:
+      en: Enabled
+      ru: Включено
+    inapp.editor.dl.profile:
+      en: Profile
+      ru: Профиль
+    inapp.editor.dl.certificates:
+      en: Certificates
+      ru: Сертификаты
+    inapp.editor.dl.ridesHistory:
+      en: Rides history
+      ru: История поездок
+    inapp.editor.dl.bankCards:
+      en: Bank cards
+      ru: Экран банк. карт
+    inapp.editor.dl.carmap:
+      en: Car map
+      ru: Карта машин
+    inapp.DeepLink:
+      en: Deep link
+      ru: Deep link
+    aside.nav.inapp:
+      en: In-app
+      ru: In-app
+    advertisment.inapp.list.header:
+      en: In-app messages
+      ru: In-app сообщения
     aside.nav.clients.WithBankCards:
       en: With bank cards
       ru: Есть банк. карты
