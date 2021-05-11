@@ -1163,7 +1163,7 @@ Sections:
       ru: Обнаружено записей
     check.mvdby.title:
       cs: Překročení rychlosti
-      en: Overspeed is Belarus
+      en: Speeding in Belarus
       ge: სიჩქარის გადაჭარბება
       ru: Превышение скорости в РБ
     check.namesake.title:
@@ -1369,7 +1369,7 @@ Sections:
       ru: Езда на ручнике
     notifications.CarSpeedLimitExceeded:
       cs: překročení rychlosti
-      en: Overspeed
+      en: Speeding
       ge: სიჩქარის გადაჭარბება
       ru: Превышение скорости
     notifications.CarIsOffline:
