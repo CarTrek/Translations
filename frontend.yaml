@@ -1752,7 +1752,7 @@ Sections:
       ru: За зоной парк.
     aside.nav.cars.OUTOFFUEL:
       cs: s prázdnou nádrží
-      en: With an empty gas tank
+      en: Low fuel
       ge: ცარიელი ავზით
       ru: С пустым баком
     aside.nav.cars.WITHORDER:
