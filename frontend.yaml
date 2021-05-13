@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    inapp.editor.ViewState:
+      en: State
+      ru: Состояние
+    inapp.editor.Users:
+      en: Users
+      ru: Пользователи
     inapp.parameters.PhonesList:
       en: Users phones list
       ru: Список тел. номеров пользователей
