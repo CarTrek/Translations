@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    inapp.editor.viewState.Initiated:
+      en: Not sended
+      ru: Не отправлено
+    inapp.editor.viewState.Sent:
+      en: Sended
+      ru: Отправлено
+    inapp.editor.viewState.Viewed:
+      en: Viewed
+      ru: Просмотрено
+    inapp.editor.viewState.Clicked:
+      en: Clicked
+      ru: Нажато
     inapp.editor.ViewState:
       en: State
       ru: Состояние
