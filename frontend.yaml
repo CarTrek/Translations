@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    inapp.usersnotfound:
+      en: Not found
+      ru: Не найдено
+    inapp.usersloaded:
+      en: Users loaded
+      ru: Загружено
     inapp.editor.viewState.Initiated:
       en: Not sended
       ru: Не отправлено
