@@ -15,6 +15,9 @@ Sections:
     appless-start-screen.screen-title:
       en: 'Scooter'
       ru: 'Самокат'
+    technician.button.reset-alarm:
+      en: Reset alarm
+      ru: Сброс тревоги
     technician.button.goto-organizations:
       en: 'View organizations'
       ru: 'Посмотреть организации'
