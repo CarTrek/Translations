@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    inapp.editor.TotalClicked:
+      en: Clicked
+      ru: Нажали
+    inapp.editor.TotalViewed:
+      en: Viewed
+      ru: Просмотрено
+    inapp.editor.TotalAffected:
+      en: Total users affected
+      ru: Общее кол-во
     inapp.usersnotfound:
       en: Not found
       ru: Не найдено
