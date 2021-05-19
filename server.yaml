@@ -61,8 +61,8 @@ Sections:
       en: To rent a car, please turn on the GPS on your phone
       ru: Чтобы арендовать автомобиль, включите GPS на вашем телефоне
     CanNotRentScooterWithGpsDisabledOnDevice:
-      en: To rent a scooter, please turn on the GPS on your phone
-      ru: Чтобы арендовать самокат, включите GPS на вашем телефоне
+      en: To rent a car, please turn on the GPS on your phone
+      ru: Чтобы арендовать автомобиль, включите GPS на вашем телефоне
     MassAssignOrganizations:
       en: Organizations mass assignment
       ru: Массовое назначение организации
@@ -1168,8 +1168,8 @@ Sections:
       ru: Направленные документы находятся в стадии проверки. Мы сообщим Вам о результате проверки документов в ближайшее время.
       uk: Спрямовані документи знаходяться в стадії перевірки. Ми повідомимо Вам про результат перевірки документів найближчим часом.
     BookCarResultFailedTheScooterIsTooFar:
-      en: Electric scooter is too far from you. Please come closer to the it and try again
-      ru: Самокат слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному самокату и попробуйте ещё раз
+      en: The car is too far from you. Please come closer to the it and try again
+      ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     BookCarResultFailedUserAlreadyHasOrder:
       be: У Вас уже есть забронированный автомобиль.
       cs: Již máte zarezervované vozidlo.
@@ -5627,7 +5627,7 @@ Sections:
       uk: Розмір зображень не повинен перевищувати {0} Мб
     ScootersGPSDistanceInMeters:
       en: Distance in meters between user and vehicle for rent access
-      ru: Максимальное расстояние между самокатом и пользователям перед началом аренды (в метрах)
+      ru: Максимальное расстояние между самокатом или автомобилем и пользователям перед началом аренды (в метрах)
     SeatsNumber:
       en: Seats number
       ru: Количество посадочных мест
@@ -6226,8 +6226,8 @@ Sections:
       en: Error while trying to withdraw choose rate payment
       ru: Ошибка при попытке списать стоимость выбора тарифа
     FailedCarRentedByOtherUser:
-      en: 'Sorry but the scooter is rented by other user. Please try another scooter'
-      ru: 'К сожалению, этот самокат арендован другим пользователем. Попробуйте арендовать другой самокат'
+      en: 'Sorry but the car is rented by other user. Please try another car'
+      ru: 'К сожалению, этот автомобиль арендован другим пользователем. Попробуйте арендовать другой автомобиль'
     FailedWrongQrCodeBookedOther:
       en: Wrong QR-code. You booked other vehicle. You can cancel your booking and try to scan this QR-code again
       ru: Неправильный QR-код. Вы забронировали другое транспортное средство. Вы можете отменить бронь и снова отсканировать этот QR-код
@@ -6305,8 +6305,8 @@ Sections:
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       uk: Автомобіль дуже далеко від Вас. Будь ласка, підійдіть ближче до обраного автомобілю і спробуйте ще раз
     UnlockAndDriveCarResultFailedTheScooterIsTooFar:
-      en: Electric scooter is too far from you. Please come closer to the it and try again
-      ru: Самокат слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному самокату и попробуйте ещё раз
+      en: The car is too far from you. Please come closer to the it and try again
+      ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     UnlockAndDriveCarResultFailedUserHasNoOrderNow:
       be: У Вас в данный момент нет активной аренды.
       cs: Nyní nemáte aktivní pronájem
