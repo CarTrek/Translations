@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    ratepacks.ActiveOrdersLimit:
+      en: Active orders count
+      ru: Число активных заказов
     inapp.parameters.Clean:
       en: Clean viewed list
       ru: Очистить историю просмотров
