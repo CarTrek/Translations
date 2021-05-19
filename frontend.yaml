@@ -7313,10 +7313,10 @@ Sections:
       ge: მაქსიმალური გარბენი
       ru: Макс. пробег
     ratepacks.OverrunCost:
-      cs: 'Cena za překročení počtu ujetých kilomentrů '
-      en: Overrun cost
+      cs: 'Cena za překročení počtu ujetých kilomentrů'
+      en: Overrun
       ge: გარბენის საფასური
-      ru: Стоимость перепробега
+      ru: Перепробег
     ratepacks.Cost:
       cs: Cena předplatného
       en: Subscription cost
