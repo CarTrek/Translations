@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    inapp.parameters.Clean:
+      en: Clean viewed list
+      ru: Очистить историю просмотров
     inapp.editor.TotalClicked:
       en: Clicked
       ru: Нажали
