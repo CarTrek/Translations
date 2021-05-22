@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedNeedToSmile:
+      en: 'Please smile when take a selfie. Try again.'
+      ru: 'Нужно улыбнуться, чтобы подтвердить личность. Попробуйте ещё раз.'
     RightManagePushJobs:
       en: 'Manage push jobs'
       ru: 'Управление заданиями на рассылку пушей'
