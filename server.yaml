@@ -269,7 +269,7 @@ Sections:
       en: Engine speed too high
     ZoneDriveIn:
       ru: Car entered the zone
-      en: Въезд взону
+      en: Въезд в зону
     ZoneDriveOut:
       ru: Car left the zone
       en: Выезд из зоны
