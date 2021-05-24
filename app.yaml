@@ -183,6 +183,9 @@ Sections:
     drawer.rides:
       en: My rides
       ru: Мои поездки
+    drawer.promo-code:
+      en: Promo code
+      ru: Промо код
     drawer.support:
       en: Support
       ru: Поддержка
