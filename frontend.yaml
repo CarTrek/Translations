@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    orders.ParkShort:
+      en: P
+      ru: П
+    orders.DriveShort:
+      en: D
+      ru: И
     zone.speedMode.Sport:
       en: High
       ru: Высокий
