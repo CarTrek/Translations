@@ -185,7 +185,7 @@ Sections:
       ru: Мои поездки
     drawer.promo-code:
       en: Promo code
-      ru: Промо код
+      ru: Промокод
     drawer.support:
       en: Support
       ru: Поддержка
@@ -746,3 +746,18 @@ Sections:
     appless.qr-scanner.no-permission-warning:
         en: 'You disabled access to your cam so we can not scan QR:('
         ru: 'Вы запретили доступ к камере, мы не можем сканировать QR-код:('
+    promo-code.title:
+        en: 'Promo code'
+        ru: 'Промокод'
+    promo-code.button:
+        en: 'Apply the promo code'
+        ru: 'Применить промокод'
+    promo-code.please-enter:
+        en: 'Please enter a 9-digits certificate number or a referral code of your friend:'
+        ru: 'Введите 9-значный номер сертификата или реферальный код вашего друга:'
+    promo-code.personal-code:
+        en: 'You personal referral code is'
+        ru: 'Ваш персональный реферальный код'
+    promo-code.friends-bonuses:
+        en: 'Share it with your friends and get bonuses from their first rides.'
+        ru: 'Делитесь им с друзьями и получайте бонусы с их первых поездок.'
