@@ -1,5 +1,20 @@
 Sections:
   Server:
+    SpeedLimitSport:
+      en: ': High'
+      ru: ': Высокая скорость'
+    SpeedLimitNormal:
+      en: ': Medium'
+      ru: ': Средняя скорость'
+    SpeedLimitEco:
+      en: ': Low'
+      ru: ': Низкая скорость'
+    SpeedLimitNotSetted:
+      en: ': None'
+      ru: ': Без ограничения'
+    YouEnteredZoneWithSpeedMode:
+      en: You entered zone with speed limit
+      ru: Вы въехали в зону с ограничением скорости
     FailedNeedToSmile:
       en: 'Please smile when take a selfie. Try again.'
       ru: 'Нужно улыбнуться, чтобы подтвердить личность. Попробуйте ещё раз.'

@@ -1,5 +1,26 @@
 Sections:
   AdminFrontend:
+    orders.ParkShort:
+      en: P
+      ru: П
+    orders.DriveShort:
+      en: D
+      ru: И
+    zone.speedMode.Sport:
+      en: High
+      ru: Высокий
+    zone.speedMode.Normal:
+      en: Medium
+      ru: Средний
+    zone.speedMode.Eco:
+      en: Low
+      ru: Низкий
+    zone.speedMode.NotSetted:
+      en: Not setted
+      ru: Не установлено
+    zones.SpeedMode:
+      en: Speed mode
+      ru: Режим скорости
     ratepacks.ActiveOrdersLimit:
       en: Active orders count
       ru: Число активных заказов
