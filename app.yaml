@@ -1,5 +1,8 @@
 Sections:
   App:
+    pin-code.descprition:
+      en: 'Enter this PIN code on the lock with the cable that is attached to the scooter. During the rental period, you will be able to see the PIN code in the scooter card again.'
+      ru: 'Наберите этот ПИН-код на замке с тросом, которым пристёгнут самокат. Во время аренды вы сможете снова увидеть ПИН-код в карточке самоката.'
     pin-code.screen-title:
       en: 'PIN code'
       ru: 'PIN-код'
