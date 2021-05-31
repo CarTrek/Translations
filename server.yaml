@@ -6740,3 +6740,9 @@ Sections:
       en: Zone (tag)
       ru: Зона (тэг)
       uk: Зона (тег)
+    PromoCodeResultOkCodeApplied:
+      en: Code activated
+      ru: Код активирован
+    PromoCodeResultFailedIncorrectCode:
+      en: Incorrect сode
+      ru: Неверный код
