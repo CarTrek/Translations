@@ -6761,3 +6761,9 @@ Sections:
     PromoCodeResultFailedIncorrectCode:
       en: Incorrect сode
       ru: Неверный код
+    PromoCodeResultErrorApplyBonusСode:
+      en: Error when activating the bonus code
+      ru: Ошибка при активации бонусного кода
+    PromoCodeResultErrorApplyVoucherСode:
+      en: Error while activating the voucher code
+      ru: Ошибка при активации кода ваучера 
