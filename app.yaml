@@ -1,5 +1,14 @@
 Sections:
   App:
+    pin-code.screen-title:
+      en: 'PIN code'
+      ru: 'PIN-код'
+    pin-code.pin-code:
+      en: 'PIN code for the lock:'
+      ru: 'PIN-код замка:'
+    pin-code.close:
+      en: 'Done'
+      ru: 'Готово'
     take-photo.message.loading:
       en: 'Loading...'
       ru: 'Загрузка...'
