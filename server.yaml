@@ -1,5 +1,17 @@
 Sections:
   Server:
+    RequireGpsTitle:
+      en: 'GPS is required'
+      ru: 'Нужно включить GPS'
+    RequireGpsMessage:
+      en: 'It looks like GPS is disabled on your device. Please enable GPS in your device settings and allow our app to access your location.'
+      ru: 'Похоже, что на вашем устройстве отключен GPS. Пожалуйста, включите GPS в настройках устройства и разрешите нашему приложению получать доступ к вашему местоположению.'
+    RequireGpsButtonText:
+      en: 'Done, GPS is enabled'
+      ru: 'Готово, GPS включен'
+    RequireGpsPictureUrl:
+      en: ''
+      ru: ''
     SpeedLimitSport:
       en: ': High'
       ru: ': Высокая скорость'
