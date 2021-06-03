@@ -10,8 +10,7 @@ Sections:
       en: 'Done, GPS is enabled'
       ru: 'Готово, GPS включен'
     RequireGpsPictureUrl:
-      en: ' '
-      ru: ' '
+      en: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png'
     RequireGpsColor:
       en: '000000'
     SpeedLimitSport:
