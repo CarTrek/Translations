@@ -14,16 +14,16 @@ Sections:
     RequireGpsColor:
       en: '000000'
     SpeedLimitSport:
-      en: ': High'
-      ru: ': Высокая скорость'
+      en: ' 25 km/h'
+      ru: ' 25 км/ч'
     SpeedLimitNormal:
-      en: ': Medium'
-      ru: ': Средняя скорость'
+      en: ' 15 km/h'
+      ru: ' 15 км/ч'
     SpeedLimitEco:
-      en: ': Low'
-      ru: ': Низкая скорость'
+      en: ' 6 km/h'
+      ru: ' 6 км/ч'
     SpeedLimitNotSetted:
-      en: ': None'
+      en: ': Unlimited'
       ru: ': Без ограничения'
     YouEnteredZoneWithSpeedMode:
       en: You entered zone with speed limit
