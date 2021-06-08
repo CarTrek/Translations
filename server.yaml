@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightViewBonusReasons:
+      ru: Просмотр причин начисления бонусов
+      en: View bonus addition reasons
+    RightManageBonusReasons:
+      ru: Управление причинами начисления
+      en: Manage bonus addition reasons
     RequireGpsTitle:
       en: 'GPS is required'
       ru: 'Нужно включить GPS'
