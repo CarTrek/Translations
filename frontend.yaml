@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.bonuses.Reason:
+      en: Reason
+      ru: Причина
     rates.LeaveOnOrderFinish:
       en: 'Do not finish rate pack when rental is finished'
       ru: 'Не завершать при завершении аренды'
