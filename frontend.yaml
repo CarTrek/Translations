@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.bonuses.reasons:
+      en: Bonuses. Reasons
+      ru: Бонусы. Причины
     bonuses.reasons.list:
       en: Bonuses reasons
       ru: Причины начисления бонусов
