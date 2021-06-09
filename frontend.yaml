@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    bonuses.newReason:
+      en: New reason
+      ru: Новая причина
+    bonuses.editReason:
+      en: Edit reason
+      ru: Редактировать причину
     orders.ParkShort:
       en: P
       ru: П
