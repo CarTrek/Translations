@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    bonuses.reasons.add:
+      en: Add reason
+      ru: Добавить причину
     aside.nav.bonuses.reasons:
       en: Bonuses. Reasons
       ru: Бонусы. Причины
