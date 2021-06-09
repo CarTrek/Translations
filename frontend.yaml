@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    bonuses.reasons.list:
+      en: Bonuses reasons
+      ru: Причины начисления бонусов
     bonuses.newReason:
       en: New reason
       ru: Новая причина
