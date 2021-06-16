@@ -161,6 +161,9 @@ Sections:
     FuelLevelFine:
       en: Low fuel fine
       ru: Штраф за низкий уровень топлива
+    BonusesBurn:
+      en: Bonuses burn
+      ru: Сгорание бонусов
     SwitchedToPrivateTrips:
       en: Switched to private rides
       ru: Переключено в режим частных поездок
