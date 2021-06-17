@@ -1,5 +1,11 @@
 Sections:
   Android:
+    SpeedRestrictionNormal:
+      en: '15 km/h'
+      ru: '15 км/ч'
+    SpeedRestrictionEco:
+      en: '10 km/h'
+      ru: '10 км/ч'
     button_select_rate:
       en: Select
       ru: Выбрать
