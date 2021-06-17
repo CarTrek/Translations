@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organization.editor.MaxActiveRentalsCount:
+      en: 'Max active rentals count'
+      ru: 'Максимум активных аренд'
     clients.editor.bonuses.Reason:
       en: Reason
       ru: Причина
