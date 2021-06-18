@@ -1,15 +1,15 @@
 Sections:
   Android:
-    SpeedRestriction.Normal.Description:
+    speed_restriction_normal_description:
       en: 'This zone has a limit of 15 km/h. The scooter will switch speed automatically.'
       ru: 'В этой зоне установлено ограничение 15 км/ч. Самокат переключит скорость автоматически.'
-    SpeedRestriction.Eco.Description:
+    speed_restriction_eco_description:
       en: 'This zone has a limit of 10 km/h. The scooter will switch speed automatically.'
       ru: 'В этой зоне установлено ограничение 10 км/ч. Самокат переключит скорость автоматически.'
-    SpeedRestrictionNormal:
+    speed_restriction_normal:
       en: '15 km/h'
       ru: '15 км/ч'
-    SpeedRestrictionEco:
+    speed_restriction_eco:
       en: '10 km/h'
       ru: '10 км/ч'
     button_select_rate:
