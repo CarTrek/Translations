@@ -1,5 +1,17 @@
 Sections:
   iOS:
+    map.speedRestrictionNormalDescription:
+      en: 'This zone has a limit of 15 km/h. The scooter will switch speed automatically.'
+      ru: 'В этой зоне установлено ограничение 15 км/ч. Самокат переключит скорость автоматически.'
+    map.speedRestrictionEcoDescription:
+      en: 'This zone has a limit of 10 km/h. The scooter will switch speed automatically.'
+      ru: 'В этой зоне установлено ограничение 10 км/ч. Самокат переключит скорость автоматически.'
+    map.speedRestrictionNormal:
+      en: '15 km/h'
+      ru: '15 км/ч'
+    map.speedRestrictionEco:
+      en: '10 km/h'
+      ru: '10 км/ч'
     alert.lowfuel:
       be: Low fuel level, please refuel auto
       cs: Nízká hladina paliva, prosím natankujte vozidlo
