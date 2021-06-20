@@ -1,7 +1,7 @@
 Sections:
   App:
     after-ride-photos.top-description:
-      en: 'Please take photos of the car from four directions. It’s free, your ride is finished.'
+      en: 'Please take a photo of the car from the four sides. It’s free, your ride is complete.'
       ru: 'Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена.'
     after-ride-photos.button-done:
       en: 'Done'
