@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedAfterRidePhotoTooLate:
+      ru: 'К сожалению, прошло слишком много времени после завершения заказа. Больше нельзя загружать фото'
+      en: 'Unfortunately, too much time has passed since the order was completed. You can't upload photos anymore'
     RightViewBonusReasons:
       ru: Просмотр причин начисления бонусов
       en: View bonus addition reasons
