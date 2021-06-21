@@ -1,0 +1,603 @@
+Sections:
+  SignUpFrontend:
+    app.loading:
+      cs: Načítání
+      en: Loading data
+      ge: იტვირთება მონაცემები
+      ru: Загрузка данных
+      uk: Завантаження
+    app.UPLOAD:
+      cs: Nahrát
+      en: Upload
+      ge: ატვირთვა
+      ru: Загрузить
+      uk: Завантажити
+    app.MoreInfoOnService:
+      cs: 'Podrobné informace o tarifech, podmínkách o uživání a vracení peněz naleznete na našich webových stránkách:'
+      ge: 'დეტალური ინფორმაცია განაკვეთების, პირობების და თანხის დაბრუნების შესახებ, განთავსებულია ჩვენს ვებ გვერდზე: '
+      ru: 'Подробная информация о тарифах, условиях использования и возврата денежных средств размещена на нашем сайте: '
+      uk: 'Подробная информация о тарифах, условиях использования и возврата денежных средств размещена на нашем сайте: '
+    wizard.HEADER:
+      cs: Registrace do služby
+      en: Sign up
+      ge: სერვისში დარეგისტრირება
+      ru: Регистрация в сервисе
+      uk: Регистрация в сервисе
+    wizard.PREV:
+      cs: Předchozí
+      en: Previous
+      ge: წინა
+      ru: Назад
+      uk: Назад
+    wizard.NEXT:
+      cs: Další
+      en: Next
+      ge: შემდეგი
+      ru: Вперёд
+      uk: Вперёд
+    wizard.FINISH:
+      cs: Dokončit
+      en: Finish
+      ge: დასრულება
+      ru: Завершить
+      uk: Завершить
+    wizard.PAGELEAVEING:
+      cs: Opravdu chcete opustit registrační stránku? Registrace zatím nebyla dokončena.
+      en: Are you sure you want to leave this page? The registration is incomplete yet.
+      ge: დარწმუნებული ხართ, რომ გსურთ დატოვოთ რეგისტრაციის გვერდი? რეგისტრაცია ჯერ არ დასრულებულა
+      ru: Вы уверены, что хотите уйти со страницы регистрации? Регистрация ещё не завершена
+      uk: Вы уверены, что хотите уйти со страницы регистрации? Регистрация ещё не завершена
+    confirm.OK:
+      cs: OK
+      en: OK
+      ge: თანხმობა
+      ru: OK
+      uk: OK
+    confirm.NOTIFICATION:
+      cs: Upozornění
+      en: Notification
+      ge: შეტყობინება
+      ru: Уведомление
+      uk: Уведомление
+    signin.TITLE:
+      cs: CarTrek
+      en: CarTrek
+      ge: ქართრექი
+      ru: CarTrek
+      uk: CarTrek
+    signin.SUBTITILE:
+      cs: Vstup do uživatelského profilu
+      en: Sign in to CarTrek service
+      ge: >
+        შესვლა კლიენტის პირად კაბინეტში
+      ru: Вход в личный кабинет клиента
+      uk: Вхід в особистий кабінет клієнта
+    signin.EMAIL:
+      cs: E-mail nebo telefon
+      en: E-mail or phone
+      ge: ელ- ფოსტა ან ტელეფონი
+      ru: E-mail или телефон
+      uk: E-mail або телефон
+    signin.PASSWORD:
+      cs: Heslo
+      en: Password
+      ge: პაროლი
+      ru: Пароль
+      uk: Пароль
+    signin.SIGNIN:
+      cs: Přihlásit se
+      en: Sign in
+      ge: შესვლა
+      ru: Вход
+      uk: Вхід
+    signin.FORGOTPASSWORD:
+      cs: Zapomněli jste heslo?
+      en: Forgot password?
+      ge: დაგავიწყდათ პაროლი?
+      ru: Забыли пароль?
+      uk: Забули пароль?
+    signin.HAVENOACCOUNT:
+      cs: Nemáte registraci?
+      en: Have no account in CarTrek service?
+      ge: არ ხართ დარეგისტრირებული CarTrek-ის სერვისში?
+      ru: Не зарегистрированы в нашем сервисе?
+      uk: Ви ще не зареєстровані у нашому сервісі?
+    signin.CREATEACCOUNT:
+      cs: Zaregistrovat se
+      en: Sign Up
+      ge: >
+        რეგისტრაცია
+      ru: Зарегистрироваться
+      uk: Зареєструватися
+    signin.PHONENUMBER:
+      cs: Telefonní číslo
+      en: Phone number
+      ge: ტელეფონის ნომერი
+      ru: Номер телефона
+    signin.SENDMESSAGE:
+      cs: Získat kód
+      en: Get SMS code
+      ge: სმს კოდის მიღება
+      ru: Получить код
+    signin.CODE:
+      cs: Zadejste sms-kód
+      en: Please enter SMS code
+      ge: გთხოვთ შეიყვანოთ სმს კოდი
+      ru: Введите sms-код
+    signin.NOCODE:
+      cs: Nepřišel kód?
+      en: Code not received
+      ge: კოდი არ მიგიღიათ?
+      ru: Не приходит код?
+    signin.ENDTIME:
+      cs: Překročen interval platnosti kódu
+      en: Code has expired
+      ge: კოდს ვადა გაუვიდა
+      ru: Превышен интервал действия кода
+    signin.error.REJECTED:
+      cs: Heslo nebo e-mail není správný
+      en: The password and/or e-mail are incorrect
+      ge: პაროლი და/ ან ელ-ფოსტა არასწორია
+      ru: Пароль и/или e-mail некорректные
+      uk: Пароль та/або e-mail введено невірно
+    signin.error.BLOCKED:
+      cs: Váš účet byl zablokován
+      en: Your account is blocked
+      ge: თქვენი ანგარიში დაბლოკილია
+      ru: Ваша учётная запись заблокирована
+      uk: Ваш обліковий запис заблоковано
+    signin.error.ERRORCODE:
+      cs: Nesprávný kód
+      en: Invalid code
+      ge: >
+        კოდი არასწორია
+      ru: Неверный код
+    signin.error.EXPIREDCODE:
+      cs: Doba platnosti kódu vypršela
+      en: Code has expired
+      ge: კოდს ვადა გაუვიდა
+      ru: Время действия кода истекло
+    signin.error.MAXNUMBERERROR:
+      cs: Překročen maximální počet pokusů o zadání kódu
+      en: Maximum attempts were reached
+      ge: გადაჭარბებულია კოდის შეყვანის მაქსიმალური რაოდენობა
+      ru: Превышено максимальное количество попыток ввода кода
+    step1.TITLE:
+      cs: O službě
+      en: About CarTrek
+      ge: სერვისის შესახებ
+      ru: О сервисе
+      uk: О сервисе
+    step1.ABOUTTITLE:
+      cs: CarTrek - Služba krátkodobého pronájmu vozidel prostřednictvím mobilní aplikace
+      en: CarTrek is a short-term car rental service, controlled from the mobile app
+      ge: CarTrek-ი არის მანქანის მოკლევადიანი ქირაობის სერვისი, რომელიც კონტროლდება მობილური აპლიკაციით
+      ru: CarTrek - сервис краткосрочной аренды автомобилей, управляемый с мобильного приложения
+      uk: CarTrek - сервис краткосрочной аренды автомобилей, управляемый с мобильного приложения
+    step1.FACT1TITLE:
+      cs: Účtování po minutách
+      en: Per minute rates
+      ge: ტარიფი ერთ წუთზე
+      ru: Поминутная тарификация
+      uk: Поминутная тарификация
+    step1.FACT1TEXT:
+      cs: Platíte pouze čas, kdy vozidlo používáte. Cena 1 minuty jízdy - 8 Kč. Cena  1 minuty v režimu parkování (očekávání) od 8 do 20 hod.- 1,50 Kč.
+      en: You will be charged only for the time when you was really using the car. Tha cost of 1 minute in move - 8 rub. The cost of  1 minute of park (wait) since 8 a.m. until 8 p.m. - 1,5 ���.
+      ge: გადახდას ახორციელებთ მხოლოდ მანქანის გამოყენებისას დახარჯულ დროზე. ერთი წუთის გადაადგილების ღირებულება __ ლარია. პარკინგის (მოცდის) ღირებულება 1 წუთის განმავლობაში დილის 8 სთ.-დან საღამოს 8სთ.-მდე - შეადგენს __ ლარს
+      ru: Вы оплачиваете только то время, когда пользуетесь автомобилем. Стоимость 1 минуты движения - 8 руб. Стоимость 1 минуты парковочного тарифа (ожидания) с 8 до 20 - 1,5 руб.
+      uk: Вы оплачиваете только то время, когда пользуетесь автомобилем. Стоимость 1 минуты движения - 8 руб. Стоимость 1 минуты парковочного тарифа (ожидания) с 8 до 20 - 1,5 руб.
+    step1.FACT2TITLE:
+      cs: Bezplatné parkování a pohonné hmoty.
+      en: Free parking and fuel
+      ge: უფასო პარკინგი და საწვავი
+      ru: Бесплатная парковка и бензин
+      uk: Бесплатная парковка и бензин
+    step1.FACT2TEXT:
+      cs: Parkování v modrých zónách je v ceně pronájmu. Vozidlo můžete zanechat na kterémkoliv parkovacím místě bez nutnosti hradit parkovné. Pokud do vozidla dotankujete palivo, uhradíme Vám náklady na palivo.
+      en: The parking fee of Moscow Parking Zone is included to rent payment. You can leave the car at Moscow parking without extra fee. If you refuel the car we will redeem the expenses for fuel.
+      ge: თბილისის პარკინგის ზონაში პარკირების საფასური შედის ქირის გადასახადში. თქვენ შეგიძლიათ დატოვოთ მანქანა თბილისი პარკინგის მიერ განსაზღვრულ ნებისმიერ ადგილზე დამატებითი საფასურის გადახდის გარეშე. თუ თქვენ დატენით ავტომანქანას, დატენვის ხარჯს ჩვენ აგინაზღაურებთ.
+      ru: Парковка Московского паркинга включена в стоимость аренды. Вы можете оставлять автомобиль на любой муниципальной парковке без необходимости дополнительной оплаты стоянки. Если вы заправите автомобиль - мы компенсируем вам затраты на топливо.
+      uk: Парковка Московского паркинга включена в стоимость аренды. Вы можете оставлять автомобиль на любой муниципальной парковке без необходимости дополнительной оплаты стоянки. Если вы заправите автомобиль - мы компенсируем вам затраты на топливо.
+    step1.FACT3TITLE:
+      cs: Noční tarif bezplatně
+      en: Free night parking
+      ge: უფასო ღამის ტარიფი
+      ru: Бесплатный ночной тариф
+      uk: Бесплатный ночной тариф
+    step1.FACT3TEXT:
+      cs: Parkovací tarif od 20 do 8 zdarma. Můžete zanechat vozidlo v tarifu Parkování mimo oblast ukončení pronájmu a vrátit se zpět ráno bez dalších nákladů.
+      en: The parking rate since 8 p.m. until 8 a.m. is FREE. You can leave the car outside of the rent-end zone and take the car tomorrow without any charges.
+      ge: პარკინგის ტარიფი საღამოს 8 სთ.-დან დილის 8სთ.-მდე არის უფასო. თქვენ შეგიძლიათ დატოვოთ მანქანა პარკირების რეჟიმში ქირაობის ზონის გარეთ და წაიყვანოთ მანქანა დილით დამატებითი გადასახადის გადახდის გარეშე.
+      ru: Парковочный тариф с 20 до 8 – бесплатный. Вы можете оставить автомобиль на тарифе Парковка вне зоны окончания аренды и вернуться утром без дополнительных затрат.
+      uk: Парковочный тариф с 20 до 8 – бесплатный. Вы можете оставить автомобиль на тарифе Парковка вне зоны окончания аренды и вернуться утром без дополнительных затрат.
+    step1.FACT4TITLE:
+      cs: Můžete podnikat delší cesty
+      en: You can make long trips
+      ge: თქვენ შეგიძლიათ შორ მანძილზე გამგზავრება
+      ru: Вы можете совершать дальние поездки
+      uk: Вы можете совершать дальние поездки
+    step1.FACT4TEXT:
+      cs: Povolená oblast uživání vozidel - Česká republika. Ukončit pronájem lze ve kterékoliv povolené zóně.
+      en: The permitted zone of the car usage is up to 250 km from MKAD. You can end the rent in any point of the marked rent-end zone.
+      ge: ნებადართული ზონა ავტომანქანის გამოყენებისა არის 250 კმ“ ცენტრალური გზატკეცილიდან-დან.  ქირის დასრულება ნებადართულია ნებადართული ზონის შიგნით ნებისმიერ წერტილში.
+      ru: Разрешенная зона использования автомобиля - 250 км от МКАД. Завершить аренду можно в любом месте разрешенной зоны.
+      uk: Разрешенная зона использования автомобиля - 250 км от МКАД. Завершить аренду можно в любом месте разрешенной зоны.
+    step1.ImOlder:
+      cs: Jsem starší
+      en: I am older than
+      ge: (0) წელზე უფროსი ვარ
+      ru: Я старше
+      uk: Я старше
+    step1.MyDrivingExperience:
+      cs: 'Mám řidičskou praxi delší než '
+      en: My driving experience greater than
+      ge: ჩემი ავტომობილის ტარების გამოცდილება აღემატება
+      ru: Мой стаж вождения более
+      uk: Мой стаж вождения более
+    step1.Years:
+      cs: let
+      en: years
+      ge: წლები
+      ru: лет
+      uk: лет
+    step1.Accept25YearsOld:
+      cs: jsem starší 25 let
+      en: I'm older than 25 years old
+      ge: ჩემი ასაკი აღემატება 25 წელს
+      ru: Я старше 25 лет
+      uk: Я старше 25 лет
+    step1.Accept5YearsDriver:
+      cs: Mám řidičskou praxi delší než 5 let
+      en: I drive a car more than 5 years
+      ge: 5 წელზე მეტია ვატარებ მანქანას
+      ru: Мой стаж вождения автомобиля более 5 лет
+      uk: Мой стаж вождения автомобиля более 5 лет
+    step1.WARNING:
+      cs: 'Pozor: K registraci služby Anytime musíte mít řidičské oprvnění kategorie "B" a Vaše ridičská praxe nesmí být kratší než 2 roky.'
+      ge: 'ყუადღება: CarTrek-ის სერვისში რეგისტრაციის გასასვლელად თქვენი მართვის გამოცდილება B - კატეგორიაში უნდა შეადგენდეს მინიმუმ 2 წელს'
+      ru: 'Внимание: Для регистрации в сервисе CarTrek ваш водительский стаж по категории «В» должен быть не менее 2-х лет.'
+      uk: 'Внимание: Для регистрации в сервисе CarTrek ваш водительский стаж по категории «В» должен быть не менее 2-х лет.'
+    step2.TITLE:
+      cs: Návrh
+      en: Public Offer
+      ge: ოფერტა
+      ru: Оферта
+      uk: Оферта
+    step2.OFFERDESCRIPTION:
+      cs: K využívání služby není potřeba podepisovat papírovou podobu smlouvy. Jediné, co je potřeba, je pozorně pročíst návrh smlouvy online a přijmout ji zaškrtnutím políčka.
+      en: You have no need to sign a paper copy of the contract to start using our cars. All what you have to do is to carefully view the public offer and to mark the check box below it.
+      ge: ჩვენი ავტომანქანების დასაქირავებლად არ დაგჭირდებათ ქაღალდის ხელშეკრულებაზე ხელის მოწერა. საჭიროა მხოლოდ ჩვენს საჯარო შეთავაზებასთან ყურადღებით გაცნობა და ჩექ-ბოქსში არსებულ ღილაკზე დაჭერა.
+      ru: Вам не потребуется подписывать бумажный договор, чтобы начать пользоваться нашими автомобилями. Всё что нужно - внимательно ознакомиться с договором-офертой и поставить под ним 'галочку'.
+      uk: Вам не потребуется подписывать бумажный договор, чтобы начать пользоваться нашими автомобилями. Всё что нужно - внимательно ознакомиться с договором-офертой и поставить под ним 'галочку'.
+    step2.ACCEPTOFFER:
+      cs: Přečetl(a) jsem si návrh smlouvy a souhlasím se všemi jejími ustanoveními
+      en: I have read the public offer carefully and accept all it's terms
+      ge: მე წავიკითხე საჯარო შემოთავაზება ყურადღებით და ვეთანხმები მის ყველა პირობას
+      ru: Я прочитал(а) договор-оферту и принимаю все пункты договора-оферты
+      uk: Я прочитал(а) договор-оферту и принимаю все пункты договора-оферты
+    step3.CaptchaTitle:
+      cs: Ověření, že nejste robot
+      en: Captcha check-up
+      ge: შემოწმება, რომ რობოტი არ ბრძანდებით
+      ru: Проверка, что вы не робот
+      uk: Проверка, что вы не робот
+    step3.InputCaptchaHere:
+      cs: Uveďte symboly z obrázku zde
+      en: Please input symbols here
+      ge: გთხოვთ აქ შეიყვანოთ სურათზე გამოსახული სიმბოლოები
+      ru: Введите символы с картинки тут
+      uk: Введите символы с картинки тут
+    step3.CaptchaDescription:
+      cs: K pokračování registrace je potřeba uvést symboly z obrázku. To kvůli zabezpečení proti automatickým programům. Děkujeme za trpělivost.
+      en: To continue registration please input the symbols from the picture. This will help us to protect against automatic evil programs. Sorry for the inconvinience!
+      ge: რეგისტრაციის პროცესის გასაგრძელებლად გთხოვთ შეიყვანოთ სურათზე მითითებული სიმბოლოები. ეს დაგვეხმარება ჩვენ, რომ დავიცვათ თავი ავტომატური ბოროტი პროგრამებისგან. ბოდიშს გიხდით შეწუხებისთვის!
+      ru: Чтобы продолжить регистрацию, необходимо ввести символы с картинки. Это позволит нам защититься от злобных автоматических программ. Приносим свои извинения за неудобство!
+      uk: Чтобы продолжить регистрацию, необходимо ввести символы с картинки. Это позволит нам защититься от злобных автоматических программ. Приносим свои извинения за неудобство!
+    step3.TITLE:
+      cs: Vaše údaje
+      en: Your Profile
+      ge: თქვენი მონაცემები
+      ru: Ваши данные
+      uk: Ваши данные
+    step3.CONTACTDATA:
+      cs: Vaše osobní údaje
+      en: Your contact data
+      ge: თქვენი პირადი მონაცემები
+      ru: Ваши личные данные
+      uk: Ваши личные данные
+    step3.EMAIL:
+      cs: E-mail
+      en: E-mail
+      ge: ელ-ფოსტა
+      ru: E-mail
+      uk: E-mail
+    step3.EMAILDESCRIPTION:
+      cs: Bude použit k přístupu a zasílání účtenek za dokončené pronájmy
+      en: Will be used for sign in to the app and to send recipes for the completed orders.
+      ge: გამოყენებული იქნება აპლიკაციაში შესვლისთვის და აგრეთვე განხორციელებული შეკვეთების ქვითრების გაგზავნისას.
+      ru: Будет использоваться для входа в приложение и для отправки чеков по совершённым заказам.
+      uk: Будет использоваться для входа в приложение и для отправки чеков по совершённым заказам.
+    step3.MOBILEPHONENUMBER:
+      cs: Číslo Vašeho mobilního telefonu
+      en: Mobile phone number
+      ge: მობილური ტელეფონის ნომერი
+      ru: Номер мобильного телефона
+      uk: Номер мобильного телефона
+    step3.MOBILEPHONENUMBERDESCRIPTION:
+      cs: Je potřeba pro odeslání SMS oznámení a pro spojení v případě nouze
+      en: Is neccessary to send notification vis SMS and to contact you in emergency cases.
+      ge: აუცილებელია SMS -შეტყობინებების გასაგზავნად და აგრეთვე გადაუდებელ საკითხებზე დასაკავშირებლად.
+      ru: Необходим для отправки SMS-уведомлений, а также для связи по неотложным вопросам.
+      uk: Необходим для отправки SMS-уведомлений, а также для связи по неотложным вопросам.
+    step3.PASSWORD:
+      cs: Heslo
+      en: Password
+      ge: პაროლი
+      ru: Пароль
+      uk: Пароль
+    step3.PASSWORDDESCRIPTION:
+      cs: Heslo bude použito pro vstup do aplikace a webové stránky
+      en: This password will be used for sign in to the app and to the site.
+      ge: პაროლი დაგჭირდებათ აპლიკაციაში და საიტზე შესასვლელად
+      ru: Пароль будет использоваться для входа в приложение и на сайт.
+      uk: Пароль будет использоваться для входа в приложение и на сайт.
+    step3.PASSWORDCONFIRMATION:
+      cs: Potvrzení hesla
+      en: Password confirmation
+      ge: პაროლის დადასტურება
+      ru: Подтверждение пароля
+      uk: Подтверждение пароля
+    step3.PASSWORDCONFIRMATIONDESCRIPTION:
+      cs: Musí být shodné s heslem. Heslo se musí skládat alespoň z 6 symbolů a obsahovat alespoň 3 různé symboly.
+      en: Must match with the password. The password must contain at least 6 characters 3 of which are unique.
+      ge: უნდა დაემთხვეს პაროლს. პაროლი უნდა შეიცავდეს სულ ცოტა 6 სიმბოლოს აქედან 3 უნდა იყოს განსხვავებული.
+      ru: Должно совпадать с паролем. Пароль должен состоять не менее чем из 6 символов и включать в себя минимум 3 разных символа.
+      uk: Должно совпадать с паролем. Пароль должен состоять не менее чем из 6 символов и включать в себя минимум 3 разных символа.
+    step3.PERSONALDATAHEADER:
+      cs: Vaše přijmení a jméno (jména)
+      en: Your surname, name and patronymic
+      ge: თქვენი გვარი, სახელი და მამის სახელი
+      ru: Ваши фамилия, имя и отчество
+      uk: Ваши фамилия, имя и отчество
+    step3.SURNAME:
+      cs: Příjmení
+      en: Surname
+      ge: გვარი
+      ru: Фамилия
+      uk: Фамилия
+    step3.SURNAMEDESCRIPTION:
+      cs: Údaj o příjmení se může použít při vyplnění některých formulářů, např. záznamu o dopravní nehodě.
+      en: Your surname will be needed to fill up some forms, for exmple in case of a road accident.
+      ge: თქვენი გვარი საჭირო შეიძლება გახდეს ზოგიერთი ხელშეკრულების ხელმოსაწერად, მაგალითად საგზაო შემთხვევის დროს.
+      ru: Фамилия может потребоваться для заполнения некоторых документов, например, при оформлении ДТП.
+      uk: Фамилия может потребоваться для заполнения некоторых документов, например, при оформлении ДТП.
+    step3.NAME:
+      cs: Jméno
+      en: Name
+      ge: სახელი
+      ru: Имя
+      uk: Имя
+    step3.NAMEDESCRIPTION:
+      cs: Rádi bychom Vás oslovovali jménem...
+      en: We would like to contact you with your name...
+      ge: ჩვენ თქვენი სახელით გვსურს რომ მოგმართოთ
+      ru: Мы хотели бы обращаться к Вам по имени...
+      uk: Мы хотели бы обращаться к Вам по имени...
+    step3.PATRONYMIC:
+      cs: další jméno (jména)
+      en: Patronymic
+      ge: მამის სახელი
+      ru: Отчество
+      uk: Отчество
+    step3.PATRONYMICDESCRIPTION:
+      cs: další jména se mohou hodit při vyhotovení listin
+      en: '... and with your patronymic:) But also the patronymic can be used to fill some forms.'
+      ge: და აგრეთვე თქვენი მამის სახელით:), თუმცა მამის სახელი შეიძლება საჭირო გახდეს ზოგიერთი დოკუმენტის ხელმოწერის დროს.
+      ru: '... и по отчеству:) Но ещё отчество может понадобится при оформлении документов.'
+      uk: '... и по отчеству:) Но ещё отчество может понадобится при оформлении документов.'
+    step3.PROMOCODE:
+      cs: promo kód
+      en: Promo code
+      ge: პრომო კოდი
+      ru: Промо-код
+      uk: Промо-код
+    step3.PROMOCODEDESCRIPTION:
+      cs: Uveďte zde Váš promo kód, pokud jej máte
+      en: Please enter a promo code here if you have one.
+      ge: თუ გაქვთ პრომო კოდი გთხოვთ აქ შეიყვანოთ
+      ru: Введите тут промо-код, если он у Вас есть.
+      uk: Введите тут промо-код, если он у Вас есть.
+    step4.TITLE:
+      cs: Dokumenty
+      en: Documents
+      ge: დოკუმენტები
+      ru: Документы
+      uk: Документы
+    step4.DOCSUPLOAD:
+      cs: Odeslání fotografií dokumentů
+      en: 'Upload photos of documents '
+      ge: დოკუმენტების ფოტოს ატვირთვა
+      ru: Загрузка фото документов
+      uk: Загрузка фото документов
+    step4.DOCSUPLOADDESCRIPTION:
+      cs: 'Prosím, odešlete 5 fotografií Vašich dokumentů: foto občanského průkazu z obou stran, foto řidíčského průkazu z obou stran a fotografii, na které je zachycena Vaše tvář a současně řidičský průkaz (selfie s řidíčským průkazem). Abychom Vám mohli umožnit užívání vozidla, musíme se ujistit o pravosti Vašich dokumentů.'
+      en: "Please upload 4 photos of your documents: a photo of front and back side of your ID card, a photo of front and back side of your Driver's Licence and a selfie with your ID card. To give you a permission to drive the cars of our company we have to verify your documents."
+      ge: 'გთხოვთ ატვირთოთ თქვენი დოკუმენტების 5 სურათი: პასპორტის პირველი გვერდის სურათი, პასპორტის რეგისტრაციის გვერდი, მართვის მოწმობის ორივე გვერდის ფოტო, და სელფი მართვის მოწმობასთან ერთად. ჩვენი კომპანიის ავტომანქანანების მართვის უფლება რომ დაგრთოთ აუცილებელია დავრწმუნდეთ თქვენი დოკუმენტების სინამდვილეში.'
+      ru: "Пожалуйста, загрузите 5 фото Ваших документов: фото первой страницы паспорта, фото страницы паспорта с регистрацией, фото лицевой и обратной стороны водительского удостроверения (ВУ) и фото, на котором одновременно видно Вас и водительское удостоверение ('селфи с удостоверением'). Чтобы дать Вам возможность пользоваться автомобилями нашей компании, мы должны убедиться в подлинности Ваших документов."
+      uk: "Пожалуйста, загрузите 5 фото Ваших документов: фото первой страницы паспорта, фото страницы паспорта с регистрацией, фото лицевой и обратной стороны водительского удостроверения (ВУ) и фото, на котором одновременно видно Вас и водительское удостоверение ('селфи с удостоверением'). Чтобы дать Вам возможность пользоваться автомобилями нашей компании, мы должны убедиться в подлинности Ваших документов."
+    step4.PASSPORT1:
+      cs: Přední strana OP
+      en: First Page of Passport
+      ge: პასპორტის პირველი გვერდი
+      ru: Первая страница паспорта
+      uk: Первая страница паспорта
+    step4.PASSPORT2:
+      cs: Zadní strana OP
+      en: Page of Passport with Registration
+      ge: პასპორტის გვერდი რეგისტრაციით
+      ru: Страница паспорта - регистрация
+      uk: Страница паспорта - регистрация
+    step4.DRIVERSLICENCE1:
+      cs: Přední strana řidičského průkazu
+      en: Drivers Licence's front side
+      ge: მართვის მოწმობის წინა გვერდი
+      ru: Лицевая сторона ВУ
+      uk: Лицевая сторона ВУ
+    step4.DRIVERSLICENCE2:
+      cs: Zadní strana řidičského průkazu
+      en: Drivers Licence's back side
+      ge: მართვის მოწმობის უკანა გვერდი
+      ru: Обратная сторона ВУ
+      uk: Обратная сторона ВУ
+    step4.UPLOAD:
+      cs: Vybrat
+      en: Select...
+      ge: არჩევა...
+      ru: Выбрать...
+      uk: Выбрать...
+    step4.ACCEPTRULES:
+      cs: Souhlasím
+      en: I agree with
+      ge: ვეთანხმები
+      ru: Я принимаю
+      uk: Я принимаю
+    step4.Rules:
+      cs: s podmínkami užívání služby
+      en: Terms and conditions
+      ge: ' მომსახურების პირობები'
+      ru: ' условия использования сервиса'
+      uk: ' условия использования сервиса'
+    step4.ACCEPTPERSONALDATA:
+      cs: Souhlasím
+      en: I accept
+      ge: უფლებას გაძლევთ
+      ru: Я даю
+      uk: Я даю
+    step4.PersonalData:
+      cs: se zpracováním svých osobních údajů
+      en: consent for my private data to be processed
+      ge: ' ჩემი პირადი მონაცემების დამუშავებაზე'
+      ru: ' согласие на обработку моих персональных данных'
+      uk: ' согласие на обработку моих персональных данных'
+    step4.AcceptContract:
+      cs: Souhlasím s podmínkami
+      en: I agree with
+      ge: ვეთანხმები
+      ru: Я согласен с положениями
+      uk: Я согласен с положениями
+    step4.Contract:
+      cs: Smlouva
+      en: Consent to sign the contract
+      ge: ' ხელშეკრულების პირობებს'
+      ru: ' Договора присоединения'
+      uk: ' Договора присоединения'
+    step4.FIRSTPASSPORTPAGE:
+      cs: přední stránka OP
+      en: Front side of the ID card
+      ge: პასპორტის პირველი გვერდი
+      ru: 1я стр. паспорта
+      uk: 1я стр. паспорта
+    step4.SECONDPASSPORTPAGE:
+      cs: Registrace
+      en: Back side of the ID card
+      ge: რეგისტრაცია
+      ru: Регистрация
+      uk: Регистрация
+    step4.FACEDRIVERSLICPAGE:
+      cs: přední strana řidičského průkazu
+      ge: მართვის მოწმობის წინა მხარე
+      ru: Лицевая сторона ВУ
+      uk: Лицевая сторона ВУ
+    step4.BACKDRIVERSLICPAGE:
+      cs: Zadní strana řidičského průkazu
+      ge: მართვის მოწმობის უკანა მხარე
+      ru: Обр. сторона ВУ
+      uk: Обр. сторона ВУ
+    step4.SELFIE:
+      cs: '"Selfie" spolu s řidičským průkazem'
+      en: Selfie with Driver's license
+      ge: ავტოპორტრეტი მართვის მოწმობასთან ერთად
+      ru: Селфи с ВУ
+      uk: Селфи с ВУ
+    step5.TITLE:
+      cs: Úhrada
+      en: Payment
+      ge: გადახდა
+      ru: Оплата
+      uk: Оплата
+    step5.HEADER:
+      cs: Blahopřejeme, jste skoro v cíli!
+      en: Greetings! You are almost there!
+      ge: გილოცავთ, თქვენ თითქმის მიაღწიეთ მიზანს
+      ru: Поздравляем, Вы почти у цели!
+      uk: Поздравляем, Вы почти у цели!
+    step5.DESCRIPTION1:
+      cs: Vytvořili jsme Váš uživatelský účet. Abyste mohli začít používat naše vozy, musíte propojit bankovní kartu s Vaším účtem.
+      en: We created an account for you in the system. To start use our cars you only have to attach your bank card.
+      ge: ჩვენ სისტემაში შევქმენით თქვენთვის ანგარიში. იმისთვის, რომ დაიწყოთ ჩვენი ავტომანქანების გამოყენება, თქვენს ანგარიშს უნდა მიაბათ საბანკო ბარათი.
+      ru: Мы создали для Вас учётную запись в системе. Чтобы начать пользоваться нашими автомобилями Вам осталось привязать к учётной записи банковскую карту.
+      uk: Мы создали для Вас учётную запись в системе. Чтобы начать пользоваться нашими автомобилями Вам осталось привязать к учётной записи банковскую карту.
+    step5.DESCRIPTION2:
+      cs: Nezpracováváme údaje o Vaší platební kartě. Všechny operace s platební kartou se provádějí prostřednictvím platební brány a odpovídají těm nejpřísnějším kritériím informační bezpečnosti v oblasti bankovnictví - Level 1 PCI DSS verze 3.0.
+      en: We will not store your card's data at our servers. All the payment activities will be performed by the payment system which is sertified by Level 1 PCI DSS - the most rigorous information security standard in banking.
+      ge: ჩვენ არ შევინახავთ თქვენი ბარათის მონაცემებს ჩვენს სერვერში. ყოველი გადახდა შესრულებული იქნება გადახდების სისტემის მეშვეობით , რომელიც საბანკო სფეროში ინფორმაციული უსაფრთხოების ყველაზე მკაცრი Level 1 PCI DSS-ის მიერ - დადგენილი სტანდარტის შესაბამისად იმოქმედებს.
+      ru: Мы не будем хранить данные Вашей банковской карты у себя. Все платёжные действия совершаются через платёжную систему, сертифицированного на соответствие самым высоким требованиям по информационной безопасности в банковской сфере - Level 1 PCI DSS версии 3.0.
+      uk: Мы не будем хранить данные Вашей банковской карты у себя. Все платёжные действия совершаются через платёжную систему, сертифицированного на соответствие самым высоким требованиям по информационной безопасности в банковской сфере - Level 1 PCI DSS версии 3.0.
+    step5.DESCRIPTION3:
+      cs: Jakmile zmáčknete tlačítko 'Připojít kartu', otevře se okno platebního systému pro zadání údajů o Vaší platební kartě. Z karty budou dvakrát po sobě odepsány minimální částky z důvodu propojení a validace Vaší platební karty. Tyto částky převedeme na Váš bonusový účet. Upozorňujeme, že stav prostředků na kartě nesmít být nulový nebo záporný. Karty Visa Electron a Maestro, bohužel, nelze použít. Nadále se všechny platby za Vaše jízdy budou automaticky strhávat přímo z připojené karty. Body z bonusového účtu se přirovnávají ke korunám jedna ku jedné a budou využity přednostně.
+      en: After you press the 'Attach the Card' button a window of payment system will be opened in which you should enter your card's information. The card will be charged for minimal sum which will be placed to your bonus account. Please note that Visa Electron and Maestro cards can not be used. All your future rents will be payed from your card directly. Points of the bonus account are equal to roubles and will be spent firstly.
+      ge: მას შემდეგ, რაც დააჭერთ ღილაკს 'Bind the Card'-ს გაიხსნება გადახდის სისტემის ფანჯარა, რომელშიც უნდა შეიყვანოთ თქვენი ბარათის ინფორმაცია. თქვენი საბანკო ბარათის გატესტვის და მიბმის მიზნით, ბარათიდან ჩამოგეჭრებათ მინიმალური თანხა, რომელიც განთავსდება თქვენს საბონუსე ანგარიშზე. შეგახსენებთ, რომ ჩვენთან ვერ გამოიყენებთ ვიზა ელექტრონს და მაესტრო ბარათს. ყველა თქვენი მომავალი მგზავრობა იქნება გადახდილი პირდაპირ თქვენი ბარათიდან. ბონუს ქულების რაოდენობა ანგარიშზე იქნება ლართად ერთი ერთში გაიგივებული და ჩამოგეჭრებათ პირველ რიგში.
+      ru: После того как Вы нажмёте кнопку 'Привязать карту', откроется окно платёжной системы для ввода реквизитов карты. С карты последовательно дважды спишутся минимальные суммы для привязки и тестирования Вашей банковской карты, которые мы зачислим на Ваш бонусный счёт. Обратите внимание, что баланс карты не должен быть нулевым; карты Visa Electron и Maestro не могут использоваться. В дальнейшем все платежи за Ваши поездки будут списываться непосредственно с карты. Баллы бонусного счёта приравниваются к рублям один к одному и расходуются в первую очередь.
+      uk: После того как Вы нажмёте кнопку 'Привязать карту', откроется окно платёжной системы для ввода реквизитов карты. С карты последовательно дважды спишутся минимальные суммы для привязки и тестирования Вашей банковской карты, которые мы зачислим на Ваш бонусный счёт. Обратите внимание, что баланс карты не должен быть нулевым; карты Visa Electron и Maestro не могут использоваться. В дальнейшем все платежи за Ваши поездки будут списываться непосредственно с карты. Баллы бонусного счёта приравниваются к рублям один к одному и расходуются в первую очередь.
+    step5.BINDCARD:
+      cs: Připojít platební kartu
+      en: Attach the bank card
+      ge: მიაბით ბარათი
+      ru: Привязать карту
+      uk: Привязать карту
+    step5.BINDCARDPROCESSING:
+      cs: Zpracování platby...
+      en: The Payment is Processing...
+      ge: გადახდის დამუშავება
+      ru: Обработка платежа...
+      uk: Обработка платежа...
+    step5.SkipPayment:
+      cs: Přeskočit
+      en: Skip
+      ge: გამოტოვება
+      ru: Пропустить
+      uk: Пропустить
+    step6.TITLE:
+      cs: Dokončení
+      en: completion
+      ge: დასრულება
+      ru: Завершение
+      uk: Завершение
+    step6.HEADER:
+      cs: Blahopřejeme!
+      en: Congratulations!
+      ge: გილოცავთ!
+      ru: Поздравляем!
+      uk: Поздравляем!
+    step6.DESCRIPTION1:
+      cs: Úspěšně jste dokončil(a) registraci v naší službě carsharingu! Vaše první platba byla zaúčtována na Váš bonusový účet uživatelského účtu a již brzy s ní budete moci zaplatit svou první cestu s našimi vozy.
+      en: You have successfully signed up to the service! Your first payment was credited to your bonus account and in the nearest future you will be able to spend it for your first rent
+      ge: თქვენ წარმატებით დაასრულეთ ქარშეარინგის სერვისში რეგისტრაციის პროცესი! თქვენი პირველი გადახდა ჩაირიცხა თქვენს ბონუს ანგარიშზე და უახლოეს მომავალში შეძლებთ დახარჯოთ ის  ჩვენი ავტომანქანით თქვენი პირველი მოგზაურობისთვის.
+      ru: Вы успешно завершили регистрацию в сервисе каршеринга! Ваш первый платёж был зачислен на бонусный счёт Вашего личного кабинета и совсем скоро Вы сможете потратить его на свою первую поездку на наших автомобилях.
+      uk: Вы успешно завершили регистрацию в сервисе каршеринга! Ваш первый платёж был зачислен на бонусный счёт Вашего личного кабинета и совсем скоро Вы сможете потратить его на свою первую поездку на наших автомобилях.
+    step6.DESCRIPTION2:
+      cs: Poté, co Vaše dokumenty zkontrolujeme, zprovozníme Vaši registraci a informujeme Vás o tom prostřednictvím sms a e-mailem.
+      en: When your documents will have been checked we will activate your account and notify you via sms and e-mail
+      ge: მას შემდეგ რაც თქვენი დოკუმენტები შემოწმდება ჩვენი სპეციალისტების მიერ, ჩვენ გაგიაქტიურებთ თქვენს ანგარიშს და გაცნობებთ ამას მობილური ტელეფონის და და ელ.ფოსტი მეშვეობით.
+      ru: После того как Ваши документы будут проверены нашими специалистами, мы активируем Вашу учётную запись и сообщим Вам об этом по телефону и через e-mail.
+      uk: После того как Ваши документы будут проверены нашими специалистами, мы активируем Вашу учётную запись и сообщим Вам об этом по телефону и через e-mail.
+    step6.DESCRIPTION3:
+      cs: Pro přechod do uživatelského účtu, stiskněte, prosím, tlačítko "Dokončit"
+      en: Please press the 'Finish' button to access to your personal profile page
+      ge: დააჭირეთ ღილაკს  'Finish' რომ გადახვიდეთ თქვენი პირადი პროფილის გვერდზე
+      ru: Пожалуйста, нажмите кнопку 'Завершить', чтобы перейти в личный кабинет.
+      uk: Пожалуйста, нажмите кнопку 'Завершить', чтобы перейти в личный кабинет.
+    app.ImagesUploaded:
+      cs: Dokumenty nahrané
+      en: Documents uploaded
+      ru: Документы загружены
