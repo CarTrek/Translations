@@ -725,8 +725,8 @@ Sections:
         en: Please take a photo of the QR code lacated on the scooter
         ru: Пожалуйста, сфотографируйте QR-код, расположенный на руле самоката
     appless.rents.rate-pack:
-        en: Are you sure you want to start renting? {price} will be debited from your card.
-        ru: Вы действительно хотите начать аренду? С вашей карты спишется {price}
+        en: Are you sure you want to start renting?\\r\\n {price} will be debited from your card.
+        ru: Вы действительно хотите начать аренду?\\r\\n С вашей карты спишется {price}
     appless.enter-qr-number:
         en: Enter number
         ru: Ввести номер
