@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.map.Address:
+      en: 'Address'
+      ru: 'Адрес'
     organization.editor.MaxActiveRentalsCount:
       en: 'Max active rentals count'
       ru: 'Максимум активных аренд'
