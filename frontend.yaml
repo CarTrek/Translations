@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.pushJobs:
+      en: 'Push messages'
+      ru: 'Рассылка пушей'
     cars.map.Address:
       en: 'Address'
       ru: 'Адрес'
