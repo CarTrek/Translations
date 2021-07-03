@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.selected-vehicle-description:
+      en: ' '
+      ru: ' '
     after-ride-photos.top-description:
       en: 'Please take a photo of the car from the four sides. It’s free, your ride is complete.'
       ru: 'Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена.'
