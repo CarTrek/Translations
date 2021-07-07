@@ -1,8 +1,5 @@
 Sections:
   AdminFrontend:
-    aside.nav.pushJobs:
-      en: 'Push messages'
-      ru: 'Рассылка пушей'
     cars.map.Address:
       en: 'Address'
       ru: 'Адрес'
@@ -9606,6 +9603,42 @@ Sections:
       ru: Пуш или СМС
     clients.editor.notification.Push:
       ru: Пуш
+    aside.nav.pushJobs:
+      en: 'Push messages'
+      ru: 'Рассылка пушей'
+    pushjobs.table.title:
+      en: 'Title'
+      ru: 'Название'
+    pushjobs.table.active:
+      en: 'Active'
+      ru: 'Активная'
+    pushjobs.table.start:
+      en: 'Start'
+      ru: 'Начать'
+    pushjobs.edit.title:
+      en: 'Title'
+      ru: 'Название'
+    pushjobs.edit.message:
+      en: 'Message'
+      ru: 'Сообщение'
+    pushjobs.edit.start:
+      en: 'Start'
+      ru: 'Начать'
+    pushjobs.edit.active:
+      en: 'Active'
+      ru: 'Активировать'
+    pushjobs.edit.sendToBlocked:
+      en: 'SendToBlocked'
+      ru: 'SendToBlocked'
+    pushjobs.edit.sendToNotBlocked:
+      en: 'SendToNotBlocked'
+      ru: 'SendToNotBlocked'
+    pushjobs.edit.sendToApproved:
+      en: 'SendToApproved'
+      ru: 'SendToApproved'
+    pushjobs.edit.sendToNotApproved:
+      en: 'SendToNotApproved'
+      ru: 'SendToNotApproved'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
