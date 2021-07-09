@@ -9663,6 +9663,12 @@ Sections:
     pushjobs.edit.sendToNotApproved:
       en: 'Send to not approved'
       ru: 'Отправить не одобренным'
+    pushjobs.edit.ok:
+      en: 'Ok'
+      ru: 'Ок'
+    pushjobs.edit.cancel:
+      en: 'Cancel'
+      ru: 'Отмена'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
