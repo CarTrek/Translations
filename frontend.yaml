@@ -9637,8 +9637,8 @@ Sections:
       en: 'Previous page'
       ru: 'Предыдущая страница'
     pushjobs.table.pages:
-      en: 'Page {{page}} of {{pages}}'
-      ru: 'Страница {{page}} из {{pages}}'
+      en: 'Page {page} of {pages}'
+      ru: 'Страница {page} из {pages}'
     pushjobs.edit.title:
       en: 'Title'
       ru: 'Название'
