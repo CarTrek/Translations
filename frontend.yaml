@@ -9606,6 +9606,12 @@ Sections:
     aside.nav.pushJobs:
       en: 'Push messages'
       ru: 'Рассылка пушей'
+    pushjobs.edit.header.add:
+      en: 'Add push job'
+      ru: 'Добавить пуш'
+    pushjobs.edit.header.edit:
+      en: 'Edit push job'
+      ru: 'Редактировать пуш'
     pushjobs.table.title:
       en: 'Title'
       ru: 'Название'
@@ -9615,6 +9621,24 @@ Sections:
     pushjobs.table.start:
       en: 'Start'
       ru: 'Начать'
+    pushjobs.table.itemsPerPageLabel:
+      en: 'Items per page'
+      ru: 'Элементов на странице'
+    pushjobs.table.firstPageLabel:
+      en: 'First page'
+      ru: 'Первая страница'
+    pushjobs.table.lastPageLabel:
+      en: 'Last page'
+      ru: 'Последняя страница'
+    pushjobs.table.nextPageLabel:
+      en: 'Next page'
+      ru: 'Следующая страница'
+    pushjobs.table.previousPageLabel:
+      en: 'Previous page'
+      ru: 'Предыдущая страница'
+    pushjobs.table.pages:
+      en: 'Page {{page}} of {{pages}}'
+      ru: 'Страница {{page}} из {{pages}}'
     pushjobs.edit.title:
       en: 'Title'
       ru: 'Название'
@@ -9628,17 +9652,17 @@ Sections:
       en: 'Active'
       ru: 'Активировать'
     pushjobs.edit.sendToBlocked:
-      en: 'SendToBlocked'
-      ru: 'SendToBlocked'
+      en: 'Send to blocked'
+      ru: 'Отправить на заблокированные'
     pushjobs.edit.sendToNotBlocked:
-      en: 'SendToNotBlocked'
-      ru: 'SendToNotBlocked'
+      en: 'Send to not blocked'
+      ru: 'Отправить на незаблокированные'
     pushjobs.edit.sendToApproved:
-      en: 'SendToApproved'
-      ru: 'SendToApproved'
+      en: 'Send to approved'
+      ru: 'Отправить одобренным'
     pushjobs.edit.sendToNotApproved:
-      en: 'SendToNotApproved'
-      ru: 'SendToNotApproved'
+      en: 'Send to not approved'
+      ru: 'Отправить не одобренным'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
