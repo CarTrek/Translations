@@ -9653,10 +9653,10 @@ Sections:
       ru: 'Активировать'
     pushjobs.edit.sendToBlocked:
       en: 'Send to blocked'
-      ru: 'Отправить на заблокированные'
+      ru: 'Отправить заблокированным'
     pushjobs.edit.sendToNotBlocked:
       en: 'Send to not blocked'
-      ru: 'Отправить на незаблокированные'
+      ru: 'Отправить незаблокированным'
     pushjobs.edit.sendToApproved:
       en: 'Send to approved'
       ru: 'Отправить одобренным'
