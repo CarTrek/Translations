@@ -9639,6 +9639,12 @@ Sections:
     pushjobs.table.pages:
       en: 'Page {page} of {pages}'
       ru: 'Страница {page} из {pages}'
+    pushjobs.table.timeToComplete:
+      en: 'Time to complete'
+      ru: 'Время до завершения'
+    pushjobs.table.progress:
+      en: 'Progress'
+      ru: 'Прогресс'
     pushjobs.edit.title:
       en: 'Title'
       ru: 'Название'
