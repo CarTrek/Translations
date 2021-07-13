@@ -9621,22 +9621,22 @@ Sections:
     pushjobs.table.start:
       en: 'Start'
       ru: 'Начать'
-    pushjobs.table.itemsPerPageLabel:
+    smart.table.itemsPerPageLabel:
       en: 'Items per page'
       ru: 'Элементов на странице'
-    pushjobs.table.firstPageLabel:
+    smart.table.firstPageLabel:
       en: 'First page'
       ru: 'Первая страница'
-    pushjobs.table.lastPageLabel:
+    smart.table.lastPageLabel:
       en: 'Last page'
       ru: 'Последняя страница'
-    pushjobs.table.nextPageLabel:
+    smart.table.nextPageLabel:
       en: 'Next page'
       ru: 'Следующая страница'
-    pushjobs.table.previousPageLabel:
+    smart.table.previousPageLabel:
       en: 'Previous page'
       ru: 'Предыдущая страница'
-    pushjobs.table.pages:
+    smart.table.pages:
       en: 'Page {page} of {pages}'
       ru: 'Страница {page} из {pages}'
     pushjobs.table.timeToComplete:
