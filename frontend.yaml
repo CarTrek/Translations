@@ -147,21 +147,27 @@ Sections:
     inapp.Enabled:
       en: Enabled
       ru: Включено
-    inapp.editor.dl.profile:
+    inapp.editor.dl.Profile:
       en: Profile
       ru: Профиль
-    inapp.editor.dl.certificates:
+    inapp.editor.dl.Certificates:
       en: Certificates
       ru: Сертификаты
-    inapp.editor.dl.ridesHistory:
+    inapp.editor.dl.RidesHistory:
       en: Rides history
       ru: История поездок
-    inapp.editor.dl.bankCards:
+    inapp.editor.dl.BankCards:
       en: Bank cards
       ru: Экран банк. карт
-    inapp.editor.dl.carmap:
+    inapp.editor.dl.CarMap:
       en: Car map
       ru: Карта машин
+    inapp.editor.dl.ShowURL:
+      en: Show url
+      ru: Перейти по ссылке
+    inapp.editor.dl.PurchaseBonuses:
+      en: Purchase bonuses screen
+      ru: Экран покупки бонусов
     inapp.DeepLink:
       en: Deep link
       ru: Deep link
