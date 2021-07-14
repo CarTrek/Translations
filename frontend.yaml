@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    inapp.ShowUrl:
+      en: Url
+      ru: Url
     cars.map.Address:
       en: 'Address'
       ru: 'Адрес'
