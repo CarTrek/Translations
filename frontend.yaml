@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.list.LastWashTime:
+      en: Last wash time
+      ru: Дата последней мойки
     inapp.ShowUrl:
       en: Url
       ru: Url
