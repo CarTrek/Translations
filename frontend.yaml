@@ -5902,6 +5902,9 @@ Sections:
       en: Do you really want to configure car's equipment?
       ge: გსურთ ავტომობილის აღჭურვილობის კონფიგურაცია?
       ru: Вы действительно хотите сконфигурировать оборудование автомобиля?
+    cars.editor.ConfirmUnlockBattery:
+      en: Do you really want to unlock the battery lock?
+      ru: Вы действительно хотите открыть замок батареи?
     cars.editor.ConfirmChangeSim:
       cs: Odeslat příkaz změny SIM?  K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Do you want to sent command for SIM changing? SMS service should be turned on for this function.
