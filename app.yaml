@@ -788,3 +788,9 @@ Sections:
     promo-code.friends-bonuses:
         en: 'Share it with your friends and get bonuses from their first rides.'
         ru: 'Делитесь им с друзьями и получайте бонусы с их первых поездок.'
+    catalog.delivery-button:
+        en: 'Delivery'
+        ru: 'Заказать доставку'
+    catalog.screen-title:
+        en: 'Car catalog'
+        ru: 'Каталог автомобилей'
