@@ -1,5 +1,8 @@
 Sections:
   App:
+    ride-details.ride-number:
+      en: 'Ride number'
+      ru: 'Номер поездки'
     appless.rules-popup-title:
       en: 'Rules of the service'
       ru: 'Правила сервиса'
