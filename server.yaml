@@ -1554,9 +1554,9 @@ Sections:
       uk: Дія не застосовується.
     CarCommandResultServerError:
       be: Внутренняя ошибка сервера.
-      cs: Neočekávaná chyba. Opakujte akci za pár minut nebo volejte 840 600 600
+      cs: Neočekávaná chyba.
       ka: 'სერვერის შიდა შეცდომა. '
-      en: 'Unexpected error.  Retry in a few minutes or call: +420840600600'
+      en: 'Unexpected error.  Retry in a few minutes.'
       ru: Внутренняя ошибка сервера.
       uk: Внутрішня помилка сервера.
     CarCommandResultTimeoutError:
