@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    heatmap.app-start.time:
+      en: 'Time when the app started'
+      ru: 'Время запуска приложения'
+    heatmap.app-start.from:
+      en: 'From'
+      ru: 'С'
+    heatmap.app-start.to:
+      en: 'to'
+      ru: 'до'
     carmodel.markers.small:
       en: 'Small'
       ru: 'Мелкий масштаб'
