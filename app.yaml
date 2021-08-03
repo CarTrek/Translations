@@ -797,3 +797,9 @@ Sections:
     catalog.screen-title:
         en: 'Car catalog'
         ru: 'Каталог автомобилей'
+    date-delivery.screen-title:
+        en: 'Delivery date and time'
+        ru: 'Дата и время доставки'
+    date-delivery.confirm-button:
+        en: 'Confirm'
+        ru: 'Подтвердить время'
