@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    heatmap.header.app-starts:
+      en: 'App starts map'
+      ru: 'Карта запусков приложения'
+    heatmap.app-start.period:
+      en: 'A period for analysis'
+      ru: 'Период для анализа'
     cars.list.LastWashTime:
       en: Last wash time
       ru: Дата последней мойки
