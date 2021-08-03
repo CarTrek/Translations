@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    heatmap.app-start.order-title:
+      en: 'App start completed with a ride'
+      ru: 'Была ли поездка после запуска приложения'
     heatmap.app-start.has-order:
       en: 'Had ride'
       ru: 'Была поездка'
