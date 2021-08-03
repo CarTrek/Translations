@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    heatmap.app-start.has-order:
+      en: 'Had ride'
+      ru: 'Была поездка'
+    heatmap.app-start.has-no-order:
+      en: 'Had no ride'
+      ru: 'Не было поездки'
+    heatmap.app-start.yes:
+      en: 'Yes'
+      ru: 'Да'
+    heatmap.app-start.no:
+      en: 'No'
+      ru: 'Нет'
     heatmap.app-start.distance-from:
       en: 'From'
       ru: 'От'
