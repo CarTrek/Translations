@@ -1,5 +1,29 @@
 Sections:
   AdminFrontend:
+    carmodel.markers.small:
+      en: 'Small'
+      ru: 'Мелкий масштаб'
+    carmodel.markers.large:
+      en: 'Large'
+      ru: 'Крупный масштаб'
+    carmodel.markers.smallDiscount:
+      en: 'Small with discount'
+      ru: 'Мелкий масштаб со скидкой'
+    carmodel.markers.largeDiscount:
+      en: 'Large with discount'
+      ru: 'Крупный масштаб со скидкой'
+    carmodel.markers.notSelected:
+      en: 'Not selected'
+      ru: 'Не выбран'
+    carmodel.markers.selected:
+      en: 'Selected'
+      ru: 'Выбран'
+    carmodel.markers.rented:
+      en: 'Rented'
+      ru: 'Арендован'
+    carmodel.markers.rentedAndSelected:
+      en: 'Rented and selected'
+      ru: 'Арендован и выбран'
     heatmap.header.app-starts:
       en: 'App starts map'
       ru: 'Карта запусков приложения'
