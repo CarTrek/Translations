@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    heatmap.app-start.distance-from:
+      en: 'From'
+      ru: 'От'
+    heatmap.app-start.km:
+      en: 'km'
+      ru: 'км'
+    heatmap.app-start.distance-to:
+      en: 'to'
+      ru: 'до'
+    heatmap.app-start.distance-to-nearest-car:
+      en: 'Distance to nearest car or scooter'
+      ru: 'Расстояние до ближ. машины или самоката'
     heatmap.app-start.time:
       en: 'Time when the app started'
       ru: 'Время запуска приложения'
