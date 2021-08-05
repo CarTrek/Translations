@@ -803,3 +803,9 @@ Sections:
     date-delivery.confirm-button:
         en: 'Confirm'
         ru: 'Подтвердить время'
+    date-delivery.ok-button:
+        en: 'Ok'
+        ru: 'Ок'
+    date-delivery.cancel-button:
+        en: 'Cancel'
+        ru: 'Отмена'
