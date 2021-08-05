@@ -809,3 +809,9 @@ Sections:
     date-delivery.cancel-button:
         en: 'Cancel'
         ru: 'Отмена'
+    confirm-pay.screen-title:
+        en: 'Confirmation and payment'
+        ru: 'Подтверждение и оплата'
+    confirm-pay.pay-button:
+        en: 'Pay {summ}'
+        ru: 'Оплатить {summ}'
