@@ -809,6 +809,12 @@ Sections:
     date-delivery.cancel-button:
         en: 'Cancel'
         ru: 'Отмена'
+    map-delivery.screen-title:
+        en: 'Delivery location'
+        ru: 'Место доставки'
+    map-delivery.confirm-button:
+        en: 'Confirm location'
+        ru: 'Подтвердить место'
     confirm-pay.screen-title:
         en: 'Confirmation and payment'
         ru: 'Подтверждение и оплата'
