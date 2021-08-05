@@ -821,3 +821,15 @@ Sections:
     confirm-pay.pay-button:
         en: 'Pay {summ}'
         ru: 'Оплатить {summ}'
+    change-booking.screen-title:
+        en: 'Change booking'
+        ru: 'Изменить бронирование'
+    change-booking.close-button:
+        en: 'Close'
+        ru: 'Закрыть'
+    change-booking.cancel-button:
+        en: 'Cancel'
+        ru: 'Отменить'
+    change-booking.notcancel-button:
+        en: 'Cancel not available'
+        ru: 'Отмена недоступна'
