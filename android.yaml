@@ -1,5 +1,8 @@
 Sections:
   Android:
+    nav_menu_label_bonuses:
+      en: Bonuses
+      ru: Бонусы
     speed_restriction_normal_description:
       en: 'This zone has a limit of 15 km/h. The scooter will switch speed automatically.'
       ru: 'В этой зоне установлено ограничение 15 км/ч. Самокат переключит скорость автоматически.'
