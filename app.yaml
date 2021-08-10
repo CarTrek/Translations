@@ -177,6 +177,12 @@ Sections:
     rides-history.screen-title:
       en: My rides
       ru: Мои поездки
+    rides-history.header-booked:
+      en: Booked trips
+      ru: Предстоящие поездки
+    rides-history.header-history:
+      en: Trips history
+      ru: Прошлые поездки
     payment-methods.no-card:
       en: You haven't linked any bank cards
       ru: Вы не привязали ни одной банковской карты
