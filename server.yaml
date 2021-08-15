@@ -1,5 +1,26 @@
 Sections:
   Server:
+    MapExportColumnId:
+      en: 'Id'
+      ru: 'Идентиикатор'
+    MapExportColumnBrand:
+      en: 'Make'
+      ru: 'Марка'
+    MapExportColumnModel:
+      en: 'Model'
+      ru: 'Модель'
+    MapExportColumnRegNumber:
+      en: 'Number'
+      ru: 'Номер'
+    MapExportColumnFuelLevel:
+      en: 'Fuel or battery level'
+      ru: 'Уровень топлива или заряда'
+    MapExportColumnLat:
+      en: 'Latitude'
+      ru: 'Широта'
+    MapExportColumnLon:
+      en: 'Longitude'
+      ru: 'Долгота'
     FailedTimeSentryIsAlarmed:
       en: 'The service is temporarily unavailable, as works are in progress. Please try again in a couple of minutes'
       ru: 'Сервис временно недоступен, так как ведутся технические работы. Пожалуйста, попробуйте ещё раз через пару минут'
