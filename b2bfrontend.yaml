@@ -231,6 +231,9 @@ Sections:
     DownloadReportDescription:
       en: Enter a name or leave the field blank
       ru: Введите имя или оставьте поле пустым
+    button-load-more:
+      en: Load more
+      ru: Ещё
     Example:
       en: Example
       ru: Пример
