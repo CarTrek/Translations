@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    map.filters.download:
+      en: 'Download...'
+      ru: 'Скачать...'
     heatmap.app-start.min-opacity:
       en: 'Opacity of points'
       ru: 'Контрастность точек'
