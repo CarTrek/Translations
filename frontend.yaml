@@ -607,8 +607,14 @@ Sections:
       en: Client IP
       ru: IP клиента
     rates.FreeBookTime:
-      en: Free book time
-      ru: Беспл. время брони
+      en: Free book
+      ru: Беспл. бронь
+    rates.AllowedDebt:
+      en: Allow debt
+      ru: Разр. долг
+    rates.Perks:
+      en: Perks
+      ru: Привилегии
     voucher.list.samenumber:
       en: Same number for all
       ru: Одинаковый номер
