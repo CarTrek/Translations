@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    clients.editor.PassportValidDate:
+      en: 'Passport valid date'
+      ru: 'Срок действия паспорта до'
+    clients.editor.DriversLicenceValidDate:
+      en: 'Drivers license valid date'
+      ru: 'Срок действия ВУ до'
     map.filters.download:
       en: 'Download...'
       ru: 'Скачать...'
