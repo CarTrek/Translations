@@ -815,7 +815,10 @@ Sections:
     date-delivery.cancel-button:
         en: 'Cancel'
         ru: 'Отмена'
-    car-details.сar-characteristics:
+    car-details.characteristics:
+        en: 'Car characteristics'
+        ru: 'Характеристики автомобиля'
+    car-details.tariffs:
         en: 'Car characteristics'
         ru: 'Характеристики автомобиля'
     car-details.year:
