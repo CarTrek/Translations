@@ -803,6 +803,9 @@ Sections:
     catalog.screen-title:
         en: 'Car catalog'
         ru: 'Каталог автомобилей'
+    catalog.not-data:
+        en: 'No cars to rent'
+        ru: 'Нет машин для аренды'
     date-delivery.screen-title:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
