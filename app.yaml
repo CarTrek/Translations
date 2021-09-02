@@ -833,6 +833,9 @@ Sections:
     car-details.engine:
         en: 'Engine'
         ru: 'Двигатель'
+    car-details.engine-value:
+        en: 'l.'
+        ru: 'л.'   
     car-details.drive:
         en: 'Drive'
         ru: 'Привод'
