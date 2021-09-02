@@ -839,12 +839,21 @@ Sections:
     car-details.power:
         en: 'Power'
         ru: 'Мощность'
+    car-details.power-value:
+        en: 'hp'
+        ru: 'л.с.'
     car-details.acceleration:
         en: 'Acceleration'
-        ru: 'Мощность'
+        ru: 'Разгон'
+    car-details.acceleration-value:
+        en: 'sec. to 100 km/h'
+        ru: 'сек. до 100 км/ч'
     car-details.consumption:
         en: 'Consumption'
-        ru: 'Разгон'
+        ru: 'Расход'
+    car-details.consumption-value:
+        en: 'per 100 km'
+        ru: 'л на 100 км'
     car-details.seats-quantity:
         en: 'Seats quantity'
         ru: 'Количество мест'
