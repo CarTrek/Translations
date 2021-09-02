@@ -842,6 +842,9 @@ Sections:
     car-details.seats-quantity:
         en: 'Seats quantity'
         ru: 'Количество мест'
+    car-details.select-button:
+        en: 'Select'
+        ru: 'Выбрать'
     map-delivery.screen-title:
         en: 'Delivery location'
         ru: 'Место доставки'
