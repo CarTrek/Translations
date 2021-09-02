@@ -806,6 +806,9 @@ Sections:
     catalog.not-data:
         en: 'No cars to rent'
         ru: 'Нет машин для аренды'
+    catalog.price:
+        en: 'from {amount} {currency} per day'
+        ru: 'от {amount} {currency} в день'
     date-delivery.screen-title:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
