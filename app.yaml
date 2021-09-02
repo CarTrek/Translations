@@ -815,6 +815,30 @@ Sections:
     date-delivery.cancel-button:
         en: 'Cancel'
         ru: 'Отмена'
+    car-details.сar-characteristics:
+        en: 'Car characteristics'
+        ru: 'Характеристики автомобиля'
+    car-details.year:
+        en: 'Year'
+        ru: 'Год выпуска'
+    car-details.engine:
+        en: 'Engine'
+        ru: 'Двигатель'
+    car-details.drive:
+        en: 'Drive'
+        ru: 'Привод'
+    car-details.power:
+        en: 'Power'
+        ru: 'Мощность'
+    car-details.acceleration:
+        en: 'Acceleration'
+        ru: 'Мощность'
+    car-details.consumption:
+        en: 'Consumption'
+        ru: 'Разгон'
+    car-details.seats-quantity:
+        en: 'Seats quantity'
+        ru: 'Количество мест'
     map-delivery.screen-title:
         en: 'Delivery location'
         ru: 'Место доставки'
