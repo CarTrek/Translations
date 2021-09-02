@@ -819,8 +819,8 @@ Sections:
         en: 'Car characteristics'
         ru: 'Характеристики автомобиля'
     car-details.tariffs:
-        en: 'Car characteristics'
-        ru: 'Характеристики автомобиля'
+        en: 'Tariffs'
+        ru: 'Тарифы'
     car-details.year:
         en: 'Year'
         ru: 'Год выпуска'
