@@ -2048,7 +2048,10 @@ Sections:
       ka: d.
       en: d.
       ru: д.
-      uk: д.
+      uk: д.    
+    Diesel:
+      en: 'Diesel'
+      ru: 'Дизель'
     DateParseError:
       cs: 'Zadáno nesprávné datum: {0}'
       ka: 'არასწორი თარიღი: {0}'
@@ -2230,6 +2233,9 @@ Sections:
     DuplicateFound:
       cs: reprodukce dokladů nalezena
       en: 'Cartrek: WARNING! Duplicate user found'
+    Electic:
+      en: Electic
+      ru: Электро
     Email:
       cs: E-mail
       ka: ელ-ფოსტა
@@ -2358,6 +2364,12 @@ Sections:
       en: Export orders
     ExportWithdrawalsListPayments:
       en: Export withdrawals list payments
+    Forward:
+      en: Forward
+      ru: Передний
+    Full:
+      en: Full
+      ru: Полный
     Failed:
       cs: Došlo k chybě
       ka: დაფიქსირდა შეცდომა
@@ -4081,6 +4093,9 @@ Sections:
       en: Your promo code
       ru: Ваш промо-код
       uk: Ваш промо-код
+    Petrol:
+      en: Petrol
+      ru: Бензин
     Paid_lc:
       cs: Uhrazeno
       ka: გადახდილია
@@ -4430,6 +4445,9 @@ Sections:
       en: Please enter a valid promo-code
       ru: Требуется ввести действующий промо-код
       uk: Потрібно ввести діючий промо-код
+    Rear:
+      en: Rear
+      ru: Задний
     RangeOnBattery:
       be: Запас хода на батарее
       cs: Na baterie lze najet kilometrů
