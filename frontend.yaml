@@ -6478,11 +6478,17 @@ Sections:
       en: Model
       ge: მოდელი
       ru: Модель
+    cars.models.year:
+      en: Year
+      ru: Год выпуска
     cars.models.modeltype:
       cs: Typ
       en: Type
       ge: ტიპი
       ru: Тип
+    cars.models.engineType:
+      en: Engine
+      ru: Двигатель
     cars.models.fuelconsumption:
       cs: Spotřeba
       en: Consumption
@@ -6573,6 +6579,36 @@ Sections:
       en: MT
       ge: მექანიკური მოწყობილობა
       ru: Ручная
+    cars.models.Petrol:
+      en: Petrol
+      ru: Бензин
+    cars.models.Diesel:
+      en: Diesel
+      ru: Дизель
+    cars.models.Electic:
+      en: Electic
+      ru: Электро
+    cars.models.engineCapacity:
+      en: Engine capacity
+      ru: Объем двигателя
+    cars.models.enginePower:
+      en: Engine power
+      ru: Мощность двигателя
+    cars.models.acceleration:
+      en: Acceleration
+      ru: Разгон
+    cars.models.forward:
+      en: Forward
+      ru: Передний
+    cars.models.rear:
+      en: Rear
+      ru: Задний
+    cars.models.full:
+      en: Full
+      ru: Полный
+    cars.models.driveType:
+      en: Drive
+      ru: Привод
     cars.models.KeyWords:
       cs: Klíčová slova s čárkou za slovem
       en: Comma separated keywords
