@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    inapp.editor.clearusersConfirm:
+      en: Are you sure you want clear users list?
+      ru: Вы уверены что хотите очистить список пользователей?
     inapp.parameters.RemoveUsers:
       en: Clear
       ru: Очистить
