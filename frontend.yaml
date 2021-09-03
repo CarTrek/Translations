@@ -96,6 +96,9 @@ Sections:
     rates.LeaveOnOrderFinish:
       en: 'Do not finish rate pack when rental is finished'
       ru: 'Не завершать при завершении аренды'
+    rates.isLongRent:
+      en: 'Available for long term rent'
+      ru: 'Доступен для долгосрочной аренды'
     bonuses.reasons.add:
       en: Add reason
       ru: Добавить причину
