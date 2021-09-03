@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    inapp.parameters.RemoveUsers:
+      en: Clear
+      ru: Очистить
     clients.editor.PassportValidDate:
       en: 'Passport valid date'
       ru: 'Срок действия паспорта до'
