@@ -6609,6 +6609,9 @@ Sections:
     cars.models.driveType:
       en: Drive
       ru: Привод
+    cars.models.isLongRent:
+      en: Available for long term rent
+      ru: Доступен для долгосрочной аренды
     cars.models.KeyWords:
       cs: Klíčová slova s čárkou za slovem
       en: Comma separated keywords
