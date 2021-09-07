@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RefusalRateValue:
+      en: Refusal rate value
+      ru: Значение показателя отказов
     MapExportColumnId:
       en: 'Id'
       ru: 'Идентиикатор'
