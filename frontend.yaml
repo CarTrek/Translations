@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.penalties.OrderStartZones:
+      en: Order start zones
+      ru: Зоны начала заказа
     notifications.EmptyOrders:
       en: Refusal rate exceeded
       ru: Превышен показатель отказов
