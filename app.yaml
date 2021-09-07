@@ -822,16 +822,16 @@ Sections:
         en: 'Cancel'
         ru: 'Отмена'
     car-details.characteristics:
-        en: 'Car characteristics'
+        en: 'Car details'
         ru: 'Характеристики автомобиля'
     car-details.tariffs:
-        en: 'Tariffs'
+        en: 'Rates'
         ru: 'Тарифы'
     car-details.year:
         en: 'Year'
         ru: 'Год выпуска'
     car-details.engine:
-        en: 'Engine'
+        en: 'Engine Type'
         ru: 'Двигатель'
     car-details.engine-value:
         en: 'l.'
@@ -852,13 +852,13 @@ Sections:
         en: 'sec. to 100 km/h'
         ru: 'сек. до 100 км/ч'
     car-details.consumption:
-        en: 'Consumption'
+        en: 'Fuel Consumption'
         ru: 'Расход'
     car-details.consumption-value:
         en: 'per 100 km'
         ru: 'л на 100 км'
     car-details.seats-quantity:
-        en: 'Seats quantity'
+        en: '# of Seats'
         ru: 'Количество мест'
     car-details.select-button:
         en: 'Select'
