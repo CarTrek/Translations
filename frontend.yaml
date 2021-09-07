@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    notifications.EmptyOrders:
+      en: Refusal rate exceeded
+      ru: Превышен показатель отказов
     cars.list.RefusalRate:
       en: Refusal rate
       ru: Показатель отказов
