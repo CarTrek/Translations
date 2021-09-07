@@ -197,6 +197,9 @@ Sections:
     SpeedingFineDescription:
       en: 'Speeding fine, {speed} km/h'
       ru: 'Штраф за превышение скорости, {speed} км/ч'
+    WithdrawalReasonSpeedingFine:
+      en: Speeding fine
+      ru: Штраф за превышение скорости
     SpeedingFine:
       en: Speeding fine
       ru: Штраф за превышение скорости
