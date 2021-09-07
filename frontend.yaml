@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.list.RefusalRate:
+      en: Refusal rate
+      ru: Показатель отказов
     clients.editor.ActiveCardNumber:
       en: Active card number
       ru: Номер активной карты
