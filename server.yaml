@@ -1,5 +1,8 @@
 Sections:
   Server:
+    EmptyOrders:
+      en: Refusal rate exceeded
+      ru: Превышен показатель отказов
     RefusalRateValue:
       en: Refusal rate value
       ru: Значение показателя отказов
