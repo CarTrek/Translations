@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.models.gallery:
+      en: Gallery
+      ru: Галерея
     clients.editor.penalties.OrderStartZones:
       en: Order start zones
       ru: Зоны начала заказа
