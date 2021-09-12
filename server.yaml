@@ -1,5 +1,14 @@
 Sections:
   Server:
+    DeleteCarModelGalleryImage:
+      en: Remove car model gallery image
+      ru: Удалять фото галереи модели машины
+    EditCarModelGallery:
+      en: Change car model gallery
+      ru: Измнеять галерею модели машины
+    ViewCarModelGallery:
+      en: View car model gallery
+      ru: Просмотр галереи модели машины
     EmptyOrders:
       en: Refusal rate exceeded
       ru: Превышен показатель отказов
