@@ -3182,7 +3182,7 @@ Sections:
       cs: zrušen
       en: Cancelled
       ge: განულებული
-      ru: Анулирован
+      ru: Аннулирован
     voucher.status.used:
       cs: využit
       en: Used
@@ -3203,7 +3203,7 @@ Sections:
       cs: vybrané poukázky budou zrušeny. Pokud jste vybrali zaplacené poukázky, vynulujete tím přiznak "zaplaceno". Pokračovat?
       en: Selected vouchers will be cancelled. If you selected paid vouchers you will remove 'Paid' tick. Do you want continue?
       ge: არჩეული სერტიფიკატები განულდება,თუ თვენ აირჩიეთ გადახდილი სერტიფიკატი მაშინ თქვენ გაანულებთ ნიშნით 'გადახდილი',გავაგრძელოთ?
-      ru: Выбранные Сертификаты будут анулированы. Если Вы выбрали оплаченные Сертификаты, то Вы анулируете признак 'Оплачено'. Продолжить?
+      ru: Выбранные Сертификаты будут аннулированы. Если Вы выбрали оплаченные Сертификаты, то Вы анулируете признак 'Оплачено'. Продолжить?
     voucher.list.paidConfirm:
       cs: vybrané poukázky budou označeny jako neoplacené. Pokračovat?
       en: Selected vouchers will be marked as paid. Do you want continue?
