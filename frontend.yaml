@@ -1,5 +1,26 @@
 Sections:
   AdminFrontend:
+    cars.models.gallery:
+      en: Gallery
+      ru: Галерея
+    clients.editor.penalties.OrderStartZones:
+      en: Order start zones
+      ru: Зоны начала заказа
+    notifications.EmptyOrders:
+      en: Refusal rate exceeded
+      ru: Превышен показатель отказов
+    cars.list.RefusalRate:
+      en: Refusal rate
+      ru: Показатель отказов
+    clients.editor.ActiveCardNumber:
+      en: Active card number
+      ru: Номер активной карты
+    inapp.editor.clearusersConfirm:
+      en: Are you sure you want clear users list?
+      ru: Вы уверены что хотите очистить список пользователей?
+    inapp.parameters.RemoveUsers:
+      en: Clear
+      ru: Очистить
     clients.editor.PassportValidDate:
       en: 'Passport valid date'
       ru: 'Срок действия паспорта до'
@@ -3161,7 +3182,7 @@ Sections:
       cs: zrušen
       en: Cancelled
       ge: განულებული
-      ru: Анулирован
+      ru: Аннулирован
     voucher.status.used:
       cs: využit
       en: Used
@@ -3182,7 +3203,7 @@ Sections:
       cs: vybrané poukázky budou zrušeny. Pokud jste vybrali zaplacené poukázky, vynulujete tím přiznak "zaplaceno". Pokračovat?
       en: Selected vouchers will be cancelled. If you selected paid vouchers you will remove 'Paid' tick. Do you want continue?
       ge: არჩეული სერტიფიკატები განულდება,თუ თვენ აირჩიეთ გადახდილი სერტიფიკატი მაშინ თქვენ გაანულებთ ნიშნით 'გადახდილი',გავაგრძელოთ?
-      ru: Выбранные Сертификаты будут анулированы. Если Вы выбрали оплаченные Сертификаты, то Вы анулируете признак 'Оплачено'. Продолжить?
+      ru: Выбранные Сертификаты будут аннулированы. Если Вы выбрали оплаченные Сертификаты, то Вы анулируете признак 'Оплачено'. Продолжить?
     voucher.list.paidConfirm:
       cs: vybrané poukázky budou označeny jako neoplacené. Pokračovat?
       en: Selected vouchers will be marked as paid. Do you want continue?

@@ -1,5 +1,20 @@
 Sections:
   Server:
+    DeleteCarModelGalleryImage:
+      en: Remove car model gallery image
+      ru: Удалять фото галереи модели машины
+    EditCarModelGallery:
+      en: Change car model gallery
+      ru: Измнеять галерею модели машины
+    ViewCarModelGallery:
+      en: View car model gallery
+      ru: Просмотр галереи модели машины
+    EmptyOrders:
+      en: Refusal rate exceeded
+      ru: Превышен показатель отказов
+    RefusalRateValue:
+      en: Refusal rate value
+      ru: Значение показателя отказов
     MapExportColumnId:
       en: 'Id'
       ru: 'Идентиикатор'
@@ -197,6 +212,9 @@ Sections:
     SpeedingFineDescription:
       en: 'Speeding fine, {speed} km/h'
       ru: 'Штраф за превышение скорости, {speed} км/ч'
+    WithdrawalReasonSpeedingFine:
+      en: Speeding fine
+      ru: Штраф за превышение скорости
     SpeedingFine:
       en: Speeding fine
       ru: Штраф за превышение скорости
