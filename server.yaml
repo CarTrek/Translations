@@ -1,5 +1,8 @@
 Sections:
   Server:
+    YouAlreadyHaveReservationOnThisDates:
+      en: You already have reservation on this date
+      ru: У вас уже есть бронирование на эту дату
     CarModelNotFound:
       en: Car model not found
       eu: Модель машины не найдена
