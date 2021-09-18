@@ -896,6 +896,9 @@ Sections:
     confirm-pay.prepayment:
         en: 'Prepayment'
         ru: 'Предоплата'
+    confirm-pay.per-km:
+        en: per km.
+        ru: /км.
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
