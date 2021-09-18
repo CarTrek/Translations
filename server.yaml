@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CarModelNotFound:
+      en: Car model not found
+      eu: Модель машины не найдена
     DeleteCarModelGalleryImage:
       en: Remove car model gallery image
       ru: Удалять фото галереи модели машины
