@@ -875,6 +875,24 @@ Sections:
     confirm-pay.pay-button:
         en: 'Pay {summ}'
         ru: 'Оплатить {summ}'
+    confirm-pay.delivery:
+        en: 'Delivery'
+        ru: 'Доставка'
+    confirm-pay.total:
+        en: 'Total'
+        ru: 'Полная стоимость'
+    confirm-pay.fuel:
+        en: 'Fuel'
+        ru: 'Топливо'
+    confirm-pay.included-milage:
+        en: 'Included milage'
+        ru: 'Включённый пробег'
+    confirm-pay.extra-milage:
+        en: 'Extra milage'
+        ru: 'Перепробег'
+    confirm-pay.prepayment:
+        en: 'Prepayment'
+        ru: 'Предоплата'
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
