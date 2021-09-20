@@ -1,5 +1,20 @@
 Sections:
   Server:
+    FailedToUpdate:
+      en: Failed to update
+      ru: Не удалось обновить данные
+    CannotChangeBooking:
+      en: Cannot change active booking
+      ru: Активное бронирование невозможно изменить
+    BookingNotFound:
+      en: Reservation not found
+      ru: Бронирование не найдено
+    FailedToLoad:
+      en: Failed to load
+      ru: Не удалось загрузить
+    In:
+      en: in
+      ru: в
     YouAlreadyHaveReservationOnThisDates:
       en: You already have reservation on this date
       ru: У вас уже есть бронирование на эту дату
