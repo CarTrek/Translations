@@ -1,5 +1,8 @@
 Sections:
   Server:
+    In:
+      en: in
+      ru: в
     YouAlreadyHaveReservationOnThisDates:
       en: You already have reservation on this date
       ru: У вас уже есть бронирование на эту дату
