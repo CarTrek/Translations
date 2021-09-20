@@ -897,8 +897,14 @@ Sections:
         en: 'Prepayment'
         ru: 'Предоплата'
     confirm-pay.per-km:
-        en: per km.
-        ru: /км.
+        en: 'per km.'
+        ru: '/км.'
+    confirm-pay.messagebox-title:
+        en: 'Successfully paid'
+        ru: 'Заказ успешно оплачен'
+    confirm-pay.messagebox-message:
+        en: 'When the car is delivered, we will send you a push notification.'
+        ru: 'Когда автомобиль будет подан, мы пришлём вам пуш-уведомление.'
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
