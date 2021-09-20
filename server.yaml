@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedToUpdate:
+      en: Failed to update
+      ru: Не удалось обновить данные
     CannotChangeBooking:
       en: Cannot change active booking
       ru: Активное бронирование невозможно изменить
