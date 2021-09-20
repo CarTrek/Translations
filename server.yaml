@@ -1,5 +1,11 @@
 Sections:
   Server:
+    CannotChangeBooking:
+      en: Cannot change active booking
+      ru: Активное бронирование невозможно изменить
+    BookingNotFound:
+      en: Reservation not found
+      ru: Бронирование не найдено
     FailedToLoad:
       en: Failed to load
       ru: Не удалось загрузить
