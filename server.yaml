@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedToLoad:
+      en: Failed to load
+      ru: Не удалось загрузить
     In:
       en: in
       ru: в
