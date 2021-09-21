@@ -905,6 +905,9 @@ Sections:
     confirm-pay.messagebox-message:
         en: 'When the car is delivered, we will send you a push notification.'
         ru: 'Когда автомобиль будет подан, мы пришлём вам пуш-уведомление.'
+    confirm-pay.for:
+        en: 'for'
+        ru: 'на'
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
