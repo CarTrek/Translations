@@ -1,5 +1,8 @@
 Sections:
   App:
+    confirm-pay.bonuses:
+      en: Bonuses
+      ru: Бонусы
     map.scan-qr-code:
       en: 'Scan QR-code'
       ru: 'Сканировать QR-код'
