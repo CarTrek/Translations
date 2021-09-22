@@ -917,6 +917,9 @@ Sections:
     change-booking.cancel-button:
         en: 'Cancel'
         ru: 'Отменить'
+    change-booking.save-button:
+        en: 'Save'
+        ru: 'Сохранить'
     change-booking.notcancel-button:
         en: 'Cancel not available'
         ru: 'Отмена недоступна'
