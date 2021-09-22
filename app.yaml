@@ -879,8 +879,8 @@ Sections:
         en: 'Confirmation and payment'
         ru: 'Подтверждение и оплата'
     confirm-pay.pay-button:
-        en: 'Pay {summ}'
-        ru: 'Оплатить {summ}'
+        en: 'Pay'
+        ru: 'Оплатить'
     confirm-pay.delivery:
         en: 'Delivery'
         ru: 'Доставка'
