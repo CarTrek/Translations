@@ -908,6 +908,12 @@ Sections:
     confirm-pay.for:
         en: 'for'
         ru: 'на'
+    confirm-pay.fuel-included:
+        en: 'Included'
+        ru: 'Включено'
+    confirm-pay.fuel-not-included:
+        en: 'Not included'
+        ru: 'Не включено'
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
