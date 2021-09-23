@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CannotRemoveBookingAtThisMoment:
+      en: Cannot cancel active booking
+      ru: Невохможно отменить активное бронирование
     FailedToUpdate:
       en: Failed to update
       ru: Не удалось обновить данные
