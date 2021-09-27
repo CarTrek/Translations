@@ -1,6 +1,6 @@
 Sections:
   Server:
-    DeliveryRangeIsTooFarFromOrigin:
+    DeliveryPlaceIsTooFarFromOrigin:
       en: Your location is too far from delivery location
       ru: Вы находитесь слишком далеко от места доставки
     FailedToRemoveBooking:
