@@ -2085,6 +2085,27 @@ Sections:
       en: Archive
       ge: არქივი
       ru: Архив
+    aside.nav.reserves.NEW:
+      en: New
+      ru: Новые
+    aside.nav.reserves.WAITCAR:
+      en: Waiting for the car
+      ru: Ждёт машину
+    aside.nav.reserves.WAITDRIVER:
+      en: Waiting for the driver
+      ru: Ждёт водителя
+    aside.nav.reserves.READYDELIVERY:
+      en: Ready for delivery
+      ru: Готов к доставке
+    aside.nav.reserves.INDELIVERY:
+      en: In delivery
+      ru: В доставке
+    aside.nav.reserves.DONE:
+      en: Done
+      ru: Выполнено
+    aside.nav.reserves.CANCELED:
+      en: Canceled
+      ru: Отменено
     aside.nav.clients.chat:
       cs: chaty
       en: Chats
