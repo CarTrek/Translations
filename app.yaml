@@ -153,6 +153,9 @@ Sections:
     ride-details.summary-free-booking:
       en: Free reservation
       ru: Бесплатная бронь
+    ride-details.summary-paid-booking:
+      en: Paid booking
+      ru: Платная бронь
     ride-details.summary-inspect:
       en: Inpection
       ru: Осмотр
