@@ -1,5 +1,8 @@
 Sections:
   App:
+    confirm-pay.bonuses:
+      en: Bonuses
+      ru: Бонусы
     map.scan-qr-code:
       en: 'Scan QR-code'
       ru: 'Сканировать QR-код'
@@ -200,7 +203,7 @@ Sections:
       ru: Удалить карту
     payment-methods.remove-bank-card-message:
       en: 'Do you really want to remove the car with number {card-number}?'
-      ru: 'Вы действительно хотите удалить карту с номером {card-number}'
+      ru: 'Вы действительно хотите удалить карту с номером {card-number}?'
     payment-methods.add-payment-method:
       en: Add a card
       ru: Добавить карту
@@ -876,8 +879,8 @@ Sections:
         en: 'Confirmation and payment'
         ru: 'Подтверждение и оплата'
     confirm-pay.pay-button:
-        en: 'Pay {summ}'
-        ru: 'Оплатить {summ}'
+        en: 'Pay'
+        ru: 'Оплатить'
     confirm-pay.delivery:
         en: 'Delivery'
         ru: 'Доставка'

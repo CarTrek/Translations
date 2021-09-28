@@ -1,5 +1,14 @@
 Sections:
   Server:
+    DeliveryPlaceIsTooFarFromOrigin:
+      en: Your location is too far from delivery location
+      ru: Вы находитесь слишком далеко от места доставки
+    FailedToRemoveBooking:
+      en: Failed to cancel booking
+      ru: Не удалось отменить бронирование
+    CannotRemoveBookingAtThisMoment:
+      en: Cannot cancel active booking
+      ru: Невозможно отменить активное бронирование
     FailedToUpdate:
       en: Failed to update
       ru: Не удалось обновить данные
