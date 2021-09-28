@@ -156,6 +156,9 @@ Sections:
     ride-details.summary-inspect:
       en: Inpection
       ru: Осмотр
+    ride-details.summary-paid-inspect:
+      en: Paid inpection
+      ru: Платный осмотр
     ride-details.summary-park:
       en: Park mode
       ru: На парковке
