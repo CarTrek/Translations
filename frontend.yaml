@@ -9856,6 +9856,39 @@ Sections:
     pushjobs.edit.cancel:
       en: 'Cancel'
       ru: 'Отмена'
+    reserves.edit.сreate:
+      en: 'Create'
+      ru: 'Создан'
+    reserves.edit.start-booking:
+      en: 'Start booking'
+      ru: 'Начало бронирования'
+    reserves.edit.сompletion-booking:
+      en: 'Completion of booking'
+      ru: 'Завершение бронирования'
+    reserves.edit.brand-model:
+      en: 'Brand and model'
+      ru: 'Марка и модель'
+    reserves.edit.regnumber:
+      en: 'Regnumber'
+      ru: 'Госномер'
+    reserves.edit.сlient:
+      en: 'Client'
+      ru: 'ФИО клиента'
+    reserves.edit.technician:
+      en: 'Technician'
+      ru: 'ФИО техника'
+    reserves.edit.delivery-address:
+      en: 'Delivery address'
+      ru: 'Адрес доставки'
+    reserves.edit.order-price:
+      en: 'Order price'
+      ru: 'Сумма заказа'
+    reserves.edit.technician-order:
+      en: 'Technician order'
+      ru: 'Заказ техника'
+    reserves.edit.customer-order:
+      en: 'Customer order'
+      ru: 'Заказ клиента'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
