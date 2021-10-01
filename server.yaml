@@ -1,5 +1,8 @@
 Sections:
   Server:
+    MakeZeroBalanceAttemptsAreExhausted:
+      en: 'Make zero balance attempts are exhausted. Please try again after 24 hours or contact our support.'
+      ru: 'Вы потратили попытки на погашение долга. Пожалуйста, попробуйте через 24 часа, либо свяжитесь с нашей техподдержкой.'
     DeliveryPlaceIsTooFarFromOrigin:
       en: Your location is too far from delivery location
       ru: Вы находитесь слишком далеко от места доставки
