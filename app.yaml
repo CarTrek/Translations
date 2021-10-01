@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.catalog:
+      en: Select a car
+      ru: Выбрать автомобиль
     drawer.map:
       en: Map
       ru: Карта
