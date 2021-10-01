@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.map:
+      en: Map
+      ru: Карта
     confirm-pay.bonuses:
       en: Bonuses
       ru: Бонусы
