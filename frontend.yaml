@@ -9861,10 +9861,10 @@ Sections:
       ru: 'Дата создания'
     reserves.edit.start-booking:
       en: 'Start booking'
-      ru: 'Начало бронирования'
+      ru: 'Дата начала заказа'
     reserves.edit.сompletion-booking:
       en: 'Completion of booking'
-      ru: 'Завершение бронирования'
+      ru: 'Дата окончания заказа'
     reserves.edit.brand-model:
       en: 'Brand and model'
       ru: 'Марка и модель'
