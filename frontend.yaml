@@ -9899,8 +9899,8 @@ Sections:
       en: 'Events'
       ru: 'События'
     reserve.edit.cancel-button:
-        en: 'Cancel'
-        ru: 'Отменить'
+      en: 'Cancel'
+      ru: 'Отменить'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
