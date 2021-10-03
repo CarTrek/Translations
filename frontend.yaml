@@ -9857,8 +9857,8 @@ Sections:
       en: 'Cancel'
       ru: 'Отмена'
     reserves.edit.сreate:
-      en: 'Create'
-      ru: 'Создан'
+      en: 'Date creation'
+      ru: 'Дата создания'
     reserves.edit.start-booking:
       en: 'Start booking'
       ru: 'Начало бронирования'
