@@ -9889,6 +9889,9 @@ Sections:
     reserves.edit.customer-order:
       en: 'Customer order'
       ru: 'Заказ клиента'
+    reserve.edit.header.edit:
+      en: 'Car booking'
+      ru: 'Бронирование автомобиля'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
