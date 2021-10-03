@@ -9892,6 +9892,12 @@ Sections:
     reserve.edit.header.edit:
       en: 'Car booking'
       ru: 'Бронирование автомобиля'
+    reserve.edit.tabs-data:
+      en: 'Data'
+      ru: 'Данные'
+    reserve.edit.tabs-events:
+      en: 'Events'
+      ru: 'События'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
