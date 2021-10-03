@@ -1,5 +1,11 @@
 Sections:
   App:
+    drawer.catalog:
+      en: Select a car
+      ru: Выбрать автомобиль
+    drawer.map:
+      en: Map
+      ru: Карта
     confirm-pay.bonuses:
       en: Bonuses
       ru: Бонусы
