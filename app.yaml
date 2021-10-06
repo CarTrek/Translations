@@ -944,3 +944,6 @@ Sections:
     change-booking.notcancel-button:
         en: 'Cancel not available'
         ru: 'Отмена недоступна'
+    change-booking.cancel-message:
+        en: 'Cancel reservation?'
+        ru: 'Отменить бронирование?'
