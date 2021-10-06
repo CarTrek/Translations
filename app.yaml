@@ -1,5 +1,17 @@
 Sections:
   App:
+    rental-control.prolong-rental:
+      en: Prolong rental
+      ru: Продлить аренду
+    rental-control.report:
+      en: Report a problem
+      ru: Сообщить о проблеме
+    rental-control.finish-rental:
+      en: Finish rental
+      ru: Завершить аренду
+    rental-control.back:
+      en: Back
+      ru: Назад
     vehicle-card.rent-until:
       en: Rent until
       ru: Аренда до
