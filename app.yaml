@@ -10,7 +10,13 @@ Sections:
       en: Extra milage cost
       ru: Стоимость перепробега
     vehicle-card.overrun-cost-value:
-      en: '{currency} {cost}'
+      en: '{currency}{cost}'
+    vehicle-card.minute-rate-value:  
+      en: '{currency}{cost}/min.'
+      ru: '{currency}{cost}/мин.'
+    vehicle-card.per-minute-rate:
+      en: 'Tariff'
+      ru: 'Тариф'
     map.wide-button.login:
       en: Sign in
       ru: Войти
