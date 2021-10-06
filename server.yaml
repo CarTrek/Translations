@@ -1,5 +1,8 @@
 Sections:
   Server:
+    NoAvailableCarsNow:
+      en: No available cars of this model right now
+      ru: В данный момент нет свободных машин этой модели
     BookingFailed:
       en: Booking failed
       ru: Бронирование не удалось
