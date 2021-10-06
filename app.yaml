@@ -1,5 +1,23 @@
 Sections:
   App:
+    map.wide-button.login:
+      en: Sign in
+      ru: Войти
+    map.wide-button.book:
+      en: Reserve
+      ru: Забронировать
+    map.wide-button.start-inspect:
+      en: Open the car
+      ru: Открыть автомобиль
+    map.wide-button.drive-from-inspect:
+      en: Start rental
+      ru: Начать аренду
+    map.wide-button.park:
+      en: Close the car
+      ru: Закрыть автомобиль
+    map.wide-button.drive-from-park:
+      en: Open the car
+      ru: Открыть автомобиль
     drawer.catalog:
       en: Select a car
       ru: Выбрать автомобиль

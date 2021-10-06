@@ -1,5 +1,14 @@
 Sections:
   Server:
+    BookingFailed:
+      en: Booking failed
+      ru: Бронирование не удалось
+    DeliveryDriverNotFound:
+      en: Delivery driver not found
+      ru: Водитель не найден
+    UserIsNotInTechnicalOrganization:
+      en: User is not in technical organization
+      ru: Пользователь не находится в технической организации
     MakeZeroBalanceAttemptsAreExhausted:
       en: 'Make zero balance attempts are exhausted. Please try again after 24 hours or contact our support.'
       ru: 'Вы потратили попытки на погашение долга. Пожалуйста, попробуйте через 24 часа, либо свяжитесь с нашей техподдержкой.'
