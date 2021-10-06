@@ -17,6 +17,12 @@ Sections:
     vehicle-card.per-minute-rate:
       en: 'Tariff'
       ru: 'Тариф'
+    vehicle-card.control-rental:
+      en: Control your rental
+      ru: Управление арендой
+    vehicle-card.blink:
+      en: Blink
+      ru: Помигать
     map.wide-button.login:
       en: Sign in
       ru: Войти
