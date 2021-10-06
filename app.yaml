@@ -1,5 +1,16 @@
 Sections:
   App:
+    vehicle-card.rent-until:
+      en: Rent until
+      ru: Аренда до
+    vehicle-card.run-included:
+      en: Run included
+      ru: Бесплатный пробег
+    vehicle-card.overrun-cost:
+      en: Extra milage cost
+      ru: Стоимость перепробега
+    vehicle-card.overrun-cost-value:
+      en: '{currency} {cost}'
     map.wide-button.login:
       en: Sign in
       ru: Войти
