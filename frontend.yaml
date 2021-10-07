@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reserves.edit.attention-message:
+      en: Last error message
+      ru: Текст ошибки
     aside.nav.reserves.ATTENTIONREQUIRED:
       en: Attention required
       ru: Требуют внимание
