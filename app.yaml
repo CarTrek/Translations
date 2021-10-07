@@ -1,5 +1,17 @@
 Sections:
   App:
+    finish-rent.are-you-sure-title:
+      en: 'Are you sure you want to finish your rental?'
+      ru: 'Вы уверены, что хотите завершить аренду?'
+    finish-rent.are-you-sure-text:
+      en: 'If you finish the rental, the car will be closed and become inaccessible to you. You will not be able to open it. If you have unused tariff time left, it will be reset to zero and will not be transferred to future rentals.'
+      ru: 'Если вы завершите аренду, то автомобиль закроется и станет недоступным для вас, открыть его вы уже не сможете. Если у вас осталось неиспользованное время тарифа, оно обнулится и не будет перенесено на будущие аренды.'
+    finish-rent.yes:
+      en: 'Yes, finish my rental'
+      ru: 'Да, завершить мою аренду'
+    finish-rent.no:
+      en: 'No, go back'
+      ru: 'Нет, назад'
     rental-control.prolong-rental:
       en: Prolong rental
       ru: Продлить аренду
