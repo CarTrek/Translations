@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.reserves.ATTENTIONREQUIRED:
+      en: Attention required
+      ru: Требуют внимание
     cars.models.gallery:
       en: Gallery
       ru: Галерея
