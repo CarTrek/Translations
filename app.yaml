@@ -1,5 +1,8 @@
 Sections:
   App:
+    vehicle-card.acceptance-certificate:
+      en: 'Vehicle acceptance certificate'
+      ru: 'Акт приёма-передачи автомобиля'
     finish-rent.are-you-sure-title:
       en: 'Are you sure you want to finish your rental?'
       ru: 'Вы уверены, что хотите завершить аренду?'
