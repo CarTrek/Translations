@@ -1,5 +1,11 @@
 Sections:
   App:
+    vehicle-card.report-problem:
+      en: Report problem
+      ru: Сообщить о проблеме
+    vehicle-card.cancel-order:
+      en: Cancel order
+      ru: Отменить заказ
     vehicle-card.acceptance-certificate:
       en: 'Vehicle acceptance certificate'
       ru: 'Акт приёма-передачи автомобиля'
