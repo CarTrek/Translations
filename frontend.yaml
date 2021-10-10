@@ -9927,7 +9927,7 @@ Sections:
       ru: 'Выполнено'
     reserves.edit.status.attentionrequired:
       en: 'Attention required'
-      ru: 'Требуют внимания'
+      ru: 'Требуется внимание'
     reserves.edit.status.canceled:
       en: 'Canceled'
       ru: 'Отменен'
