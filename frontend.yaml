@@ -9907,6 +9907,30 @@ Sections:
     reserve.edit.cancel-button:
       en: 'Cancel'
       ru: 'Отменить'
+    reserves.edit.status.new:
+      en: 'New'
+      ru: 'Новое'
+    reserves.edit.status.waitcar:
+      en: 'Waiting car'
+      ru: 'Ждёт машину'
+    reserves.edit.status.waitdriver:
+      en: 'Waiting driver'
+      ru: 'Ждёт водителя'
+    reserves.edit.status.readydelivery:
+      en: 'Ready for delivery'
+      ru: 'Готов к доставке'
+    reserves.edit.status.indelivery:
+      en: 'In delivery'
+      ru: 'В доставке'
+    reserves.edit.status.done:
+      en: 'Done'
+      ru: 'Выполнено'
+    reserves.edit.status.attentionrequired:
+      en: 'Attention required'
+      ru: 'Требуют внимания'
+    reserves.edit.status.canceled:
+      en: 'Canceled'
+      ru: 'Отменен'
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
