@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.PaymentGateway:
+      en: Payment gateway
+      ru: Платёжный шлюз
     aside.nav.withdrawals.reasons:
       en: Withdrawals. Reasons
       ru: Списания. Причины
