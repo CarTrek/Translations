@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.withdrawals.reasons:
+      en: Withdrawals. Reasons
+      ru: Списания. Причины
     withdrawals.reasons.list:
       en: Withdrawals reasons list
       ru: Список причин списаний
