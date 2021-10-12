@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    withdrawals.editReason:
+      en: Edit reason
+      ru: Редактировать причину
+    withdrawals.newReason:
+      en: New reason
+      ru: Новая причина
     organizations.PaymentGateway:
       en: Payment gateway
       ru: Платёжный шлюз
