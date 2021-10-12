@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightManageWithdrawReasons:
+      en: Edit withdraw reasons
+      ru: Редактирование причин списания
+    RightViewWithdrawReasons:
+      en: View withdraw reasons
+      ru: Просмотр причин списания
     NoAvailableCarsNow:
       en: No available cars of this model right now
       ru: В данный момент нет свободных машин этой модели
