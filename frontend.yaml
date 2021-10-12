@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    withdrawals.reasons.list:
+      en: Withdrawals reasons list
+      ru: Список причин списаний
     reserves.edit.attention-message:
       en: Last error message
       ru: Текст ошибки
