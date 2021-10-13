@@ -365,6 +365,9 @@ Sections:
     signin.smscode-header-text:
       en: We sent a text message with a code to phone number {phone-number}. Please enter the code
       ru: Мы отправили SMS c кодом на телефон {phone-number}. Пожалуйста, введите этот код
+    signup.screen-title:
+      en: Registration
+      ru: Регистрация
     profile.name:
       en: Name
       ru: Имя
