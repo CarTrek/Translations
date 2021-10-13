@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightManageWithdrawReasons:
+      en: Edit withdraw reasons
+      ru: Редактирование причин списания
+    RightViewWithdrawReasons:
+      en: View withdraw reasons
+      ru: Просмотр причин списания
     NoAvailableCarsNow:
       en: No available cars of this model right now
       ru: В данный момент нет свободных машин этой модели
@@ -4714,11 +4720,11 @@ Sections:
       ru: Бронь
       uk: Бронь
     ReserveAlreadyExist:
-      be: Для выбранного автомобиля резерв уже существуте. Выберите другой диапазон дат аренды.
+      be: Для выбранного автомобиля резерв уже существует. Выберите другой диапазон дат аренды.
       cs: Pro toto vozidlo již existuje rezervace. Prosím, uveďte jiný rozsah pronájmu.
       ka: ეს მანქანა დაჯავშნილია. გთხოვთ, შეარჩიოთ სხვა ავტომობილი
       en: Selected vehicle has  already been reserved. Select a different range of the rental dates.
-      ru: Для выбранного автомобиля резерв уже существуте. Выберите другой диапазон дат аренды.
+      ru: Для выбранного автомобиля резерв уже существует. Выберите другой диапазон дат аренды.
       uk: Для обраного автомобіля бронь вже існує. Виберіть інший діапазон дат оренди.
     ReserveDatesError:
       be: Ошибка определения диапазона аренды. Убедитесь, что дата начала аренды меньше даты окончания аренды.

@@ -1,5 +1,20 @@
 Sections:
   AdminFrontend:
+    withdrawals.editReason:
+      en: Edit reason
+      ru: Редактировать причину
+    withdrawals.newReason:
+      en: New reason
+      ru: Новая причина
+    organizations.PaymentGateway:
+      en: Payment gateway
+      ru: Платёжный шлюз
+    aside.nav.withdrawals.reasons:
+      en: Withdrawals. Reasons
+      ru: Списания. Причины
+    withdrawals.reasons.list:
+      en: Withdrawals reasons list
+      ru: Список причин списаний
     reserves.edit.attention-message:
       en: Last error message
       ru: Текст ошибки
@@ -306,9 +321,6 @@ Sections:
     payments.canceled:
       en: Cancelled payments
       ru: Отменённые платежи
-    clients.editor.TOTALUNPAIDSUM:
-      en: Total unpaid
-      ru: Итого не оплачено
     users.typeToSearchPlaceholder:
       en: Start typing to search...
       ru: Начните печатать для поиска...
@@ -860,18 +872,12 @@ Sections:
     clients.editor.CancelBills:
       en: Cancel bills
       ru: Отменить счета
-    clients.editor.penalties.ERROR:
-      en: Payment system message
-      ru: Сообщение платёжной системы
     aside.nav.cars.REMOVED:
       en: Deleted
       ru: Удалённые
     clients.editor.SelectAll:
       en: Select all
       ru: Выбрать всё
-    clients.editor.ChargeBills:
-      en: Charge bills
-      ru: Списать
     clients.list.BONUSES:
       en: Bonuses
       ru: Бонусы
@@ -945,9 +951,6 @@ Sections:
     clients.editor.TABUNPAID:
       ru: Неоплаченные
       en: Unpaid
-    clients.editor.TOTALUNPAIDSUM:
-      ru: Общая сумма
-      en: Total sum
     orders.viewer.car:
       cs: Auto
       en: Car
@@ -2691,11 +2694,6 @@ Sections:
       en: stop
       ge: გაჩერება
       ru: Остановить
-    advertisment.mailing.status.completed:
-      cs: Dokončeno
-      en: Сompleted
-      ge: დასრულებულია
-      ru: Завершено
     advertisment.mailing.control.stop:
       cs: Zastavit
       en: Stop
@@ -4492,12 +4490,6 @@ Sections:
     reports.Initiator:
       ru: Инициатор
       en: Initiator
-    rates.SortOrder:
-      en: Sort order
-      ru: Порядок
-    clients.editor.BONUSES:
-      en: Bonuses
-      ru: Бонусы
     clients.editor.BONUSESADDED:
       cs: Počet připsaných bonusů
       en: The amount was accrued to bonus account
@@ -4578,9 +4570,6 @@ Sections:
       en: Balance after
       ge: ბალანსი შემდეგ
       ru: Баланс после
-    clients.editor.SelectAll:
-      ru: Выделить все
-      en: Select all
     clients.editor.penalties.DATETIME:
       cs: Datum a čas
       en: Date and time
@@ -6243,15 +6232,6 @@ Sections:
       en: Car is already in the parking mode
       ge: ავტომობილი უკვე პარკირების რეჟიმშია
       ru: Автомобиль уже находится в режиме парковки
-    clients.editor.DriversLicenceNumber:
-      en: Drivers license number
-      ru: Номер ВУ
-    clients.editor.PassportNumber:
-      en: Passport number
-      ru: Номер паспорта
-    clients.editor.PassportDate:
-      en: Passport issue date
-      ru: Дата выдачи паспорта
     rates.sticktoorder:
       en: Stick to order
       ru: Прикреплять к заказу
@@ -6488,12 +6468,6 @@ Sections:
     cars.editor.Ignition:
       en: Ignition
       ru: Зажигание
-    cars.editor.On:
-      en: On
-      ru: Вкл
-    cars.editor.Off:
-      en: Off
-      ru: Выкл
     cars.editor.Confirmimmobilize:
       cs: Skutečně si přejete zablokovat auto?
       en: Do you want to block the car?
