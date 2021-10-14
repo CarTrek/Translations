@@ -1,5 +1,8 @@
 Sections:
   Server:
+    BonusReasonRequired:
+      en: You need to choose reason to continue
+      ru: Необходимо выбрать причину начисления
     RightManageWithdrawReasons:
       en: Edit withdraw reasons
       ru: Редактирование причин списания
