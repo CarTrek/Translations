@@ -745,12 +745,6 @@ Sections:
     CustomerPosition:
       en: "Customer's position"
       ru: 'Должность клиента'
-    MobilePhoneNumber:
-      en: "Customer's phone"
-      ru: 'Телефон клиента'
-    Car:
-      en: 'Car'
-      ru: 'ТС'
     BookDateTime:
       en: 'Rent start date'
       ru: 'Дата начала аренды'
@@ -3173,12 +3167,6 @@ Sections:
     Alarms:
       en: Alarms
       ru: Тревоги
-    MarketingCampaign:
-      en: Marketing campaign
-      ru: Маркетинговая кампания
-    CustomerDebtConverting:
-      en: Customers bonuses debt converting
-      ru: Переход задолженности с бонусного баланса пользователя
     FuelOrderNotFound:
       en: Fueling request not found in system
       ru: Запрос на заправку не найден в системе
@@ -3283,9 +3271,6 @@ Sections:
     BonusesPurchased:
       en: 'Bonuses purchased'
       ru: 'Куплены бонусы'
-    RentEndPhotosBonuses:
-      en: Rent end photos bonuses
-      ru: Бонусы за фото в конце аренды
     InspectModeBonus:
       be: Начислять бонус за режим осмотра
       cs: Poskytovat bonusové body za režim prohlídky
@@ -6895,8 +6880,8 @@ Sections:
       ru: Зона (тэг)
       uk: Зона (тег)
     PromoCodeResultOkCodeApplied:
-      en: Code activated
-      ru: Код активирован
+      en: 'Code accepted. If you have not previously entered a friends promo code, we will give bonuses to you.'
+      ru: 'Код принят. Если вы ранее не вводили промокод друга, мы начислим вам бонусы.'
     PromoCodeResultFailedIncorrectCode:
       en: Incorrect сode
       ru: Неверный код
