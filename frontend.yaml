@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.BonusReasonRequired:
+      en: You need to choose bonus reason
+      ru: Необходимо выбрать причину начисления
     withdrawals.editReason:
       en: Edit reason
       ru: Редактировать причину

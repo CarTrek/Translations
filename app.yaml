@@ -445,9 +445,6 @@ Sections:
     profile.captcha-code:
       en: Captcha code
       ru: Код с картинки
-    profile.sms-code:
-      en: SMS code
-      ru: SMS-код
     rent-finish-screen.done-message-for-incognito:
       en: To receive a payment receipt, view your trip history, and receive favorable fares and bonuses, you must enter your email address and phone number. Do you want to enter your details?
       ru: Чтобы получить чек об оплате, просматривать историю поездок, получать выгодные тарифы и бонусы, необходимо ввести Ваш емейл и номер телефона. Хотите ввести Ваши данные?
@@ -719,9 +716,6 @@ Sections:
         en: 'Add a bank card'
         ru: 'Добавить платёжную карту'
         cs: 'Přidat platební kartu'
-    carView.lockButtonSubTitle:
-        ru: и перевести в режим парковки
-        en: and switch to waiting mode
     qr.scanCode:
         ru: Начать поездку
         en: Start the ride
@@ -1009,8 +1003,8 @@ Sections:
         en: 'Successfully paid'
         ru: 'Заказ успешно оплачен'
     confirm-pay.messagebox-message:
-        en: 'When the car is delivered, we will send you a push notification.'
-        ru: 'Когда автомобиль будет подан, мы пришлём вам пуш-уведомление.'
+        en: 'Your order is being processed. Please wait for a call from the operator.'
+        ru: 'Ваш заказ находится в обработке. Пожалуйста, ожидайте звонка от оператора.'
     confirm-pay.for:
         en: 'for'
         ru: 'на'
