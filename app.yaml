@@ -388,6 +388,13 @@ Sections:
       kk: I give consent to my personal data processing
       ru: Я даю согласие на обработку моих персональных данных
       uk: I give consent to my personal data processing
+    agreement.login:
+      en: Login and registration
+      cs: Přihlášení a registrace
+      ka: შესვლა და რეგისტრაცია
+      kk: Кіру және тіркеу
+      ru: Вход и регистрация
+      uk: Вход и регистрация
     profile.name:
       en: Name
       ru: Имя
