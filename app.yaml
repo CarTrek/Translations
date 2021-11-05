@@ -374,20 +374,18 @@ Sections:
     signup.screen-title:
       en: Registration
       ru: Регистрация
-    agreement.terms:
-      en: I agree with Terms of use of the app
-      cs: Souhlasím s Podmínkami použití aplikace
-      ka: ვეთანხმები აპლიკაციის გამოყენების წესებს
-      kk: I agree with Terms of use of the app
-      ru: Я согласен с Условиями использования приложения
-      uk: I agree with Terms of use of the app
-    agreement.consent:
-      en: I give consent to my personal data processing
-      cs: Souhlasím se zpracováním osobních údajů
-      ka: გაძლევთ თანხმობას ჩემი პირადი მონაცემების დამუშავებაზე
-      kk: I give consent to my personal data processing
-      ru: Я даю согласие на обработку моих персональных данных
-      uk: I give consent to my personal data processing
+    agreement.terms.begin:
+      en: I agree with
+      ru: Я согласен с
+    agreement.terms.link:
+      en: Terms of use of the app
+      ru: Условиями использования приложения
+    agreement.consent.begin:
+      en: I give
+      ru: Я даю
+    agreement.consent.link:
+      en: consent to my personal data processing
+      ru: согласие на обработку моих персональных данных
     agreement.login:
       en: Login and registration
       cs: Přihlášení a registrace
