@@ -1022,6 +1022,9 @@ Sections:
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
+    change-booking.screen-title2:
+        en: 'Booking details'
+        ru: 'Детали бронирования'
     change-booking.close-button:
         en: 'Close'
         ru: 'Закрыть'
