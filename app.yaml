@@ -1025,6 +1025,9 @@ Sections:
     change-booking.screen-title2:
         en: 'Booking details'
         ru: 'Детали бронирования'
+    change-booking.message:
+        en: 'Your request is being processed. We will call you soon to confirm the booking and delivery details.'
+        ru: 'Ваш запрос обрабатывается. Мы свяжемся с вами в ближайшее время, чтобы подтвердить детали бронирования и доставки.'
     change-booking.close-button:
         en: 'Close'
         ru: 'Закрыть'
