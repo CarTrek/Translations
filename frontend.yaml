@@ -1,5 +1,20 @@
 Sections:
   AdminFrontend:
+    reasons.SendPush:
+      en: Send push
+      ru: Отправить пуш
+    reasons.SendSms:
+      en: Send sms
+      ru: Отправить смс
+    reasons.SendPushOrSms:
+      en: Send push or sms
+      ru: Отправить пуш или смс
+    reasons.SendEmail:
+      en: Send email
+      ru: Отправить email
+    reason.editor.NotificationText:
+      ru: Текст уведомления
+      en: Notification text
     clients.editor.BonusReasonRequired:
       en: You need to choose bonus reason
       ru: Необходимо выбрать причину начисления
