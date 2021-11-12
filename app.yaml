@@ -1041,8 +1041,8 @@ Sections:
         en: 'Save'
         ru: 'Сохранить'
     change-booking.notcancel-button:
-        en: 'Cancel not available'
-        ru: 'Отмена недоступна'
+        en: 'Confirmed'
+        ru: 'Подтверждено'
     change-booking.cancel-message:
         en: 'Cancel reservation?'
         ru: 'Отменить бронирование?'
