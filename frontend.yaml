@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    car.editor.documents:
+      en: Documents
+      ru: Документы
     reasons.SendPush:
       en: Send push
       ru: Отправить пуш
