@@ -1,5 +1,14 @@
 Sections:
   Server:
+    DeleteCarDocuments:
+      en: Delete car document
+      ru: Удалять документы авто
+    ViewCarDocuments:
+      en: View car documents
+      ru: Просмотр документов авто
+    EditCarDocuments:
+      en: Edit car documents
+      ru: Редактировать фото документов авто
     BonusReasonRequired:
       en: You need to choose reason to continue
       ru: Необходимо выбрать причину начисления
