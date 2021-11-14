@@ -1,5 +1,8 @@
 Sections:
   Server:
+    Penalty:
+      en: Penalty for rules violations
+      ru: Штраф за нарушение условий договора
     DeleteCarDocuments:
       en: Delete car document
       ru: Удалять документы авто
