@@ -1010,6 +1010,9 @@ Sections:
     confirm-pay.messagebox-message:
         en: 'Your order is being processed. Please wait for a call from the operator.'
         ru: 'Ваш заказ находится в обработке. Пожалуйста, ожидайте звонка от оператора.'
+    confirm-pay.messagebox-button:
+        en: 'See details'
+        ru: 'Посмотреть подробности'
     confirm-pay.for:
         en: 'for'
         ru: 'на'
