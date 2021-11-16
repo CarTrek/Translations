@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reasons.currency:
+      en: Currency symbol
+      ru: Знак валюты
     car.editor.documents:
       en: Documents
       ru: Документы
