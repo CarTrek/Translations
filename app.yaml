@@ -1,5 +1,11 @@
 Sections:
   App:
+    numbers-puzzle.title:
+      en: 'Time left'
+      ru: 'Осталось времени'
+    numbers-puzzle.timer-seconds:
+      en: '{seconds} sec'
+      ru: '{seconds} сек'
     vehicle-card.report-problem:
       en: Report problem
       ru: Сообщить о проблеме
