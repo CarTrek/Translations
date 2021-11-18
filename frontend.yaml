@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.CardsBins:
+      en: Cards BINs restriction (comma separated)
+      ru: Ограничение по БИН карт (через запятую)
     reasons.currency:
       en: Currency symbol
       ru: Знак валюты
