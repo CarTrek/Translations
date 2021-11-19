@@ -1,5 +1,8 @@
 Sections:
   App:
+    numbers-puzzle.message:
+      en: 'Please enter digits in order from 1 to 9'
+      ru: 'Пожалуйста, введите цифры по порядку от 1 до 9'
     numbers-puzzle.title:
       en: 'Time left'
       ru: 'Осталось времени'
