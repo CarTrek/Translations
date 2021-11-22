@@ -914,6 +914,9 @@ Sections:
     promo-code.friends-bonuses:
         en: 'Share it with your friends and get bonuses from their first rides.'
         ru: 'Делитесь им с друзьями и получайте бонусы с их первых поездок.'
+    promo-code.sharecode:
+        en: 'Promo code {code}'
+        ru: 'Промо код {code}'
     catalog.delivery-button:
         en: 'Delivery'
         ru: 'Заказать доставку'

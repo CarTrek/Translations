@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserValidationRequired:
+      en: Validated by security required
+      ru: Требуется одобрение пользователя службой безопасности
     NumbersPuzzleFailedTitle:
       en: 'Oops. You failed the puzzle'
       ru: 'Ой. Вы не смогли'
