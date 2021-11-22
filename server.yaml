@@ -13,7 +13,7 @@ Sections:
       en: ''
     NumbersPuzzleFailedColorCode:
       en: '000000'
-    NumbersPuzzlMaxCountFailedTitle:
+    NumbersPuzzleMaxCountFailedTitle:
       en: 'Your account has been blocked'
       ru: 'Теперь ваш аккаунт заблокирован'
     NumbersPuzzleMaxCountFailedMessage:
