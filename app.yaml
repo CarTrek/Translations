@@ -1,5 +1,14 @@
 Sections:
   App:
+    numbers-puzzle.message:
+      en: 'Please enter digits in order from 1 to 9. Be careful - no mistakes are allowed.'
+      ru: 'Пожалуйста, введите цифры по порядку от 1 до 9. Будьте внимательны - нельзя ошибаться ни в одной цифре.'
+    numbers-puzzle.title:
+      en: 'Time left'
+      ru: 'Осталось времени'
+    numbers-puzzle.timer-seconds:
+      en: '{seconds} sec'
+      ru: '{seconds} сек'
     vehicle-card.report-problem:
       en: Report problem
       ru: Сообщить о проблеме
@@ -1013,6 +1022,9 @@ Sections:
     confirm-pay.messagebox-message:
         en: 'Your order is being processed. Please wait for a call from the operator.'
         ru: 'Ваш заказ находится в обработке. Пожалуйста, ожидайте звонка от оператора.'
+    confirm-pay.messagebox-button:
+        en: 'See details'
+        ru: 'Посмотреть подробности'
     confirm-pay.for:
         en: 'for'
         ru: 'на'
@@ -1044,8 +1056,11 @@ Sections:
         en: 'Save'
         ru: 'Сохранить'
     change-booking.notcancel-button:
-        en: 'Cancel not available'
-        ru: 'Отмена недоступна'
+        en: 'Confirmed'
+        ru: 'Подтверждено'
     change-booking.cancel-message:
-        en: 'Cancel reservation?'
-        ru: 'Отменить бронирование?'
+        en: 'Are you sure you want to cancel the booking?'
+        ru: 'Вы уверены, что хотите отменить бронирование?'
+    confirm-pay.pay-confirmation-message:
+        en: 'Do you confirm the payment of {currency}{amount}?'
+        ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
