@@ -1,5 +1,8 @@
 Sections:
   Server:
+    PuzzleFailCountEventDescription:
+      en: 'Fails count: {FailCount}'
+      ru: 'Число попыток: {FailCount}'
     UserValidationRequired:
       en: Validated by security required
       ru: Требуется одобрение пользователя службой безопасности
