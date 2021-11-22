@@ -1,5 +1,31 @@
 Sections:
   Server:
+    NumbersPuzzleFailedTitle:
+      en: 'Oops. You failed the puzzle'
+      ru: 'Ой. Вы не смогли'
+    NumbersPuzzleFailedMessage:
+      en: 'You failed to solve the puzzle. If you will fail again, your account will be blocked for {TimeToBlock}.'
+      ru: 'Вы не смогли решить головоломку. Если вы ошибётесь подряд несколько раз, мы заблокируем ваш аккаунт на {TimeToBlock}.'
+    NumbersPuzzleFailedButtonText:
+      en: 'Okay🥴'
+      ru: 'Хорошо🥴'
+    NumbersPuzzleFailedImageUrl:
+      en: ''
+    NumbersPuzzleFailedColorCode:
+      en: '000000'
+    NumbersPuzzlMaxCountFailedTitle:
+      en: 'Your account has been blocked'
+      ru: 'Теперь ваш аккаунт заблокирован'
+    NumbersPuzzleMaxCountFailedMessage:
+      en: 'You failed to solve the puzzle {FailCount} times. Your account has been blocked for {TimeToBlock}.'
+      ru: 'Вы сделали {FailCount} неуспешных попыток. Теперь ваш аккаунт заблокирован на {TimeToBlock}.'
+    NumbersPuzzleMaxCountFailedButtonText:
+      en: 'I''m going to sleep🤤'
+      ru: 'Пойду посплю🤤'
+    NumbersPuzzleMaxCountFailedImageUrl:
+      en: ''
+    NumbersPuzzleMaxCountFailedColorCode:
+      en: '000000'
     Penalty:
       en: Penalty for rules violations
       ru: Штраф за нарушение условий договора
