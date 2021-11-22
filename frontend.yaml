@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    notifications.PuzzleFailed:
+      en: Drunk test mistake
+      ru: Ошибка в алкотесте
+    notifications.PuzzleFailedMaxCount:
+      en: Drunk test failed
+      ru: Не смог пройти алкотест
     rates.CardsBins:
       en: Cards BINs restriction (comma separated)
       ru: Ограничение по БИН карт (через запятую)

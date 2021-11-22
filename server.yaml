@@ -456,12 +456,6 @@ Sections:
     ZoneDriveOut:
       ru: Car left the zone
       en: Выезд из зоны
-    PuzzleFailed:
-      en: Drunk test mistake
-      ru: Ошибка в алкотесте
-    PuzzleFailedMaxCount:
-      en: Drunk test failed
-      ru: Не смог пройти алкотест
     EngineSpeedLimitDescription:
       ru: Ограничение по оборотам двигателя
       en: Engine speed limit
