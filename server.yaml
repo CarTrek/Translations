@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedNeedToSolvePuzzle:
+      en: 'Please please enter numbers from 1 to 9'
+      ru: 'Пожалуйста, введите цифры от 1 до 9'
     FailedUserIsBlockedUntil:
       en: 'Your account is blocked until {BlockedUntilDateTime}'
       ru: 'Ваш аккаунт заблокирован до {BlockedUntilDateTime}'
