@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedUserIsBlockedUntil:
+      en: 'Your account is blocked until {BlockedUntilDateTime}'
+      ru: 'Ваш аккаунт заблокирован до {BlockedUntilDateTime}'
     PuzzleFailCountEventDescription:
       en: 'Fails count: {FailCount}'
       ru: 'Число попыток: {FailCount}'
