@@ -1,5 +1,8 @@
 Sections:
   Server:
+    TooManyImages:
+      en: 'Too many photos. You must make no more than {MaxPhotoCount} photos. Please try again.'
+      ru: 'Слишком много фотографий. Нужно сделать не более {MaxPhotoCount} фото. Попробуйте ещё раз.'
     FailedNeedToSolvePuzzle:
       en: 'Please please enter numbers from 1 to 9'
       ru: 'Пожалуйста, введите цифры от 1 до 9'
