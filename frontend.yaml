@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.SelectAction:
+      en: Actions
+      ru: Доступные действия
     notifications.PuzzleFailed:
       en: Drunk test mistake
       ru: Ошибка в алкотесте
