@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.WithdrawReasonRequired:
+      en: You need to choose withdraw reason
+      ru: Необходимо выбрать причину списания
     clients.editor.SelectAction:
       en: Actions
       ru: Доступные действия
