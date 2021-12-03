@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.documents.addimage:
+      en: Document name (e.g. insurance)
+      ru: Имя документа (например, страховка)
     clients.editor.WithdrawReasonRequired:
       en: You need to choose withdraw reason
       ru: Необходимо выбрать причину списания
