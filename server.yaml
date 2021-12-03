@@ -1,5 +1,8 @@
 Sections:
   Server:
+    WithdrawReasonRequired:
+      en: You need to choose reason to continue
+      ru: Необходимо выбрать причину списания
     TooManyImages:
       en: 'Too many photos. You must make no more than {MaxPhotoCount} photos. Please try again.'
       ru: 'Слишком много фотографий. Нужно сделать не более {MaxPhotoCount} фото. Попробуйте ещё раз.'
