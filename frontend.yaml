@@ -6,9 +6,6 @@ Sections:
     clients.editor.WithdrawReasonRequired:
       en: You need to choose withdraw reason
       ru: Необходимо выбрать причину списания
-    clients.editor.SelectAction:
-      en: Actions
-      ru: Доступные действия
     notifications.PuzzleFailed:
       en: Drunk test mistake
       ru: Ошибка в алкотесте
