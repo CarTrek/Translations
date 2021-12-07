@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    penalties.comment:
+      en: Comment
+      ru: Комментарий
+    penalties.selectOrder:
+      en: Order...
+      ru: Заказ...
     cars.documents.addimage:
       en: Document name (e.g. insurance)
       ru: Имя документа (например, страховка)
