@@ -244,10 +244,10 @@ Sections:
       en: Users loaded
       ru: Загружено
     inapp.editor.viewState.Initiated:
-      en: Not sended
+      en: Was not sent
       ru: Не отправлено
     inapp.editor.viewState.Sent:
-      en: Sended
+      en: Sent
       ru: Отправлено
     inapp.editor.viewState.Viewed:
       en: Viewed
