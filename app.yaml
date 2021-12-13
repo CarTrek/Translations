@@ -1,5 +1,8 @@
 Sections:
   App:
+    long-rental.go-to-upload-documents:
+      en: 'To proceed you need to upload your documents. Are you ready to do it now?'
+      ru: 'Чтобы продолжить, необходимо загрузить фото ваших документов. Вы готовы сделать это сейчас?'
     car.documents.title:
       en: '{carModel} {regNumber}'
       ru: '{carModel} {regNumber}'
