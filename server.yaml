@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CommentIsRequired:
+      en: Payment order description required
+      ru: Необходимо указать платежные реквизиты
     SetPaidUserBillResultSuccess:
       en: Success
       ru: Успех
