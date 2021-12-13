@@ -1,5 +1,26 @@
 Sections:
   Server:
+    SetPaidUserBillResultSuccess:
+      en: Success
+      ru: Успех
+    SetPaidUserBillResultWithdrawalAlreadyHasTransaction:
+      en: Withdrawal is already have transaction number
+      ru: Счет уже имеет номер транзакции
+    SetPaidUserBillResultWithdrawalIsCancelled:
+      en: Withdrawal is cancelled
+      ru: Счет отменен
+    SetPaidUserBillResultWithdrawalAlreadyPaid:
+      en: Withdrawal is already paid
+      ru: Счет уже оплачен
+    SetPaidUserBillResultFailedUserNotFound:
+      en: User not found
+      ru: Пользователь не найден
+    SetPaidUserBillResultWithdrawalNotFound:
+      en: Withdrawal not found
+      ru: Счет не найден
+    RightSetPaidForBill:
+      en: Set paid for bill
+      ru: Сделать счет оплаенным
     WithdrawReasonRequired:
       en: You need to choose reason to continue
       ru: Необходимо выбрать причину списания
