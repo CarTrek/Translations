@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    withdrawal.editor.PaidDescription:
+      en: Payment order details
+      ru: Реквизиты платежного поручения
+    withdrawal.editor.PaidDescriptionTitle:
+      en: Withdrawal repayment
+      ru: Погашение счета
     clients.editor.SetPaid:
       en: Set paid
       ru: Оплачено
