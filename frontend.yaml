@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.SetPaid:
+      en: Set paid
+      ru: Оплачено
     penalties.comment:
       en: Comment
       ru: Комментарий
