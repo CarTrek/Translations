@@ -1,5 +1,11 @@
 Sections:
   App:
+    after-ride-photos.report-title:
+      en: 'Is there anything else you want to tell us?'
+      ru: 'Вы хотите сообщить нам о чём-то ещё?'
+    after-ride-photos.report-cancel-booking:
+      en: 'Cancel the booking'
+      ru: 'Отменить бронь'
     after-ride.cancel-booking-title:
       en: 'Cancel the booking'
       ru: 'Отмена бронирования'
