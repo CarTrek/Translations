@@ -1,5 +1,14 @@
 Sections:
   App:
+    after-ride.cancel-booking-title:
+      en: 'Cancel the booking'
+      ru: 'Отмена бронирования'
+    after-ride.cancel-booking-message:
+      en: 'Are you sure you want to cancel your booking?'
+      ru: 'Вы уверены, что хотите отменить своё бронирование'
+    after-ride-photos.top-inspection-description:
+      en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
+      ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
     long-rental.go-to-upload-documents:
       en: 'To proceed you need to upload your documents. Are you ready to do it now?'
       ru: 'Чтобы продолжить, необходимо загрузить фото ваших документов. Вы готовы сделать это сейчас?'
