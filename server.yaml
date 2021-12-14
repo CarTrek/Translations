@@ -23,7 +23,7 @@ Sections:
       ru: Счет не найден
     RightSetPaidForBill:
       en: Set paid for bill
-      ru: Сделать счет оплаенным
+      ru: Сделать счет оплаченным
     WithdrawReasonRequired:
       en: You need to choose reason to continue
       ru: Необходимо выбрать причину списания
