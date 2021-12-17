@@ -4,8 +4,8 @@ Sections:
       en: 'Profile removal'
       ru: 'Удаление профиля'
     profile.remove-profile-button:
-      en: 'Remove profile'
-      ru: 'Удалить профиль'
+      en: 'Remove'
+      ru: 'Удалить'
     after-ride-photos.report-title:
       en: 'Is there anything else you want to tell us?'
       ru: 'Вы хотите сообщить нам о чём-то ещё?'
