@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.profile-removed:
+      en: 'You profile has been removed'
+      ru: 'Ваш профиль удалён'
     profile.remove-profile-title:
       en: 'Profile removal'
       ru: 'Удаление профиля'
