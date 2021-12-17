@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.remove-profile-title:
+      en: 'Profile removal'
+      ru: 'Удаление профиля'
+    profile.remove-profile-message:
+      en: 'Do you really want to delete your profile? After that, you will not be able to use our service. It will be impossible to restore the profile.'
+      ru: 'Вы действительно хотите удалить свой профиль? После этого вы не сможете пользоваться нашим сервисом. Восстановить профиль будет невозможно.'
     profile.remove-profile:
       en: 'Profile removal'
       ru: 'Удаление профиля'
