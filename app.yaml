@@ -1,5 +1,8 @@
 Sections:
   App:
+    after-ride-photos.start-rental:
+      en: Start rental
+      ru: Начать аренду
     after-ride-photos.report-item-CarBodyIsDamaged:
       en: Cars body is damaged
       ru: Кузов повреждён
