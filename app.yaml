@@ -1,5 +1,29 @@
 Sections:
   App:
+    after-ride-photos.report-item-CarBodyIsDamaged:
+      en: Cars body is damaged
+      ru: Кузов повреждён
+    after-ride-photos.report-item-TireIsFlat:
+      en: Tier is flat
+      ru: Спущено колесо
+    after-ride-photos.report-item-BrokenWindow:
+      en: Window is Broken
+      ru: Разбито стекло
+    after-ride-photos.report-item-IsDirty:
+      en: The car is dirty
+      ru: Машина грязная
+    after-ride-photos.report-item-IsSmoked:
+      en: The car is smoked
+      ru: Машина прокурена
+    after-ride-photos.report-item-IsCritical:
+      en: The car has critical problem
+      ru: Серьёзная проблема
+    after-ride-photos.report-item-NoDocuments:
+      en: No documents
+      ru: Нет документов
+    after-ride-photos.report-item-NoFluid:
+      en: No washing fluid
+      ru: Нет жидкости омывателя
     profile.profile-removed:
       en: 'You profile has been removed'
       ru: 'Ваш профиль удалён'
