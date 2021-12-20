@@ -1,5 +1,8 @@
 Sections:
   App:
+    after-ride.take-photo-message-interior:
+      en: 'Please make a photo inside the car'
+      ru: 'Сделайте фото внутри машины'
     after-ride-photos.text-comment:
       en: Comment
       ru: Комментарий
