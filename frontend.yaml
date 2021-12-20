@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.RememberIdleTimeOnOrderStart:
+      en: Remember idle time on order start
+      ru: Запоминать простой на начало заказа
     withdrawal.editor.PaidDescription:
       en: Payment order details
       ru: Реквизиты платежного поручения
