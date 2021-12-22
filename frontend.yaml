@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.clients.DELETIONREQUEST:
+      en: Deletion requested
+      ru: На удаление
     aside.nav.clients.DeletionRequested:
       en: Deletion requested
       ru: На удаление
