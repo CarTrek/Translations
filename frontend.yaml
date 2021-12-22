@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    aside.nav.clients.DeletionRequested:
+      en: Deletion requested
+      ru: На удаление
+    clients.list.RemovalRequestTime:
+      en: Removal request time
+      ru: Дата запроса удаления
     rates.RememberIdleTimeOnOrderStart:
       en: Remember idle time on order start
       ru: Запоминать простой на начало заказа
