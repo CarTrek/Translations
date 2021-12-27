@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.open-rides-history:
+      en: Show
+      ru: Посмотреть
     profile.rides-history:
       en: My rides
       ru: Мои поездки
