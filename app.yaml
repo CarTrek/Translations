@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.rides-history:
+      en: My rides
+      ru: Мои поездки
     after-ride.take-photo-message-interior:
       en: 'Please make a photo inside the car'
       ru: 'Сделайте фото внутри машины'
