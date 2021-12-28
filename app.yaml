@@ -1,5 +1,7 @@
 Sections:
   App:
+    money.amount:
+      en: '{currency}{amount}'
     profile.kbm:
       en: KBM
       ru: КБМ
