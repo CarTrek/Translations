@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.kbm:
+      en: KBM
+      ru: КБМ
     profile.open-rides-history:
       en: Show
       ru: Посмотреть
