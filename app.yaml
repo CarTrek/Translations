@@ -1,5 +1,8 @@
 Sections:
   App:
+    per.minute:
+      en: 'per minute'
+      ru: 'в минуту'
     money.amount:
       en: '{currency}{amount}'
     profile.kbm:
