@@ -1,5 +1,8 @@
 Sections:
   App:
+    take-photo.tap-to-continue:
+      en: Tap to continue
+      ru: Нажмите, чтобы продолжить
     per.minute:
       en: 'per minute'
       ru: 'в минуту'
