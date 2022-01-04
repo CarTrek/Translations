@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.waiting:
+      en: waiting
+      ru: ожидание
     take-photo.tap-to-continue:
       en: Tap to continue
       ru: Нажмите, чтобы продолжить
