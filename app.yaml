@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.fuel-level:
+      en: fuel level
+      ru: уровень топлива
     card-v2.get-directions:
       en: Get directions
       ru: Построить маршрут
