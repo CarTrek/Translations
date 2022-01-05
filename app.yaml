@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-book:
+      en: Reserve
+      ru: Забронировать
     card-v2.fuel-level:
       en: fuel level
       ru: уровень топлива
