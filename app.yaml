@@ -1,5 +1,17 @@
 Sections:
   App:
+    card-v2.button-inspect:
+      en: Open
+      ru: Открыть
+    card-v2.button-close:
+      en: Close
+      ru: Закрыть
+    card-v2.button-drive:
+      en: Open
+      ru: Открыть
+    card-v2.button-finish-rent:
+      en: Finish rental
+      ru: Завершить аренду
     card-v2.button-book:
       en: Reserve
       ru: Забронировать
