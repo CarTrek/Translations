@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.finish-rental-title:
+      en: Finish rental
+      ru: Завершение аренды
+    card-v2.finish-rental-question:
+      en: Are you sure you want to complete your rental? Lift the handbrake, switch the automatic transmission selector to the P position, turn off the headlights and interior lights. After completing the rental, take photos of the car.
+      ru: Вы уверены, что хотите завершить вашу аренду? Поднимите ручной тормоз, переключите селектор АКПП в положление P, выключите фары и свет в салоне. После завершения аренды сделайте фото атвомобиля.
     card-v2.button-inspect:
       en: Open
       ru: Открыть
