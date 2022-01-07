@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.current-rate:
+      en: current rate
+      ru: текущий тариф
     card-v2.finish-booking-title:
       en: Cancel booking
       ru: Отмена бронирования
