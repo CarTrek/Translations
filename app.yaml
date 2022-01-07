@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-blink:
+      en: Blink
+      ru: Помигать
     card-v2.finish-rental-title:
       en: Finish rental
       ru: Завершение аренды
