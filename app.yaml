@@ -81,7 +81,7 @@ Sections:
       en: Tier is flat
       ru: Спущено колесо
     after-ride-photos.report-item-BrokenWindow:
-      en: Window is Broken
+      en: Window is broken
       ru: Разбито стекло
     after-ride-photos.report-item-IsDirty:
       en: The car is dirty
