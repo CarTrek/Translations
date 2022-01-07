@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.finish-booking-title:
+      en: Cancel booking
+      ru: Отмена бронирования
+    card-v2.finish-booking-question:
+      en: Are you sure you want to cancel your booking?
+      ru: Вы уверены, что хотите отменить бронирование?
     card-v2.button-blink:
       en: Blink
       ru: Помигать
