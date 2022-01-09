@@ -1,5 +1,11 @@
 Sections:
   App:
+    rate-select.buy-package-title:
+      en: Purchase package
+      ru: Предоплата поездки
+    rate-select.buy-package-message:
+      en: Before the start of the trip, the full cost of the selected fare will be debited from your account. Continue?
+      ru: Перед началом поездки с вашего счёта будет списана полная стоимость выбранного тарифа. Продолжить?
     rate-select.cancel-rental:
       en: Cancel reservation
       ru: Отменить бронь
