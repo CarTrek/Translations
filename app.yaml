@@ -1,5 +1,8 @@
 Sections:
   App:
+    rate-select.cancel-rental:
+      en: Cancel reservation
+      ru: Отменить бронь
     rate-select.select-rate:
       en: Select
       ru: Выбрать
