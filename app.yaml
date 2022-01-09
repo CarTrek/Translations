@@ -1,5 +1,8 @@
 Sections:
   App:
+    select-rate:
+      en: Select
+      ru: Выбрать
     card-v2.start-inspect-title:
       en: Open the car?
       ru: Открыть автомобиль?
