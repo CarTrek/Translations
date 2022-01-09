@@ -1,5 +1,8 @@
 Sections:
   App:
+    rate-select.title:
+      en: Rate selection
+      ru: Выбор тарифа
     rate-select.buy-package-title:
       en: Purchase package
       ru: Предоплата поездки
