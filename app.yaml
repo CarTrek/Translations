@@ -1,6 +1,6 @@
 Sections:
   App:
-    select-rate:
+    rate-select.select-rate:
       en: Select
       ru: Выбрать
     card-v2.start-inspect-title:
