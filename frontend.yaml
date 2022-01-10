@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.billingcode.Failed:
+      en: Unknown error
+      ru: Неизвестная ошибка
     clients.editor.billingcode.FailedOrdersWasNotFound:
       en: Order with such number was not found
       ru: Заказ с таким номером не найден
