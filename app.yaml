@@ -1,9 +1,21 @@
 Sections:
   App:
-    card-v2.finish-park-title:
+    card-v2.rent-in-drive-mode:
+      en: The car is opened now
+      ru: Теперь автомобиль открыт
+    card-v2.drive-question:
+      en: Do you really want to open the car and put you rental to the drive mode?
+      ru: Вы действительно хотите открыть автомобиль и перевести вашу аренду в режим использования?
+    card-v2.drive-title:
+      en: Open the car
+      ru: Открыть автомобиль
+    card-v2.rent-in-park-mode:
+      en: The car is closed now
+      ru: Теперь автомобиль закрыт
+    card-v2.park-title:
       en: Close the car
       ru: Закрыть машину
-    card-v2.finish-park-question:
+    card-v2.park-question:
       en: Do you really want to close the car and put your rentl to the parking mode?
       ru: Вы действительно хотите закрыть машину и перевести вашу аренду в режим парковки?
     rate-select.rent-started:
