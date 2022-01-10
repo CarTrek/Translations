@@ -1,5 +1,14 @@
 Sections:
   App:
+    card-v2.start-book-title:
+      en: Book the car
+      ru: Бронирование машины
+    card-v2.start-book-question:
+      en: Do you really want to book the car?
+      ru: Вы действительно хотите забронировать автомобиль?
+    card-v2.start-book-question-corporate:
+      en: Please choose at whose expense you want to make the trip
+      ru: Пожалуйста, выберите за чей счёт вы хотите совершить поездку
     card-v2.rent-in-drive-mode:
       en: The car is opened now
       ru: Теперь автомобиль открыт
