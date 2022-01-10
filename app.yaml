@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.private-ride:
+      en: Private ride
+      ru: Частная поездка
     card-v2.start-book-title:
       en: Book the car
       ru: Бронирование машины
