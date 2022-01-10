@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.billingcode.FailedOrdersWasNotFound:
+      en: Order with such number was not found
+      ru: Заказ с таким номером не найден
     aside.nav.clients.DELETIONREQUEST:
       en: Deletion requested
       ru: На удаление
