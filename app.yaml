@@ -1,5 +1,8 @@
 Sections:
   App:
+    rate-select.rent-started:
+      en: Your rental has been started
+      ru: Ваша аренда началась
     rate-select.title:
       en: Rate selection
       ru: Выбор тарифа
