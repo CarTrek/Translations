@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.finish-park-title:
+      en: Close the car
+      ru: Закрыть машину
+    card-v2.finish-park-question:
+      en: Do you really want to close the car and put your rentl to the parking mode?
+      ru: Вы действительно хотите закрыть машину и перевести вашу аренду в режим парковки?
     rate-select.rent-started:
       en: Your rental has been started
       ru: Ваша аренда началась
