@@ -1,5 +1,8 @@
 Sections:
   App:
+    take-photo.min-photo-count-header-message:
+      en: Please take {photo-count} photo(s)
+      ru: Пожалуйста, сделайте {photo-count} фото
     card-v2.private-ride:
       en: Private ride
       ru: Частная поездка
