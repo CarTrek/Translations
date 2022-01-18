@@ -1924,10 +1924,10 @@ Sections:
     UserFinishedRentOnSelectedRatePack:
       en: User has finished ride with rate pack
       ru: Пользователь завершил аренду с абонементом
-    notifications.PuzzleFailed:
+    PuzzleFailed:
       en: Drunk test mistake
       ru: Ошибка в алкотесте
-    notifications.PuzzleFailedMaxCount:
+    PuzzleFailedMaxCount:
       en: Drunk test failed
       ru: Не смог пройти алкотест
     HugeDebt:
