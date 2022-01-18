@@ -97,6 +97,12 @@ Sections:
     notifications.EmptyOrders:
       en: Refusal rate exceeded
       ru: Превышен показатель отказов
+    notifications.PuzzleFailed:
+      en: Drunk test mistake
+      ru: Ошибка в алкотесте
+    notifications.PuzzleFailedMaxCount:
+      en: Drunk test failed
+      ru: Не смог пройти алкотест
     cars.list.RefusalRate:
       en: Refusal rate
       ru: Показатель отказов
