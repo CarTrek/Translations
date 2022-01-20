@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CanNotRemoveAccountDueToDebt:
+      en: 'You have an outstanding debt. You must pay it off, after which you can delete your account.'
+      ru: 'У вас есть непогашенная задолженность. Вы должны её погасить, после чего сможете удалить свою учётную запись.'
     CommentIsRequired:
       en: Payment order description required
       ru: Необходимо указать платежные реквизиты
