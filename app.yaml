@@ -4,7 +4,7 @@ Sections:
       en: Language
       ru: Язык
     profile.switch-language:
-      en: Switch Language
+      en: Switch language
       ru: Переключить язык
     take-photo.min-photo-count-header-message:
       en: Please take {photo-count} photo(s)
