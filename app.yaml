@@ -1,5 +1,11 @@
 Sections:
   App:
+    language-name-fr:
+      en: Français
+    language-name-ru:
+      en: Руссский
+    language-name-en:
+      en: English
     profile.language:
       en: Language
       ru: Язык
