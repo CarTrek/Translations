@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-unlock-lock:
+      en: 'Unlock'
+      ru: 'Открыть'
     language-name-fr:
       en: Français
     language-name-ru:
