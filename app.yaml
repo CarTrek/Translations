@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.enter:
+      en: Enter
+      ru: Ввести
     card-v2.button-unlock-lock:
       en: 'Unlock'
       ru: 'Открыть'
