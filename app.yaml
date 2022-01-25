@@ -2,7 +2,7 @@ Sections:
   App:
     profile.enter-romo-code:
       en: Enter promo code
-      ru: Ввести прмо-код
+      ru: Ввести промо-код
     profile.enter:
       en: Enter
       ru: Ввести
