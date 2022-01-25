@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.enter-romo-code:
+      en: Enter promo code
+      ru: Ввести прмо-код
     profile.enter:
       en: Enter
       ru: Ввести
