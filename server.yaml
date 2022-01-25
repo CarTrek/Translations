@@ -2634,9 +2634,10 @@ Sections:
       ru: Не удалось совершить платёж
     FailedPreHold:
       cs: Chyba při blokaci protředku
-      en: Hold balance error.
-      ru: Ошибка при холдировании средств
+      en: You don't have enough money on your card
+      ru: У вас недостаточно средств на карте
       uk: Помилка при холдірованіі засобів
+      el: 'Δεν έχετε αρκετά χρήματα στην κάρτα σας'
     FailedRadarDoesNotExist:
       cs: Takový radar nebyl nalezen
       ka: რადარი არ არის ნაპოვნი
