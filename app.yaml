@@ -76,8 +76,8 @@ Sections:
       en: Open the car?
       ru: Открыть автомобиль?
     card-v2.start-inspect-question:
-      en: You will have {minutes} free minutes to inspect the car
-      ru: У вас будет {minutes} бесплатных минут, чтобы осмотреть автомобиль
+      en: You will have {minutes} free minutes to inspect the car.
+      ru: У вас будет {minutes} бесплатных минут, чтобы осмотреть автомобиль.
     card-v2.current-rate:
       en: current rate
       ru: текущий тариф
