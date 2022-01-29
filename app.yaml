@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.you-should-take-a-selfie:
+      en: Before you open the car you have to take a selfie
+      ru: Перед тем как открыть машину, вы должны сделать селфи
     profile.enter-romo-code:
       en: Enter promo code
       ru: Ввести промо-код
