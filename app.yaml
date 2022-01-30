@@ -1,5 +1,8 @@
 Sections:
   App:
+    refuel-screen.show-rules:
+      en: Show fueling rures
+      ru: Показать правила заправки
     refuel-screen.title:
       en: Refueling
       ru: Заправка
