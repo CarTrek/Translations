@@ -16,8 +16,8 @@ Sections:
       en: 'L'
       ru: 'л'
     refuel-screen.card-number:
-      en: 'Card number: {card-number}'
-      ru: 'Номер карты: {card-number}'
+      en: 'Card number {card-number}'
+      ru: 'Номер карты {card-number}'
     refuel-screen.pin:
       en: Fueling card PIN
       ru: ПИН топливной карты
