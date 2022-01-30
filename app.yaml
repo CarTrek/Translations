@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-refuel:
+      en: Refuel
+      ru: Заправить
     card-v2.take-a-selfie:
       en: Take a selfie
       ru: Сделать селфи
