@@ -1,5 +1,8 @@
 Sections:
   App:
+    refuel-screen.title:
+      en: Refueling
+      ru: Заправка
     card-v2.button-refuel:
       en: Refuel
       ru: Заправить
