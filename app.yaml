@@ -1,5 +1,32 @@
 Sections:
   App:
+    refuel-screen.finish-refueling:
+      en: Finish refueling
+      ru: Завершить заправку
+    refuel-screen.open-car:
+      en: Open the car
+      ru: Открыть автомобиль
+    refuel-screen.close-car:
+      en: Close the car
+      ru: Закрыть автомобиль
+    refuel-screen.fueling-description:
+      en: Take a card out of the glove box and show it to the fuel station operator to refuel the car. Money will be charged from the fuel card, and you will receive bonuses for the time spent.
+      ru: Достаньте карточку из бардачка и покажите ее оператору заправочной станции, чтобы заправить автомобиль. Деньги будут списаны с топливной карты, и вы получите бонусы за потраченное время.
+    refuel-screen.liters:
+      en: 'L'
+      ru: 'л'
+    refuel-screen.card-number:
+      en: 'Card number: {card-number}'
+      ru: 'Номер карты: {card-number}'
+    refuel-screen.pin:
+      en: Fueling card PIN
+      ru: ПИН топливной карты
+    refuel-screen.fuel-type:
+      en: Fuel type
+      ru: Тип топлива
+    refuel-screen.need-to-refuel:
+      en: Need to refuel
+      ru: Требуется заправить
     refuel-screen.close:
       en: Close
       ru: Закрыть
