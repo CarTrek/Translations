@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedFuelMustBePaidByCustomer:
+      en: 'Sorry but there is no compensation for the cost of fuel on your tariff'
+      ru: 'Извините, но на вашем тарифе не предусмотрена компенсация стоимости топлива'
     CanNotRemoveAccountDueToDebt:
       en: 'You have an outstanding debt. You must pay it off, after which you can delete your account.'
       ru: 'У вас есть непогашенная задолженность. Вы должны её погасить, после чего сможете удалить свою учётную запись.'
