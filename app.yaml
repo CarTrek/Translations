@@ -1,5 +1,8 @@
 Sections:
   App:
+    Refueling:  
+      en: Refueling
+      ru: Заправка
     refuel-screen.finish-refueling:
       en: Finish refueling
       ru: Завершить заправку
