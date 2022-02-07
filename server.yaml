@@ -2,7 +2,7 @@ Sections:
   Server:
     StartFuelingResultEnumFailedUserDebt:
       en: 'You have a debt. Before refueling, you have to pay off the debt.'
-      ru: 'У вас есть долг. Перед заправкой вы должны погасить долг.'
+      ru: 'У вас есть неоплаченный долг. Перед заправкой вы должны погасить долг.'
     FailedFuelMustBePaidByCustomer:
       en: 'Sorry but there is no compensation for the cost of fuel on your tariff'
       ru: 'Извините, но на вашем тарифе не предусмотрена компенсация стоимости топлива'
