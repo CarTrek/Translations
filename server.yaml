@@ -1,5 +1,11 @@
 Sections:
   Server:
+    FuelingCardGenerated:
+      en: 'Fueling card was generated'
+      ru: 'Сгенерирована топливная карта'
+    FileModified:
+      en: 'File modified'
+      ru: 'Файл изменён'
     GetCardEnumFailedCardGenerationIsDisabled:
       en: 'Fuel cards generation is disabled'
       ru: 'Генерация топливных карт отключена'
