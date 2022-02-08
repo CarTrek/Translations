@@ -1,14 +1,14 @@
 Sections:
   Server:
     GetCardEnumFailedCardGenerationIsDisabled:
-      en: Fuel cards generation is Disabled
-      ru: Генерация топливных карт отключена
+      en: 'Fuel cards generation is disabled'
+      ru: 'Генерация топливных карт отключена'
     GetCardEnumFailedConnectorNotFoundForTheFuelingNetwork:
-      en: Could not find compatible fueling card generator for this fueling station
-      ru: Не удалось найти генератор топливных карт, совместимый с этой АЗС
+      en: 'Could not find compatible fueling card generator for this fueling station'
+      ru: 'Не удалось найти генератор топливных карт, совместимый с этой АЗС'
     GetCardEnumFailedIncompatibleConnector:
-      en: Could not find compatible fueling card generator for this fueling station
-      ru: Не удалось найти генератор топливных карт, совместимый с этой АЗС
+      en: 'Could not find compatible fueling card generator for this fueling station'
+      ru: 'Не удалось найти генератор топливных карт, совместимый с этой АЗС'
     GetCardEnumFailedConnectorError:
       en: 'Fueling card generation error: {errorCode}'
       ru: 'При генерации топливной карты произошла ошибка: {errorCode}'
