@@ -1,5 +1,17 @@
 Sections:
   Server:
+    GetCardEnumFailedCardGenerationIsDisabled:
+      en: Fuel cards generation is Disabled
+      ru: Генерация топливных карт отключена
+    GetCardEnumFailedConnectorNotFoundForTheFuelingNetwork:
+      en: Could not find compatible fueling card generator for this fueling station
+      ru: Не удалось найти генератор топливных карт, совместимый с этой АЗС
+    GetCardEnumFailedIncompatibleConnector:
+      en: Could not find compatible fueling card generator for this fueling station
+      ru: Не удалось найти генератор топливных карт, совместимый с этой АЗС
+    GetCardEnumFailedConnectorError:
+      en: 'Fueling card generation error: {errorCode}'
+      ru: 'При генерации топливной карты произошла ошибка: {errorCode}'
     StartFuelingResultEnumFailedUserDebt:
       en: 'You have a debt. Before refueling, you have to pay off the debt.'
       ru: 'У вас есть неоплаченный долг. Перед заправкой вы должны погасить долг.'
