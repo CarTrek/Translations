@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organization.editor.BrandingAppCss:
+      en: 'Stylesheet (css)'
+      ru: 'Стили (css)'
     organization.editor.BrandingPrimaryColor:
       en: 'Primary color'
       ru: 'Основной цвет'
