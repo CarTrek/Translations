@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    organization.editor.BrandingPrimaryColor:
+      en: 'Primary color'
+      ru: 'Основной цвет'
+    organization.editor.BrandingSecondaryColor:
+      en: 'Secondary color'
+      ru: 'Дополнительный цвет'
+    organization.editor.BrandingSite:
+      en: 'Site (for example landing page)'
+      ru: 'Сайт (например, лендинг)'
     organization.editor.BrandingTab:
       en: Branding
       ru: Брендирование
