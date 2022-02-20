@@ -608,7 +608,7 @@ Sections:
       en: Too many attempts
       ru: Слишком много неуспешных попыток входа
     signin.unsuccess-UserBlocked:
-      en: Your acount is blocked
+      en: Your account is blocked
       ru: Ваша учётная запись заблокирована
     signin.unsuccess-UserNotFound:
       en: Your account is not found
