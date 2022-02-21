@@ -6740,10 +6740,10 @@ Sections:
       ge: ადგილების რაოდენობა
       ru: Количество мест
     cars.models.MaxDailyCost:
-      cs: Maximální částka pronájmu v haléřích
-      en: Maximum daily cost of the order (in 0.01 of currency)
-      ge: მაქსიმალური დღიური ღირებულება ქირის თეთრებში
-      ru: Максимальная дневная стоимость заказа (в сотых валюты)
+      cs: 'Maximální částka pronájmu v haléřích'
+      en: 'Maximum daily cost of the order (in 0.01 of currency)'
+      ge: 'მაქსიმალური დღიური ღირებულება ქირის თეთრებში'
+      ru: 'Максимальная дневная стоимость заказа (в сотых валюты)'
     cars.classes.list:
       cs: Třídy automobilů
       en: Car classes
