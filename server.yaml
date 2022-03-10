@@ -913,9 +913,9 @@ Sections:
       en: 'Logged into corporate cabinet'
       ru: 'Вход в корпоративный кабинет'
     OperationSuccessfull:
-      en: 'Account is topped up, enjoy your rides!'
-      ru: 'Операция завершена успешно'
-      cs: 'Účet je dobitý, vyrazte na cestu!'
+      en: 'Done'
+      ru: 'Готово'
+      cs: 'Hotovo'
     RightViewCorporateOrganizations:
       en: 'View corporate organizations info'
       ru: 'Просматривать информацию о корпоративных организациях'
