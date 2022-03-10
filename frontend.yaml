@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    rates.AvailableForCorporateOrganizations:
+      en: Available for all corporate organization
+      ru: Доступен для корпоративных организаций
+    tags.ShowOnSideMenu:
+      en: Show list in side menu
+      ru: Показывать список в боковом меню
     organization.editor.BrandingAppCss:
       en: 'Stylesheet (css)'
       ru: 'Стили (css)'
