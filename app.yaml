@@ -1,5 +1,8 @@
 Sections:
   App:
+    agreement.link-details:
+      en: 'Details...'
+      ru: 'Подробнее...'
     Refueling:  
       en: Refueling
       ru: Заправка
