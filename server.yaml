@@ -1730,6 +1730,9 @@ Sections:
       en: Car key is not detected. Please connect the keychain to the connector in the glove box and try again.
       ru: Не обнаружен ключ от автомобиля.  Подсоедините брелок ключа к шнуру в бардачке и попробуйте ещё раз.
       el: Το κλειδί αυτοκινήτου δεν εντοπίστηκε. Συνδέστε την μπρελόκ στην υποδοχή στο κουτί με γάντι και δοκιμάστε ξανά.
+    CarCommandResultErrorInsertLock:
+      en: Lock not inserted. Insert it and try again.
+      ru: Не вставлен замок. Вставьте его и попробуйте еще раз.
     CarCommandResultErrorVehicleIsMoving:
       en: Do not try to your end rental while moving.
       ru: Не пытайтесь завершить аренду во время движения.
