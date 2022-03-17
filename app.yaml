@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.scan-qr-code:
+      en: 'Scan QR code'
+      ru: 'Сканировать QR-код'
     agreement.link-details:
       en: 'Details...'
       ru: 'Подробнее...'
