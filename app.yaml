@@ -1,5 +1,11 @@
 Sections:
   App:
+    vehicle-filter.title:
+      en: 'Filter vehicles'
+      ru: 'Фильтр'
+    vehicle-filter.bottom:
+      en: 'Cancel'
+      ru: 'Отмена'
     appless.scan-qr-code:
       en: 'Scan QR code'
       ru: 'Сканировать QR-код'
