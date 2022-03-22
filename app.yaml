@@ -1,5 +1,11 @@
 Sections:
   App:
+    vehicles-filter.reset-selection:
+      en: 'Reset selection'
+      ru: 'Сбросить выбранное'
+    vehicles-filter.select-all:
+      en: 'Select all'
+      ru: 'Выбрать всё'
     vehicle-filter.title:
       en: 'Filter vehicles'
       ru: 'Фильтр'
