@@ -1,5 +1,8 @@
 Sections:
   App:
+    vehicles-filter.apply-selection:
+      en: 'Show {vehicles-count}'
+      ru: 'Показать {vehicles-count}'
     vehicles-filter.reset-selection:
       en: 'Reset selection'
       ru: 'Сбросить выбранное'
