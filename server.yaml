@@ -1,7 +1,7 @@
 Sections:
   Server:
     UserWarningWaitForValidation:
-      en: 'You account is waiting for approval'
+      en: 'Your account is waiting for approval'
       ru: 'Ваша учётная запись ожидает одобрения'
     UserWarningChargeDebt:
       en: 'You have a debt of {Currency}{DebtSum}. Please top up your bank card and press the button.'
@@ -10,7 +10,7 @@ Sections:
       en: 'Please attach a bank card'
       ru: 'Пожалуйста, прикрепите банковскую карту'
     UserWarningAccessBlocked:
-      en: 'You account is blocked'
+      en: 'Your account is blocked'
       ru: 'Ваша учётная запись заблокирована'
     FuelingCardGenerated:
       en: 'Fueling card was generated'
