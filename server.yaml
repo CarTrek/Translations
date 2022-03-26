@@ -6,8 +6,8 @@ Sections:
     UserWarningOrderStateCostAndTimeAmount:
       en: '{Currency}{Sum}'
     UserWarningOrderStateCostAndTimeFreeMinutes:
-      en: 'Free for {Minutes} minutes'
-      ru: 'Бесплатно {Minutes} минут'
+      en: 'Free for {TimeSpan}'
+      ru: 'Бесплатно {TimeSpan}'
     UserWarningOrderState:
       en: '{VehicleModel} {VehicleNumber} \r\n {OrderState}: {CostAndTime}'
     UserWarningWaitForValidation:
