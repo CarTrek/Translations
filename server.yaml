@@ -1,15 +1,15 @@
 Sections:
   Server:
     UserWarningOrderStateCostAndTimePackage:
-      en: 'Prepaid for {PackageTimeLeft}'
-      ru: 'Предоплачено на {PackageTimeLeft}'
+      en: 'Prepaid until {PackageUntil}'
+      ru: 'Предоплачено до {PackageUntil}'
     UserWarningOrderStateCostAndTimeAmount:
       en: '{Currency}{Sum}'
     UserWarningOrderStateCostAndTimeFreeMinutes:
       en: 'Free for {TimeSpan}'
       ru: 'Бесплатно {TimeSpan}'
     UserWarningOrderState:
-      en: '{VehicleModel} {VehicleNumber} \r\n {OrderState}: {CostAndTime}'
+      en: '{VehicleModel} {VehicleNumber} - {OrderState}: {CostAndTime}'
     UserWarningWaitForValidation:
       en: 'Your account is waiting for approval'
       ru: 'Ваша учётная запись ожидает одобрения'
