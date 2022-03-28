@@ -1,5 +1,8 @@
 Sections:
   Server:
+    IntegrationModifier:
+      en: Integration modifier
+      ru: Коэффициент интеграции
     UserWarningOrderStateCostAndTimePackage:
       en: 'Prepaid until {PackageUntil}'
       ru: 'Предоплачено до {PackageUntil}'
