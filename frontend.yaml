@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    orders.OverrunShort:
+      en: Overrun
+      ru: Перепробег
+    orders.RatePackSumShort:
+      en: Cost
+      ru: Цена
+    ratesmultiplier.OverrunMultiplier:
+      en: Extra mileage multiplier
+      ru: Коэффициент для перепробега
     rates.AvailableForCorporateOrganizations:
       en: Available for all corporate organization
       ru: Доступен для корпоративных организаций
