@@ -5676,7 +5676,7 @@ Sections:
       ru: По IMSI можно определит симкарту через личный кабинет оператора
     cars.editor.REBOOT:
       cs: Restartovat
-      en: Reload
+      en: Reboot
       ge: გადატვირთვა
       ru: Перезагрузить
     cars.editor.SWITCHSERVER:
