@@ -408,6 +408,9 @@ Sections:
     RightUnlockBattery:
       en: Unlock battery compartment
       ru: Открывать отсек батареи
+    RightUnlockCase:
+      en: Unlock helmet case
+      ru: Открывать кофр со шлемом
     EditMarketingNews:
       en: Edit news
       ru: Редактировать новости
