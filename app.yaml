@@ -1,5 +1,8 @@
 Sections:
   App:
+    after-ride-photos.button-open-case:
+      en: 'Open the case'
+      ru: 'Открыть кейс'
     card-v2.car-ticket-time:
       en: 'prepaid time'
       ru: 'предоплачено'
