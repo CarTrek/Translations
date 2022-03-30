@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-unlock-case:
+      en: 'Unlock case'
+      ru: 'Открыть кейс'
     after-ride-photos.button-open-case:
       en: 'Open the case'
       ru: 'Открыть кейс'
