@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UnlockCaseResult.FailedWrongOrderStage:
+      en: 'Case opening is available in drive and inspect modes only'
+      ru: 'Открывать кейс можно только в режиме аренды или осмотра'
     IntegrationModifier:
       en: Integration modifier
       ru: Коэффициент интеграции
