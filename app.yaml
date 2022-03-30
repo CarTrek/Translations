@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.car-ticket-time:
+      en: 'prepaid time'
+      ru: 'предоплачено'
     vehicles-filter.apply-selection:
       en: 'Show {vehicles-count} vehicles'
       ru: 'Показать {vehicles-count} штук'
