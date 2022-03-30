@@ -1,5 +1,8 @@
 Sections:
   Server:
+    ProtocolEventTypeUnlockCase:
+      en: 'The case was opened'
+      ru: 'Открыт кейс'
     UnlockCaseResult.FailedWrongOrderStage:
       en: 'Case opening is available in drive and inspect modes only'
       ru: 'Открывать кейс можно только в режиме аренды или осмотра'
