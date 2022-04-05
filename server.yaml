@@ -1744,7 +1744,7 @@ Sections:
       cs: Vozidlo není ve spojení se satelity
       ka: ავტომობილი ვერ ხედავს სატელიტებს, გთხოვთ მანქანას შეუცვალეთ ადგილმდებარეობა
       en: Not enough visible sattelites  at the moment
-      ru: No satellite visible, please move the car
+      ru: 'Нет связи со спутниками GPS. Пожалуйста, переставьте автомобиль'
       uk: Автомобіль не бачить супутників
     CarCommandResultErrorTransmissionNotInParking:
       be: Переключите АКПП в положение "P"
