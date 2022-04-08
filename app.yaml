@@ -1,5 +1,13 @@
 Sections:
   App:
+    profile.bonuses-balance:
+      en: 'Bonuses'
+      ru: 'Бонусы'
+    profile.cash-balance:
+      en: 'Balance'
+      ru: 'Баланс'
+    profile.bonuses-balance-amount:
+      en: '{currency}{amount}'
     card-v2.button-unlock-case:
       en: 'Unlock case'
       ru: 'Открыть кейс'
