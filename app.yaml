@@ -713,8 +713,8 @@ Sections:
       en: You have a debt of {currency}{sum}. Please top up your bank card and press the button.
       ru: У вас долг {currency}{sum}. Пожалуйста, пополните карту и нажмите кнопку.
     profile.bonus-account:
-      en: Bonuses
-      ru: Бонусный счёт
+      en: Total credits
+      ru: Всего на счету
     profile.blocked:
       en: Blocked
       ru: Заблокирован
