@@ -796,6 +796,9 @@ Sections:
     km:
       en: km
       ru: км
+    m:
+      en: m.
+      ru: м.
     rent-finish-screen.rent-finished-sucessfully:
       en: Your rent finished successfully
       ru: Ваша аренда завершена успешно
