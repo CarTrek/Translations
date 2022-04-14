@@ -1,5 +1,85 @@
 Sections:
   App:
+    common.yes:
+      be: Yes
+      cs: Ano
+      en: Yes
+      hr: Yes
+      ka: დიახ
+      kk: Yes
+      pl: Yes
+      ru: Да
+      uk: Так
+    common.no:
+      be: No
+      cs: Ne
+      en: No
+      hr: No
+      ka: არა
+      kk: No
+      pl: No
+      ru: Нет
+      uk: Ні
+    common.ok:
+      be: OK
+      cs: OK
+      en: OK
+      hr: OK
+      ka: დიახ
+      kk: OK
+      pl: OK
+      ru: OK
+      uk: OK
+    common.cancel:
+      be: Cancel
+      cs: Zrušit
+      en: Cancel
+      hr: Cancel
+      ka: გაუქმება
+      kk: Cancel
+      pl: Cancel
+      ru: Отмена
+      uk: Відміна
+    common.version:
+      be: version
+      cs: verze
+      en: version
+      hr: version
+      ka: ვერსია
+      kk: version
+      pl: version
+      ru: версия
+      uk: версія
+    common.error:
+      be: Error
+      cs: Chyba
+      en: Error
+      hr: Error
+      ka: შეცდომა
+      kk: Error
+      pl: Error
+      ru: Ошибка
+      uk: Помилка
+    common.km:
+      be: km
+      cs: km
+      en: km
+      hr: km
+      ka: კმ
+      kk: km
+      pl: km
+      ru: км
+      uk: км
+    common.next:
+      be: Next
+      cs: Dále
+      en: Next
+      hr: Next
+      ka: შემდეგი
+      kk: Next
+      pl: Next
+      ru: Далее
+      uk: Далі
     profile.bonuses-balance:
       en: 'Bonuses'
       ru: 'Бонусы'
@@ -922,6 +1002,13 @@ Sections:
     radar.timeShort.seconds:
       en: 's.'
       ru: 'с.'
+    radar.confirmAutobook:
+      cs: Automaticky zarezervovat auto?
+      en: Are you sure you want to book an auto automatically?
+      hr: Are you sure you want to book an auto automatically?
+      ka: Are you sure you want to book an auto automatically?
+      ru: Зарезервировать авто автоматически?
+      uk: Are you sure you want to book an auto automatically?
     common.systemBackButtonTitle:
       en: 'Back'
       ru: 'Назад'
