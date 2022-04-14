@@ -858,7 +858,7 @@ Sections:
       ru: 'ИЩЕМ'
     radar.repeat:
       en: 'repeat'
-      ru: 'Повторять'
+      ru: 'повторять'
     radar.now:
       en: 'NOW'
       ru: 'СЕЙЧАС'
