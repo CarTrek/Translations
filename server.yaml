@@ -365,7 +365,7 @@ Sections:
       en: Search users
       ru: Поиск пользователей
     RateCardFreeBooking:
-      en: "{time} of free boking"
+      en: "{time} of free booking"
       ru: "{time} бронирования бесплатно" 
     RatePackCardIncludedTime:
       en: Included
