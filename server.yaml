@@ -1,5 +1,8 @@
 Sections:
   Server:
+    TransactionIsStillInProgress:
+      en: Previous transaction is still in progress. Please, try again later
+      ru: Предыдущая операция все еще в процессе. Пожалуйста, повторите попытку позже
     ProtocolEventTypeUnlockCase:
       en: 'The case was opened'
       ru: 'Открыт кейс'
