@@ -942,6 +942,9 @@ Sections:
     radar.now:
       en: 'NOW'
       ru: 'СЕЙЧАС'
+    radar.time-label:
+      en: 'Time'
+      ru: 'Время'
     radar.timeLeft:
       en: 'time left'
       ru: 'осталось времени'
