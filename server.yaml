@@ -1,5 +1,8 @@
 Sections:
   Server:
+    TransactionIsStillInProgress:
+      en: Previous transaction is still in progress. Please, try again later
+      ru: Предыдущая операция все еще в процессе. Пожалуйста, повторите попытку позже
     ProtocolEventTypeUnlockCase:
       en: 'The case was opened'
       ru: 'Открыт кейс'
@@ -364,6 +367,9 @@ Sections:
     RightSearchUsers:
       en: Search users
       ru: Поиск пользователей
+    RateCardFreeBooking:
+      en: "{time} of free booking"
+      ru: "{time} бронирования бесплатно" 
     RatePackCardIncludedTime:
       en: Included
       ru: Включено
