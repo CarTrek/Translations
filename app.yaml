@@ -1,5 +1,11 @@
 Sections:
   App:
+    drawer.menuItemFaq:
+      en: 'FAQ'
+      ru: 'Помощь'
+    drawer.menuItemRates:
+      en: 'Tariffs'
+      ru: 'Тарифы'
     drawer.bonuses:
       en: 'Bonuses'
       ru: 'Бонусы'
