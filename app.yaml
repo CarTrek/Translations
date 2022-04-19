@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.bonuses:
+      en: 'Bonuses'
+      ru: 'Бонусы'
     drawer.menuItemPurchaseBonuses:
       en: Purchase bonuses
       ru: Купить бонусы
