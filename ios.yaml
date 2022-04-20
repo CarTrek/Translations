@@ -869,7 +869,7 @@ Sections:
       en: Sorry, but the service is unavailable now. Please try again later.
       hr: Sorry, but the service is unavailable now. Please try again later.
       ka: სერვისი დროებით მიუწვდომელია, გთხოვთ სცადოთ მოგვიანებით
-      ru: Извините, сервис временно не доступен. Попробуйте позже.
+      ru: Извините, сервис временно недоступен. Попробуйте позже.
       uk: Sorry, but the service is unavailable now. Please try again later.
     login.userBlocked:
       cs: omlouváme se, váš účet je zablokován
