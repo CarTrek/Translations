@@ -936,6 +936,9 @@ Sections:
     radar.searching:
       en: 'SEARCHING'
       ru: 'ИЩЕМ'
+    radar.waiting:
+      en: 'WAITING'
+      ru: 'ОЖИДАНИЕ'
     radar.repeat:
       en: 'repeat'
       ru: 'повторять'
