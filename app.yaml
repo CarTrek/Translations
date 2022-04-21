@@ -1,5 +1,41 @@
 Sections:
   App:
+    drawer.menuItemFaq:
+      en: 'FAQ'
+      ru: 'Помощь'
+    drawer.menuItemRates:
+      en: 'Tariffs'
+      ru: 'Тарифы'
+    drawer.bonuses:
+      en: 'Bonuses'
+      ru: 'Бонусы'
+    drawer.menuItemPurchaseBonuses:
+      en: Purchase bonuses
+      ru: Купить бонусы
+    drawer.menuItemCatalog:
+      en: Select a car
+      ru: Выбрать автомобиль
+    drawer.menuItemMap:
+      en: Map
+      ru: Карта
+    drawer.menuItemProfile:
+      en: My profile
+      ru: Мои данные
+    drawer.menuItemPaymentMethods:
+      en: Payment methods
+      ru: Способ оплаты
+    drawer.menuItemRidesHistory:
+      en: My rides
+      ru: Мои поездки
+    drawer.menuItemPromoCode:
+      en: Promo code
+      ru: Промокод
+    drawer.menuItemSupport:
+      en: Support
+      ru: Поддержка
+    drawer.menuItemRules:
+      en: Rules
+      ru: Правила сервиса
     common.yes:
       be: Yes
       cs: Ano
