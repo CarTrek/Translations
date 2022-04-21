@@ -274,6 +274,9 @@ Sections:
     rate-select.select-rate:
       en: Select
       ru: Выбрать
+    card-v2.button-book-rate:
+      en: Book
+      ru: Забронировать
     card-v2.start-inspect-title:
       en: Open the car?
       ru: Открыть автомобиль?
