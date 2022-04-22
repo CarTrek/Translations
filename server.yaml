@@ -325,6 +325,9 @@ Sections:
     FailedCouldNotRecognizeQrCode:
       en: Could not read QR-code. Please try to scan it again.
       ru: На фото не удалось найти QR-код. Пожалуйста, попробуйте сфотографировать код ещё раз.
+    EmailSubjectRadarCarFound:
+      en: "The radar has found a car for you"
+      ru: "Радар нашёл для вас машину"
     EmailSubjectSpeedLimitExceeded:
       en: Speed limit violation
       ru: Вы превысили скорость
