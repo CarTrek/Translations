@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-buy-ticket:
+      en: 'Buy tariff'
+      ru: 'Купить'
     drawer.menuItemFaq:
       en: 'FAQ'
       ru: 'Помощь'
