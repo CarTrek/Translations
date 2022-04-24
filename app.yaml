@@ -259,6 +259,9 @@ Sections:
     card-v2.park-question:
       en: Do you really want to close the car and put your rentl to the parking mode?
       ru: Вы действительно хотите закрыть машину и перевести вашу аренду в режим парковки?
+    card-v2.car-ticked-purchased:
+      en: "The tariff was purchased successfully"
+      ru: "Тариф успешно приобретён"
     rate-select.rent-started:
       en: Your rental has been started
       ru: Ваша аренда началась
