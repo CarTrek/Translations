@@ -39,6 +39,9 @@ Sections:
     drawer.menuItemRules:
       en: Rules
       ru: Правила сервиса
+    drawer.menuItemRadar:
+      en: Radar
+      ru: Радар
     common.yes:
       be: Yes
       cs: Ano
