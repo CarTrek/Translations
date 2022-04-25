@@ -946,14 +946,14 @@ Sections:
       en: 'Tap to select the radar location'
       ru: 'Выберите место, где радар будет искать машины'
     radar.timeToSearch:
-      en: 'time to search'
-      ru: 'время на поиск'
+      en: 'Time to search'
+      ru: 'Время на поиск'
     radar.startSearch:
-      en: 'start search'
-      ru: 'начало поиска'
+      en: 'Start search'
+      ru: 'Начало поиска'
     radar.autoBook:
-      en: 'book automatically'
-      ru: 'авторезервирование'
+      en: 'Book automatically'
+      ru: 'Авторезервирование'
     radar.currentLocation:
       en: 'Current location'
       ru: 'Текущее место'
@@ -988,8 +988,8 @@ Sections:
       en: 'WAITING'
       ru: 'ОЖИДАНИЕ'
     radar.repeat:
-      en: 'repeat'
-      ru: 'повторять'
+      en: 'Repeat'
+      ru: 'Повторять'
     radar.now:
       en: 'NOW'
       ru: 'СЕЙЧАС'
@@ -1051,8 +1051,8 @@ Sections:
       en: 'h.'
       ru: 'ч.'
     radar.timeShort.minutes:
-      en: 'm.'
-      ru: 'м.'
+      en: 'min.'
+      ru: 'мин.'
     radar.timeShort.seconds:
       en: 's.'
       ru: 'с.'
