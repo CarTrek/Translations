@@ -1,5 +1,8 @@
 Sections:
   App:
+    after-ride-photos.inside:
+      en: "Interior"
+      ru: "В салоне"
     card-v2.button-buy-ticket:
       en: 'Buy tariff'
       ru: 'Купить'
