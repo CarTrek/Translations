@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightDownloadPenaltyProtocol:
+      en: Download penalty protocol
+      ru: Скачать протокол штрафа
     TransactionIsStillInProgress:
       en: Previous transaction is still in progress. Please, try again later
       ru: Предыдущая операция все еще в процессе. Пожалуйста, повторите попытку позже
