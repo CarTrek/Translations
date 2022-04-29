@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.button-tech-make-available:
+      en: "Make available"
+      ru: "Вывести в доступ"
+    card-v2.button-tech-make-unavailable:
+      en: "Make unavailable"
+      ru: "Снять из доступа"
     after-ride-photos.inside:
       en: "Interior"
       ru: "В салоне"
