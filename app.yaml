@@ -1,11 +1,32 @@
 Sections:
   App:
+    card-v2.button-open-case:
+      en: "🧳 Open case"
+      ru: "🧳 Открыть кофр"
+    card-v2.button-tech-blink:
+      en: "📣 Blink"
+      ru: "📣 Поморгать"
+    card-v2.button-unlock-battery:
+      en: "🔋 Unlock battery"
+      ru: "🔋 Открыть батарею"
+    card-v2.button-tech-immobilize:
+      en: "❌ Immobilize"
+      ru: "❌ Заблокировать"
+    card-v2.button-tech-mobilize:
+      en: "✔️ Mobilize"
+      ru: "✔️ Разблокировать"
+    card-v2.button-tech-lock:
+      en: "🔒 Lock"
+      ru: "🔒 Закрыть"
+    card-v2.button-tech-unlock:
+      en: "🔓 Unlock"
+      ru: "🔓 Открыть"
     card-v2.button-tech-make-available:
-      en: "Make available"
-      ru: "Вывести в доступ"
+      en: "🟢 Make available"
+      ru: "🟢 Вывести в доступ"
     card-v2.button-tech-make-unavailable:
-      en: "Make unavailable"
-      ru: "Снять из доступа"
+      en: "🟠 Make unavailable"
+      ru: "🟠 Снять из доступа"
     after-ride-photos.inside:
       en: "Interior"
       ru: "В салоне"
