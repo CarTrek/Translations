@@ -3188,12 +3188,12 @@ Sections:
       ru: У Вас в данный момент нет активной аренды.
       uk: У Вас в даний момент нема активної оренди.
     HornMyCarResultOkNowBeeping:
-      be: Сигнал автомобиля успешно активирован.
+      be: Сигнал успешно активирован.
       cs: Klakson vozidla byl aktivován.
       ka: ავტომობილის ხმოვანი სიგნალი წარმატებით გააქტიურდა.
-      en: The car's horn has been successfully activated
-      ru: Сигнал автомобиля успешно активирован.
-      uk: Сигнал автомобіля успішно активовано.
+      en: The vehicle is blinking now
+      ru: Сигнал успешно активирован.
+      uk: Сигнал успішно активовано.
     StartEngineResultFailedCarNotFound:
       be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
