@@ -269,11 +269,11 @@ Sections:
       en: Private ride
       ru: Частная поездка
     card-v2.start-book-title:
-      en: Book the car
-      ru: Бронирование машины
+      en: Book {car-name}
+      ru: Бронирование {car-name}
     card-v2.start-book-question:
-      en: Do you really want to book the car?
-      ru: Вы действительно хотите забронировать автомобиль?
+      en: Do you really want to book {car-name}?
+      ru: Вы действительно хотите забронировать {car-name}?
     card-v2.start-book-question-corporate:
       en: Please choose at whose expense you want to make the ride
       ru: Пожалуйста, выберите за чей счёт вы хотите совершить поездку
