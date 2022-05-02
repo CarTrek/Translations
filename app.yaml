@@ -281,7 +281,7 @@ Sections:
       en: The car is opened now
       ru: Теперь автомобиль открыт
     card-v2.drive-question:
-      en: Do you really want to open the car and put you rental to the drive mode?
+      en: Do you really want to open the car and put your rental to the drive mode?
       ru: Вы действительно хотите открыть автомобиль и перевести вашу аренду в режим использования?
     card-v2.drive-title:
       en: Open the car
