@@ -8,10 +8,10 @@ Sections:
       ru: Предыдущая операция все еще в процессе. Пожалуйста, повторите попытку позже
     ProtocolEventTypeUnlockCase:
       en: 'The case was opened'
-      ru: 'Открыт кейс'
+      ru: 'Открыт кофр'
     UnlockCaseResultFailedWrongOrderStage:
       en: 'Case opening is available in drive and inspect modes only'
-      ru: 'Открывать кейс можно только в режиме аренды или осмотра'
+      ru: 'Открывать кофр можно только в режиме аренды или осмотра'
     IntegrationModifier:
       en: Integration modifier
       ru: Коэффициент интеграции

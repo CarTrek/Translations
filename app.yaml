@@ -165,10 +165,10 @@ Sections:
       en: '{currency}{amount}'
     card-v2.button-unlock-case:
       en: 'Unlock case'
-      ru: 'Открыть кейс'
+      ru: 'Открыть кофр'
     after-ride-photos.button-open-case:
       en: 'Open the case'
-      ru: 'Открыть кейс'
+      ru: 'Открыть кофр'
     card-v2.car-ticket-time:
       en: 'prepaid time'
       ru: 'предоплачено'
