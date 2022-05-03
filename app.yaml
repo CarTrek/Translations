@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-show-act:
+      en: "Act"
+      ru: "Акт"
     report-screen.accept-act:
       en: "Starting the rent you are signing the acceptance act."
       ru: "Начиная аренду вы подписываете акт-приёма-передачи транспортного средства."
