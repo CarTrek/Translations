@@ -1,8 +1,8 @@
 Sections:
   App:
     report-screen.accept-act:
-      en: "Starting the rent you are signing the acceptance act"
-      ru: "Начиная аренду вы подписываете акт-приёма-передачи транспортного средства"
+      en: "Starting the rent you are signing the acceptance act."
+      ru: "Начиная аренду вы подписываете акт-приёма-передачи транспортного средства."
     report-screen.accept-act-link:
       en: "Show the act..."
       ru: "Показать акт..."
