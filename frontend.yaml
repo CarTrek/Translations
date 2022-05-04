@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    carpenalty.Paid:
+      en: Paid
+      ru: Оплачен
+    carpenalty.PaymentSentViaApi:
+      en: Payment sent
+      ru: Оплата отправлена
+    carpenalty.PaymentStatusNotPaid:
+      en: Not paid
+      ru: Не оплачен
     orders.OverrunShort:
       en: Overrun
       ru: Перепробег
