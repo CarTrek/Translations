@@ -1,9 +1,9 @@
 Sections:
   AdminFrontend:
-    carpenalty.Paid:
+    carpenalty.PaymentStatusPaid:
       en: Paid
       ru: Оплачен
-    carpenalty.PaymentSentViaApi:
+    carpenalty.PaymentStatusPaymentSentViaApi:
       en: Payment sent
       ru: Оплата отправлена
     carpenalty.PaymentStatusNotPaid:
