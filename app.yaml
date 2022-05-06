@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.gps-is-disabled:
+      en: 'You disabled GPS. To start the rent enable GPS.'
+      ru: 'Вы запретили доступ к GPS. Чтобы начать аренду, разрешите доступ к GPS.'
     card-v2.button-show-act:
       en: "Act"
       ru: "Акт"
