@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.button-scan-qr:
+      en: 'Scan QR code'
+      ru: 'Сканировать QR-код'
     appless.gps-is-disabled:
       en: 'You disabled GPS. To start the rent enable GPS.'
       ru: 'Вы запретили доступ к GPS. Чтобы начать аренду, разрешите доступ к GPS.'
