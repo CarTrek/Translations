@@ -602,7 +602,7 @@ Sections:
       ru: Отключено
     ratepacks.editor.RateInfoUrl:
       en: Rate pack info url
-      ru: Ссылка на описание абонемента
+      ru: Ссылка на описание тарифа
     rates.editor.RateInfoUrl:
       en: Rate info url
       ru: Ссылка на описание тарифа
@@ -656,7 +656,7 @@ Sections:
       ru: '% оплаты бонусами'
     organization.editor.MassTakeOffRatePacks:
       en: RatePacks - take off
-      ru: Абонементы - снять
+      ru: Предоплатные тарифы - снять
     organization.editor.MassTakeOffRates:
       en: Rates - take off
       ru: Минутные тарифы - снять
@@ -671,7 +671,7 @@ Sections:
       ru: Автомобили - снять
     organization.editor.MassAssignRatePacks:
       en: RatePacks - assign
-      ru: Абонементы - назначить
+      ru: Предоплатные тарифы - назначить
     organization.editor.MassAssignRates:
       en: Rates - assign
       ru: Минутные тарифы - назначить
@@ -1975,9 +1975,9 @@ Sections:
       ru: Минутные тарифы
     aside.nav.RatePacks:
       cs: předplatné
-      en: Subscription
+      en: Prepaid tariffs
       ge: აბონიმენტები
-      ru: Абонементы
+      ru: Предоплатные тарифы
     aside.nav.ZONES:
       cs: zóny
       en: Zones
@@ -7388,9 +7388,9 @@ Sections:
       ru: Минутные тарифы
     rates.RatePacks:
       cs: Předplatné
-      en: Subscription
+      en: Prepaid tariffs
       ge: აბონემენტი
-      ru: Абонементы
+      ru: Предоплатные тарифы
     rates.ADDRATE:
       cs: Vytvořit tarif
       en: Add rate
@@ -7605,9 +7605,9 @@ Sections:
       ru: Событие
     ratepacks.TimeIncluded:
       cs: Čas zahrnutý v předplatném
-      en: Time, included in the subscription
+      en: Time, included in the prepaid tariff
       ge: აბონემენტში ჩართვის პერიოდი
-      ru: Время, включённое в абонемент
+      ru: Время, включённое в тариф
     ratepacks.Days:
       cs: Dnů
       en: Days
@@ -7645,9 +7645,9 @@ Sections:
       ru: Перепробег
     ratepacks.Cost:
       cs: Cena předplatného
-      en: Subscription cost
+      en: Prepaid tariff cost
       ge: აბონემენტის ღირებულება
-      ru: Стоимость абонемента
+      ru: Стоимость тарифа
     ratepacks.RatePackCost:
       cs: Cena
       en: Cost
@@ -7685,14 +7685,14 @@ Sections:
       ru: Тип трансмиссии
     ratepacks.EditRatePack:
       cs: Editace předplatného
-      en: Edit subscription
+      en: Edit prepaid tariff
       ge: აბონემენტის რედაქტირება
-      ru: Редактирование абонемента
+      ru: Редактирование предоплатного тарифа
     ratepacks.NewRatePack:
       cs: Nové předplatné
-      en: New subscription
+      en: New prepaid tairff
       ge: ახალი აბონემენტი
-      ru: Новый абонемент
+      ru: Новый тариф
     organizations.ORGANIZATIONS:
       cs: Skupiny
       en: Organizations
