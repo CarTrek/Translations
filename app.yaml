@@ -1,5 +1,17 @@
 Sections:
   App:
+    map.disable-insurance-title:
+      en: "Turn off insurance"
+      ru: "Отключить страховку"
+    map.enable-insurance-title:
+      en: "Turn on insurance"
+      ru: "Включить страховку"
+    map.disable-insurance-message:
+      en: "Are you sure you want to turn the insurance off?"
+      ru: "Вы уверены, что хотите отключить страховку?"
+    map.enable-insurance-message:
+      en: "Are you sure you want to turn the insurance on?"
+      ru: "Вы уверены, что хотите включить страховку?"
     card-v2.button-scan-qr:
       en: 'Scan QR code'
       ru: 'Сканировать QR-код'
