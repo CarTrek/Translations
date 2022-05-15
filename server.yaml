@@ -1,5 +1,11 @@
 Sections:
   Server:
+    PurchaseSubscriptionEnumFailedUnavailableSubscription:
+      en: "This subscription is unavailable for you"
+      ru: "Эта подписка для вас недоступна"
+    PurchaseSubscriptionEnumFailedAlreadySubscribed:
+      en: "You already have this subscription"
+      ru: "Эта подписка уже у вас есть"
     WithdrawalReasonPurchaseSubscription:
       en: "Purchase subscription"
       ru: "Покупка подписки"
