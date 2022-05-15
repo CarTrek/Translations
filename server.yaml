@@ -1,5 +1,8 @@
 Sections:
   Server:
+    WithdrawalReasonPurchaseSubscription:
+      en: "Purchase subscription"
+      ru: "Покупка подписки"
     RightDownloadPenaltyProtocol:
       en: Download penalty protocol
       ru: Скачать протокол штрафа
