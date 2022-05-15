@@ -603,8 +603,8 @@ Sections:
       en: 'Loading...'
       ru: 'Загрузка...'
     take-photo.message.error:
-      en: 'Could not access your cam 📷'
-      ru: 'Не удалось получить доступ к камере 📷'
+      en: 'Could not access your cam'
+      ru: 'Не удалось получить доступ к камере'
     appless.insurance-conditions-title:
       en: 'Insurance conditions'
       ru: 'Условия страховки'
