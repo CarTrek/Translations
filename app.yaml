@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.screen-title:
+      en: "Subscription"
+      ru: "Подписка"
     map.disable-insurance-title:
       en: "Turn off insurance"
       ru: "Отключить страховку"
