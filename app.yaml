@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.purchase-confirmation-message:
+      en: "Are you sure you want to purchase the subscription?"
+      ru: "Вы уверены, что хотите купить подписку?"
     subscription.purchase-button:
       en: 'Purchase subscription'
       ru: 'Купить подписку'
