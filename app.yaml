@@ -1,6 +1,6 @@
 Sections:
   App:
-    subscription.purcahse-button:
+    subscription.purchase-button:
       en: 'Purchase subscription'
       ru: 'Купить подписку'
     subscription.text-line:
