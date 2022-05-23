@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.text-line:
+      en: 'Free ride start'
+      ru: 'Бесплатный старт поездки'
     subscription.price:
       en: '{currency}{amount} per {period} days'
       ru: '{currency}{amount} за {period} дней'
