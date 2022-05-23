@@ -1,5 +1,11 @@
 Sections:
   App:
+    subscription.already-subscribed:
+      en: "You are subscribed already. The subscription will be valid until {valid-until}."
+      ru: "У вас уже есть подписка. Она будет действительна до {valid-until}."
+    subscription.already-subscribed-renew:
+      en: "The subscription will be renewed automatically at {valid-until}."
+      ru: "Подписка будет обновлена автоматически {valid-until}, если на вашей карте будет достаточно денег."
     subscription.purchase-confirmation-message:
       en: "Are you sure you want to purchase the subscription?"
       ru: "Вы уверены, что хотите купить подписку?"
