@@ -1,8 +1,8 @@
 Sections:
   App:
     subscription.price:
-      en: '{currency}{amount} per {period}'
-      ru: '{currency}{amount} в {period}'
+      en: '{currency}{amount} per {period} days'
+      ru: '{currency}{amount} за {period} дней'
     subscription.screen-title:
       en: "Subscription"
       ru: "Подписка"
