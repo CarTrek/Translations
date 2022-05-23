@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CancelSubscriptionEnumFailedNoSubscription:
+      en: "You have no subscription"
+      ru: "У вас нет подписки"
     PurchaseSubscriptionEnumFailedUnavailableSubscription:
       en: "This subscription is unavailable for you"
       ru: "Эта подписка для вас недоступна"
