@@ -582,7 +582,7 @@ Sections:
     cars.editor.UnlockCase:
       en: Unlock helmet case
       ru: Открыть кофр для шлема
-    cars.editor.LOGIC
+    cars.editor.LOGIC:
       en: Logic
       ru: Логика
     tecTracker.OfflineCustomerManual:
