@@ -582,6 +582,9 @@ Sections:
     cars.editor.UnlockCase:
       en: Unlock helmet case
       ru: Открыть кофр для шлема
+    cars.editor.LOGIC:
+      en: Logic
+      ru: Логика
     tecTracker.OfflineCustomerManual:
       en: 'Algorithm of emergency door locking with engine blocking on cars with TEK terminals <br>a) Open the drivers door and leave it open, while all other doors, hood and trunk must be closed <br>b) Turn on the ignition <br>c) Immediately after turning on ignition, press the brake pedal 5 times with the ignition on: <br>- press with a pause for about 1 second <br>- hold the pedal pressed for about 1 second <br>d) The turn signal lamps will flash 1 time <br>e) Switch off the ignition <br>f) Exit the car and close the door <br>g) 10 seconds after the door is closed, the central locking system of the car will be locked, the direction lamps will blink, the engine blocking will turn on the door locking procedure will be canceled.'
       ru: 'Алгоритм аварийного запирания дверей с включением блокировки двигателя на автомобилях с терминалами ТЭК<br>a)  Открыть водительскую дверь и оставить её открытой, при этом все остальные двери, капот и багажник должны быть закрыты<br>b)  Включить зажигание<br>c)  Сразу после включения зажигания нажать 5 раз педаль тормоза при включенном зажигании <br>- нажимать с паузой около 1 сек<br>- удерживать педаль нажатой около 1 сек<br>d)  Лампы поворотов мигнут 1 раз<br>e)  Выключить зажигание<br>f)  Выйти из автомобиля и закрыть дверь<br>g)  Через 10 сек после закрытия двери, ЦЗ автомобиля заблокируется, мигнут лампы поворотов, включится блокировка двигателя<br>Прим. если после выполнения пункта “e” повторно будет включено зажигание, или после выполнения пункта “f” будет открыта любая дверь, то процедура запирания дверей будет отменена.'
@@ -1085,6 +1088,9 @@ Sections:
       ru: Всё равно выполнить
       cs: I tak splníte
       ka: ჯერ კიდევ შეასრულოს
+    cars.editor.DefaultLogic:
+      en: Default
+      ru: По умолчанию
     orders.SendReport:
       en: Send order report to user
       ru: Отправить пользователю отчет о поездке
