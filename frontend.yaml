@@ -1088,6 +1088,9 @@ Sections:
       ru: Всё равно выполнить
       cs: I tak splníte
       ka: ჯერ კიდევ შეასრულოს
+    cars.editor.DefaultLogic:
+      en: Default
+      ru: По умолчанию
     orders.SendReport:
       en: Send order report to user
       ru: Отправить пользователю отчет о поездке
