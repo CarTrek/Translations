@@ -1,5 +1,8 @@
 Sections:
   App:
+    app-start.running-distrib-warning:
+      en: "Running develop version of the app now"
+      ru: "Запущена отладочная версия приложения"
     profile.open-payment-methods:
       en: "Show"
       ru: "Показать"
