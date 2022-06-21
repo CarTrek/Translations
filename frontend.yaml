@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.NAV.Timezone:
+      en: Timezone
+      ru: Таймзона
     carpenalty.PaymentStatusPaid:
       en: Paid
       ru: Оплачен
