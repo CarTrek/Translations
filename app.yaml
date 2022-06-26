@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.unlock-price:
+      en: "to start"
+      ru: "за начало"
     app-start.running-distrib-warning:
       en: "Running develop version of the app now"
       ru: "Запущена отладочная версия приложения"
