@@ -582,6 +582,9 @@ Sections:
     cars.editor.UNLOCKBATTERY:
       en: Unlock battery
       ru: Открыть батарею
+    cars.editor.RENEWCODES:
+      en: Renew access codes
+      ru: Обновить код доступа
     cars.editor.UnlockCase:
       en: Unlock helmet case
       ru: Открыть кофр для шлема
