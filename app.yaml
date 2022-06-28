@@ -1611,3 +1611,17 @@ Sections:
     confirm-pay.pay-confirmation-message:
         en: 'Do you confirm the payment of {currency}{amount}?'
         ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
+    start-news.btnSkip.title:
+      cs: Přeskočit
+      en: Skip
+      hr: Skip
+      ka: გამოტოვება
+      ru: Пропустить
+      uk: Пропустити
+    start-news.btnNext.title:
+      cs: DALŠÍ
+      en: Next
+      hr: Next
+      ka: შემდეგი
+      ru: Далее
+      uk: Далі
