@@ -1,5 +1,7 @@
 Sections:
   AdminFrontend:
+    cars.editor.BLUETOOTH:
+      en: Bluetooth
     aside.NAV.Timezone:
       en: Timezone
       ru: Таймзона
