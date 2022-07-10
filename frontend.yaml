@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    cars.list.BluetoothDeviceKey:
+      en: "Bluetooth device key"
+      ru: "Ключ устройства Bluetooth"
+    cars.list.BluetoothDeviceId:
+      en: "Bluetooth device ID"
+      ru: "ID устройства Bluetooth"
+    cars.editor.BluetoothDeviceType:
+      en: "Bluetooth device type"
+      ru: "Тип устройства Bluetooth"
     cars.editor.BLUETOOTH:
       en: Bluetooth
     aside.NAV.Timezone:
