@@ -584,6 +584,9 @@ Sections:
     cars.editor.UNLOCKBATTERY:
       en: Unlock battery
       ru: Открыть батарею
+    cars.editor.RENEWCODES:
+      en: Renew access codes
+      ru: Обновить код доступа
     cars.editor.UnlockCase:
       en: Unlock helmet case
       ru: Открыть кофр для шлема
@@ -6197,6 +6200,12 @@ Sections:
       en: Stop engine
       ge: ძრავის გაჩერება
       ru: Остановить двигатель
+    cars.editor.TurnOnIgniton:
+      en: Turn on ignition
+      ru: Включить зажигание
+    cars.editor.TurnOffIgniton:
+      en: Turn off ignition
+      ru: Выключить зажигание
     cars.editor.Save:
       cs: Uložit
       en: Save
