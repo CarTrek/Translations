@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.MonthIncome:
+      en: Month income
+      ru: Потрачено за месяц
     cars.list.BluetoothDeviceKey:
       en: "Bluetooth device key"
       ru: "Ключ устройства Bluetooth"
