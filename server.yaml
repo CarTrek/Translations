@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedOrderLocked:
+      en: "Other command in progress"
+      ru: "Дождитесь выполения другой команд"
     CancelSubscriptionEnumFailedNoSubscription:
       en: "You have no subscription"
       ru: "У вас нет подписки"
