@@ -1,6 +1,6 @@
 Sections:
   AdminFrontend:
-    aside.nav.reports:
+    aside.nav.AnalyticReports:
       en: Analytic reports
       ru: Аналитические отчеты
     clients.editor.MonthIncome:
