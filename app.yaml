@@ -5,7 +5,7 @@ Sections:
       ru: "Нет, я передумал"
     card-v2.finish-rent-out-of-zone-inapp-message:
       en: "You are trying to finish your ride outside of the permitted completion zone. Nothing bad will happen to you for it, but we are not sure. You can continue completing the ride here, but it is better to move the scooter to the home area. Continue finishing the ride?"
-      ru: "Вы пытаетесь завершить аренду за пределами разрешённо зоны завершения. Вам за это ничего не будет, но это неточно. Вы можете продолжить завершение аренды тут, но лучше переместить самокат в зону завершения. Продолжить завершение аренды?"
+      ru: "Вы пытаетесь завершить аренду за пределами зоны завершения. Вам за это ничего не будет, но это неточно. Вы можете продолжить завершение аренды тут, но лучше переместить самокат в зону завершения. Продолжить завершение аренды?"
     card-v2.finish-rent-out-of-zone-inapp-title:
       en: "Finish ride beyond the home zone"
       ru: "Завершение аренды за зоной"
