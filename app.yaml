@@ -12,6 +12,8 @@ Sections:
     card-v2.finish-rent-out-of-zone-inapp-yes:
       en: "Yes, please, finish it"
       ru: "Да, и так сойдёт"
+    card-v2.finish-rent-out-of-zone-inapp-image-url:
+      en: " "
     card-v2.unlock-price:
       en: "to start"
       ru: "за начало"
