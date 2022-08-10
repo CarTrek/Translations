@@ -1,5 +1,14 @@
 Sections:
   App:
+    bluetooth.connection-failed:
+      ru: "Не удалось установить связь через Bluetooth"
+      en: "Bluetooth connection failed"
+    bluetooth.bluetooth-permission-inapp-title:
+      ru: "Попробуем через Bluetooth"
+      en: "Let's try via Bluetooth"
+    bluetooth.bluetooth-permission-inapp-message:
+      ru: "С вашим транспортным средством нет связи, поэтому не удалось выполнить команду. Но оно оборудовано устройством Bluetooth, поэтому сейчас мы попробуем выполнить команду напрямую. Для этого вам потребуется разрешить нашему приложению доступ к Bluetooth."
+      en: "Your vehicle is offline so the command could not be comleted. But the vehicle is equipped with a Bluetooth device so now we will try to execute the command directly. To do this you will need to allow our app access to Bluetooth."
     bluetoth.is-not-supported-in-browser:
       en: "This vehicle has a Bluetooth device, but Bluetooth is not supported in browser"
       ru: "Это транспортное средство оборудовано устройством Bluetooth, но Bluetooth не поддерживается в браузере"
