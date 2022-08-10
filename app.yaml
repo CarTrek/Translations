@@ -1,5 +1,8 @@
 Sections:
   App:
+    bluetoth.is-not-supported-in-browser:
+      en: "This vehicle has a Bluetooth device, but Bluetooth is not supported in browser"
+      ru: "Это транспортное средство оборудовано устройством Bluetooth, но Bluetooth не поддерживается в браузере"
     card-v2.finish-rent-out-of-zone-inapp-cancel:
       en: "Oh no, cancel"
       ru: "Нет, я передумал"
