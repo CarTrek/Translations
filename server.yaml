@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UsedForceToken:
+      en: "Used force token"
+      ru: "С токеном"
     AnalyticReports:
       en: Analytic reports
       ru: Отчеты
