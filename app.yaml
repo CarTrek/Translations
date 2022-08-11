@@ -1,8 +1,8 @@
 Sections:
   App:
     bluetooth.try-failed:
-      ru: "Нет связи и выполнить через Bluetooth не удалось: {message}"
-      en: "No connection and Bluetooth failed: {message}"
+      ru: "Нет связи и выполнить через Bluetooth тоже не удалось: {message}"
+      en: "No connection and Bluetooth failed too: {message}"
     bluetooth.trying-bluetooth:
       ru: "Нет связи. Пытаемся повторить через Bluetooth..."
       en: "No connection. Retrying via Bluetooth..."
