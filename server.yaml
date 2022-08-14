@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RentFinishBeyondTheZoneFine:
+      en: "Fine for finishing beyond the home zone"
+      ru: "Штраф за завершение за пределами зоны"
     UsedForceToken:
       en: "Used force token"
       ru: "С токеном"
