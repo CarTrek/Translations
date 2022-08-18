@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orders.RunWithCurrentRate:
+      en: "Run with the rate"
+      ru: "Пробег на тарифе"
     aside.nav.AnalyticReports:
       en: Analytic reports
       ru: Аналитические отчеты
