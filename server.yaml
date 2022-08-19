@@ -899,6 +899,9 @@ Sections:
     MarketingCampaign:
       en: 'Marketing campaign'
       ru: 'Маркетинговая кампания'
+    WithdrawalReasonFinishedBeyondZone:
+      en: "Finished beyond home zone"
+      ru: "Завершение за зоной парковки"
     WithdrawalReasonFinishInPaidZone:
       en: Finished in paid zone
       ru: Завершение аренды в платной зоне
