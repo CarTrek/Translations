@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.finish-ride:
+      en: "Finish the ride"
+      ru: "Завершить аренду"
     bluetooth.try-failed:
       ru: "Нет связи и выполнить через Bluetooth тоже не удалось: {message}"
       en: "No connection and Bluetooth failed too: {message}"
