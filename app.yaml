@@ -1,9 +1,14 @@
 Sections:
   App:
+    zones-rides-report.rides:
+      en: "rides"
+      ru: "поездок"
     zones-rides-report.users-header:
       en: "Аренды по сотрудникам"
+      ru: "Аренды по сотрудникам"
     zones-rides-report.zones-header:
       en: "Аренды по прокатам"
+      ru: "Аренды по прокатам"
     appless.finish-ride:
       en: "Finish the ride"
       ru: "Завершить аренду"
