@@ -5723,6 +5723,10 @@ Sections:
       en: Reboot
       ge: გადატვირთვა
       ru: Перезагрузить
+    cars.editor.REBOOTGNSS:
+      cs: Restartovat GPS
+      en: Reboot GPS
+      ru: Перезагрузить GPS
     cars.editor.SWITCHSERVER:
       cs: Změna serveru
       en: Server change
