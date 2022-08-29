@@ -21,6 +21,9 @@ Sections:
     bluetooth.connection-failed:
       ru: "Не удалось установить связь через Bluetooth"
       en: "Bluetooth connection failed"
+    bluetooth.bluetooth-permission-inapp-button:
+      ru: "Давайте попробуем"
+      en: "Let's try"
     bluetooth.bluetooth-permission-inapp-title:
       ru: "Попробуем через Bluetooth"
       en: "Let's try via Bluetooth"
