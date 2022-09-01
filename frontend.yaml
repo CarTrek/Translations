@@ -9,6 +9,12 @@ Sections:
     clients.editor.MonthIncome:
       en: Month income
       ru: Потрачено за месяц
+    clients.editor.DeviceName:
+      en: Device name
+      ru: Название устройства
+    clients.editor.OSVersion:
+      en: OS Version
+      ru: Версия ОС
     cars.list.BluetoothDeviceKey:
       en: "Bluetooth device key"
       ru: "Ключ устройства Bluetooth"
