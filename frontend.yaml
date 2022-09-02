@@ -2103,7 +2103,7 @@ Sections:
       ru: Не оплаченные
     aside.nav.cars.ALL:
       cs: všechny
-      en: All from database
+      en: All
       ge: ყველა მონაცემთა ბაზიდან
       ru: Все из БД
     aside.nav.cars.UNREGISTERED:
@@ -2228,7 +2228,7 @@ Sections:
       ru: Архив
     aside.nav.refueling.ALL:
       cs: všechny
-      en: All from database
+      en: All
       ge: ყველა მონაცემთა ბაზიდან
       ru: Все из БД
     aside.nav.reserves.CALENDAR:
