@@ -1,5 +1,8 @@
 Sections:
   Server:
+    BookingWithHiddenPerMinuteRateMessage:
+      en: "Per minute rate for this car is not available"
+      ru: "Минутный тариф для этого автомобиля недоступен"
     PromoCodeIsRequired:
       en: "Please enter a valid promo-code"
       ru: "Требуется ввести действующий промо-код"
