@@ -1,5 +1,8 @@
 Sections:
   Server:
+    PromoCodeIsRequired:
+      en: "Please enter a valid promo-code"
+      ru: "Требуется ввести действующий промо-код"
     RentFinishBeyondTheZoneFine:
       en: "Fine for finishing beyond the home zone"
       ru: "Штраф за завершение за пределами зоны"
