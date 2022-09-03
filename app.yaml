@@ -143,6 +143,12 @@ Sections:
     card-v2.button-tech-mobilize:
       en: "✔️ Mobilize"
       ru: "✔️ Разблокировать"
+    card-v2.button-tech-arm:
+      en: "✔️ Arm"
+      ru: "✔️ В охрану"
+    card-v2.button-tech-arm:
+      en: "❌ Disarm"
+      ru: "❌ С охраны"
     card-v2.button-tech-lock:
       en: "🔒 Lock"
       ru: "🔒 Закрыть"
