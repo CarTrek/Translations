@@ -146,7 +146,7 @@ Sections:
     card-v2.button-tech-arm:
       en: "✔️ Arm"
       ru: "✔️ В охрану"
-    card-v2.button-tech-arm:
+    card-v2.button-tech-disarm:
       en: "❌ Disarm"
       ru: "❌ С охраны"
     card-v2.button-tech-lock:
