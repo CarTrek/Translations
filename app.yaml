@@ -1,7 +1,7 @@
 Sections:
   App:
     profile.admin-qr-login-button:
-      en: "Log in"
+      en: "Login"
       ru: "Войти"
     profile.admin-qr-login:
       en: "Login to admin panel"
