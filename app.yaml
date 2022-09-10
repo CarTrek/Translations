@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.admin-qr-login-button:
+      en: "Log in"
+      ru: "Войти"
+    profile.admin-qr-login:
+      en: "Login to admin panel"
+      ru: "Вход в админку"
     zones-rides-report.rides:
       en: "rides"
       ru: "поездок"
