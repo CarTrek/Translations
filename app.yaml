@@ -1,7 +1,7 @@
 Sections:
   App:
     profile.admin-qr-message:
-      en: "Find QR code atm the login page"
+      en: "Find QR code at the login page"
       ru: "Отсканируйте QR-код на странице входа"
     profile.admin-qr-login-button:
       en: "Login"
