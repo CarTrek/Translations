@@ -1,5 +1,11 @@
 Sections:
   App:
+    appless.resume-ride:
+      en: "Resume ride"
+      ru: "Возобновить поездку"
+    appless.pause-ride:
+      en: "Pause ride"
+      ru: "Поставить на паузу"
     profile.admin-qr-message:
       en: "Find QR code at the login page"
       ru: "Отсканируйте QR-код на странице входа"
