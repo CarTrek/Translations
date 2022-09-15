@@ -9865,8 +9865,8 @@ Sections:
       en: Nothing selected
       ru: Ничего не выбрано
     zones.OrderStartedAt:
-	en: Order started at
-	ru: Заказ начат в
+      en: Order started at
+      ru: Заказ начат в
     rates.PreRent:
       en: Prerent sum
       ru: Выбор тарифа
