@@ -1,5 +1,14 @@
 Sections:
   Server:
+    SignupPayment:
+      en: "Bonuses purchase"
+      ru: "Покупка бонусов"
+    SignupPayment:
+      en: "Car sharing fee"
+      ru: "Плата за услуги каршеринга"
+    SimpleServicePayment:
+      en: "Car sharing fee"
+      ru: "Плата за услуги каршеринга"
     BookingWithHiddenPerMinuteRateMessage:
       en: "Per minute rate for this car is not available"
       ru: "Минутный тариф для этого автомобиля недоступен"
