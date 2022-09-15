@@ -9855,6 +9855,15 @@ Sections:
     zones.ZoomMarker:
       en: Large scale marker
       ru: Маркер для крупных масштабов
+    zones.SelectNone:
+      en: Select none
+      ru: Снять выделение
+    zones.SelectAll:
+      en: Select all
+      ru: Выбрать все
+    zones.NothingSelected:
+      en: Nothing selected
+      ru: Ничего не выбрано
     rates.PreRent:
       en: Prerent sum
       ru: Выбор тарифа
