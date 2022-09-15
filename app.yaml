@@ -136,7 +136,7 @@ Sections:
       ru: "Акт"
     card-v2.button-report:
       en: "Report"
-      ru: "Report"
+      ru: "Проблема"
     report-screen.accept-act:
       en: "Starting the rent you are signing the acceptance act."
       ru: "Начиная аренду вы подписываете акт-приёма-передачи транспортного средства."
@@ -1079,6 +1079,18 @@ Sections:
     ride-report.incognito-call-to-action:
       en: Enter your e-mail and phone number and get bonuses and discounts!
       ru: Укажите ваши e-mail и номер телефона и получайте бонусы и скидки!
+    report.screen-title:
+        en: 'Report a problem'
+        ru: 'Сообщить о проблеме'
+    report.text-placeholder:
+        en: 'What do you want to tell to us?'
+        ru: 'Что вы хотите нам рассказать?'
+    report.add-photo:
+        en: 'Add a photo'
+        ru: 'Добавить фото'
+    report.send-report:
+        en: 'Send to us'
+        ru: 'Отправить'
     rent-finish-screen.overrun:
       en: Overrun
       ru: Перепробег
