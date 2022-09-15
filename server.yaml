@@ -1,6 +1,6 @@
 Sections:
   Server:
-    SignupPayment:
+    TopUpPayment:
       en: "Bonuses purchase"
       ru: "Покупка бонусов"
     SignupPayment:
