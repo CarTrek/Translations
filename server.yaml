@@ -1,5 +1,7 @@
 Sections:
   Server:
+    BindCardSuccessInappImageUrl:
+      en: ""
     BindCardSuccessInappColor:
       en: "000000"
     BindCardSuccessInappButtonText:
