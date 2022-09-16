@@ -1,5 +1,15 @@
 Sections:
   Server:
+    BindCardSuccessInappColor:
+      en: "000000"
+    BindCardSuccessInappButtonText:
+      en: "OK"
+    BindCardSuccessInappMessage:
+      en: "Your card was bound successfully. Press 'OK' to return to the app"
+      ru: "Ваша карта успешнло привязана. Нажмите 'ОК', чтобы вернуться в приложение"
+    BindCardSuccessInappTitle:
+      en: "Success"
+      ru: "Успешно"
     TopUpPayment:
       en: "Bonuses purchase"
       ru: "Покупка бонусов"
