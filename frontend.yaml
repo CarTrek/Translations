@@ -5759,6 +5759,9 @@ Sections:
       en: Send a command
       ge: ბრძანების გაგზავნა
       ru: Послать команду
+    cars.editor.SMSCOMMAND:
+      en: Send SMS command
+      ru: Послать СМС команду
     cars.editor.SERVERIP:
       cs: Zvolte základní nebo náhradní server, který je potřeba nastavit
       en: Select the primary or secondary server to setup.
