@@ -5788,10 +5788,10 @@ Sections:
         <b>*!CNCT_RCS:89.208.152.55:8100:სეანსის იდენტიფიქატორი</b> <br/> ბოლო კოფიგურაციაზე განახლება <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
       ru: Соединится с конфигуратором <b>*!CNCT_RCS:89.208.152.55:8100:ИдентификаторСеанса</b> <br/> Обновится на последнюю прошивку <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
     cars.editor.CUSTOMTITLE:
-      cs: Napiště příkaz (viz. pokyny výrobce zařízení)
-      en: Send a command (see hardware manual)
-      ge: ჩაწერეთ ბრძანება (იხილეთ ინსტრუქცია მოწყობილობაზე)
-      ru: Впишите команду (см. инструкцию на оборудование)
+      cs: Napiště příkaz
+      en: Send TCP command
+      ge: ჩაწერეთ ბრძანება
+      ru: Послать TCP команду
     cars.editor.RENT:
       cs: Pronájem
       en: Rent
