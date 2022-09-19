@@ -617,10 +617,10 @@ Sections:
     cars.editor.LOGIC:
       en: Logic
       ru: Логика
-    cars.editor.COMMAND:
+    cars.editor.LOGICCOMMAND:
       en: Command
       ru: Команда
-    cars.editor.ACTION:
+    cars.editor.LOGICACTION:
       en: Actions
       ru: Действия
     tecTracker.OfflineCustomerManual:
