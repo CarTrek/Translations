@@ -8,7 +8,7 @@ Sections:
       en: "OK"
     BindCardSuccessInappMessage:
       en: "Your card was bound successfully. Press 'OK' to return to the app"
-      ru: "Ваша карта успешнло привязана. Нажмите 'ОК', чтобы вернуться в приложение"
+      ru: "Ваша карта успешно привязана. Нажмите 'ОК', чтобы вернуться в приложение"
     BindCardSuccessInappTitle:
       en: "Success"
       ru: "Успешно"
