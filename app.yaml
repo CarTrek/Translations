@@ -113,18 +113,6 @@ Sections:
     subscription.screen-title:
       en: "Subscription"
       ru: "Подписка"
-    map.disable-insurance-title:
-      en: "Turn off insurance"
-      ru: "Отключить страховку"
-    map.enable-insurance-title:
-      en: "Turn on insurance"
-      ru: "Включить страховку"
-    map.disable-insurance-message:
-      en: "Are you sure you want to turn the insurance off?"
-      ru: "Вы уверены, что хотите отключить страховку?"
-    map.enable-insurance-message:
-      en: "Are you sure you want to turn the insurance on?"
-      ru: "Вы уверены, что хотите включить страховку?"
     card-v2.button-scan-qr:
       en: 'Scan QR code'
       ru: 'Сканировать QR-код'
@@ -201,6 +189,12 @@ Sections:
       en: Select a car
       ru: Выбрать автомобиль
     drawer.menuItemMap:
+      en: Map
+      ru: Карта
+    drawer.catalog:
+      en: Select a car
+      ru: Выбрать автомобиль
+    drawer.map:
       en: Map
       ru: Карта
     drawer.menuItemProfile:
@@ -688,18 +682,33 @@ Sections:
     map.wide-button.drive-from-park:
       en: Open the car
       ru: Открыть автомобиль
-    drawer.catalog:
-      en: Select a car
-      ru: Выбрать автомобиль
-    drawer.map:
-      en: Map
-      ru: Карта
-    confirm-pay.bonuses:
-      en: Bonuses
-      ru: Бонусы
+    map.disable-insurance-title:
+      en: "Turn off insurance"
+      ru: "Отключить страховку"
+    map.enable-insurance-title:
+      en: "Turn on insurance"
+      ru: "Включить страховку"
+    map.disable-insurance-message:
+      en: "Are you sure you want to turn the insurance off?"
+      ru: "Вы уверены, что хотите отключить страховку?"
+    map.enable-insurance-message:
+      en: "Are you sure you want to turn the insurance on?"
+      ru: "Вы уверены, что хотите включить страховку?"
     map.scan-qr-code:
       en: 'Scan QR-code'
       ru: 'Сканировать QR-код'
+    map.geolocation-not-defined:
+      en: 'We are trying to determine your location, please wait...'
+      ru: 'Мы пытаемся определить ваше местоположение, пожалуйста, подождите...'
+    map-stub.title:
+      en: Map
+      ru: Карта
+    map-stub.message:
+      en: 'Map still is not available, but coming soon. Now you can rent scooter with QR codes🛴'
+      ru: 'Карту мы ещё не доделали, но она скоро будет тут. А пока вы можете арендовать самокаты, просто отсканировав QR-код🛴'
+    confirm-pay.bonuses:
+      en: Bonuses
+      ru: Бонусы
     ride-details.ride-number:
       en: 'Ride number'
       ru: 'Номер поездки'
@@ -787,12 +796,6 @@ Sections:
     technician-vehicle-menu.screen-title:
       en: 'Scooter {vehicle-number}'
       ru: 'Самокат {vehicle-number}'
-    map-stub.title:
-      en: Map
-      ru: Карта
-    map-stub.message:
-      en: 'Map still is not available, but coming soon. Now you can rent scooter with QR codes🛴'
-      ru: 'Карту мы ещё не доделали, но она скоро будет тут. А пока вы можете арендовать самокаты, просто отсканировав QR-код🛴'
     support.chat:
       en: Chat with support
       ru: Чат с поддержкой
