@@ -1,5 +1,26 @@
 Sections:
   Server:
+    BindCardSuccessInappImageUrl:
+      en: ""
+    BindCardSuccessInappColor:
+      en: "000000"
+    BindCardSuccessInappButtonText:
+      en: "OK"
+    BindCardSuccessInappMessage:
+      en: "Your card was bound successfully. Press 'OK' to return to the app"
+      ru: "Ваша карта успешно привязана. Нажмите 'ОК', чтобы вернуться в приложение"
+    BindCardSuccessInappTitle:
+      en: "Success"
+      ru: "Успешно"
+    TopUpPayment:
+      en: "Bonuses purchase"
+      ru: "Покупка бонусов"
+    SignupPayment:
+      en: "Car sharing fee"
+      ru: "Плата за услуги каршеринга"
+    SimpleServicePayment:
+      en: "Car sharing fee"
+      ru: "Плата за услуги каршеринга"
     BookingWithHiddenPerMinuteRateMessage:
       en: "Per minute rate for this car is not available"
       ru: "Минутный тариф для этого автомобиля недоступен"
@@ -21,6 +42,9 @@ Sections:
     CancelSubscriptionEnumFailedNoSubscription:
       en: "You have no subscription"
       ru: "У вас нет подписки"
+    PurchaseSubscription:
+      en: "Subscription purchased"
+      ru: "Покупка подписки"
     PurchaseSubscriptionEnumFailedUnavailableSubscription:
       en: "This subscription is unavailable for you"
       ru: "Эта подписка для вас недоступна"
@@ -313,6 +337,9 @@ Sections:
     RightCustomCommand:
       en: 'Execute a custom command'
       ru: 'Выполнять произвольные команды'
+    RightSmsCommand:
+      en: 'Execute SMS command'
+      ru: 'Выполнять СМС команды'
     CustomCommandSent:
       en: 'A custom command was sent'
       ru: 'Отправлена произвольная команда'
