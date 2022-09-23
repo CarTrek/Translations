@@ -530,9 +530,24 @@ Sections:
     profile.rides-history:
       en: My rides
       ru: Мои поездки
-    after-ride.take-photo-message-interior:
-      en: 'Please make a photo inside the car'
-      ru: 'Сделайте фото внутри машины'
+    after-ride-photos.take-front:
+      en: 'Please take a photo in front of the car'
+      ru: 'Пожалуйста, сфотографируйте перед автомобилем'
+    after-ride-photos.take-hood-cover:
+      en: 'Please take a photo of the car hood cover'
+      ru: 'Пожалуйста, сфотографируйте крышку капота автомобиля'
+    after-ride-photos.take-left:
+      en: 'Please take a photo to the left of the car'
+      ru: 'Пожалуйста, сфотографируйте слева от машины'
+    after-ride-photos.take-right:
+      en: 'Please take a photo to the right of the car'
+      ru: 'Пожалуйста, сфотографируйте справа от машины'
+    after-ride-photos.take-back:
+      en: 'Please make a photo of the back of the car'
+      ru: 'Пожалуйста, сфотографируйте заднюю часть автомобиля'
+    after-ride-photos.take-interior:
+      en: 'Please take a photo inside the car'
+      ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
     after-ride-photos.text-comment:
       en: Comment
       ru: Комментарий
