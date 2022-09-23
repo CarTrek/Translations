@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.penalties.Reason:
+      en: Withdraw reason
+      ru: Причина списания
     orders.RunWithCurrentRate:
       en: "Run with the rate"
       ru: "Пробег на тарифе"
