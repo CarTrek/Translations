@@ -542,6 +542,9 @@ Sections:
     after-ride-photos.take-interior:
       en: 'Please take a photo inside the car'
       ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
+    after-ride.take-photo-message-interior:
+      en: 'Please take a photo inside the car'
+      ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
     after-ride-photos.take-other:
       en: 'Take more photos if needed'
       ru: 'Сделайте больше фото, если это необходимо'
