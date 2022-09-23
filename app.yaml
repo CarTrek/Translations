@@ -167,9 +167,6 @@ Sections:
     card-v2.button-tech-make-unavailable:
       en: "🟠 Make unavailable"
       ru: "🟠 Снять из доступа"
-    after-ride-photos.inside:
-      en: "Interior"
-      ru: "В салоне"
     card-v2.button-buy-ticket:
       en: 'Buy tariff'
       ru: 'Купить'
@@ -308,9 +305,6 @@ Sections:
       en: '{currency}{amount}'
     card-v2.button-unlock-case:
       en: 'Unlock case'
-      ru: 'Открыть кофр'
-    after-ride-photos.button-open-case:
-      en: 'Open the case'
       ru: 'Открыть кофр'
     card-v2.car-ticket-time:
       en: 'prepaid time'
@@ -548,6 +542,9 @@ Sections:
     after-ride-photos.take-interior:
       en: 'Please take a photo inside the car'
       ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
+    after-ride-photos.take-other:
+      en: 'Take more photos if needed'
+      ru: 'Сделайте больше фото, если это необходимо'
     after-ride-photos.text-comment:
       en: Comment
       ru: Комментарий
@@ -578,6 +575,33 @@ Sections:
     after-ride-photos.report-item-NoFluid:
       en: No washing fluid
       ru: Нет жидкости омывателя
+    after-ride-photos.button-open-case:
+      en: 'Open the case'
+      ru: 'Открыть кофр'
+    after-ride-photos.inside:
+      en: "Interior"
+      ru: "В салоне"
+    after-ride-photos.top-description:
+      en: 'Please take a photo of the car from the four sides. It’s free, your ride is complete.'
+      ru: 'Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена.'
+    after-ride-photos.button-done:
+      en: 'Done'
+      ru: 'Готово'
+    after-ride-photos.report-title:
+      en: 'Is there anything else you want to tell us?'
+      ru: 'Вы хотите сообщить нам о чём-то ещё?'
+    after-ride-photos.report-cancel-booking:
+      en: 'Cancel the booking'
+      ru: 'Отменить бронь'
+    after-ride-photos.top-inspection-description:
+      en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
+      ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
+    after-ride.cancel-booking-title:
+      en: 'Cancel the booking'
+      ru: 'Отмена бронирования'
+    after-ride.cancel-booking-message:
+      en: 'Are you sure you want to cancel your booking?'
+      ru: 'Вы уверены, что хотите отменить своё бронирование'
     profile.profile-removed:
       en: 'You profile has been removed'
       ru: 'Ваш профиль удалён'
@@ -593,21 +617,6 @@ Sections:
     profile.remove-profile-button:
       en: 'Remove'
       ru: 'Удалить'
-    after-ride-photos.report-title:
-      en: 'Is there anything else you want to tell us?'
-      ru: 'Вы хотите сообщить нам о чём-то ещё?'
-    after-ride-photos.report-cancel-booking:
-      en: 'Cancel the booking'
-      ru: 'Отменить бронь'
-    after-ride.cancel-booking-title:
-      en: 'Cancel the booking'
-      ru: 'Отмена бронирования'
-    after-ride.cancel-booking-message:
-      en: 'Are you sure you want to cancel your booking?'
-      ru: 'Вы уверены, что хотите отменить своё бронирование'
-    after-ride-photos.top-inspection-description:
-      en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
-      ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
     long-rental.go-to-upload-documents:
       en: 'To proceed you need to upload your documents. Are you ready to do it now?'
       ru: 'Чтобы продолжить, необходимо загрузить фото ваших документов. Вы готовы сделать это сейчас?'
@@ -730,12 +739,6 @@ Sections:
     appless.rules-popup-title:
       en: 'Rules of the service'
       ru: 'Правила сервиса'
-    after-ride-photos.top-description:
-      en: 'Please take a photo of the car from the four sides. It’s free, your ride is complete.'
-      ru: 'Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена.'
-    after-ride-photos.button-done:
-      en: 'Done'
-      ru: 'Готово'
     pin-code.descprition:
       en: 'Enter this PIN code on the lock with the cable that is attached to the scooter. During the rental period, you will be able to see the PIN code in the scooter card again.'
       ru: 'Наберите этот ПИН-код на замке с тросом, которым пристёгнут самокат. Во время аренды вы сможете снова увидеть ПИН-код в карточке самоката.'
