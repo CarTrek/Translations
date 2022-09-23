@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightViewCarOffReasons:
+      en: View car off reasons
+      ru: Просмотр причин снятия машин с сервиса
+    RightManageCarOffReasons:
+      en: Manage car off reasons
+      ru: Редактирование причин снятия машин с сервиса
     BindCardSuccessInappImageUrl:
       en: ""
     BindCardSuccessInappColor:
