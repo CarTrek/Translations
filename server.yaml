@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CarOffReasonRequired:
+      en: Car off reason required
+      ru: Требуется указать причину снятия с доступа
     RightViewCarOffReasons:
       en: View car off reasons
       ru: Просмотр причин снятия машин с сервиса
