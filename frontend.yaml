@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.editor.SetOff:
+      en: Set off
+      ru: Снять
     caroff.reasons.list:
       en: Car off reasons
       ru: Причины снятия машин с доступа
