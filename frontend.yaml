@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    caroff.reasons.list:
+      en: Car off reasons
+      ru: Причины снятия машин с доступа
     aside.nav.caroffReasons:
       en: Car off reasons
       ru: Причины снятия машин с доступа
