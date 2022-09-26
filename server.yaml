@@ -1,5 +1,11 @@
 Sections:
   Server:
+    CarAvailable:
+      en: Car available
+      ru: Выведено в доступ
+    CarSettedOff:
+      en: Car access removed
+      ru: Выведено из доступа
     CarOffReasonRequired:
       en: Car off reason required
       ru: Требуется указать причину снятия с доступа
