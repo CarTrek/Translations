@@ -1,8 +1,5 @@
 Sections:
   App:
-    after-ride.take-photo-message-interior:
-      en: "Inside the cabin"
-      ru: "Внутри салона"
     appless.resume-ride:
       en: "Resume ride"
       ru: "Возобновить поездку"
@@ -543,6 +540,9 @@ Sections:
       en: 'Please make a photo of the back of the car'
       ru: 'Пожалуйста, сфотографируйте заднюю часть автомобиля'
     after-ride-photos.take-interior:
+      en: 'Please take a photo inside the car'
+      ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
+    after-ride.take-photo-message-interior:
       en: 'Please take a photo inside the car'
       ru: 'Пожалуйста, сфотографируйте в салоне автомобиля'
     after-ride-photos.take-other:
