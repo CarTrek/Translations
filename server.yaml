@@ -1530,7 +1530,6 @@ Sections:
       ru: У Вас уже есть забронированный автомобиль.
       uk: У Вас вже є заброньований автомобіль.
     BookCarResultFailedUserHasNoCorrectOrganization:
-      be: Выбранный автомобиль приписан к организациям, в которых Вы не состоите.
       cs: Zvolené vozidlo se nachází ve skupině, které nejste členem.
       ka: მითითებული მანქანა ირიცხება იმ ორგანიზაციებზე, რომელთა წევრიც თქვენ არ ბრძანდებით.
       en: The car is assigned to organizations which you do not belong
