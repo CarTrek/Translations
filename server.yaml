@@ -1,5 +1,8 @@
 Sections:
   Server:
+    InitialPayment:
+      en: Card bind initial payment
+      ru: Возвратный депозит при привязке карты
     CarAvailable:
       en: Car available
       ru: Выведено в доступ
