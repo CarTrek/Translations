@@ -1,5 +1,17 @@
 Sections:
   Server:
+    InitialPayment:
+      en: Card bind initial payment
+      ru: Возвратный депозит при привязке карты
+    CarAvailable:
+      en: Car available
+      ru: Выведено в доступ
+    CarSettedOff:
+      en: Car access removed
+      ru: Выведено из доступа
+    CarOffReasonRequired:
+      en: Car off reason required
+      ru: Требуется указать причину снятия с доступа
     RightViewCarOffReasons:
       en: View car off reasons
       ru: Просмотр причин снятия машин с сервиса
@@ -1530,7 +1542,6 @@ Sections:
       ru: У Вас уже есть забронированный автомобиль.
       uk: У Вас вже є заброньований автомобіль.
     BookCarResultFailedUserHasNoCorrectOrganization:
-      be: Выбранный автомобиль приписан к организациям, в которых Вы не состоите.
       cs: Zvolené vozidlo se nachází ve skupině, které nejste členem.
       ka: მითითებული მანქანა ირიცხება იმ ორგანიზაციებზე, რომელთა წევრიც თქვენ არ ბრძანდებით.
       en: The car is assigned to organizations which you do not belong
