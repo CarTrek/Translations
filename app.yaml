@@ -1738,3 +1738,18 @@ Sections:
       ka: შემდეგი
       ru: Далее
       uk: Далі
+    zone.message.minus.name:
+      en: 'Paid completion of the rental zone {name}'
+      ru: 'Зона платного завершения аренды {name}'
+    zone.message.minus.description:
+      en: 'If you end your rental in this area, we will charge you an additional {bonus}'
+      ru: 'Если вы завершите аренду в этой зоне, мы спишем с вас дополнительно {bonus}'
+    zone.message.plus.name:
+      en: 'Paid completion of the rental zone {name}'
+      ru: 'Бонусная зона {name}'
+    zone.message.plus.description:
+      en: 'If you end your rental in this area, we will credit you with a {bonus} bonus'
+      ru: 'Если вы завершите аренду в этой зоне, мы начислим вам бонус в размере {bonus}'
+    zone.message.button:
+      en: 'Ok'
+      ru: 'Понятно'
