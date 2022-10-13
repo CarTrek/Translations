@@ -20,13 +20,25 @@ Sections:
       ru: Редактирование причин снятия машин с сервиса
     BindCardSuccessInappImageUrl:
       en: ""
+    BindCardFailInappImageUrl:
+      en: ""
     BindCardSuccessInappColor:
       en: "000000"
+    BindCardFailInappColor:
+      en: "000000"
     BindCardSuccessInappButtonText:
+      en: "OK"
+    BindCardFailInappButtonText:
       en: "OK"
     BindCardSuccessInappMessage:
       en: "Your card was bound successfully. Press 'OK' to return to the app"
       ru: "Ваша карта успешно привязана. Нажмите 'ОК', чтобы вернуться в приложение"
+    BindCardFailInappMessage:
+      en: "There is a problem trying to bind you card. Press 'OK' to return to the app"
+      ru: "Во время привязки карты произошла ошибка. Нажмите 'ОК', чтобы вернуться в приложение"
+    BindCardFailInappTitle:
+      en: "Failed"
+      ru: "Неуспешно"
     BindCardSuccessInappTitle:
       en: "Success"
       ru: "Успешно"
