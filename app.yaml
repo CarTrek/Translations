@@ -875,10 +875,10 @@ Sections:
       en: Paid booking
       ru: Платная бронь
     ride-details.summary-inspect:
-      en: Inpection
+      en: Inspection
       ru: Осмотр
     ride-details.summary-paid-inspect:
-      en: Paid inpection
+      en: Paid inspection
       ru: Платный осмотр
     ride-details.summary-park:
       en: Park mode
