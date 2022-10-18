@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CustomerMessageDeliveryTimeout:
+      en: "Timeout of waiting for the result"
+      ru: "Таймаут ожидания ответа"
     InitialPayment:
       en: Card bind initial payment
       ru: Возвратный депозит при привязке карты
