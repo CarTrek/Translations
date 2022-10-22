@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.admin-app-url:
+      en: "Switch to the test app"
+      ru: "Тестовое приложение"
+    profile.admin-switch-to-distrib:
+      en: "Switch"
+      ru: "Переключить"
     appless.resume-ride:
       en: "Resume ride"
       ru: "Возобновить поездку"
