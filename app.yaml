@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.button-start-engine:
+      en: "Start engine"
+      ru: "Завести"
+    card-v2.button-stop-engine:
+      en: "Stop engine"
+      ru: "Заглушить"
     profile.admin-app-url:
       en: "Switch to the test app"
       ru: "Тестовое приложение"
