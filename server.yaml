@@ -1,5 +1,11 @@
 Sections:
   Server:
+    OkEngineStarted:
+      en: "Engine started"
+      ru: "Двигатель запущен"
+    OkEngineStopped:
+      en: "Engine stopped"
+      ru: "Двигатель заглушен"
     DeviceId:
       en: device id
       ru: id устройства
