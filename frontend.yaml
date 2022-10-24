@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.list.NoOffReason:
+      en: No reason
+      ru: Нет причины
     cars.editor.SetOff:
       en: Set off
       ru: Снять
