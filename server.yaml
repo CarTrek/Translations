@@ -1,5 +1,14 @@
 Sections:
   Server:
+    SecondsShort:
+      en: "sec."
+      ru: "сек."
+    MinutesShort:
+      en: "min."
+      ru: "мин."
+    HoursShort:
+      en: "hr."
+      ru: "час."
     OkEngineStarted:
       en: "Engine started"
       ru: "Двигатель запущен"
