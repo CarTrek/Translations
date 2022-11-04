@@ -1,5 +1,8 @@
 Sections:
   App:
+    profile.admin-backend-url:
+      en: "Backend url"
+      ru: "URL сервера"
     card-v2.button-start-engine:
       en: "Start engine"
       ru: "Завести"
