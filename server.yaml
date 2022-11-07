@@ -323,7 +323,7 @@ Sections:
       ru: Значение показателя отказов
     MapExportColumnId:
       en: 'Id'
-      ru: 'Идентиикатор'
+      ru: 'Идентификатор'
     MapExportColumnBrand:
       en: 'Make'
       ru: 'Марка'
