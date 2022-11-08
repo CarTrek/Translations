@@ -1,5 +1,20 @@
 Sections:
   App:
+    profile.admin-backend-url:
+      en: "Backend url"
+      ru: "URL сервера"
+    card-v2.button-start-engine:
+      en: "Start engine"
+      ru: "Завести"
+    card-v2.button-stop-engine:
+      en: "Stop engine"
+      ru: "Заглушить"
+    profile.admin-app-url:
+      en: "Switch to the test app"
+      ru: "Тестовое приложение"
+    profile.admin-switch-to-distrib:
+      en: "Switch"
+      ru: "Переключить"
     appless.resume-ride:
       en: "Resume ride"
       ru: "Возобновить поездку"
@@ -80,6 +95,9 @@ Sections:
     profile.payment-methods:
       en: "Payment methods"
       ru: "Способы оплаты"
+    profile.logout-profile-title:
+      en: "Log out"
+      ru: "Выход"
     profile.logout-profile-message:
       en: "Are you sure you want to sign out from the app?"
       ru: "Вы действительно хотите выйти из приложения?"
@@ -875,10 +893,10 @@ Sections:
       en: Paid booking
       ru: Платная бронь
     ride-details.summary-inspect:
-      en: Inpection
+      en: Inspection
       ru: Осмотр
     ride-details.summary-paid-inspect:
-      en: Paid inpection
+      en: Paid inspection
       ru: Платный осмотр
     ride-details.summary-park:
       en: Park mode

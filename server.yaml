@@ -1,5 +1,29 @@
 Sections:
   Server:
+    SecondsShort:
+      en: "sec."
+      ru: "сек."
+    MinutesShort:
+      en: "min."
+      ru: "мин."
+    HoursShort:
+      en: "hr."
+      ru: "час."
+    OkEngineStarted:
+      en: "Engine started"
+      ru: "Двигатель запущен"
+    OkEngineStopped:
+      en: "Engine stopped"
+      ru: "Двигатель заглушен"
+    DeviceId:
+      en: device id
+      ru: id устройства
+    PhoneModel:
+      en: Model
+      ru: Модель
+    CustomerMessageDeliveryTimeout:
+      en: "Timeout of waiting for the result"
+      ru: "Таймаут ожидания ответа"
     InitialPayment:
       en: Card bind initial payment
       ru: Возвратный депозит при привязке карты
@@ -299,7 +323,7 @@ Sections:
       ru: Значение показателя отказов
     MapExportColumnId:
       en: 'Id'
-      ru: 'Идентиикатор'
+      ru: 'Идентификатор'
     MapExportColumnBrand:
       en: 'Make'
       ru: 'Марка'
