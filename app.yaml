@@ -499,8 +499,8 @@ Sections:
       en: Finish
       ru: Завершить
     card-v2.finish-rental-question:
-      en: Are you sure you want to complete your rental? \nLift the handbrake, switch the automatic transmission selector to the P position, turn off the headlights and interior lights. \nAfter completing the rental, take photos of the car.
-      ru: Вы уверены, что хотите завершить вашу аренду? \n\nПоднимите ручной тормоз, переключите селектор АКПП в положление P, выключите фары и свет в салоне. \nПосле завершения аренды сделайте фото атвомобиля.
+      en: Are you sure you want to complete your rental? \n\nLift the handbrake, switch the automatic transmission selector to the P position, turn off the headlights and interior lights. \n\nAfter completing the rental, take photos of the car.
+      ru: Вы уверены, что хотите завершить вашу аренду? \n\nПоднимите ручной тормоз, переключите селектор АКПП в положление P, выключите фары и свет в салоне. \n\nПосле завершения аренды сделайте фото атвомобиля.
     card-v2.button-inspect:
       en: Open
       ru: Открыть
