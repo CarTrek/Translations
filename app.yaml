@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.menuItemSupportChat:
+      en: "Chat with support"
+      ru: "Чат с поддержкой"
     drawer.menuItemLanguage:
       en: "Language"
       ru: "Язык"
