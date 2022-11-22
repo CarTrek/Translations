@@ -1,5 +1,8 @@
 Sections:
   App:
+    drawer.button-add-bonuses:
+      en: "Buy bonuses"
+      ru: "Купить бонусы"
     drawer.menuItemSupportChat:
       en: "Chat with support"
       ru: "Чат с поддержкой"
