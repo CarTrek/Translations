@@ -1,5 +1,14 @@
 Sections:
   App:
+    drawer.button-add-bonuses:
+      en: "Top up"
+      ru: "Пополнить"
+    drawer.menuItemSupportChat:
+      en: "Chat with support"
+      ru: "Чат с поддержкой"
+    drawer.menuItemLanguage:
+      en: "Language"
+      ru: "Язык"
     profile.admin-backend-url:
       en: "Backend url"
       ru: "URL сервера"
