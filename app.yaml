@@ -1766,19 +1766,19 @@ Sections:
       ru: Далее
       uk: Далі
     zone.message.minus.name:
-      en: 'Paid completion of the rental zone {name}'
-      ru: 'Зона платного завершения аренды {name}'
+      en: '{name}'
+      ru: '{name}'
     zone.message.minus.null-name:
-      en: 'Paid completion of the rental zone'
-      ru: 'Зона платного завершения аренды'
+      en: 'Paid completion'
+      ru: 'Платное завершение'
     zone.message.minus.description:
       en: 'If you end your rental in this area, we will charge you an additional {bonus}'
       ru: 'Если вы завершите аренду в этой зоне, мы спишем с вас дополнительно {bonus}'
     zone.message.plus.name:
-      en: 'Paid completion of the rental zone {name}'
-      ru: 'Бонусная зона {name}'
+      en: '{name}'
+      ru: '{name}'
     zone.message.plus.null-name:
-      en: 'Paid completion of the rental zone'
+      en: 'Bonus zone'
       ru: 'Бонусная зона'
     zone.message.plus.description:
       en: 'If you end your rental in this area, we will credit you with a {bonus} bonus'
