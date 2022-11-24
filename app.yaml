@@ -129,23 +129,23 @@ Sections:
       en: "Are you sure you want to purchase the subscription?"
       ru: "Вы уверены, что хотите купить подписку?"
     subscription.purchase-button:
-      en: 'Purchase subscription'
-      ru: 'Купить подписку'
+      en: "Purchase subscription"
+      ru: "Купить подписку"
     subscription.text-line:
-      en: 'Free ride start'
-      ru: 'Бесплатный старт поездки'
+      en: "Free ride start"
+      ru: "Бесплатный старт поездки"
     subscription.price:
-      en: '{currency}{amount} per {period} days'
-      ru: '{currency}{amount} за {period} дней'
+      en: "{currency}{amount} per {period} days"
+      ru: "{currency}{amount} за {period} дней"
     subscription.screen-title:
       en: "Subscription"
       ru: "Подписка"
     card-v2.button-scan-qr:
-      en: 'Scan QR code'
-      ru: 'Сканировать QR-код'
+      en: "Scan QR code"
+      ru: "Сканировать QR-код"
     appless.gps-is-disabled:
-      en: 'You disabled GPS. To start the rent enable GPS.'
-      ru: 'Вы запретили доступ к GPS. Чтобы начать аренду, разрешите доступ к GPS.'
+      en: "You disabled GPS. To start the rent enable GPS."
+      ru: "Вы запретили доступ к GPS. Чтобы начать аренду, разрешите доступ к GPS."
     card-v2.button-show-act:
       en: "Act"
       ru: "Акт"
@@ -195,17 +195,17 @@ Sections:
       en: "🟠 Make unavailable"
       ru: "🟠 Снять из доступа"
     card-v2.button-buy-ticket:
-      en: 'Buy tariff'
-      ru: 'Купить'
+      en: "Buy tariff"
+      ru: "Купить"
     drawer.menuItemFaq:
-      en: 'FAQ'
-      ru: 'Помощь'
+      en: "FAQ"
+      ru: "Помощь"
     drawer.menuItemRates:
-      en: 'Tariffs'
-      ru: 'Тарифы'
+      en: "Tariffs"
+      ru: "Тарифы"
     drawer.bonuses:
-      en: 'Bonuses'
-      ru: 'Бонусы'
+      en: "Bonuses"
+      ru: "Бонусы"
     drawer.menuItemPurchaseBonuses:
       en: Purchase bonuses
       ru: Купить бонусы
@@ -490,8 +490,14 @@ Sections:
       en: Open the car?
       ru: Открыть автомобиль?
     card-v2.start-inspect-question:
-      en: You will have {minutes} free minutes to inspect the car.
-      ru: У вас будет {minutes} бесплатных минут, чтобы осмотреть автомобиль.
+      en: "You will have {minutes} free minutes to inspect the car."
+      ru: "У вас будет {minutes} бесплатных минут, чтобы осмотреть автомобиль."
+    card-v2.start-inspect-question-without-free:
+      en: "You have reached the limit of free attempts for today. Inspection will be paid."
+      ru: "Вы исчерпали лимит бесплатных попыток на сегодня. Осмотр будет платным."
+    card-v2.start-inspect-question-without-free2:
+      en: "You have reached the limit of free attempts for today. Reservations will be chargeable."
+      ru: "Вы исчерпали лимит бесплатных попыток на сегодня. Бронь будет платной."
     card-v2.current-rate:
       en: current rate
       ru: текущий тариф
