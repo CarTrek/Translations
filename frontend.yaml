@@ -1855,6 +1855,16 @@ Sections:
       en: Log out
       ge: გამოსვლა
       ru: Выйти
+    header.navbar.TIMEZONE:
+      cs: Časové pásmo
+      en: Timezone
+      ge: Დროის სარტყელი
+      ru: Часовой пояс
+    header.navbar.GMT:
+      cs: GMT
+      en: GMT
+      ge: GMT
+      ru: GMT
     header.navbar.NOTIFICATION:
       cs: oznámení
       en: Notifications
