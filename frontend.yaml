@@ -5593,6 +5593,9 @@ Sections:
       en: Hand brake off
       ge: გამორთულია
       ru: Отключен
+    cars.editor.lowWasherFluid:
+      en: Low washer fluid
+      ru: Мало омывайки
     cars.editor.Log:
       cs: Deník
       en: Register
