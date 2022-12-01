@@ -2996,6 +2996,7 @@ Sections:
       cs: Chyba hardwaru
       en: Finish Order Result Failed Hardware Error
     FinishOrderResultFailedOrderIsCompletedAlready:
+      en: The ride is completed already
       be: Аренда уже закрыта.
       ka: ქირაობა დასრულდა.
       uk: Оренда вже закрита.
@@ -3014,6 +3015,7 @@ Sections:
       ru: Автомобиль находится вне зоны завершения аренды.
       uk: Автомобіль знаходиться поза зоною завершення оренди.
     FinishOrderResultFailedUserHasNoOrderNow:
+      en: You have no order right now
       be: У Вас в данный момент нет активной аренды.
       ka: ამჟამად არ გაქვთ აქტიური ქირაობა
       uk: У Вас в даний момент немає активної оренди.
