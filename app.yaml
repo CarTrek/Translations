@@ -618,8 +618,11 @@ Sections:
       en: "Interior"
       ru: "В салоне"
     after-ride-photos.top-description:
-      en: 'Please take a photo of the car from the four sides. It’s free, your ride is complete.'
-      ru: 'Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена.'
+      en: "Please take a photo of the car from the four sides. It’s free, your ride is complete."
+      ru: "Пожалуйста, сделайте фото машины с четырёх сторон. Это бесплатно, поездка завершена."
+    before-finish-rent-photos.top-description:
+      en: "Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin."
+      ru: "Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф."
     after-ride-photos.button-done:
       en: 'Done'
       ru: 'Готово'
