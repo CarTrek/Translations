@@ -8621,6 +8621,11 @@ Sections:
       en: Amount
       ge: თანხის რაოდენობა
       ru: Сумма
+    orders.Details.TotalSum:
+      cs: Celková suma
+      en: Total amount
+      ge: მთლიანი რაოდენობა
+      ru: Общая сумма
     orders.Details.OrderDate:
       cs: 'Datum objednávky:'
       en: 'Order date:'
