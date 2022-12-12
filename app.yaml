@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-page.title:
+      en: "Add payment method"
+      ru: "Добавьте способ оплаты"
     drawer.button-add-bonuses:
       en: "Top up"
       ru: "Пополнить"

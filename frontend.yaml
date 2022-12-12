@@ -1,8 +1,5 @@
 Sections:
   AdminFrontend:
-    payment-page.title:
-      en: "Add payment method"
-      ru: "Добавьте способ оплаты"
     cars.list.OffReason:
       en: Off reason
       ru: Причина снятия
