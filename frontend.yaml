@@ -8616,6 +8616,11 @@ Sections:
       en: After rent
       ge: შეკვეთის დასრულების შემდეგ
       ru: После завершения заказа
+    orders.Details.Sum:
+      cs: Suma
+      en: Amount
+      ge: თანხის რაოდენობა
+      ru: Сумма
     orders.Details.OrderDate:
       cs: 'Datum objednávky:'
       en: 'Order date:'
