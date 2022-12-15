@@ -1,5 +1,8 @@
 Sections:
   App:
+    alert.close-button-text:
+      en: "OK"
+      ru: "Закрыть"
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
