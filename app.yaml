@@ -1801,3 +1801,15 @@ Sections:
     zone.message.button:
       en: 'Ok'
       ru: 'Понятно'
+    error.disconnect.title:
+      en: "No connection to server"
+      ru: "Нет связи с сервером"
+    error.disconnect.message:
+      en: "The command failed because there is no connection. Please check your internet connection and try again."
+      ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз."
+    error.other.title:
+      en: "Something went wrong"
+      ru: "Что-то пошло не так"
+    error.other.message:
+      en: ""
+      ru: ""
