@@ -1199,6 +1199,9 @@ Sections:
     rent-finish-screen.done-button:
       en: Done
       ru: Закрыть
+    rent-finish-screen.rating-text:
+      en: "How do you rate your ride?"
+      ru: "Как вы оцениваете свою поездку?"
     access-denied:
       en: Access denied. Please sign in
       ru: У вас нет доступа. Пожалуйста, авторизуйтесь
@@ -1813,3 +1816,12 @@ Sections:
     error.other.message:
       en: ""
       ru: ""
+    app-rating.title:
+      en: "Do you like our app?"
+      ru: "Вам нравится наше приложение?"
+    app-rating.description:
+      en: "Please rate our app. You will help us to become better."
+      ru: "Пожалуйста, оцените наше приложение. Вы поможете нам стать лучше."
+    app-rating.button:
+      en: "Submit"
+      ru: "Отправить"
