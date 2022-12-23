@@ -1828,3 +1828,9 @@ Sections:
     app-rating.not-rated:
       en: "Please select the rating"
       ru: "Пожалуйста, выберите рейтинг"
+    app-rating.description.title:
+      en: "What can we do better?"
+      ru: "Что мы можем сделать лучше?"
+    app-rating.description.placeholder:
+      en: "Please describe here and press the ‘Submit’ button to share your thoughts with us"
+      ru: "Пожалуйста, опишите здесь и нажмите кнопку «Отправить», чтобы поделиться с нами своими мыслями"
