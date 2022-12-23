@@ -1825,3 +1825,6 @@ Sections:
     app-rating.button:
       en: "Submit"
       ru: "Отправить"
+    app-rating.not-rated:
+      en: "Please select the rating"
+      ru: "Пожалуйста, выберите рейтинг"
