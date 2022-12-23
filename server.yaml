@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserLocation:
+      en: "Coords:"
+      ru: "Геолокация:"
     SecondsShort:
       en: "sec."
       ru: "сек."
