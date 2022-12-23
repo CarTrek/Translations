@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.LastKnownUserLocation:
+      en: "Location"
+      ru: "Геолокация"
     cars.list.OffReason:
       en: Off reason
       ru: Причина снятия
