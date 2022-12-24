@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserBlockedDueToDeviceChanged:
+      en: "User blocked due to device changed"
+      ru: "Пользователь заблокирован, т.к. поменялось устройство"
     UserLocation:
       en: "Coords"
       ru: "Геолокация"
