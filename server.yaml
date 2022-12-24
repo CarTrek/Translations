@@ -1,7 +1,7 @@
 Sections:
   Server:
     UserUnderSupervisionLoggedIn:
-      en: "Controled user has in"
+      en: "A controlled user has logged in"
       ru: "Пользователь на контроле вошёл в приложение"
     UserBlockedDueToDeviceChanged:
       en: "User blocked due to device changed"

@@ -183,7 +183,7 @@ Sections:
       en: Order start zones
       ru: Зоны начала заказа
     notifications.UserUnderSupervisionLoggedIn:
-      en: "Controled user has in"
+      en: "A controlled user has logged in"
       ru: "Пользователь на контроле вошёл в приложение"
     notifications.UserBlockedDueToDeviceChanged:
       en: "User blocked due to device changed"
