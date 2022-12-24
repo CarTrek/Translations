@@ -182,6 +182,9 @@ Sections:
     clients.editor.penalties.OrderStartZones:
       en: Order start zones
       ru: Зоны начала заказа
+    notifications.UserUnderSupervisionLoggidIn:
+      en: "Controled user has in"
+      ru: "Пользователь на контроле вошёл в приложение"
     notifications.UserBlockedDueToDeviceChanged:
       en: "User blocked due to device changed"
       ru: "Пользователь заблокирован, т.к. поменялось устройство"
