@@ -182,6 +182,9 @@ Sections:
     clients.editor.penalties.OrderStartZones:
       en: Order start zones
       ru: Зоны начала заказа
+    notifications.UserBlockedDueToDeviceChanged:
+      en: "User blocked due to device changed"
+      ru: "Пользователь заблокирован, т.к. поменялось устройство"
     notifications.EmptyOrders:
       en: Refusal rate exceeded
       ru: Превышен показатель отказов
