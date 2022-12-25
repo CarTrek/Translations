@@ -647,6 +647,9 @@ Sections:
     cars.editor.LOGICCOMMAND:
       en: Command
       ru: Команда
+    cars.editor.LOGICOPTION:
+      en: Option
+      ru: Настройка
     cars.editor.LOGICACTION:
       en: Actions
       ru: Действия
