@@ -650,6 +650,9 @@ Sections:
     cars.editor.LOGICOPTION:
       en: Option
       ru: Настройка
+    cars.editor.LOGICVALUE:
+      en: Value
+      ru: Значение
     cars.editor.LOGICACTION:
       en: Actions
       ru: Действия
