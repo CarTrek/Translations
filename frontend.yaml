@@ -185,6 +185,9 @@ Sections:
     notifications.UserUnderSupervisionLoggedIn:
       en: "A controlled user has logged in"
       ru: "Пользователь на контроле вошёл в приложение"
+    notifications.UserDeviceChanged:
+      en: "Users device changed"
+      ru: "Изменилось устройство пользователя"
     notifications.UserBlockedDueToDeviceChanged:
       en: "User blocked due to device changed"
       ru: "Пользователь заблокирован, т.к. поменялось устройство"
