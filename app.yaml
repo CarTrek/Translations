@@ -126,8 +126,8 @@ Sections:
       en: "Cancel subscription"
       ru: "Отменить подписку"
     subscription.already-subscribed:
-      en: "You are subscribed already. The subscription will be valid until {valid-until}."
-      ru: "У вас уже есть подписка. Она будет действительна до {valid-until}."
+      en: "You have the subscription. The subscription will be valid until {valid-until}."
+      ru: "У вас активирована подписка. Она будет действительна до {valid-until}."
     subscription.already-subscribed-renew:
       en: "The subscription will be renewed automatically at {valid-until}."
       ru: "Подписка будет обновлена автоматически {valid-until}, если на вашей карте будет достаточно денег."
