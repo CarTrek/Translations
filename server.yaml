@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedTooManyStartedOrdersAlready:
+      en: "To start this ride, you need to finish one of the already started ones"
+      ru: "Чтобы начать эту поездку вам необходимо завершить одну из уже начатых"
     UserUnderSupervisionLoggedIn:
       en: "A controlled user has logged in"
       ru: "Пользователь на контроле вошёл в приложение"
