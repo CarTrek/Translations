@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserDeviceChanged:
+      en: "Users device changed"
+      ru: "Сменилось устройство пользователя"
     FailedTooManyStartedOrdersAlready:
       en: "To start this ride, you need to finish one of the already started ones"
       ru: "Чтобы начать эту поездку вам необходимо завершить одну из уже начатых"
