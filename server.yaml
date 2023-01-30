@@ -1,5 +1,8 @@
 Sections:
   Server:
+    NeedToAttachAnotherCard:
+      en: "Need to attach another card"
+      ru: "Необходимо привязать другую карту"
     UserDeviceChanged:
       en: "Users device changed"
       ru: "Сменилось устройство пользователя"
