@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.HoldRidesUntilCount:
+      en: "Hold if rides count less"
+      ru: "Холдировать, если поездок меньше"
     clients.editor.LastKnownUserLocation:
       en: "Location"
       ru: "Геолокация"
