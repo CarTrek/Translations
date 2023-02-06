@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RentEnd:
+      en: Rent ended
+      ru: Окончание аренды
+    RentStart:
+      en: Rent started
+      ru: Начало аренды
     NeedToAttachAnotherCard:
       en: "Need to attach another card"
       ru: "Необходимо привязать другую карту"
