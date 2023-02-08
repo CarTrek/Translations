@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    common.reset:
+      en: Reset
+      ru: Сбросить
     cars.models.notifyOperatorsAboutRideStart:
       en: Notify operators about rent start
       ru: Уведомлять операторов о начале аренды
