@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    cars.models.notifyOperatorsAboutRideStart:
+      en: Notify operators about rent start
+      ru: Уведомлять операторов о начале аренды
+    cars.models.notifyOperatorsAboutRideFinish:
+      en: Notify operators about rent finish
+      ru: Уведомлять операторов об окончании аренды
+    cars.models.deactivateCarAfterRideFinish:
+      en: Deactivate car after rent finish with reason
+      ru: Снять машину из доступа после окончании аренды с причиной
+    cars.models.moveCarToOrganizationAfterRideFinish:
+      en: Move car to organization after rent finish
+      ru: Поместить машину в организацию после завершения аренды
     organizations.HoldRidesUntilCount:
       en: "Hold if rides count less"
       ru: "Холдировать, если поездок меньше"
