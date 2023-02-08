@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    notifications.RentStart:
+      en: Rent started
+      ru: Аренда начата
+    notifications.RentEnd:
+      en: Rent ended
+      ru: Аренда завершена
     common.reset:
       en: Reset
       ru: Сбросить
