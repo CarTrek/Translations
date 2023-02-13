@@ -9938,6 +9938,12 @@ Sections:
     cars.models.ES:
       en: Electric scooter
       ru: Электросамокат
+    cars.models.GasolineMoped:
+      en: "Gasoline moped"
+      ru: "Бензиновый мопед"
+    cars.models.MuscleBicycle:
+      en: "Bicycle (non-electric)"
+      ru: "Велосипед (не электро)"
     cars.models.order:
       en: Order
       ru: Заказ
