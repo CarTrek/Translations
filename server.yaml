@@ -2212,6 +2212,9 @@ Sections:
     DeleteAppAndLoginAgain:
       en: 'Error. Please, delete the application and install again.'
       ru: 'Ошибка. Пожалуйста удалите приложение и установите заново.'
+    WrongDeleteAppAndLoginAgain:
+      en: 'Config error. Please, delete the application and install again.'
+      ru: 'Ошибка конфигурации. Пожалуйста удалите приложение и установите заново.'
     ChatWrongImage:
       en: Error. There are not enough number of images or wrong keys.
       ru: Ошибка. Недостаточное количество изображений или неправильные ключи.
