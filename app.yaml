@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-v2.charge-level:
+      en: "charge level"
+      ru: "уровень заряда"
     alert.close-button-text:
       en: "OK"
       ru: "Закрыть"
