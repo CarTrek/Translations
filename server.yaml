@@ -1109,13 +1109,11 @@ Sections:
       en: Access denied
       ru: У вас нет прав для выполнения запрошенного действия
     AccountIsVerifiedNotificationSettingDescription:
-      be: Уведомлять о завершении проверки пользователя
       cs: Informovat o ukončení jízdy uživatele
       ka: შეტყობინება მომხმარებლის ავტორიზაციის დასრულების შესახებ
       en: Notify user authentication completion
       ru: Уведомлять о завершении проверки пользователя
     AccountWasIntegrated:
-      be: Аккаунт был интегрирован из {0}
       cs: Uživatelský účet byl integrován z {0}
       ka: ანგარიში ინტეგრირებულია {0}-დან.
       en: Account was integrated from {0}
@@ -1125,7 +1123,6 @@ Sections:
       en: Act of writing off fuel
       ru: Акты списания ГСМ
     ActivateCarTicket:
-      be: Приобретен абонемент
       cs: Zakoupeno předplatné
       ka: აბონემენტი შეძენილია
       en: Package purchased
@@ -1141,89 +1138,76 @@ Sections:
       en: 'To activate your account, please follow the link: {0}. The link is valid until {1}.'
       ru: 'Для активации Вашей учётной записи, пожалуйста, перейдите по ссылке: {0}. Ссылка действительна до {1}.'
     Active:
-      be: Активность
       cs: Aktivity
       ka: აქტიურობა
       en: Activity
       ru: Активность
       uk: Активність
     AdCompaign:
-      be: Рекламная кампания
       cs: Reklamní kampaň
       ka: სარეკლამო კამპანია
       en: Advertisement campaign
       ru: Рекламная кампания
       uk: Рекламна кампанія
     AddFriendBonus:
-      be: Бонус за друга
       cs: Bonusové body za přítele
       ka: ბონუსი მეგობრის დამატებისთვის
       en: Bonus for friend invitation
       ru: Бонус за друга
     AdministratorData:
-      be: Данные администратора
       cs: Údaje administrátor
       ka: ადმინისტრატორის ინფორმაცია
       en: Admin data
       ru: Данные администратора
       uk: Дані адміністратора
     AdminLogin:
-      be: Вход оператора в систему
       cs: Vstup operátora do systému
       ka: ადმინისტრატორის სისტემაში შესვლა
       en: Administrator login
       ru: Вход оператора в систему
     AlarmBatteryLow:
-      be: Тревога - разряд АКБ
       cs: Upozornění na vybitou baterii
       ka: სიგნალი  - ელემენტი დაჯდა
       en: Alarm - battery discharge
       ru: Тревога - разряд АКБ
       uk: Тривога - розряд АКБ
     AlarmFinishedInZone:
-      be: Тревога - завершил в зоне
       cs: Upozornění na ukončení v oblasti
       ka: სიგნალი - დასრულებულია ზონაში
       en: Alarm - completed in the zone
       ru: Тревога - завершил в зоне
       uk: Тривога - завершив в зоні
     AlarmHijack:
-      be: Тревога - угон
       cs: Upozornění na odcizení
       ka: სიგნალი - გატაცება
       en: Alarm - theft
       ru: Тревога - угон
       uk: Тривога - викрадення
     AlarmServiceIsDisabledOnThisServer:
-      be: Сервис тревог отключен на этом сервере
       cs: Služba upozornění je na tomto serveru vypnuta
       ka: განგაშის სიგნალი ამ სერვერზე გამორთულია
       en: Alarm service is disabled on this server
       ru: Сервис тревог отключен на этом сервере
       uk: Сервіс тривог відключений на цьому сервері
     AlarmStale:
-      be: Тревога - без движения
       cs: Upozornění vozidlo bez pohybu
       ka: სიგნალი - მოძრაობის გარეშე
       en: Alarm - motionless
       ru: Тревога - без движения
       uk: Тривога - без руху
     AlarmTamper:
-      be: Тревога - вскрытие
       cs: Upozornění na vniknutí
       ka: სიგნალი - გახსნა
       en: Alarm - door opening
       ru: Тревога - вскрытие
       uk: Тривога - злом
     AlarmTow:
-      be: Тревога - эвакуация
       cs: Upozornění na odtah
       ka: განგაში - ევაკუაცია
       en: Alarm - evacuation
       ru: Тревога - эвакуация
       uk: Тривога - евакуація
     AllowDriveWithoutBankCard:
-      be: Может ездить бесплатно
       cs: Může jezdit zadarmo
       ka: შეუძლია უფასოდ სიარული
       en: Can ride for free
@@ -1245,21 +1229,18 @@ Sections:
       en: 'Resource is being already edited by {0}. phone user: {1}'
       ru: 'Ресурс уже редактируется пользователем {0}. Телефон пользователя: {1}'
     AmericanExpress:
-      be: American Express
       cs: American Express
       ka: American Express
       en: American Express
       ru: American Express
       uk: American Express
     Amount:
-      be: Количество
       cs: Počet
       ka: რაოდენობა
       en: amount
       ru: Количество
       uk: Кількість
     AmountMustBeAPositiveNumber:
-      be: Сумма списания должна быть положительным
       cs: částka ke stržení musí být kladná
       ka: თანხის ოდენობა უნდა იყოს დადებითი
       en: Amount must have positive balance
@@ -1268,75 +1249,64 @@ Sections:
       en: Please update the app from Google Play
       ru: Пожалуйста, обновите приложение через Google Play
     ApplyFriday:
-      be: Применять в пятницу
       cs: Změnit v pátek
       ka: გამოიყენეთ პარასკევს
       en: Apply on Friday
       ru: Применять в пятницу
       uk: Застосовувати в п'ятницю
     ApplyMonday:
-      be: Применять в понедельник
       cs: Změnit v pondělí
       ka: გამოიყენეთ ორშაბათს
       en: Apply on Monday
       ru: Применять в понедельник
       uk: Застосовувати в понеділок
     ApplyPenalty:
-      be: Списан штраф
       cs: Použít pokutu
       ka: ჯარიმა დაიწერა
       en: Penalty debited
       ru: Списан штраф
     ApplySaturday:
-      be: Применять в субботу
       cs: Použít v sobotu
       ka: გამოიყენეთ შაბათს
       en: Apply on Saturday
       ru: Применять в субботу
       uk: Застосовувати в суботу
     ApplySunday:
-      be: Применять в воскресенье
       cs: Použít v neděli
       ka: გამოიყენეთ კვირას
       en: Apply on Sunday
       ru: Применять в воскресенье
       uk: Застосовувати в неділю
     ApplyThursday:
-      be: Применять в четверг
       cs: Použít ve čtvrtek
       ka: გამოიყენეთ ხუთშაბათს
       en: Apply on Thursday
       ru: Применять в четверг
       uk: Застосовувати в четвер
     ApplyToTransmissionType:
-      be: Применять к типу трансмиссии
       cs: Použít dle typu převodové skříně
       ka: გამოიყენეთ ტრანსმისიის ტიპზე
       en: Apply to transmission type
       ru: Применять к типу трансмиссии
       uk: Застосовувати до типу трансмісії
     ApplyTuesday:
-      be: Применять во вторник
       cs: Použít v úterý
       ka: გამოიყენეთ პარასკევს
       en: Apply on Tuesday
       ru: Применять во вторник
       uk: Застосовувати у вівторок
     ApplyWednesday:
-      be: Применять в среду
       cs: Použít ve středu
       ka: გამოიყენეთ ოთხშაბათს
       en: Apply on Wednesday
       ru: Применять в среду
       uk: Застосовувати в середу
     ArmCar:
-      be: Автомобиль закрыт и заблокирован
       cs: Vozidlo je uzamčené a zablokované
       ka: ავტომობილი დაიხურა და დაიბლოკა
       en: Vehicle closed and locked
       ru: Автомобиль закрыт и заблокирован
     at:
-      be: в
       cs: na
       ka: at
       en: at
@@ -1349,31 +1319,26 @@ Sections:
       ru: АТ
       uk: АТ
     AutostartDriveModeOnMovementAndIgnitionSettingDescription:
-      be: Переводить заказ в режим использования при наличии скорости и зажигания
       cs: Převést objednávku do režimu užívání v případě zapalování a rychlosti
       ka: შეკვეთის გადაყვანა გამოყენების ეტაპზე, მოძრაობის ან ანთებული ძრავის შემთხვევაში
       en: Start drive mode in case if speed and ignition are on
       ru: Переводить заказ в режим использования при наличии скорости и зажигания
     AutostartDriveModeOnMovementAndIgnitionSettingDescription1:
-      be: Переводить заказ в режим использования при наличии скорости и зажигания
       cs: Převést objednávku do režimu užívání v případě zapalování a rychlosti
       ka: ავტომატური გაშვების რეჟიმი სიჩქარესა და ანთებასთან ერთად
       en: Start drive mode in case if speed and ignition are on
       ru: Переводить заказ в режим использования при наличии скорости и зажигания
     AutostartDriveModeOnMovementAndIgnitionSpeedSettingDescription:
-      be: Скорость, при которой автоматически переводить заказ в режим использования
       cs: Rychlost, při které se objednávka objednávka převede do režimu užívání
       ka: სიჩქარე, რომელიც ავტომატურად გადასცემს ბრძანებას გამოყენების რეჟიმში გადასვლაზე
       en: The speed at which automatically transfer the order to the use mode
       ru: Скорость, при которой автоматически переводить заказ в режим использования
     AutostartDriveModeOnMovementAndIgnitionSpeedSettingDescription1:
-      be: Скорость, при которой автоматически переводить заказ в режим использования
       cs: Rychlost, při které se objednávka objednávka převede do režimu užívání
       ka: სიჩქარე, რომელიც ავტომატურად გადასცემს ბრძანებას გამოყენების რეჟიმზე
       en: The speed at which automatically transfer the order to the use mode
       ru: Скорость, при которой автоматически переводить заказ в режим использования
     AvgDebtSum:
-      be: Средний размер долга
       cs: Průměrná výše pohledávek
       ka: საშუალო ვალის ოდენობა
       en: Average debt amount
@@ -1408,14 +1373,12 @@ Sections:
       en: Bank card deleted
       ru: Банковская карта удалена
     BankCardNotFoundForUser:
-      be: У пользователя {0} не привязана банковская карта
       cs: Uživatel {0} nemá připojenu žádnou platební kartu
       ka: მომხმარებელს {0} არ აქვს მიბმული საბანკო ბარათი
       en: User {0} has not attached bank card
       ru: У пользователя {0} не привязана банковская карта
       uk: У користувача {0} не прив'язана банківська карта
     BankCardNumberLastDigits:
-      be: Последние цифры номера карты
       cs: Poslední čísla platební karty
       ka: საბანკო ბარათის ბოლო ციფრები
       en: Last digits of the card number
@@ -1425,21 +1388,18 @@ Sections:
       en: Bank card restored
       ru: Банковская карта восстановлена
     BankCards:
-      be: Банковские карты
       cs: Platební karty
       ka: საბანკო ბარათები
       en: bank cards
       ru: Банковские карты
       uk: Банківські карти
     BankCardsDeletionsAreDisabled:
-      be: Чтобы удалить карту, пожалуйста, обратитесь в техническую поддержку
       cs: k vymazání karty se prosím obraťte na oddělení technické podpory
       ka: საბანკო ბარათის გასაუქმებლად დაუკავშირდით ტექნიკური უზრუნველყოფის ჯგუფს
       en: To delete bank card please call our support
       ru: Чтобы удалить карту, пожалуйста, обратитесь в техническую поддержку
       uk: Щоб видалити карту, будь ласка, зверніться в технічну підтримку
     BankCardTypeIsProhibited:
-      be: Ваша карта не может использоваться в нашем сервисе. Попробуйте привязать другую карту.
       cs: Vaše platební karta nemůže být použita k úhradě našich služeb. Zkuste zadat údaje jiné platební karty
       ka: თქვენი ბარათი ვერ გამოიყენება ჩვენს მომსახურებაზე, სცადეთ სხვა ბარათის დაკავშირება.
       en: Your bank card can not be used in our service. Please try to use another bank card
@@ -1448,7 +1408,6 @@ Sections:
       en: 'Error on acquirer bank side. Please contact techical support. Error code: {errorCode}. Error message:{errorMessage}'
       ru: 'Ошибка на стороне банка-эквайера. Пожалуйста, свяжитесь с технической поддержкой. Код ошибки: {errorCode}. Сообщение: {errorMessage}'
     BatteryLowAlarmPeriodSettingDescription:
-      be: Время задержки предупреждения о низком заряде батареи
       cs: Čas čekání se spuštěním při upozornění o nízkém stavu nabití baterie
       ka: შეფერხების დრო დამჯდარი ელემენტის გაფრთხილებასთან დაკავშირებით.
       en: The delay time warning of low battery
@@ -1458,7 +1417,6 @@ Sections:
       ka: ფაილის ნახვამდე უნდა ამოიღოთ მოცემული ფაილი
       en: Before saving a file version you should obtain a file lock
     BirthDate:
-      be: Дата рождения
       cs: Datum narození
       ka: დაბადების თარიღი
       en: Date of birth
@@ -1473,110 +1431,94 @@ Sections:
       en: Bluetooth is allowed
       ru: Bluetooth разрешён
     BonusAccount:
-      be: Бонусный счёт
       cs: Bonusy
       ka: ბონუსის ანგარიში
       en: bonus account
       ru: Бонусный счёт
       uk: Бонусний рахунок
     BonusAccountRefill:
-      be: Пополнение бонусного счёта
       cs: Navýšení bonusového účtu
       ka: ბონუსის ანგარიშის შევსება
       en: Deposit bonus account
       ru: Пополнение бонусного счёта
     Bonuses:
-      be: Накоплено бонусов
       cs: Naspořeno bonusových bodů
       ka: დაგროვილი ბონუსები
       en: Bonuses accumulated
       ru: Накоплено бонусов
     BonusesAmountMustBeGreaterThanZero:
-      be: Количество бонусов для зачисления должно быть больше нуля
       cs: Počet bonusových bodů pro navýšení musí být vyšší než nula
       ka: დასარიცხი ბონუსების რაოდენობა უნდა იყოს ნულზე მეტი
       en: Number of bonuses to be credited must be greater than zero
       ru: Количество бонусов для зачисления должно быть больше нуля
       uk: Кількість бонусів для зарахування повинна бути більше нуля
     BonusWithdrawPercentSettingDescription:
-      be: Процент суммы поездки, которую можно оплатить бонусами
       cs: procent z částky ceny jízdy, který lze uhradit bonusovými body
       ka: მგზავრობის თანხის პროცენტი, რომლის გადახდა შესაძლებელია ბონუსის მეშვეობით
       en: Percentage of the ride sum client can pay with bonuses
       ru: Процент суммы поездки, которую можно оплатить бонусами
       uk: Відсоток суми поїздки, яку можна оплатити бонусами
     Book:
-      be: Бронь
       cs: Rezervace
       ka: ჯავშნები.
       en: Book
       ru: Бронь
       uk: Бронювання
     BookCarResultFailedCarIsNotAvailableNow:
-      be: Автомобиль в данный момент не доступен для аренды
       cs: Vozidlo nyní není dostupné k pronájmu
       ka: მანქანა არ არის ხელმისაწვდომი ქირაობისთვის.
       en: The car is not available for the rent at the moment
       ru: Автомобиль в данный момент не доступен для аренды
       uk: Автомобіль в даний момент недоступний для оренди
     BookCarResultFailedCarIsOffline:
-      be: Отсутствует связь с выбранным автомобилем.
       cs: Není spojení se zvoleným vozidlem.
       ka: მითითებულ მანქანასთან ვერ ხერხდება დაკავშირება.
       en: The car is offline
       ru: Отсутствует связь с выбранным автомобилем.
       uk: Відсутній зв'язок з обраним автомобілем.
     BookCarResultFailedCarIsOrderedAlready:
-      be: Автомобиль забронирован другим пользователем.
       cs: Vozidlo je rezervováno pro jiného uživatele
       ka: მანქანა დაჯავშნილია სხვა მომხმარებლის მიერ
       en: The car is booked already by somebody else
       ru: Автомобиль забронирован другим пользователем.
       uk: Автомобіль заброньовано іншим користувачем.
     BookCarResultFailedCarIsReserved:
-      be: Извините, но этот автомобиль сейчас недоступен для аренды.
       cs: Promíňte, ale toto vozidlo nyní není dostupné k pronájmu.
       ka: უკაცრავად, ეს მანქანა არ არის ხელმისაწვდომი დასაქირავებლად
       en: Sorry, this car is not available for rent right now
       ru: Извините, но этот автомобиль сейчас недоступен для аренды.
       uk: Вибачте, але цей автомобіль зараз недоступний для оренди.
     BookCarResultFailedCarNotFound:
-      be: Автомобиль не найден в системе.
       cs: Vozidlo nebylo nalezeno v systému.
       ka: სისტემაში მანქანა ვერ მოიძებნა
       en: The car was not found in the system
       ru: Автомобиль не найден в системе.
       uk: Автомобіль не знайдений в системі.
     BookCarResultFailedCustomerIsBlocked:
-      be: Ваша учётная запись заблокирована.
       cs: Váš uživatelský účet byl zablokován.
       ka: თქვენი მომხმარებლის ანგარიში დაბლოკილია
       en: Your account is locked
       ru: Ваша учётная запись заблокирована.
       uk: Ваш обліковий запис заблоковано.
     BookCarResultFailedHasNoBankCard:
-      be: В системе отсутствует информация о Вашей банковской карте.
       cs: V systému není informace o Vaší platební kartě.
       ka: სისტემაში არ იძებნება მონაცემები თქვენი საბანკო ბარათის შესახებ.
       en: There is no information about your bank card in the system
       ru: В системе отсутствует информация о Вашей банковской карте.
       uk: В системі відсутня інформація про Вашу банківську карту.
     BookCarResultFailedNegativeBalance:
-      be: Баланс Вашей учётной записи отрицательный.
       cs: Stav Vašeho uživatelského účtu je záporný
       ka: თქვენი მომხმარებლის ანგარიში უარყოფითია.
       en: Your balance is negative
       ru: Баланс Вашей учётной записи отрицательный.
       uk: Баланс вашого облікового запису негативний.
     BookCarResultFailedNoDriveZonesFound:
-      be: Для выбранного автомобиля не настроена зона поездок.
       cs: Pro zvolené vozidlo není nastavena cestovní zóna.
       ka: ამ მანქანისთვის არ არის დაყენებული მგზავრობის ზონა.
       en: The Home Area  was not configured for this car
       ru: Для выбранного автомобиля не настроена зона поездок.
       uk: Для обраного автомобіля не налаштована зона поїздок.
     BookCarResultFailedNoRentEndZonesFound:
-      be: Для выбранного автомобиля не настроена зона завершения аренды.
       cs: Pro zvolené vozidlo není nastavena zóna pro ukončení pronájmu.
       ka: ამ მანქანისთვის არ არის დაყენებული დაქირავების დასრულების ზონა.
       en: The Home Area was not configured for this car
@@ -1584,9 +1526,7 @@ Sections:
       uk: Для обраного автомобіля не налаштована зона завершення оренди.
     BookCarResultFailedPreHold:
       en: Can not hold amount on your card
-      be: Ошибка при холдировании средств
     BookCarResultFailedSecurityCheckDidNotPass:
-      be: Направленные документы находятся в стадии проверки. Мы сообщим Вам о результате проверки документов в ближайшее время.
       cs: Vámi zaslané doklady se prověřují. O výsledcích Vás budeme informovat v nejbližší době.
       ka: გაგზავნილი დოკუმენტები მოწმდება. ჩვენ შეგატყობინებთ შემოწმების შედეგებზე უახლოეს პერიოდში.
       en: Submitted documents are being examined. We will inform you about the result  shortly
@@ -1596,7 +1536,6 @@ Sections:
       en: The car is too far from you. Please come closer to the it and try again
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     BookCarResultFailedUserAlreadyHasOrder:
-      be: У Вас уже есть забронированный автомобиль.
       cs: Již máte zarezervované vozidlo.
       ka: თქვენ უკვე გყავთ დაჯავშნილი მანქანა.
       en: You have already booked a car
@@ -1609,21 +1548,18 @@ Sections:
       ru: Выбранный автомобиль приписан к организациям, в которых Вы не состоите.
       uk: Обраний автомобіль приписаний до організацій, до яких Ви не належите.
     BookCarResultFailedUserIsBlocked:
-      be: Ваша учётная запись заблокирована.
       cs: Váš uživatelský účet byl zablokován.
       ka: თქვენი მომხმარებლის ანგარიში დაბლოკილია
       en: Your account is locked
       ru: Ваша учётная запись заблокирована.
       uk: Ваш обліковий запис заблоковано.
     BookCarResultFailedUserIsNotACustomer:
-      be: У Вас отсутствует право на бронирование автомобилей.
       cs: Nemáte oprávnění k rezervaci vozidel.
       ka: თქვენ არ გაქვთ მანქანის დაჯავშნის უფლება
       en: You have no authorization to book cars
       ru: У Вас отсутствует право на бронирование автомобилей.
       uk: У Вас відсутнє право на бронювання автомобілів.
     BookCarResultOkCarIsBooked:
-      be: Машина успешно забронирована.
       cs: Vozidlo bylo úspěšně rezervováno.
       ka: მანქანა წარმატებით დაიჯავშნა
       en: The car has been booked successfully
@@ -1633,13 +1569,11 @@ Sections:
       en: You have been booked car for {0} minutes. Make sure that you will start your rent soon
       ru: Ваша машина находится в брони уже {0} минут. Пожалуйста, начните аренду в ближайшее время
     BookingPreventPeriodByCarTicketSettingDescription:
-      be: Время отсутствия бронирований для автомобиля с текущего момента, при бронировании с абонементом
       cs: V případě rezervace s předplatným čas zákazu rezervací vozidla od teď
       ka: დაჯავშნის შეფერხების პერიოდი აბონემენტით დაჯავშნის შემდგომ
       en: The absence of reservations for a vehicle from the current time, when booking a subscription
       ru: Время отсутствия бронирований для автомобиля с текущего момента, при бронировании с абонементом
     BookingResultRateNotFound:
-      be: Этот автомобиль не может быть забронирован в данный момент (нет подходящего тарифа).
       cs: Toto vozidlo nemůže být nyní rezervováno (neexistuje vhodný tarif)
       ka: მანქანა ვერ დაიჯავშნება ახლა (შესაბამისი ტარიფის არ არსებობის გამო).
       en: This car can not be booked at the moment (there is no suitable rate for this vehicle)
@@ -1652,56 +1586,48 @@ Sections:
       ru: Отчет по арендам
       uk: Звіт по орендах
     BookRate:
-      be: Тариф бронирования
       cs: Tarif rezervace
       ka: ჯავშნის ტარიფი.
       en: booking rate
       ru: Тариф бронирования
       uk: Тариф бронювання
     BookStart:
-      be: Машина забронирована
       cs: Vozidlo je rezervováno
       ka: ავტომობილი დაჯავშნილია.
       en: Car is booked
       ru: Машина забронирована
       uk: Машина заброньована
     Brand:
-      be: Марка
       cs: Značka
       ka: ბრენდი
       en: Brand
       ru: Марка
       uk: Марка
     BuyCarTicketCodeFailedAlreadyHasTicket:
-      be: У Вас уже есть абонемент. Вы не можете одновременно использовать боее одного абонемента.
       cs: Již máte předplatné. Nemůžete využívat více než jedno předplatné.
       ka: თქვენ უკვე გაქვთ აბონემენტი. ერთდროულად ერთზე მეტი აბონიმენტი არ გამოიყენება
       en: You have purchased a package. You can not purchase more then one package at same time
       ru: У Вас уже есть абонемент. Вы не можете одновременно использовать боее одного абонемента.
       uk: У Вас вже є абонемент. Ви не можете одночасно використовувати більше одного абонемента.
     BuyCarTicketCodeFailedBilling:
-      be: Не удалось произвести оплату
       cs: Nepodařilo se provést úhradu
       ka: გადახდა ვერ მოხერხდა
       en: Payment failed
       ru: Не удалось произвести оплату
       uk: Не вдалося здійснити оплату
     BuyCarTicketCodeFailedRatePackNotFound:
-      be: Выбранный тип абонемента более недействителен
       cs: Vybraný typ předplatného je neplatný
       ka: არჩეული აბონემენტი არ არის მოქმედი
       en: Selected package is not available
       ru: Выбранный тип абонемента более недействителен
       uk: Обраний тип абонемента вже не є дійсним
     BuyCarTicketCodeFailedThisRatePackIsNotAvailableForYou:
-      be: Вы не можете купить абонемент этого типа
       cs: Nemůžete zakoupit předplatné tohoto typu
       ka: ამ აბონემენტს ვერ შეიძენთ
       en: You can not purchase this package
       ru: Вы не можете купить абонемент этого типа
       uk: Ви не можете купити абонемент цього типу
     BuyCarTicketCodeFailedUnknowError:
-      be: Не удалось выполнить покупку абонемента
       cs: Nepodařilo se uskutečnit nákup předplatného
       ka: აბონემენტის შეძენა ვერ მოხერხდა
       en: Purchase of package failed. Please try again later
@@ -1711,7 +1637,6 @@ Sections:
       en: OrganizationLimitExceeded
       ru: Лимит организации исчерпан
     BuyCarTicketCodeSuccessCarTicketPurchased:
-      be: Абонемент успешно приобретён
       cs: Předplatné bylo zakoupeno
       ka: აბონემენტი შეძენილია წარმატებით
       en: The package has been purchased
@@ -1734,7 +1659,6 @@ Sections:
       en: 'Can not delete the file: user is not authorized'
       ru: 'Невозможно удалить файл: пользователь не авторизован'
     CannotDeleteReportThatInProcessNow:
-      be: Невозможно удалить отчет, который в данный момент выполняется
       cs: Nelze smazat zprávu, která se nyní provádí
       ka: 'მიმდინარე ანგარიშის წაშლა ვერ მოხერხდა '
       en: Can't delete report which is being processed now
@@ -1751,160 +1675,137 @@ Sections:
       en: 'Unable to unlock the file: user is not authorized'
       ru: 'Невозможно разблокировать файл: пользователь не авторизован'
     Car:
-      be: Автомобиль
       cs: Vozidlo
       ka: ავტომობილი
       en: Car
       ru: Автомобиль
       uk: Автомобіль
     CarBooked:
-      be: Автомобиль забронирован
       cs: Vozidlo je rezervováno
       ka: ავტომობილი დაჯავშნილია.
       en: Car is booked
       ru: Автомобиль забронирован
     CarCommandResultErrorAnotherCommandInProgress:
-      be: Дождитесь выполения другой команды.
       cs: Vyčkejte na provedení jiného příkazu
       ka: გთხოვთ დაელოდოთ სხვა ბრძანების შესრულებას
       en: Other command in progress
       ru: Дождитесь выполения другой команды.
       uk: Інша команда виконується.
     CarCommandResultErrorBootIsOpened:
-      be: Багажник не закрыт.
       cs: Víko kufru není zavřené
       ka: საბარგული არ არის დახურული.
       en: The boot is opened
       ru: Багажник не закрыт.
       uk: Багажник не закритий.
     CarCommandResultErrorCarInMotion:
-      be: Автомобиль находится в движении.
       cs: Vozidlo je v pohybu
       ka: მანქანა მოძრაობს
       en: The car is driving now
       ru: Автомобиль находится в движении.
       uk: Автомобіль знаходиться в русі.
     CarCommandResultErrorCheckDoors:
-      be: Проверьте двери.
       cs: Zkontrolujte dveře
       ka: შეამოწმეთ კარები.
       en: Please check the doors
       ru: Проверьте двери.
       uk: Перевірте двері.
     CarCommandResultErrorCheckWindows:
-      be: Проверьте окна.
       cs: Zkontrolujte okna
       ka: შეამოწმეთ ფანჯრები.
       en: Please check the windows
       ru: Проверьте окна.
       uk: Перевірте вікна.
     CarCommandResultErrorEngineIsStarted:
-      be: Двигатель не заглушен.
       cs: Motor je vypnutý.
       ka: ძრავა არ არის გამორთული
       en: The engine is on
       ru: Двигатель не заглушен.
       uk: Двигун не заглушений.
     CarCommandResultErrorFLDoorIsOpened:
-      be: Передняя левая дверь не заперта.
       cs: Přední levé dveře nejsou zavřené
       ka: წინა მარცხენა კარი არ არის ჩაკეტილი.
       en: The front left door is not locked
       ru: Передняя левая дверь не заперта.
       uk: Двері не замкнені (передня ліва).
     CarCommandResultErrorFRDoorIsOpened:
-      be: Передняя правая дверь не заперта.
       cs: Přední pravé dveře nejsou zavřené
       ka: წინა არჯვენა კარი არ არის ჩაკეტილი.
       en: The front right door is not locked
       ru: Передняя правая дверь не заперта.
       uk: Двері не замкнені (передня права).
     CarCommandResultErrorHandBreakIsOff:
-      be: Пожалуйста, поставьте автомобиль на ручной тормоз.
       cs: Prosím, zatáhněte ruční brzdu.
       ka: 'გთხოვთ ამოწიოთ ხელის მუხრუჭი. '
       en: The hand brake is off
       ru: Пожалуйста, поставьте автомобиль на ручной тормоз.
       uk: Будь ласка, поставте автомобіль на ручне гальмо.
     CarCommandResultErrorHandBreakIsOn:
-      be: Пожалуйста, опустите ручной тормоз чтобы закрыть автомобиль.
       cs: Prosím, zatáhněte ruční brzdu pro zavření vozidla
       ka: 'მანქანის ჩასაკეტად, გთხოვთ ჩაწიოთ ხელის მუხრუჭი. '
       en: Please take off the handbrake to close the car.
       ru: Пожалуйста, опустите ручной тормоз чтобы закрыть автомобиль.
       uk: Пожалуйста, опустите ручной тормоз, щоб закрити автомобіль.
     CarCommandResultErrorHoodIsOpened:
-      be: Капот не закрыт.
       cs: Víko kapoty není zavřené
       ka: ძარის სახურავი ღიაა
       en: The hood is opened
       ru: Капот не закрыт.
       uk: Капот не закрито.
     CarCommandResultErrorIgnitionKeyIsTurnedOn:
-      be: Зажигание включено.
       cs: Zapalování je zapnuté
       ka: მანქანა ანთებულია
       en: The ignition is on
       ru: Зажигание включено.
       uk: Запалювання включено.
     CarCommandResultErrorLightsIsOn:
-      be: Пожалуйста, выключите фары.
       cs: Prosím, vypněte světla.
       ka: გთხოვთ გამორთოთ ფარები.
       en: Please, turn off the headlights
       ru: Пожалуйста, выключите фары.
       uk: Будь ласка, вимкніть фари.
     CarCommandResultErrorNoConnectionWithCar:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem
       ka: არ არის კავშირი მანქანასთან
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Відсутній зв'язок з автомобілем.
     CarCommandResultErrorNotInParking:
-      be: Пожалуйста, переключите АКПП в положение P
       cs: prosím, přepněte automatickou převodovku do polohy "P"
       ka: გთხოვთ გადართოთ სიჩქარეთა გადაცემის კოლოფი P პოზიციაში
       en: Please switch the selector to P
       ru: Пожалуйста, переключите АКПП в положение P
       uk: Пожалуйста, переключите АКПП в положение P
     CarCommandResultErrorRLDoorIsOpened:
-      be: Задняя левая дверь не заперта.
       cs: Zadní levé dveře nejsou zavřené
       ka: უკანა მარცხენა კარი არ არის ჩაკეტილი.
       en: The rear left door is not locked
       ru: Задняя левая дверь не заперта.
       uk: Двері не замкнені (задня ліва).
     CarCommandResultErrorRoofIsOpened:
-      be: Закройте крышу автомобиля
       cs: Zavřete střechu vozidla
       ka: მანქანის სახურავი ახდილია.
       en: Please close the car roof
       ru: Закройте крышу автомобиля
       uk: Закрийте дах автомобіля
     CarCommandResultErrorRRDoorIsOpened:
-      be: Задняя правая дверь не заперта.
       cs: Zadní pravé dveře nejsou zavřené
       ka: უკანა მარჯვენა კარი არ არის ჩაკეტილი.
       en: The rear right door is not locked
       ru: Задняя правая дверь не заперта.
       uk: Двері не замкнені (задня права).
     CarCommandResultErrorSatellitesVisibility:
-      be: No satellite visible, please move the car
       cs: Vozidlo není ve spojení se satelity
       ka: ავტომობილი ვერ ხედავს სატელიტებს, გთხოვთ მანქანას შეუცვალეთ ადგილმდებარეობა
       en: Not enough visible sattelites  at the moment
       ru: 'Нет связи со спутниками GPS. Пожалуйста, переставьте автомобиль'
       uk: Автомобіль не бачить супутників
     CarCommandResultErrorTransmissionNotInParking:
-      be: Переключите АКПП в положение "P"
       cs: Přepněte páku automatické převodovky do polohy "P"
       ka: 'ტრანსმისია არ არის "P" რეჟიმში. '
       en: Transmission is not in "P" mode
       ru: Переключите АКПП в положение "P"
       uk: Переведіть АКП в положення "P"
     CarCommandResultErrorTrunkIsOpened:
-      be: Пожалуйста закройте багажник.
       cs: Prosím, zavřete víko kufru
       ka: დახურეთ საბარგული
       en: Please close the trunk
@@ -1921,41 +1822,35 @@ Sections:
       en: Do not try to your end rental while moving.
       ru: Не пытайтесь завершить аренду во время движения.
     CarCommandResultErrorTrunkOrHoodIsOpened:
-      be: Закройте капот или багажник!
       cs: Zavřete kapotu a kufr
       ka: საბარგული ან ძარის სახურავი ღიაა
       en: Close the hood or trunk!
       ru: Закройте капот или багажник!
     CarCommandResultNotApplicable:
-      be: Действие не применимо.
       cs: příkaz nelze použít
       ka: მოცემული მოქმედება არ შეესაბამება დავალებას
       en: Action is not applicable
       ru: Действие не применимо.
       uk: Дія не застосовується.
     CarCommandResultServerError:
-      be: Внутренняя ошибка сервера.
       cs: Neočekávaná chyba.
       ka: 'სერვერის შიდა შეცდომა. '
       en: 'Unexpected error.  Retry in a few minutes.'
       ru: Внутренняя ошибка сервера.
       uk: Внутрішня помилка сервера.
     CarCommandResultTimeoutError:
-      be: Машина не отвечает на запрос, возможно, плохая связь. Пожалуйста, попробуйте ещё раз позже.
       cs: Vozidlo neodpovídá na požadavek, pravděpodobně vinou špatného spojení. Prosím, zkuste znovu později.
       ka: მანქანა არ რეაგირებს მოთხოვნაზე, შესაძლებელია ცუდი კავშირის გამო, სცადეთ მოგვიანებით.
       en: Command timeout. Please try again later
       ru: Машина не отвечает на запрос, возможно, плохая связь. Пожалуйста, попробуйте ещё раз позже.
       uk: Машина не відповідає на запит, можливо, поганий зв'язок. Будь ласка, спробуйте ще раз пізніше.
     CardBinding:
-      be: Привязка банковской карты
       cs: Připojení platební karty
       ka: 'საბანკო ბარათის მიბმა. '
       en: Attach bank card
       ru: Привязка банковской карты
       uk: Прив'язка банківської карти
     CarDriveZoneOut:
-      be: Машина выехала из зоны использования
       cs: Vozidlo je mimo oblast uživání
       ka: 'მანქანა გასულია გამოყენების ზონიდან. '
       en: The car is out of Home Area
@@ -1965,47 +1860,40 @@ Sections:
       en: Car editor opened
       ru: Карточка машины открыта
     CarEvacuation:
-      be: Эвакуация
       cs: Odtah
       ka: ევაკუაცია.
       en: The car is being towed
       ru: Эвакуация
       uk: Евакуація
     CarHoodOpened:
-      be: Открыт капот
       cs: Kapota otevřená
       ka: ძარის სახურავი ღიაა
       en: Hood is open
       ru: Открыт капот
     CarIllegalOpen:
-      be: Вскрытие автомобиля
       cs: Vniknutí do vozidla
       ka: მანქანის არასანქცირებული გახსნა.
       en: Illegal car opening
       ru: Вскрытие автомобиля
       uk: Злом автомобіля
     CarIsBookedNotificationSettingDescription:
-      be: Уведомлять о успешном бронировании автомобиля
       cs: Informovat o úspěšné rezervaci vozidla
       ka: შეტყობინება მანქანის წარმატებულად დაჯავშნის შესახებ.
       en: Notify about successful car booking
       ru: Уведомлять о успешном бронировании автомобиля
     CarIsOffline:
-      be: Машина без связи
       cs: Vozidlo je bez spojení
       ka: მანქანას არ აქვს კავშირი
       en: Car is offline
       ru: Машина без связи
       uk: Машина без зв'язку
     CarLowBattery:
-      be: Сел аккумулятор
       cs: Baterie vozidla vybitá
       ka: დამჯდარია ელემენტი
       en: Critical low battery
       ru: Сел аккумулятор
       uk: Сів акумулятор
     CarModel:
-      be: Модель автомобиля
       cs: model vozidla
       ka: მანქანის მოდელი
       en: Car model
@@ -2018,26 +1906,22 @@ Sections:
       en: Car model deleted
       ru: Модель машины удалена
     CarMovementThresholdKphSettingDescription:
-      be: Порог скорости автомобиля, чтобы он был определён системой как движущийся
       cs: Limit rychlosti vozidla k určení, že jde o pohybující se vozidlo
       ka: ავტომობილის სიჩქარის ზღვარი, რათა სისტემამ მოძრავად განსაზღვროს
       en: The threshold vehicle speed, so that it can be identified as moving
       ru: Порог скорости автомобиля, чтобы он был определён системой как движущийся
     CarMoveWithHandBrakeOn:
-      be: Машина движется со включенным ручником
       cs: Vozidlo se pohybuje se zapnutou ruční brzdou
       ka: ავტომანქანა გადაადგილდება ამოწეული ხელის მუხრუჭით
       en: Car moving with hand break on
       ru: Машина движется со включенным ручником
       uk: Машина рухається зі включеним ручником
     CarPenalty:
-      be: Штраф за нарушение ПДД
       cs: Pokuty za porušení pravidel silničního provozu
       ka: ჯარიმა მოძრაობის წესების დარღვევისათვის
       en: Penalty for traffic violation
       ru: Штраф за нарушение ПДД
     CarPenaltyCantCancelWithdraw:
-      be: Невозможно отменить списание,так как оно было уже совершено.
       cs: Nelze zrušit čerpání prostředků, neboť již bylo provedeno
       ka: შეუძლებელია ჩამოწერის გაუქმება, რადგანაც  უკვე შესრულდა.
       en: It is not possible to cancel the charge, as it has already been executed.
@@ -2049,28 +1933,24 @@ Sections:
       ru: Необходимо загрузить изображение модели автомобиля
       uk: Необхідно завантажити зображення моделі автомобіля
     CarRentZoneAlert:
-      be: Машина завершила аренду в выбранной зоне
       cs: Vozidlo ukončilo pronájem ve zvolené oblasti
       ka: იჯარა დასრულდა არჩეულ ზონაში.
       en: The car completed the rent in the selected area
       ru: Машина завершила аренду в выбранной зоне
       uk: Авто завершило оренду в обраній зоні
     CarRentZoneOut:
-      be: Машина завершила арену вне зоны парковки
       cs: Vozidlo ukončilo pronájem mimo oblast parkování
       ka: ავტომობილმა დაამთავრა იჯარა პარკირების ზონის გარეთ.
       en: The car completed the rent out of Home Area
       ru: Машина завершила арену вне зоны парковки
       uk: Авто завершило арену поза зоною паркування
     Cars:
-      be: Автомобили
       cs: Vozidla
       ka: ავტომობილები
       en: Cars
       ru: Автомобили
       uk: Автомобілі
     CarSpeedLimitExceeded:
-      be: Превышение скорости
       cs: Překročení rychlosti
       ka: სიჩქარის გადაჭარბება
       en: Speeding
@@ -2080,39 +1960,33 @@ Sections:
       en: Speeding in zone
       ru: Превышение скорости в зоне
     CarStale:
-      be: Автомобиль без движения
       cs: Vozidlo bez pohybu
       ka: მანქანა არ მოძრაობს
       en: Car is not moving
       ru: Автомобиль без движения
       uk: Автомобіль без руху
     CarStalePeriodSettingDescription:
-      be: Порог простоя автомобиля для предупреждения о этом
       cs: Limit nečinnosti vozidla do upozornění
       en: Car idle threshold for the warning that
       ru: Порог простоя автомобиля для предупреждения о этом
     CarTasks:
-      be: Задачи по машинам
       cs: Úkoly k vozidlům
       ka: ავტომობილის დავალებები.
       en: Car Tasks
       ru: Задачи по машинам
       uk: Завдання по машинам
     CarTheft:
-      be: Угон
       cs: Odcizení
       ka: გატაცება
       en: Car theft
       ru: Угон
       uk: Угон
     CarTicket:
-      be: Абонемент
       cs: Předplatné
       ka: აბონემენტი
       en: Package
       ru: Абонемент
     CarTicketIsOverNotificationSettingDescription:
-      be: Уведомление об окончании действия абонемента
       cs: Upozornění na ukončení předplatného
       ka: შეტყობინება კლიენტის ქმედებების შეწყვეტის შესახებ.
       en: Notice of termination of the package
@@ -2168,34 +2042,29 @@ Sections:
       en: Initiator of modifications
       ru: Инициатор изменений
     ChargeCustomer:
-      be: Списание средств
       cs: Stržení prostředků z platební karty
       ka: თანხის ჩამოჭრა
       en: Debit
       ru: Списание средств
     ChargeCustomersBalanceCodeFailedNegativeBalance:
-      be: Вы не можете совершить покупку, т.к. Ваш баланс нулевой или отрицательный
       cs: Nemůžete provést nákup, neboť stav Vašeho účtu je nulový nebo záporný
       ka: თქვენ ვერ შეძლებთ შეძენას ვინაიდან თქვენი ბალანსი ნულოვანია ან უარყიფითი.
       en: You can not purchase because of negative balance
       ru: Вы не можете совершить покупку, т.к. Ваш баланс нулевой или отрицательный
       uk: Ви не можете зробити покупку, тому що Ваш баланс нульовий або негативний
     ChargeCustomersBalanceCodeFailedPaymentGateway:
-      be: Не удалось произвести платёж - запрос отклонён платёжным шлюзом. Возможно, на Вашей карте недостаточно средств. Пожалуйста, попробуйте повторить позже.
       cs: Nepodařilo se provést úhradu - požadavek odmítnut Vaší platební bránou. Je možné, že na Vaší platební kartě není dostatek prostředků. Prosím, zkuste později.
       ka: გადახდის განხორციელება ვერ მოხერხდა - მოთხოვნა უარყოფილია გადახდის ოპერატორის მიერ, სავარაუდოდ თქვენს ბარათზე საკმარისი თანხის არ არსებობის გამო. გთხოვთ,  სცადოთ მოგვიანებით
       en: Could not process the payment. Please try again later.
       ru: Не удалось произвести платёж - запрос отклонён платёжным шлюзом. Возможно, на Вашей карте недостаточно средств. Пожалуйста, попробуйте повторить позже.
       uk: Чи не вдалося здійснити платіж - запит відхилено платіжним шлюзом. Можливо, на Вашій карті недостатньо коштів. Будь ласка, спробуйте повторити пізніше.
     ChargeCustomersBalanceCodeFailedUserHasNoBankCard:
-      be: У Вас нет ни одной зарегистрированной в системе банковской карты
       cs: Nemáte žádnou registrovanou platební kartu
       ka: თქვენ არ გაქვთ სისტემაში დარეგისტრირებული საბანკო ბარათი
       en: You don't have any bank card registered in the system
       ru: У Вас нет ни одной зарегистрированной в системе банковской карты
       uk: У Вас немає жодної банківської карти, що зареєстровано в системі
     ChargeCustomersBalanceCodeSuccessUserCharged:
-      be: Оплата произведена успешно
       cs: Úhrada provedena úspěšně
       ka: გადახდა განხორციელდა წარმატებით
       en: The payment was successful
@@ -2205,7 +2074,6 @@ Sections:
       en: charging
       ru: зарядочной
     ChatUnknownAnswer:
-      be: Ошибка. Неизвестный ответ.
       cs: Chyba. Neznámá odpověď.
       en: Error. Unknown answer.
       ru: Ошибка. Неизвестный ответ.
@@ -2222,30 +2090,25 @@ Sections:
       en: Error. GUID step is empty.
       ru: Ошибка. GUID ответа пустой.
     ChatUnknownStep:
-      be: Ошибка. Неизвестный шаг.
       cs: Chyba. Neznámý příkaz.
       en: Error. Unknown step.
       ru: Ошибка. Неизвестный шаг.
     CheckConnectionEnumFailedUserHasNoRightForYoutell:
-      be: У пользователя нет прав для работы с YouTell
       cs: Uživatel nemá oprávnění pro práci s YouTell
       ka: მომხმარებელს არ აქვს Youtell გამოყენების უფლება
       en: User is not authorized to work with YouTell
       ru: У пользователя нет прав для работы с YouTell
     CheckConnectionEnumFailedUserIsNotAdministrator:
-      be: Пользователь не оператор CarTrek
       cs: Uživatel není operátor
       ka: მომხმარებელი არ წარმოადგენს  Car Trek-ის ოპერატორს.
       en: The user is not the operator of CarTrek
       ru: Пользователь не оператор CarTrek
     CheckConnectionEnumFailedYoutellApiTokenNotDefined:
-      be: В конфигурации не задан токен API YouTell
       cs: V nastavení není zadán token API YouTell
       ka: კონფიგურაციაში არარის მითითებული ტოკენი API YouTell-ზე.
       en: token is not specified in configuration API YouTell
       ru: В конфигурации не задан токен API YouTell
     CheckConnectionEnumFailedYoutellAuthenticationError:
-      be: Не удалось авторизовать пользователя в YouTell
       cs: Nepodařilo se přihlášení uživatele v systému YouTell
       ka: მომხმარებლის  YouTell-ით ავტორიზაცია ვერ ხერხდება
       en: Failed to authorize the user to YouTell
@@ -2255,13 +2118,11 @@ Sections:
       ka: YouTell-მა ვერ დაარეგისტრირა მომხმარებელი.
       en: YouTell not allowed to register user
     CheckConnectionEnumFailedYoutellUrlNotDefined:
-      be: В конфигурации не задан URL сервера YouTell
       cs: V nastavení nebyl zadán URL serveru YouTell
       ka: 'YouTell სერვერის მისამართი არ არის მითითებული კონფიგურაციაში   '
       en: is not specified in the configuration YouTell URL server
       ru: В конфигурации не задан URL сервера YouTell
     CheckConnectionEnumOkConnectionEstablished:
-      be: Соединение с YouTell установлено
       cs: Spojení s YouTell bylo navázáno
       ka: კავშირი YouTell-თან დამყარებულია
       en: Connection with YouTell succeeded
@@ -2270,7 +2131,6 @@ Sections:
       en: Check gps distance before rent
       ru: Проверять расстояние пере арендой
     CheckPhotosConfirmed:
-      be: Фотографии чека подтверждена
       cs: Foto účtenky bylo potvrzeno
       ka: ქვითრის სურათები დადასტურებულია
       en: Photo of the bill is confirmed
@@ -2282,7 +2142,6 @@ Sections:
       en: Subgroups
       ru: Подгруппы
     Color:
-      be: Цвет
       cs: Barva
       ka: ფერი
       en: Colour
@@ -2305,7 +2164,6 @@ Sections:
       ka: ჩატარების პარამეტრები
       cs: Nastavení držení
     Comment:
-      be: Комментарий
       cs: Poznámka
       ka: კომენტარი
       en: A comment
@@ -2318,7 +2176,6 @@ Sections:
       en: Common organization
       ru: Общедоступная организация
     Completed:
-      be: Завершён
       cs: Ukončen
       ka: დასრულებულია
       en: Completed
@@ -2338,7 +2195,6 @@ Sections:
       en: Cannot delete corporate organization with customers in it
       ru: Невозможно удалить корпоративную организацию, если в ней состоят пользователи.
     CorporateOrganizations:
-      be: Корпоративные клиенты
       cs: Firmní zákazníci
       en: Corporate clients
       ru: Корпоративные клиенты
@@ -2349,7 +2205,6 @@ Sections:
       en: Corporate rides are not avaliable today
       ru: Корпоративные поездки сегодня не доступны
     CostInKops:
-      be: Стоимость
       cs: Cena
       ka: ღირებულება
       en: Cost
@@ -2368,7 +2223,6 @@ Sections:
       ru: Готовится
       uk: Створення
     CustomerData:
-      be: Данные клиента
       cs: Údaje zákazníka
       ka: მომხმარებლის მონაცემები
       en: customer data
@@ -2381,33 +2235,28 @@ Sections:
       en: Customer editor opened
       ru: Карточка клиента открыта
     CustomerIsDebtor:
-      be: Клиент ушёл в минус
       cs: Zákazník se dostal do mínusu
       ka: კლიენტს ერიცხება დავალიანება
       en: The client has negative balance
       ru: Клиент ушёл в минус
       uk: Клієнт пішов в мінус
     CustomerNotFound:
-      be: Клиент не найден
       cs: Zákazník nebyl nalezen
       en: Cusomer not found
       ru: Клиент не найден
     CustomerRentStart:
-      be: Клиент под контролем начал аренду
       cs: Zákazník pod kontrolou zahájil pronájem
       ka: კონტროლის ქვეშ მყოფმა კლიენტმა დაიწყო დაქირავება
       en: Client under control began the rent
       ru: Клиент под контролем начал аренду
       uk: Клієнт під контролем почав оренду
     CustomersBalance:
-      be: Баланс счёта клиента
       cs: Stav účtu zákazníka
       ka: კლიენტის ანგარიშის ბალანსი
       en: Client's balance
       ru: Баланс счёта клиента
       uk: Баланс рахунку клієнта
     CutKopsInNotificationSettingDescription:
-      be: Показывать копейки в уведомлениях
       cs: Uvádět halíře ve zprávách
       ka: თეთრების ჩვენება შეტყობინებებში
       en: Show penny in notifications
@@ -2433,7 +2282,6 @@ Sections:
       ru: Параметры даты и времени заданы неверно
       uk: Зазначені параметри дати і часу вказано невірно
     DaysInPack:
-      be: Дней в пакете
       cs: Dnů v balíčku
       ka: დღეები პაკეტში
       en: Days in the package
@@ -2444,13 +2292,11 @@ Sections:
       ka: '?'
       en: '?'
     DebtRedemption:
-      be: Погашение долга
       cs: Úhrada dluhu
       ka: ვალის დაფარვა
       en: Payment of debt
       ru: Погашение долга
     DebtsCount:
-      be: Сколько раз уходил в долг
       cs: Počet pohledávek v minulosti
       ka: დავალიანებების რაოდენობა
       en: How many time went into debt
@@ -2462,7 +2308,6 @@ Sections:
       cs: Nastavené logo
       en: psu2nCrjH6abihNYw6X1oNJhCkpsWNSDvjaJdwoZl4q9ROweyC0TGah5oakYTfxVBwc88CFX1G6nXjvd6HmZdgp5eUDnZIwk2zAiU0s2LyZ46L00lQIeQyLtcL40HlwNkwFveEumbH1d2Bwl3eTalmp2rfBiUKswyFsrkvGRQTEf9En5JfiAgl4OHtug6NsP2LVGgkMNcgPuvxj4mj7Ffc81WbPANkJ8gRBcMWFtbRBoChAfmgrZ8omOZRviEck9DuQwBLNjcj16b3jAwHewsZZkGuIdzZjlNVV1Us8dYzY4ZsE1AG5HPWEP3npADMRTMOkD8yoCV4dfhgIQxiWSROhxEG9IkEtCqGXZdqAPgrWryDlfhxcdlW8Bmg61dFAiwZkrTKwiRyTrUoH4ipMdUPeuG0GssxTNmjpfXSFe7U0FU9wS0rxwyBrnXkb7bCyxRDRK4MeJjMtOZ96i3WvtdFghaVI0sZTkpHPhGJBNS3ax5T1QdfsWP40qE52saxxinvOevW2HAvG7x5lFTA8I133NpWgan2Xrv5wlyVZFTc7kZvX9mMTU4wVOk2YtjfHBkLs5sVxlybjjl5dTZ8bLkNTRmUVPmqASyxlrpcJQJSPCFFWmYxEP623411YMPwE2FvJiQwqiJiOUsRWaF1Wjw3qHwejOavAkBF5vM00kSPr2BlYICf4BlcU3vmW1wvbE1txAal4h6wUQ0gBXBuJOYWQgY7cJvgvkNIcMGHNyKo9pgTwMmhpCHGBRF8daACtNyZ0iIE7Nr3hiZU45ZLGx0c5J4rB1FfWL2jp7YEXn9uk3zDe09yySHRVVLeL4RYiwlTYkwLwN29wngxegDemIdiXXughXk49bHjt4sbLmJUUr8U1wxeK0ucOkt9BIkOwyBHXBNqbTC2i3CVo3QalVKFuiy2M4eOVW9mefuWF4VT8rEF86ofy8bHljsJhLbR6aF1MSvcInLdtSr8n9YxW189jzk4X3NjLDoI1yW2rWUlZripMepcNa2YCOo3jyCklH==
     DefaultOrganizationIdSettingDescription:
-      be: Организации по умолчанию, при регистрации пользователя (указывать через ; )
       cs: Vychozí organizace, při registraci zákazníka (oddělovat ; )
       ka: ორგანიზაცია, სადაც მომხმარებელი რეგისტრირდება (მიუთითეთ ; შემდგომ)
       en: default organization, when a user logs (via point;)
@@ -2481,19 +2326,16 @@ Sections:
       en: Description
       ru: Описание
     DisallowOpenCarWithNoGeo:
-      be: Запретить открытия автомобиля с устройства с выключенной геолокацией
       cs: Zakázat otevření vozidla při vypnutém zařízením geolokace
       ka: აიკრძალოს ავტომობილის გახსნა იმ მოწყობილობიდან, რომელსაც გეოლოკაცია გამორთული აქვს
       en: Prevent vehicle opening from geolocation-disabled device
       ru: Запретить открытия автомобиля с устройства с выключенной геолокацией
     DisarmCar:
-      be: Автомобиль открыт и разблокирован
       cs: Vozidlo otevřeno a odblokováno
       ka: ავტომობილი ღიაა და გახსნილია
       en: The car is open and unlocked
       ru: Автомобиль открыт и разблокирован
     Discount:
-      be: Со скидкой
       cs: Se slevou
       ka: ფასდაკლება
       en: With discount
@@ -2524,14 +2366,12 @@ Sections:
       en: Download
       ru: Скачать
     Drive:
-      be: Использование
       cs: Užívání
       ka: გამოყენება
       en: Use
       ru: Использование
       uk: Використання
     DriveCrmIcorrectFormat:
-      be: Формат данных неверен. Возможно, сайт был изменен.
       cs: Formát údajů není správný
       ka: მონაცემთა ფორმატი არასწორია. შესაძლოა საიტი შეიცვალა.
       en: The data format is incorrect. Perhaps the web site has been changed.
@@ -2541,13 +2381,11 @@ Sections:
       en: Drive state multiplier
       ru: Множитель для режима использования
     DriveOutOfZoneNotificationSettingDescription:
-      be: Уведомлять о выезде за зону
       cs: Informovat o opuštění oblasti
       ka: შემატყობინე ზონის დატოვებისას
       en: Notify when leaving Home Area
       ru: Уведомлять о выезде за зону
     DriveRate:
-      be: Тариф использования
       cs: Tarif užívání
       ka: გამოყენების ტარიფი
       en: Driving mode rate
@@ -2572,28 +2410,24 @@ Sections:
       en: Driver's license number
       ru: Номер ВУ
     DriversLicenceScan1:
-      be: Фото водительского удостоверения
       cs: Fotografie řidičského průkazu
       ka: მართვის მოწმობის სურათი
       en: Driver's license photo
       ru: Фото водительского удостоверения
       uk: Фото водійського посвідчення
     DriversLicenceScan2:
-      be: Фото обратной стороны водительского удостоверения
       cs: Fotografie zadní strany řidičského průkazu
       ka: მართვის მოწმობის სურათის მეორე მხარე
       en: Back side of driver's license
       ru: Фото обратной стороны водительского удостоверения
       uk: Фото зворотного боку посвідчення водія
     DriveShort:
-      be: И
       cs: DriveShort
       ka: D
       en: D
       ru: И
       uk: В
     DupicateFound:
-      be: 'Картрек: ВНИМАНИЕ! Потенциальный дубликат'
       cs: 'Cartrack: POZOR! Pravděpodobně kopie'
       ka: 'ქართრექი: ყურადღება! პოტენციური დუბლიკატი'
       en: Potential DUBLICATE
@@ -2632,49 +2466,42 @@ Sections:
       ru: Вход по email запрещён. Пожалуйста, используйте в качестве логина ваш номер телефона.
       uk: Вхід по email заборонений. Будь ласка, використовуйте в якості логіна ваш номер телефону.
     EmailSubjectAccountApproved:
-      be: Ваша учётная запись одобрена!
       cs: Váš uživatelský účet byl schválen!
       ka: თქვენი ანგარიში გააქტიურებულია!
       en: Your account has been approved!
       ru: Ваша учётная запись одобрена!
       uk: Ваш обліковий запис схвалено!
     EmailSubjectAccountResumed:
-      be: Ваша учётная запись разблокирована
       cs: Váš uživatelský účet byl odblokován
       ka: თქვენი ანგარიში განბლოკილია
       en: Your account has been unlocked
       ru: Ваша учётная запись разблокирована
       uk: Ваш обліковий запис розблоковано
     EmailSubjectAccountSuspended:
-      be: Ваша учётная запись заблокирована
       cs: Váš uživatelský účet byl zablokován
       ka: თქვენი ანგარიში დაბლოკილია
       en: Your account has been locked
       ru: Ваша учётная запись заблокирована
       uk: Ваш обліковий запис заблоковано
     EmailSubjectExtraBonuses:
-      be: На Ваш счёт зачислены бонусы
       cs: Na Váš uživatelský účet byly připsány bonusové body
       ka: თქვენს ანგარიშზე დარიცხულია ბონუსები
       en: New bonuses have been added to your account
       ru: На Ваш счёт зачислены бонусы
       uk: На Ваш рахунок зараховані бонуси
     EmailSubjectFirstRideBonuses:
-      be: Вам начислено {0} бонусов!
       cs: Bylo vám připsáno {0} bonusových bodů!
       ka: თქვენ დაგერიცხათ {0} ბონუსი!
       en: We gave you {0} bonuses!
       ru: Вам начислено {0} бонусов!
       uk: Вам нараховано {0} бонусів!
     EmailSubjectRentEndZone:
-      be: Завершения аренды в зоне {0}
       cs: Pronájem byl ukončen v oblasti {0}
       ka: ქირაობის დასრულება ზონაში {0}
       en: Termination of rent in Area {0}
       ru: Завершения аренды в зоне {0}
       uk: Завершення оренди в зоні {0}
     EmailSubjectRideReport:
-      be: Отчёт о вашей поездке с {0}
       cs: Zpráva o Vaší jízdě z {0}
       ka: ანგარიში თქვენი მგზავრობის შესახებ  {0}
       en: Report on your trip {0}
@@ -2691,26 +2518,22 @@ Sections:
       en: e-mail verification code
       ru: Код проверки e-mail
     EmailVerificationCodeValidForMinutes:
-      be: Период валидности ссылки для активации почты (в минутах)
       cs: doba platnosti odkazu pro aktivaci emailové shránky (v minutách)
       ka: ელ-ფოსტის გასააქტიურებელი ლინკის მოქმედების ვადა (წუთებში)
       en: Email verification code validation period (in minutes)
       ru: Период валидности ссылки для активации почты (в минутах)
       uk: Період валідності посилання для активації пошти (в хвилинах)
     EmptyBookings:
-      be: Количество "Пустых" броней
       cs: Počet "prázdných" rezervací
       ka: ცარიელი ჯავშნების რაოდენობა
       en: Amount of "Empty" bookings
       ru: Количество "Пустых" броней
     EmptyBookingsMaxCountSettingDescription:
-      be: Количество бесплатных бронирований
       cs: Počet rezarvací zadarmo
       ka: უფასო ჯავშნების რაოდენობა
       en: Number of free bookings
       ru: Количество бесплатных бронирований
     EmptyBookingsPeriodSettingDescription:
-      be: В течение какого времени помнить пустые бронирования
       cs: Po určitou dobu pamatovat prázdné rezervace
       ka: გაუქმებული ჯავშნების დამახსოვრების პერიოდი
       en: Empty bookings reset period
@@ -2719,7 +2542,6 @@ Sections:
       en: Error while generating. Record will be missed
       ru: Ошибка при формировании записи. Она будет пропущена
     EV:
-      be: Электромобиль
       cs: Elektromobil
       ka: ელექტრომობილი
       en: Electric car
@@ -2749,7 +2571,6 @@ Sections:
       en: Cannot determine car coordinates. Please try again later
       ru: Невозможно определить текущие координаты машины. Пожалуйста, попробуйте позже
     FailedCarNotFound:
-      be: Не удалось найти автомобиль в системе
       cs: Nepodačilo se dohledat vozidlo v systému
       ka: ავტომობილი ვერ მოიძებნა სისტემაში
       en: The car has not been found in the system
@@ -2761,26 +2582,22 @@ Sections:
       ru: Функция радара недоступна
       uk: Функція радара недоступна
     FailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem
       ka: არ არის კავშირი მანქანასთან.
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Звіт вже був вилучений
     FailedCheckAndRechargeMinimumBalance:
-      be: Не удалось списать депозит
       cs: Nepodařilo se stáhnout zálohu
       ka: დეპოზიტის ჩამოჭრა ვერ მოხერხდა
       en: Could not withdraw deposit
       ru: Не удалось списать депозит
     FailedCurrentCarTicketIsNotSuitableForCar:
-      be: В данный момент у вас активен абонемент, который не подходит для выбранного автомобиля. Пожалуйста, обратитесь в поддержку
       cs: Vaše předplatné neumožňuje pronájem tohoto vozidla. Prosím, obraťte se na služby podpory.
       ka: თქვენს მიერ ამჟამად გააქტიურებული აბონემენტი არ შეესაბამება არჩეულ ავტომანქანას. გთხოვთ  მიმართოთ ქოლ-ცენტრს.
       en: You have an active package which is not suitable for selected car. Please call support
       ru: В данный момент у вас активен абонемент, который не подходит для выбранного автомобиля. Пожалуйста, обратитесь в поддержку
     FailedCustomerHasNoCoordinates:
-      be: Использование машины с устройства с выключенной геолокацией запрещено
       cs: Užívání vozidla při vypnutém zařízením geolokace není povoleno
       ka: აკრძალულია ავტომობილის გამოყენება მოწყობილობიდან,რომელსაც გეოლოკაცია გამორთული აქვს.
       en: Using  vehicle with geolocation-disabled device is not allowed.
@@ -2789,26 +2606,22 @@ Sections:
       en: Current car does not contain any fueling card
       ru: Данный автомобиль не содержит ни одну топливную карту
     FailedFuelLevelGreaterThanThreshold:
-      be: Уровень топлива в баке автомобиля более {FuelingThreshold}%, заправка по карте запрещена
       cs: Hladina paliva v nádrži vozidla je vyšší než {FuelingThreshold}%, tankování na kartu není dovoleno
       ka: საწვავის დონე აღემატება {FuelingThreshold}%-ს, ბარათით დამუხტვა აკრძალულია.
       en: Fuel level is greater than {FuelingThreshold}%, fueling with card is not allowed
       ru: Уровень топлива в баке автомобиля более {FuelingThreshold}%, заправка по карте запрещена
     FailedFuelLevelUnknown:
-      be: Уровень топлива для этого автомобиля неизвестен, заправка по карте запрещена
       cs: Hladina paliva pro toto vozidlo není známé, tankování na kartu není dovoleno
       ka: ელემენტის მუხტი უცნობია, აკრძალულია ბარათით დატენვა.
       en: Fuel level for this car is unknown, fueling with card is not allowed
       ru: Уровень топлива для этого автомобиля неизвестен, заправка по карте запрещена
     FailedNegativeBalance:
-      be: У пользователя отрицательный баланс
       cs: Uživatele má záporný zůstatek
       ka: მომხმარებელს გააჩნია  უარყოფითი ბალანსი
       en: User has negative balance
       ru: У пользователя отрицательный баланс
       uk: У користувача негативний баланс
     FailedNoActiveOrder:
-      be: У вас в данный момент нет активной аренды
       cs: V tuto chvíli nemáte aktivní pronájem
       ka: არ ფიქსირდება აქტიური ქირაობა.
       en: Active rent has not been found
@@ -2821,27 +2634,23 @@ Sections:
       en: The rent has been finished already
       ru: Аренда уже закрыта.
     FailedPaymentGateway:
-      be: Платёжный шлюз не позволил осуществить платёж
       cs: Platební brána neumožnila provedení platby
       ka: გადახდა ვერ შესრულდა შუამავალი ოპერატორის გამო
       en: The payment gateway did not allow to process your payment
       ru: Платёжный шлюз не позволил осуществить платёж
       uk: Платіжний шлюз не дозволив здійснити платіж
     FailedPaymentsDisabledOnThisServer:
-      be: Платежи на этом сервере отключены
       cs: Platby na tomto serveru jsou vypnuty
       ka: ამ სერვერზე გადახდები გაუქმებულია
       en: Payment disabled on this server
       ru: Платежи на этом сервере отключены
       uk: Платежі на цьому сервері відключені
     FailedPaymentSystem:
-      be: Не удалось совершить платёж
       cs: Nepodařilo se provést platbu
       ka: ვერ მოხერხდა გადახდის განხორციელება
       en: Could not process the payment
       ru: Не удалось совершить платёж
     FailedPaymentSystemReturnedNull:
-      be: Не удалось совершить платёж
       cs: Nepodařilo se provést platbu
       ka: ვერ მოხერხდა გადახდის განხორციელება
       en: Could not process the payment
@@ -2871,33 +2680,28 @@ Sections:
       en: Suitable {stationType} station was not found near by
       ru: Поблизости не было найдено ни одной поддерживаемой {stationType} станции
     FailedTheCarIsTooFar:
-      be: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       cs: Vozidlo je příliš daleko od Vás, Zkuste, prosím, přijít blíže k vozidlo a zkuste znovu
       ka: ავტომობილი შორსაა. გთხოვთ, მიუახლოვდეთ და ხელახლა სცადოთ.
       en: The car is too far from you. Please come closer to the car and try again
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       uk: Автомобіль дуже далеко від Вас. Будь ласка, підійдіть ближче до обраного автомобілю і спробуйте ще раз
     FailedTwinPayment:
-      be: Похоже, Вы повторно попытались оплатить уже оплаченный счёт. Если это не так, попробуйте повторить действие через несколько минут.
       cs: Vypadá to, že jste chtěl uhradit již zaplacený účet. Pokud tomu tak není, zkuste, prosím, opakovat požadovanou činnost později.
       ka: როგორც ჩანს, ცდილობთ  უკვე გადახდილი შეკვეთის გადახდას. თუ ეს ასე არ არის, სცადეთ რამდენიმე წუთში.
       en: It seems hat you tried to pay an already paid bill. If not please try again within a few minutes.
       ru: Похоже, Вы повторно попытались оплатить уже оплаченный счёт. Если это не так, попробуйте повторить действие через несколько минут.
     FailedUnathorizedUser:
-      be: Вы не авторизованы в сервисе
       cs: Nejste autorizován(a) v systému
       ka: თქვენ არ ხართ სისტემაში ავტორიზებული.
       en: You should sign in
       ru: Вы не авторизованы в сервисе
     FailedUserHasNoBankCard:
-      be: У пользователя нет банковских карт
       cs: Uživatel nemá platební karty
       ka: 'მომხმარებელს არ აქვს საბანკო ბარათები. '
       en: User has no bank card
       ru: У пользователя нет банковских карт
       uk: Користувач не має банківських карт
     FailedUserHasNoOrder:
-      be: Перед тем как покупать абонемент Вы должны забронировать машину
       cs: Před zakoupením předplatného je nutné rezervovat vozidlo
       ka: აბონემენტის შეძენამდე დაჯავშნეთ მანქანა.
       en: Book a car before you purchase a package
@@ -2908,7 +2712,6 @@ Sections:
       en: You have no active rents at the moment
       ru: У Вас в данный момент нет активной аренды.
     FailedUserNotFound:
-      be: Ваша учётная запись не найдена в системе. Пожалуйста, обратитесь в службу технической поддержки.
       cs: Vaš uživatelský účet nebyl nalezen v systému. Obraťte se, prosím, na službu technické podpory.
       ka: თქვენი ანგარიში ვერ მოიძებნა სისტემაში.  დაუკავშირდით მხარდაჭერის ჯგუფს.
       en: Your account was not found. Please contact Customer Care Service
@@ -2921,7 +2724,6 @@ Sections:
       en: Vehicle is offline
       ru: Транспортное средство недоступно
     FfilterServiceResponseIncorrect:
-      be: Ответ сервера не удалось разобрать, возможно произошло изменение формата ответа сервера.
       cs: Odpověď ze serveru se nepodařilo přečíst, pravděpodobně došlo ke změně formátu odpovědi
       ka: სერვერის პასუხის დამუშავება ვერ ხერხდება. შესაძლებელია  შეიცვალა სერვერის პასუხის ფორმატი
       en: server response could not parse, perhaps there was a change in format server response.
@@ -2968,48 +2770,41 @@ Sections:
       en: File versions
       ru: Версии файла
     FinishFuelingResultEnumSuccess:
-      be: Процесс заправки завершён
       cs: Takování dokončeno
       ka: დამუხტვის პროცესი დასრულდა.
       en: Fueling process is finished
       ru: Процесс заправки завершён
     FinishOrderResultFailedCarHasNoOrderNow:
-      be: Автомобиль в данный момент не арендован.
       cs: Vozidno nyní není pronajmuto.
       ka: ავტომობილი ამჟამად არაა გაქირავებული
       en: The car is not rented now.
       ru: Автомобиль в данный момент не арендован.
       uk: Автомобіль в даний момент не орендований.
     FinishOrderResultFailedCarIsMoving:
-      be: Машина находится в движении.
       cs: Vozidlo je v pohybu
       ka: ავტომობილი მოძრაობს.
       en: The car is being used
       ru: Машина находится в движении.
       uk: Машина знаходиться в русі.
     FinishOrderResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: მანქანა ვერ მოიძებნა მონაცემთა ბაზაში
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдений в базі даних.
     FinishOrderResultFailedCarNotFoundInDatabase:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: მანქანა ვერ მოიძებნა მონაცემთა ბაზაში
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдений в базі даних.
     FinishOrderResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem.
       ka: მანქანა არ არსებობს.
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Відсутня зв'язок з автомобілем.
     FinishOrderResultFailedEngineIsStarted:
-      be: Не удалось завершить аренду - двигатель запущен
       cs: Nepodařilo se ukončit pronájem - motor vozidla je zapnutý
       ka: ქირაობა ვერ დასრულდება - ძრავი ჩაირთულია
       en: Unable to complete the rent - the engine is on
@@ -3024,18 +2819,15 @@ Sections:
       en: Finish Order Result Failed Hardware Error
     FinishOrderResultFailedOrderIsCompletedAlready:
       en: The ride is completed already
-      be: Аренда уже закрыта.
       ka: ქირაობა დასრულდა.
       uk: Оренда вже закрита.
     FinishOrderResultFailedOrderNotFoundInDatabase:
-      be: Заказ не найден в базе данных.
       cs: Objednávka nebyla nalezena v databázi.
       ka: თქვენი შეკვეთა არ იძებნება მონაცემთა ბაზაში.
       en: Your order was not found
       ru: Заказ не найден в базе данных.
       uk: Замовлення не знайдено в базі даних.
     FinishOrderResultFailedOutOfRentEndZone:
-      be: Автомобиль находится вне зоны завершения аренды.
       cs: Vozidlo se nachází mimo oblast pro ukončení pronájmu.
       ka: ავტომობილი იმყოფება ქირაობის დასრულების ზონის გარეთ.
       en: The car is outside of Home Area
@@ -3043,24 +2835,20 @@ Sections:
       uk: Автомобіль знаходиться поза зоною завершення оренди.
     FinishOrderResultFailedUserHasNoOrderNow:
       en: You have no order right now
-      be: У Вас в данный момент нет активной аренды.
       ka: ამჟამად არ გაქვთ აქტიური ქირაობა
       uk: У Вас в даний момент немає активної оренди.
     FinishOrderResultOkOrderFinished:
-      be: Заказ успешно завершён.
       cs: Objednávka úspěšně dokončena
       ka: შეკვეთა წარმატებით დასრულდა
       en: The rent has been finished successfully
       ru: Заказ успешно завершён.
       uk: Замовлення успішно завершено.
     FIO:
-      be: ФИО
       cs: Jméno (jména), přijmení
       ka: სრული სახელი
       en: Full name
       ru: ФИО
     FmsEmptyResult:
-      be: Не удалось запросить данные
       cs: Dotaz na údaje se nezdařil
       ka: მონაცემების გამოთხოვა ვერ მოხერხდა
       en: Failed to request data
@@ -3072,26 +2860,22 @@ Sections:
       en: Access denied
       ru: Доступ запрещен
     ForCarTicket:
-      be: За абонемент
       cs: Za předplatné
       ka: აბონემენტზე
       en: For package
       ru: За абонемент
     ForMinutesOfOrder:
-      be: За использование
       cs: Za užívání
       ka: გამოყენებისთვის
       en: Driving
       ru: За использование
     ForOutOfServiceZone:
-      be: За выезд из разрешённой зоны вождения
       cs: Za opuštění povolené oblasti užívání
       ka: ტარების დასაშვები ზონიდან გასვლისათვის
       en: For being out of the permitted Home Area
       ru: За выезд из разрешённой зоны вождения
       uk: За виїзд з дозволеної зони водіння
     ForRefueling:
-      be: За заправку
       cs: Za natankování
       ka: დასატენად
       en: Reimbursement for refueling
@@ -3107,38 +2891,32 @@ Sections:
       ru: Пт
       uk: Пт
     FreeBookSecondsSettingDescription:
-      be: Время бесплатного бронирования, в секундах
       cs: Čas bezplatné rezervace ve vteřinách
       ka: უფასო ჯავშნის პერიოდი წამებში
       en: free booking time in seconds
       ru: Время бесплатного бронирования, в секундах
     FreeInspectSecondsSettingDescription:
-      be: Время бесплатного осмотра автомобиля, в секундах
       cs: Čas prohlídky vozidla zdarma vteřin
       ka: დრო ავტომობილის უფასო დათვალიერეისთვის, წამებში
       en: Free car inspect in seconds
       ru: Время бесплатного осмотра автомобиля, в секундах
     FriendsBonusInKopsSettingDescription:
-      be: Бонус другу за поездку, в копейках
       cs: Bonus příteli za jízdu, v haléřích
       ka: მეგობრის ბონუსი მგზავრობისთვის, თეთრებში
       en: Bonus to friend for a ride in the penny
       ru: Бонус другу за поездку, в копейках
     FriendsBonusRateSettingDescription:
-      be: Количество процентов от стоимости поездки на бонус для друга
       cs: Počet procent z ceny jízdy na bonus příteli
       ka: მეგობრისთვის ბონუსის პროცენტების რაოდენობა მგზავრობის ღირებულებიდან
       en: Amount of percent of the trip cost per bonus for a friend
       ru: Количество процентов от стоимости поездки на бонус для друга
     FriendsFirstRide:
-      be: 1я поездка {0}
       cs: První jízda {0}
       ka: '{0} პირველი მგზავრობა'
       en: "{0}'s first ride"
       ru: 1я поездка {0}
       uk: 1а поїздка {0}
     FriendsPromoCode:
-      be: Промо-код
       cs: Promo-kod
       ka: პრომო კოდი
       en: Promo code
@@ -3150,47 +2928,40 @@ Sections:
       en: from
       ru: от
     FromHour:
-      be: С часа
       cs: od hodiny
       ka: საათიდან
       en: With hours
       ru: С часа
       uk: З години
     FssCheckFormatError:
-      be: Не удалось определить формат ответа сайта ФССП. Возможно произошло обновление сайта на новый формат.
       cs: Nepodařilo se určit formát odpovědi stránky FSS, pravděpodobně došlo ke změně formátu stránky
       ka: FSSP საიტის რეაგირების ფორმატის განსაზღვრა შეუძლებელია. სავარაუდოდ,  ვებგვერდი განახლდა.
       en: Unable to determine the format of the FSSP website response. Perhaps it occurred updating the site to the new format.
       ru: Не удалось определить формат ответа сайта ФССП. Возможно произошло обновление сайта на новый формат.
       uk: Неможливо визначити формат відповіді сайту ФССП. Можливо відбулося оновлення сайту на новий формат.
     Fuel:
-      be: Топливный отчет
       cs: Zprava o stavu paliva
       ka: ანგარიში ელემენტზე
       en: Fuel report
       ru: Топливный отчет
       uk: Паливний звіт
     FuelConsumption:
-      be: Расход топлива
       cs: Spotřeba paliva
       ka: ელემენტის მოხმარება
       en: Fuel consumption
       ru: Расход топлива
     FuelConsumptionPer100km:
-      be: Расход топлива на 100 км
       cs: Spotřeba paliva na 100 km
       ka: ელემენტის მოხმარება 100 კმ -ზე
       en: fuel consumption per 100 km
       ru: Расход топлива на 100 км
       uk: Витрата палива на 100 км
     FuelingBonusInKopsSettingDescription:
-      be: Бонус за заправку, в копейках
       cs: Bonus za natankování, v haléřích
       ka: ბონუსი დატენვისთვის, თეთრებში
       en: Bonus for refueling, in penny
       ru: Бонус за заправку, в копейках
     FuelingBonusRateSettingDescription:
-      be: Количество процентов от стоимости поездки на бонус за заправку
       cs: Počet procent z ceny jízdy na bonus za natankování
       ka: პროცენტების რაოდენობა მგზავრობის ღირებულებიდან დატენვისთვის
       en: Amount of percent of the cost of a trip to a bonus for refueling
@@ -3207,35 +2978,30 @@ Sections:
       en: fueling
       ru: заправочной
     FuelLevelDecreased:
-      be: Слив топлива
       cs: Snížení hladiny paliva
       ka: დაცლა
       en: Fuel drain
       ru: Слив топлива
       uk: Злив палива
     FuelLevelIncreased:
-      be: Заправка
       cs: Zvýšení hladiny paliva
       ka: დატენვა
       en: Refueling
       ru: Заправка
       uk: Заправка
     FuelLevelPercentChangeForAlarm:
-      be: Процент изменения топлива для генерации тревоги
       cs: Procent změny hladiny paliva pro vygenerování upozornění
       ka: განგაშის ჩართვისთვის საჭირო დატენვის დონის პროცენტის ცვლილება
       en: The percentage of fuel change to generate an alarm
       ru: Процент изменения топлива для генерации тревоги
       uk: Відсоток зміни палива для генерації тривоги
     GibddDocumentNotFound:
-      be: Документ не найден
       cs: Dokument nenalezen
       ka: დოკუმენტი ვერ მოიძებნა
       en: Document was not found
       ru: Документ не найден
       uk: Документ не знайдено
     GibddResponseEmpty:
-      be: Сайт 'check.gibdd.ru' вернул пустой ответ. Пропробуйте сделать запрос позднее.
       cs: Web 'check.gibdd.ru' vrátil prázdnou odpověď. Zkuste opakovat dotaz později.
       ka: საიტმა  'Police.ge' დააბრუნა ცარიელი პასუხი. სცადეთ მოგვიანებით
       en: Website 'check.gibdd.ru' returned an empty response. Make an inquiry later.
@@ -3247,22 +3013,18 @@ Sections:
       en: Go to personal cabinet
       ru: Перейти в личный кабинет
     GradeAddedSuccessfully:
-      be: Грейд для организации добавлен успешно
       cs: Skupina úspěšně přidána
       en: Organization grade added successfully
       ru: Грейд для организации добавлен успешно
     GradeChangedSuccessfully:
-      be: Группа успешно изменена
       cs: Skupina organizace změněna
       en: Grade changed successfully
       ru: Группа успешно изменена
     GradeDeletedSuccessfully:
-      be: Группа успешно удалена
       cs: Skupina úspěšně vymazána
       en: Grade deleted successfully
       ru: Группа успешно удалена
     GrantCarDriveAccessNonAdminUserNotAllowed:
-      be: 'Невозможно дать право на управление автомобилем: пользователь не является оператором системы'
       cs: 'Nelze předat oprávnění k řízení vozidla: uživatel není operátorem systému'
       ka: 'შეუძლებელია მართვის უფლების მინიჭება: მომხმარებელი არ არის სისტემის ოპერატორი'
       en: 'It is impossible to authorize to drive: the user is not the operator of the system'
@@ -3283,111 +3045,95 @@ Sections:
       en: Home address
       ru: Домашний адрес
     HornCar:
-      be: Активирован сигнал автомобиля
       cs: Aktivován klakson vozidla
       ka: გააქტიურებულია ავტომობილის ხმოვანი სიგნალი
       en: Honk and blink
       ru: Активирован сигнал автомобиля
     HornMyCarResultFailedCarIsTooFar:
-      be: Автомобиль слишком далеко от Вас. Вы всё равно его не услышите.
       cs: Vozidlo je příliš daleko od Vás, neuslyšíte jej
       ka: ავტომობილი ძალიან შორს არის თქვენგან. მის ხმას ვერ გაიგებთ.
       en: The car is too far away from you. You'll not hear it anyway
       ru: Автомобиль слишком далеко от Вас. Вы всё равно его не услышите.
       uk: Автомобіль дуже далеко від Вас. Ви все одно його не почуєте.
     HornMyCarResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: 'ავტომობილი ვერ მოიძებნა მონაცემთა ბაზაში. '
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдено в базі даних.
     HornMyCarResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem.
       ka: ავტომობილთან არ არის კავშირი.
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Відсутній зв'язок з автомобілем.
     HornMyCarResultFailedHornTooOften:
-      be: Вы слишком часто пытаетесь сигналить.
       cs: Příliš časté použití funkce zablikat
       ka: თქვენ ძალიან ხშირად ცდილობთ ხმოვანი სიგნალის გამოყენებას.
       en: You are trying to blink too often
       ru: Вы слишком часто пытаетесь сигналить.
       uk: Ви занадто часто намагаєтеся сигналити.
     HornMyCarResultFailedOrderIsCompletedAlready:
-      be: Аренда уже закрыта.
       cs: Pronájem byl již ukončen.
       ka: ქირაობა დაიხურა.
       en: The rent has been finished already
       ru: Аренда уже закрыта.
       uk: Оренда вже закрита
     HornMyCarResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: V tuto chvíli nemáte aktivní pronájem.
       ka: ამჟამად არ გაქვთ აქტიური შეკვეთა.
       en: You have no active order at the moment
       ru: У Вас в данный момент нет активной аренды.
       uk: У Вас в даний момент нема активної оренди.
     HornMyCarResultOkNowBeeping:
-      be: Сигнал успешно активирован.
       cs: Klakson vozidla byl aktivován.
       ka: ავტომობილის ხმოვანი სიგნალი წარმატებით გააქტიურდა.
       en: The vehicle is blinking now
       ru: Сигнал успешно активирован.
       uk: Сигнал успішно активовано.
     StartEngineResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: 'ავტომობილი ვერ მოიძებნა მონაცემთა ბაზაში. '
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдено в базі даних.
     StartEngineResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem.
       ka: ავტომობილთან არ არის კავშირი.
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Відсутній зв'язок з автомобілем.
     StartEngineResultFailedOrderIsCompletedAlready:
-      be: Аренда уже закрыта.
       cs: Pronájem byl již ukončen.
       ka: ქირაობა დაიხურა.
       en: The rent has been finished already
       ru: Аренда уже закрыта.
       uk: Оренда вже закрита
     StartEngineResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: V tuto chvíli nemáte aktivní pronájem.
       ka: ამჟამად არ გაქვთ აქტიური შეკვეთა.
       en: You have no active order at the moment
       ru: У Вас в данный момент нет активной аренды.
       uk: У Вас в даний момент нема активної оренди.
     UnlockResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: 'ავტომობილი ვერ მოიძებნა მონაცემთა ბაზაში. '
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдено в базі даних.
     UnlockResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem.
       ka: ავტომობილთან არ არის კავშირი.
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
       uk: Відсутній зв'язок з автомобілем.
     UnlockResultFailedOrderIsCompletedAlready:
-      be: Аренда уже закрыта.
       cs: Pronájem byl již ukončen.
       ka: ქირაობა დაიხურა.
       en: The rent has been finished already
       ru: Аренда уже закрыта.
       uk: Оренда вже закрита
     UnlockResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: V tuto chvíli nemáte aktivní pronájem.
       ka: ამჟამად არ გაქვთ აქტიური შეკვეთა.
       en: You have no active order at the moment
@@ -3398,14 +3144,12 @@ Sections:
       ru: 'Команда не поддерживается'
       cs: 'Příkaz není podporován'
     HoursInPack:
-      be: Часов в пакете
       cs: Hodin v balíčku
       ka: საათები პაკეტში.
       en: Hours in the package
       ru: Часов в пакете
       uk: Годин у пакеті
     ICE:
-      be: ДВС
       cs: Spalovací motor
       ka: ძრავა
       en: ICE
@@ -3414,7 +3158,6 @@ Sections:
     IdleTimeFromSeconds:
       en: Время простоя от
     IdxParametersIsNull:
-      be: Не заполнены обязательные параметры (Адрес сервера, Api key, Secret key)
       cs: Nebyly vyplněny povinné údaje (adresa serveru, Api key, Secret key)
       ka: არ არის შევსებული აუცილებელი პარამეტრები (სერვერის მისამართი, Api გასაღები, საიდუმლო გასაღები)
       en: Required parameters are empty (Server address, Api key, Secret key)
@@ -3450,7 +3193,6 @@ Sections:
       en: Image version
       ru: Версия изображения
     ImmobilizeCar:
-      be: Заблокирована
       cs: Zablokováno
       ka: დაბლოკილია
       en: Blocked
@@ -3461,7 +3203,6 @@ Sections:
       en: Mobile phone number is incorrect
       ru: Введён некорректный номер мобильного телефона
     InformationCameFrom:
-      be: Информация поступила через
       cs: Informace došly prostřednictvím
       ka: ინფორმაციის მომწოდებელი
       en: The information comes from
@@ -3493,77 +3234,65 @@ Sections:
       en: Car fuel level limit (in %) for user notification sending
       ka: მომხმარებლის საწვავის დონის ლიმიტი (% -ში) მომხმარებლის შეტყობინებების გაგზავნისთვის
     InformationCameFromDescription:
-      be: Описание
       cs: Popis
       ka: აღწერა
       en: Description
       ru: Описание
       uk: Опис
     InitPaymentOrderDescription:
-      be: Первый платёж для привязки карты
       cs: První platba z karty k propojení s uživatelským účtem
       ka: პირველადი გადახდა ბარათის მისაბმელად.
       en: Initial payment to attach the card
       ru: Первый платёж для привязки карты
       uk: Перший платіж для прив'язки карти
     InitRebillAmountInKopsSettingDescription:
-      be: Начальная сумма списания с карты клиента, в копейках
       cs: Počáteční částka stržena zákazníkovi, v haléřích
       ka: საწყისი გადასახდელი თანხა კლიენტის ბარათიდან, თეთრებში
       en: The initial amount debited from the customer's card, in penny
       ru: Начальная сумма списания с карты клиента, в копейках
     Inspect:
-      be: Осмотр
       cs: Prohlídka
       ka: დათვალიერება
       en: Inspection
       ru: Осмотр
       uk: Огляд
     InspectCarResultFailedCannotSwitchToInspectMode:
-      be: К сожалению, в данный момент машину невозможно перевести в режим осмотра
       cs: Bohužel v tuto chvili vozidlo nelze převést do režimu prohlídky
       ka: ' დათვალიერების რეჟიმი ამჟამად ვერ გააქტიურდება'
       en: Cannot switch car to inspection mode which is already in drive mode
       ru: К сожалению, в данный момент машину невозможно перевести в режим осмотра
       uk: На жаль, в даний момент машину неможливо перевести в режим огляду
     InspectCarResultFailedCarIsReserved:
-      be: Извините, но этот автомобиль сейчас недоступен для аренды.
       cs: Promíňte, ale toto vozidlo není dostupné k pronájmu
       ka: უკაცრავად, მანქანა ვერ გაქირავდება
       en: Sorry, this car is not available for rent at the moment
       ru: Извините, но этот автомобиль сейчас недоступен для аренды.
     InspectCarResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi
       ka: ავტომობილი არ მოიძებნა მონაცემთა ბაზაში
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
     InspectCarResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem
       ka: არ არის კავშირი მანქანასთან
       en: The car is offline
       ru: Отсутствует связь с автомобилем.
     InspectCarResultFailedHardwareError:
-      be: Ошибка в оборудовании
       cs: Chyba zařízení
       ka: შეცდომა მოწყობილობაში
       en: Hardware error
       ru: Ошибка в оборудовании
     InspectCarResultFailedOrderNotFoundInDatabase:
-      be: Заказ не найден в базе данных.
       cs: Objednávka nebyla nalezena v systému
       ka: 'თქვენი შეკვეთა არ მოიძებნა მონაცემთა ბაზაში. '
       en: Your order was not found in the database
       ru: Заказ не найден в базе данных.
     InspectCarResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: V tuto chvíli nemáte aktivní pronájem
       ka: ახლა არ გაქვთ აქტიური შეკვეთა
       en: You have no active rent at the moment
       ru: У Вас в данный момент нет активной аренды.
     InspectCarResultOkCarIsInInspectModeNow:
-      be: Автомобиль теперь находится в режиме осмотра
       cs: Vozidlo se nyní nachází v režimu prohlídky
       ka: მანქანა დათვალიერების რეჯიმშია.
       en: Car is in inspection mode
@@ -3578,28 +3307,24 @@ Sections:
       en: 'Bonuses purchased'
       ru: 'Куплены бонусы'
     InspectModeBonus:
-      be: Начислять бонус за режим осмотра
       cs: Poskytovat bonusové body za režim prohlídky
       ka: ბონუსის დარიცხვა შემოწმების რეჟიმისთვის.
       en: Bonuses for inspection mode
       ru: Начислять бонус за режим осмотра
       uk: Начислять бонус за режим осмотра
     InspectModeBonusDescription:
-      be: Бонус за режим осмотра
       cs: Bonusové body za režim prohlídky
       ka: ბონუსი დათვალიერებისთვის.
       en: Bonus for inspection mode
       ru: Бонус за режим осмотра
       uk: 'Бонус за режим осмотра '
     InspectModeSeconds:
-      be: Время режима осмотра в секундах
       cs: Čas režimu prohlídky ve vteřinách
       ka: დათვალიერების დრო წამებში
       en: Time in inspection mode in seconds
       ru: Время режима осмотра в секундах
       uk: Время режима осмотра в секундах
     InspectResultFailedTheCarIsTooFar:
-      be: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       cs: Vozidlo je příliš daleko od Vás, Zkuste, prosím, přijít blíže k vozidlo a zkuste znovu
       ka: ავტომობილი შორსაა. გთხოვთ, მიუახლოვდეთ და ხელახლა სცადოთ.
       en: The car is too far from you. Please come closer to the car and try again
@@ -3622,7 +3347,6 @@ Sections:
       en: Please update the app from App Store
       ru: Пожалуйста, обновите приложение через App Store
     IsActive:
-      be: Активен
       cs: Aktivní
       ka: აქტიური
       en: Active
@@ -3661,7 +3385,6 @@ Sections:
       en: Deleted
       ru: Удалён
     IsValidatedBySecurity:
-      be: Проверен службой безопасности
       cs: Prověřen bezpečnostní službou
       ka: შემოწმებულია უსაფრთხოების სამსახურის მიერ
       en: Checked by security service
@@ -3680,35 +3403,30 @@ Sections:
       ru: км
       uk: км
     LastRepairDateTime:
-      be: Дата последнего ремонта
       cs: Datum poslední opravy
       ka: ბოლო შეკეთების თარიღი
       en: Date of last repair
       ru: Дата последнего ремонта
       uk: Дата останнього ремонту
     LastTroubleBodyIsDamaged:
-      be: Дата последнего обращения "Кузов повреждён"
       cs: Datum posledního dotazu "Karoserie poškozena"
       ka: ბოლო მომართვის თარიღი, "სხეული დაზიანებულია"
       en: last inquiry date, "The car is damaged"
       ru: Дата последнего обращения "Кузов повреждён"
       uk: Дата останнього звернення "Кузов пошкоджений"
     LastTroubleBrokenWindow:
-      be: Дата последнего обращения "Разбито окно"
       cs: Datum posledního dotazu "Rozbité okno"
       ka: ბოლო მომართვის თარიღი,  "გატეხილი ფანჯარა"
       en: last inquiry date "broken window"
       ru: Дата последнего обращения "Разбито окно"
       uk: Дата останнього звернення "Розбите вікно"
     LastTroubleCarIsDirtyTime:
-      be: Дата последнего обращения "Автомобиль грязный"
       cs: Datum posledního dotazu "Vozidlo je znečištěné"
       ka: ბოლო მომართვის თარიღი "ბინძური მანქანა"
       en: last inquiry date "car is dirty"
       ru: Дата последнего обращения "Автомобиль грязный"
       uk: Дата останнього звернення "Автомобіль брудний"
     LastTroubleTireIsFlat:
-      be: Дата последнего обращения "Спущено колесо"
       cs: Datum posledního dotazu "Kolo je prázdné"
       ka: ბოლო მომართვის  თარიღი "დაშვებული  საბურავი"
       en: last inquiry date "flat tire"
@@ -3720,14 +3438,12 @@ Sections:
     LimitIsRequired:
       en: Limit is required
     Liters:
-      be: л.
       cs: l.
       ka: ლ.
       en: L.
       ru: л.
       uk: л.
     LockCar:
-      be: Автомобиль закрыт
       cs: Vozidlo uzavřeno
       ka: მანქანა დაკეტილია
       en: Car is closed
@@ -3748,31 +3464,26 @@ Sections:
       en: Logged In
       ru: Аутентификация прошла успешно!
     LoggedInToBackend:
-      be: Авторизация в бакенде
       cs: Autorizace v Backendu
       ka: შესვლა  სისტემაში
       en: Log in backend
       ru: Авторизация в бакенде
     LoggedInToFrontend:
-      be: Авторизация клиента
       cs: Přihlášení zákazníka
       ka: კლიენტების ავტორიზაცია
       en: Client signed in
       ru: Авторизация клиента
     LoggedInToFrontendFailed:
-      be: Авторизация в личном кабинете отклонена
       cs: Přihlášení zákazníka do uživatelského účtu
       ka: ავტორიზაცია თქვენს პირად ანგარიშში უარყოფილია
       en: Log in your account rejected
       ru: Авторизация в личном кабинете отклонена
     LoggedOutFromBackend:
-      be: Выход из бакенда
       cs: Odhlášení se z Backendu
       ka: სისტემიდან გამოსვლა
       en: Logged out  from backend
       ru: Выход из бакенда
     LoggedOutFromFrontend:
-      be: Выход клиента
       cs: Odhlášení se zákazníka
       ka: კლიენტის სისტემიდან გამოსვლა
       en: Client logged out
@@ -3783,7 +3494,6 @@ Sections:
       en: Login
       ru: Логин
     LoginAttempt:
-      be: В ваш личный кабинет был совершен вход с устройства {0}
       cs: Byl učiněn pokus o přihlášení na Váš uživatelský účet ze zařízení {0}
       ka: თვენს პირად კაბინეტში განხორციელდა შესვლა {0} მოწყობილობით.
       en: Signed in from device {0}
@@ -3797,7 +3507,6 @@ Sections:
       en: Your personal data was removed from the system. We do not store your phone number but hashsum of it only. If you want to sign up again please contact our support. Thank you
       ru: Ваши персональные данные были удалены из системы. Мы не храним ваш номер телефона, а только его хеш-сумму. Если вы хотите снова зарегистрироваться, обратитесь в нашу поддержку. Спасибо
     LogInToBackendFailed:
-      be: Неуспешная попытка авторизации в бакенде
       cs: Neúspěšný pokus o autorizaci v Backendu
       ka: სისტემაში შესვლის წარუმატებელი მცდელობა
       en: Unsuccessful attempt to log into backend
@@ -3806,13 +3515,11 @@ Sections:
       en: Log off user
       ru: Разлогинить пользователя
     LowVoltageDangerLevelSettingDescription:
-      be: Порог опасно низкого напряжения
       cs: Limit nebezpečně nízkého napětí
       ka: საშიშად დაბალი ძაბვის ნიშნული
       en: Dangerously low threshold voltage
       ru: Порог опасно низкого напряжения
     LowVoltageWarningLevelSettingDescription:
-      be: Порог предупреждения о низком напряжении
       cs: Limit upozornění na nebezpečně nízké napětí
       ka: გაფრთხილების დაბალი ძაბვის შესახებ.
       en: low voltage warning threshold
@@ -3823,35 +3530,30 @@ Sections:
       en: Enter to the system
       ru: Вход в систему
     MakeZeroBalanceResultFailedPaymentGateway:
-      be: Платёжный шлюз не позволил провести платёж
       cs: Platební brána neumožnila provést úhradu
       ka: გადახდა ვერ დასრულდა ტრანზაქციის ოპერატორის გამო.
       en: The payment gateway did not allow to process the payment
       ru: Платёжный шлюз не позволил провести платёж
       uk: Платіжний шлюз не дозволив провести платіж
     MakeZeroBalanceResultFailedUserHasNoBankCard:
-      be: Не привязана банковская карта
       cs: Není připojená žádná platební katrta
       ka: მომხმარებელს არ აქვს მიბმული საბანკო ბარათი
       en: The user has no bank card
       ru: Не привязана банковская карта
       uk: Не прив'язана банківська карта
     MakeZeroBalanceResultFailedUserNotFound:
-      be: Учётная запись не найдена в системе
       cs: Uživatelský účet nenalezen v systému
       ka: მომხმარებლის ანგარიში ვერ მოიძებნა სისტემაში.
       en: The users account has not been found in the system
       ru: Учётная запись не найдена в системе
       uk: Обліковий запис не знайдено в системі
     MakeZeroBalanceResultSuccess:
-      be: Платёж выполнен успешно, либо баланс не отрицательный
       cs: Platba byla provedena úspěšně, popř. stav účtu není záporný
       ka: გადახდა წარმატებით შესრულდა, ან ბალანსი არ არის უარყოფითი.
       en: The payment was successful or balance was not negative
       ru: Платёж выполнен успешно, либо баланс не отрицательный
       uk: Платіж виконано успішно, або баланс не негативний
     MasterCard:
-      be: MasterCard
       cs: MasterCard
       ka: MasterCard
       en: MasterCard
@@ -3864,7 +3566,6 @@ Sections:
       en: View and delete reports
       ru: Просмотр и удаление отчетов
     MaxChargeAmountMustBeStrictlyPositive:
-      be: Максимальная сумма списания должна быть больше нуля
       cs: Maximální částka pro stržení prostředků musí být vyšší než nula
       ka: მაქსიმალური გადასახდელი თანხის რაოდენობა უნდა იყოს ნულზე მეტი
       en: The maximum amount of charge must be greater than zero
@@ -3873,7 +3574,6 @@ Sections:
       en: Max daily rent cost, in kops
       ru: Максимальная дневная стоимость аренды, в копейках
     MaxDailyCostInKopsSettingDescription:
-      be: Максимальная дневная стоимость заказа, в копейках
       cs: Maximální cena objednávky za den, v haléřích
       ka: ჯავშნის  მაქსიმალური  დღიური ღირებულება, თეთრებში
       en: Maximum daily price of the reservation, in penny
@@ -3884,32 +3584,27 @@ Sections:
       en: Max distance between fueling station and car (0 to ignore)
       ru: Максимальное расстояние между АЗС и автомобилем (0 - игнорировать)
     MaxFriendsBonusInKopsSettingDescription:
-      be: Максимальная сумма на бонус для друга, в копейках
       cs: Maximální částka bonusových bodů příteli, v haléřích
       ka: მეგობრის ბონუსის მაქსიმალური თანხა თეთრებში
       en: The maximum amount for a bonus for a friend in penny
       ru: Максимальная сумма на бонус для друга, в копейках
     MaxMileage:
-      be: Максимальный пробег
       cs: Maximální počet ujetých kilometrů
       ka: მაქსიმალური გარბენი
       en: maximum mileage
       ru: Максимальный пробег
       uk: Максимальний пробіг
     MaxNumberOfApplicantSubmissionAttemptsSettingDescription:
-      be: Количество попыток для повторной отправки на проверку, в случае неудачи
       cs: Maximální počet pokusů o opakované odeslání požadavku
       ka: წარუმატებელი მცდელობის შემთხვევაში, განმეორებით დასადასტურებლად გადაგზავნის მცდელობების რაოდენობა
       en: The number of attempts to re-send for review, in case of failure
       ru: Количество попыток для повторной отправки на проверку, в случае неудачи
     MaxNumberOfAttemptsExceededPenaltyTimeDescription:
-      be: Штрафное время после того, как пользователь превысил максимальное количество попыток ввода кода смс авторизации
       cs: Doba omezení za překročení čísla pokusů o zadání sms kódu pro autorizaci
       ka: თუ მომხმარებელი რამდენიმეჯერ არასწორად შეიყვანს SMS ავტორიზაციის კოდს, დაინიშნება საჯარიმო პერიოდი
       en: Penalty time after the user has exceeded the maximum number of attempts to enter the code for sms authorization
       ru: Штрафное время после того, как пользователь превысил максимальное количество попыток ввода кода смс авторизации
     MaxSmsAuthCodeSubmissionsAttemptsDescription:
-      be: Количество попыток ввода кода кода авторизации
       cs: Maximální počet pokusů o zadání autorizačního kódu
       ka: ავტორიზაციის კოდის შეყვანის მცდელობების რაოდენობა
       en: The number of attempts to enter an authorization code
@@ -3920,7 +3615,6 @@ Sections:
       en: Members
       ru: Члены
     MidBonusSum:
-      be: Средний размер начисленного бонуса
       cs: Průměrná výše bonusových bodů
       ka: დარიცხული ბონუსის საშუალო ზომა
       en: Average size of the accrued bonus
@@ -3930,25 +3624,21 @@ Sections:
       en: Min GPS distance between station and car to fuel car (in meters). 0 for not checking the distance
       ru: Расстояние между заправочной станцией и машиной, необходимое для заправки (в метрах). Если 0, то расстояние не проверяется
     MinimumFuelLevelPercentsSettingDescription:
-      be: Минимальный уровень топлива, в процентах
       cs: Minimální hladina paliva, v procentech
       ka: მინიმალური ელემენტის მუხტი პროცენტებში
       en: The minimum level of fuel, in percentage
       ru: Минимальный уровень топлива, в процентах
     MinimumPeriodBetweenApplicantSubmissionAttemptsSettingDescription:
-      be: Время ожидания между повторными отправками на проверку
       cs: Minimální čas čekání mezi pokusy o odeslání požadavku
       ka: განმეორებით დასადასტურებელი გაგზავნების მცდელობებს შორის არსებული მოლოდინის დრო
       en: The waiting time before re-send for review
       ru: Время ожидания между повторными отправками на проверку
     MinivanOrganizationDescription:
-      be: Организания минивэн
       cs: Skupina Minivan
       ka: მინივენების ორგანიზაცია
       en: Minivan organization
       ru: Организания минивэн
     MinMileage:
-      be: Минимальный пробег
       cs: Minimální počet ujetých kilometrů
       ka: მინიმალური გარბენი
       en: Manimum mileage
@@ -3960,14 +3650,12 @@ Sections:
       en: Password must contain at least {0} characters
       ru: Пароль должен содержать минимум {0} разных символов
     MinutesInPack:
-      be: Минут в пакете
       cs: Minut v balíčku
       ka: წუთები პაკეტში
       en: Minutes in the package
       ru: Минут в пакете
       uk: Хвилин у пакеті
     MinutesShort:
-      be: мин.
       cs: min.
       ka: წთ.
       en: min.
@@ -3985,21 +3673,18 @@ Sections:
       en: Mobile phone number
       ru: Номер мобильного телефона
     MobilePhoneNumberAlreadyTaken:
-      be: Номер мобильного телефона {0} уже зарегистрирован
       cs: Číslo mobilního telefonu {0} je již registrováno
       ka: მობილური ტელეფონის ნომერი  {0} უკვე რეგისტრირებულია
       en: Mobile phone number {0} has already been registered
       ru: Номер мобильного телефона {0} уже зарегистрирован
       uk: Номер мобільного телефону {0} вже зареєстровано
     MobilePhoneNumberCountryForbidden:
-      be: Неверный код страны
       cs: Nesprávný kód země
       ka: ქვეყნის კოდი არასწორია
       en: Invalid country code
       ru: Неверный код страны
       uk: Невірний код країни
     MobilePhoneNumberNotValid:
-      be: Неверный формат номера
       cs: Nesprávný formát čísla
       ka: არასწორი ტელეფონის ნომრის ფორმატი
       en: Invalid phone number format
@@ -4011,46 +3696,39 @@ Sections:
       en: SMS verification code
       ru: Код SMS-подтверждения
     MobilizeCar:
-      be: Разблокирована
       cs: Odblokováno
       ka: განბლოკილია
       en: unlocked
       ru: Разблокирована
     Model:
-      be: Модель
       cs: Model
       ka: მოდელი
       en: Model
       ru: Модель
       uk: Модель
     ModelName:
-      be: Наименование модели
       cs: Označení modelu
       ka: მოდელის სახელი
       en: model name
       ru: Наименование модели
       uk: Найменування моделі
     ModelType:
-      be: Тип модели
       cs: Typ modelu
       ka: მოდელის სახეობა
       en: Type of the model
       ru: Тип модели
       uk: Тип моделі
     MoneyFormatSettingDescription:
-      be: Формат отображения строк с деньгами
       cs: Formát řádků s penězi
       ka: თანხის ველის ფორმატი
       en: The display format rows with money
       ru: Формат отображения строк с деньгами
     MovementDetectionWaypointsCountSettingDescription:
-      be: Количество вейпоинтов, необходимое для детекции движения
       cs: Počet bodů pro určení pohybu
       ka: მოძრაობის გამოვლენისათვის აუცილებელი წერტილების  რაოდენობა
       en: Number of waypoints required for motion detection
       ru: Количество вейпоинтов, необходимое для детекции движения
     MovementOnHandBrakeWaypointsCountSettingDescription:
-      be: Количество зарегистрированных вейпоинтов для определения движения автомобиля на ручнике
       cs: Počet registrovaných bodů pro určení pohybu se zapnutou ruční brzdou
       ka: 'მანქანის ამოწეული ხელის მუხრუჭით მართვის დასადგენად  ნიშნულების რაოდენობა '
       en: Waypoints count to generate movement on handbrake alarm
@@ -4063,21 +3741,18 @@ Sections:
       ru: МТ
       uk: МТ
     MustHavePhotosOfTwoPagesOfPassport:
-      be: Необходимо загрузить фото первой страницы паспорта и страницы с пропиской
       cs: 'Prosím, odešlete foto obou stran OP '
       ka: თქვენ უნდა ატვირთოთ პასპორტის პირველი გვერდისა და სარეგისტრაციო გვერდის სურათი
       en: You need to upload photo of front and back side of your ID card
       ru: Необходимо загрузить фото первой страницы паспорта и страницы с пропиской
       uk: Необхідно завантажити фото першої сторінки паспорта та сторінки з пропискою
     MustHavePhotosOfTwoSidesOfDriversLicence:
-      be: Необходимо загрузить фото обеих сторон водительского удостоверения
       cs: Prosím, odešlete foto obou stran řidičského průkazu
       ka: თქვენ უნდა ატვირთოთ მართვის მოწმობის ორივე მხარის ფოტო
       en: You need to upload a photo of both sides of a driver's license
       ru: Необходимо загрузить фото обеих сторон водительского удостоверения
       uk: Необхідно завантажити фото обох сторін посвідчення водія
     MustUploadSelfie:
-      be: Необходимо загрузить фото, на котором одновременно видно Ваше лицо и водительское удостоверение. Это позволит нам быстрее дать Вам доступ к нашим автомобилям, спасибо за понимание!
       cs: Prosím, odešlete Vaši fotografii, na které je současně vidět Váš obličej a řidičský průkaz. To nám umožní co nejdříve poskytnout Vám plný přístup k naším vozidlům. Děkujeme za pochopení.
       ka: თქვენ უნდა ატვირთოთ ფოტო, სადაც ერთდროულად ჩანს თქვენი სახე და მართვის მოწმობა. ეს საშუალებას მოგვცემს დროულად მოგანიჭოთ ჩვენს ავტომობილებზე წვდომა. გმადლობთ თანადგომისთვის!
       en: You should upload selfie with ID card. This will allow us to give you faster access to our cars, thank you for your understanding!
@@ -4100,7 +3775,6 @@ Sections:
       en: Name
       ru: Имя
     NeedMorePhotos:
-      be: Пожалуйста, прикрепите фото автомобиля ({photos-count} шт.)
       cs: Prosím, připojte foto vozidla ({počet foto} ks.)
       ka: მთხოვთ მიამაგროთ ავტომანქანის სურათი ({photos-count} шт.)
       en: Please upload photos of the car ({photos-count} pcs.)
@@ -4119,19 +3793,16 @@ Sections:
       en: Please enter the value of '{0}'
       ru: Необходимо заполнить значение '{0}'
     NeedToUpdateDevice:
-      be: Необходимо обновить приложение
       cs: Je potřeba provést obnovení aplikace
       ka: განაახლეთ აპლიკაცია
       en: You need to update your application.
       ru: Необходимо обновить приложение
     NeedToUpdateDeviceAndroid:
-      be: Необходимо обновить приложение, пожалуйста, перейдите в Google Play
       cs: Je potřeba provést obnovení aplikace, prosím navštívte Google Play
       ka: განაახლეთ აპლიკაცია. შეამოწმეთ Google Play-ზე აპლიკაციის ახალი ვერსია
       en: You need to update your application. Please, check Google Play for new version
       ru: Необходимо обновить приложение, пожалуйста, перейдите в Google Play
     NeedToUpdateDeviceIos:
-      be: Необходимо обновить приложение, пожалуйста, перейдите в App Store
       cs: Je potřeba provést obnovení aplikace, prosím navštívte App Store
       ka: განაახლეთ აპლიკაცია. შეამოწმეთ Google Play-ზე აპლიკაციის ახალი ვერსია
       en: You need to update your application. Please, check App Store for new version
@@ -4142,14 +3813,12 @@ Sections:
       en: Mobile number shall be confirmed before using SMS authentication
       ru: Необходимо подтвердить номер мобильного телефона, прежде чем использовать SMS-аутентификацию
     NewDriveRights:
-      be: Права CarTrek
       cs: Práva
       ka: ქართრექის უფლებები
       en: Rights
       ru: Права CarTrek
       uk: права CarTrek
     NewDriveUser:
-      be: Пользователь
       cs: Uživatel
       ka: მომხმარებელი
       en: User
@@ -4197,13 +3866,11 @@ Sections:
       en: No photos updated
       ru: Не обновлено ни одной фотографии
     NoLinkWarningPeriodSettingDescription:
-      be: Порог предупреждения об отсутствии связи с авто
       cs: Limit pro upozornění o přerušení spojení s vozidlem
       ka: 'გაფრთხილების ზღვარი ავტომობილთან სიგნალის არ არსებობის შესახებ '
       en: Warning threshold of the absence of communication with car
       ru: Порог предупреждения об отсутствии связи с авто
     NoRentWarningPeriodSettingDescription:
-      be: Порог предупреждения об отсутствии заказов для авто
       cs: Limit pro upozornění o neexistenci objednávek na vozidlo
       ka: ავტომობილზე დაკვეთების არ არსებობის შესახებ შეტყობინების მისაღები ბარიერი
       en: alarm threshold the lack of orders for cars
@@ -4221,20 +3888,17 @@ Sections:
       ru: Ещё не завершён
       uk: Ще не виконано
     NotificationBonusesGiven:
-      be: '{0}, Вам начислено {1} бонусов. Удачных поездок!'
       cs: '{0}, Vám bylo připsáno {1} bonusových bodů. Štastnou cestu!'
       ka: '{0}, თქვენ დაგერიცხათ {1} ბონუსი. კეთილი მგზავრობა!'
       en: '{0}, you earned {1} bonuses. have a safe journey!'
       ru: '{0}, Вам начислено {1} бонусов. Удачных поездок!'
     NotificationBookingTerminated:
-      be: Бронь {0} {1} отменена, истекло {2} мин.
       cs: Rezervace {0} {1} zrušena, uplynulo {2} min.
       ka: '{0} {1} ჯავშანი გაუქმებულია, {2} წთ. ამოიწურა.'
       en: Booking of {0} {1} is cancelled, {2} min. expired.
       ru: Бронь {0} {1} отменена, истекло {2} мин.
       uk: Бронь {0} {1} скасовано, минуло {2} хв.
     NotificationRentCompleted:
-      be: 'Аренда завершена. Стоимость: {0} {2}. Промо-код друзьям: {1}'
       cs: 'Pronájem ukončen. Cena: {0} {2}. Promo kód přátelům: {1}'
       ka: 'ქირაობა დასრულდა. გადასახდელი თანხა: {0} {2}. მეგობრებისთვის პრომო კოდი: {1}'
       en: 'Rent is over. Total: {0} {2}. Invite code for friends: {1}'
@@ -4267,14 +3931,12 @@ Sections:
       en: Deleted
       ru: Удалён
     OfflineFor:
-      be: Без связи
       cs: Bez spojení
       ka: არ არის კავშირი
       en: Offline for
       ru: Без связи
       uk: Без зв'язку
     OfflineTimeLimitInMinutes:
-      be: Лимит отсутствия связи с автомобилем (мин.)
       cs: Limit přerušení spojení s vozidlem (min.)
       ka: მანქანასთან დაკავშირების ვერ მოხერხების დროის ლიმიტი (წუთი.)
       en: Car offline time limit (min.)
@@ -4310,7 +3972,6 @@ Sections:
       en: Old values
       ru: Старые значения
     OnlyForHoldedPayments:
-      be: Операция не доступна для не холдированных платежей
       cs: Transakce není k dispozici pro neuhrazené platby.
       ka: ოპერაცია არ არის ხელმისაწვდომი შეჩერებული გადახდებისთვის
       en: Operation is allowed for hold payments only
@@ -4319,37 +3980,31 @@ Sections:
       en: Operation
       ru: Операция
     OrderCompleted:
-      be: Заказ завершён
       cs: Pronájem ukončen.
       ka: შეკვეთა დასრულებულია
       en: Order is completed
       ru: Заказ завершён
       uk: Замовлення завершено
     OrderFinished:
-      be: Заказ завершён
       cs: Objednávka ukončena
       ka: შეკვეთა დასრულებულია
       en: The rent has been completed
       ru: Заказ завершён
     OrderFinishedNotificationSettingDescription:
-      be: Уведомлять об окончании заказа
       cs: Oznamovat ukončení pronájmu
       ka: შეტყობინება შეკვეთის დასრულების შესახებ
       en: Notify the completion of the order
       ru: Уведомлять об окончании заказа
     OrderFinishStarted:
-      be: Начато завершение заказа
       cs: Ukončení pronájmu zahájeno
       en: Order completion is started
       ru: Начато завершение заказа
     OrderNowOnParkRateNotificationSettingDescription:
-      be: Уведомлять о переходе на парковочный режим тарифа
       cs: Oznamovat přechod do parkovacího režimu
       ka: შეტყობინება პარკირების ტარიფის რეჟიმში გადასვლის შესახებ
       en: Notify about switching to the parking rate mode
       ru: Уведомлять о переходе на парковочный режим тарифа
     OrderRatePackRenewd:
-      be: Абонемент для заказа продлен
       cs: Předplatné objednávky prodlouženo
       ka: შეკვეთის აბონემენტი გახანგძლივდა
       en: Package has been prolonged
@@ -4361,20 +4016,17 @@ Sections:
       ru: Отчет по клиентам
       uk: Звіт по клієнтах
     OrderSwitchedToDrive:
-      be: Заказ переключен в режим использования
       cs: Objednávka převedena do režimu užívání
       ka: შეკვეთა გადავიდა გამოყენების რეჟიმში
       en: Rent switched to the driving mode
       ru: Заказ переключен в режим использования
     OrderSwitchedToInspectModeNow:
-      be: Заказ переключен в режим осмотра
       cs: Objednávka převedena do režimu prohlídky
       ka: შეკვეთა გადავიდა დათვალიერების რეჟიმში
       en: Order switched to inspect mode
       ru: Заказ переключен в режим осмотра
       uk: Замовлення переключено в режим огляду
     OrderSwitchedToPark:
-      be: Заказ переключен в парковочный режим
       cs: Objednávka převedena do režimu čekání
       ka: შეკვეთა გადავიდა პარკირების რეჟიმში
       en: Rent switched to parking mode
@@ -4391,7 +4043,6 @@ Sections:
       en: Organization deleted
       ru: Организация удалена
     OrganizationGradeNotFound:
-      be: Группа не существует
       cs: Skupina organizace nenalezena
       en: Organization grade not found
       ru: Группа не существует
@@ -4401,12 +4052,10 @@ Sections:
     OrganizationIsNotCorporate:
       en: Organization is not corporate organization
     OrganizationLimitExceeded:
-      be: Лимит организации исчерпан
       cs: Překročen limit organizace
       en: Organization limit exceeded
       ru: Лимит организации исчерпан
     OrganizationNotFound:
-      be: Организация не найдена
       cs: Organizace nenalezena
       en: Organization not found
       ru: Организация не найдена
@@ -4417,40 +4066,34 @@ Sections:
     OrganizationWithGradesCannotBeSwitched:
       en: Organization with grades cannot be non-corporative
     OtherBonusGivenNotificationSettingDescription:
-      be: Уведомлять о других бонусах
       cs: Oznamovat poskytnutí jiných bonusů
       ka: შეტყობინება სხვა ბონუსების შესახებ
       en: Notify about other bonuses
       ru: Уведомлять о других бонусах
     OutOfFuelLevelSettingDescription:
-      be: Порог отсутствия топлива
       cs: Limit pro nedostatek paliva
       ka: ელემენტის მუხტის დონის შესახებ შეტყობინებისთვის საჭირო ბარიერი
       en: lack of fuel threshold
       ru: Порог отсутствия топлива
     OverrunCostPerKm:
-      be: Стоимость перепробега
       cs: Cena nadměrného počtu ujetých kilometrů
       ka: გარბენის ღირებულება
       en: overmileage cost
       ru: Стоимость перепробега
       uk: Вартість перепробігу
     OverrunEmailMessage:
-      be: '- полная стоимость перепробега <b>{0} {2}</b> за {1} км.'
       cs: '- plná cena překročení povolených kilometrů <b>{0} {2}</b> za {1} km.'
       ka: გარბენის მთლიანი  ღირებულება<b>{0} {2}</b> ერთ {1} კმ
       en: '- overmileage cost is <b>{0} {2}</b> for {1} km'
       ru: '- полная стоимость перепробега <b>{0} {2}</b> за {1} км.'
       uk: '- повна вартість перепробігу <b> {0} {2} </ b> за {1} км.'
     Owner:
-      be: Владелец
       cs: Vlastník
       ka: მფლობელი
       en: Owner
       ru: Владелец
       uk: Власник
     OwnPromoCode:
-      be: Ваш промо-код
       cs: Váš promo kód
       ka: თქვენი პრომო კოდი
       en: Your promo code
@@ -4465,19 +4108,16 @@ Sections:
       en: paid
       ru: оплачен
     PaidByBonuses:
-      be: Оплачено бонусами
       cs: Zaplaceno bonusovými body
       ka: გადახდილია ბონუსებით
       en: Paid by bonuses
       ru: Оплачено бонусами
     PaidFromCard:
-      be: Оплачено картой
       cs: Uhrazeno platební kartou
       ka: გადახდილია ბარათით
       en: Paid from card
       ru: Оплачено картой
     PaperCheckConfirmed:
-      be: Получение бумажного чека подтверждено
       cs: Předání papírové poukázky potvrzeno
       ka: ქაღალდის ქვითრის მიღების დადასტურება
       en: Check validated
@@ -4489,48 +4129,41 @@ Sections:
       en: Parent group
       ru: Старшая группа
     ParentPaymentNotFoundInDatabase:
-      be: Родительская транзакция не найдена
       cs: Nadřazená transakce nebyla nalezena
       ka: ' ტრანზაქცია ვერ მოიძებნა'
       en: Main payment wasn't found in database
       ru: Родительская транзакция не найдена
     Park:
-      be: Парковка
       cs: Režim čekání
       ka: პარკირება
       en: Parking
       ru: Парковка
       uk: Парковка
     ParkAndLockCarResultFailedCarHasNoOrderNow:
-      be: Автомобиль в данный момент не арендован.
       cs: Vozidlo nyní není pronajmuto.
       ka: ავტომობილი ამჟამად არ ქირავდება.
       en: The car is not rented now
       ru: Автомобиль в данный момент не арендован.
       uk: Автомобіль в даний момент не орендований.
     ParkAndLockCarResultFailedCarIsMoving:
-      be: Машина находится в движении.
       cs: Vozidlo je v pohybu
       ka: ავტომობილი მოძრაობს
       en: The car is being used at the moment
       ru: Машина находится в движении.
       uk: Машина знаходиться в русі.
     ParkAndLockCarResultFailedCarIsParkedAlready:
-      be: Автомобиль уже в режиме парковки.
       cs: Vozidlo je již v režimu čekání
       ka: ავტომობილი უკვე პარკირების რეჟიმშია.
       en: The car has been parked already
       ru: Автомобиль уже в режиме парковки.
       uk: Автомобіль вже в режимі паркування.
     ParkAndLockCarResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi.
       ka: ავტომობილი ვერ მოიძებნა მონაცემთა ბაზაში.
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдено в базі даних.
     ParkAndLockCarResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem.
       ka: ავტომობილთან არ არის კავშირი.
       en: The car is offline
@@ -4540,14 +4173,12 @@ Sections:
       cs: Chyba hardwaru
       en: Park And Lock Car Result Failed Hardware Error
     ParkAndLockCarResultFailedOrderIsCompletedAlready:
-      be: Аренда уже завершена.
       cs: Pronájem byl již ukončen.
       ka: ქირაობა დასრულებულია.
       en: The rent has been finished already
       ru: Аренда уже завершена.
       uk: Оренда вже завершено.
     ParkAndLockCarResultFailedOrderNotFoundInDatabase:
-      be: Заказ не найден в базе данных.
       cs: Objednávka nebyla nalezena v databázi.
       ka: ქირაობა ვერ მოიძებნა მონაცემთა ბაზაში.
       en: Your order was not found
@@ -4557,14 +4188,12 @@ Sections:
       en: Park unavaliable for this type of vehicle
       ru: Парковка недоступна для данного типа ТС
     ParkAndLockCarResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: V tuto chvíli nemáte aktivní pronájem.
       ka: ამჟამად არ გაქვთ აქტიური ქირაობა
       en: You have no active rent at the moment
       ru: У Вас в данный момент нет активной аренды.
       uk: У Вас в даний момент немає активної оренди.
     ParkAndLockCarResultOkCarIsParked:
-      be: Автомобиль переведён в режим парковки.
       cs: Vozidlo převedeno do režimu čekání
       ka: ავტომობილი გადაყვანილია პარკირების რეჟიმში.
       en: The car is in parking mode now
@@ -4577,14 +4206,12 @@ Sections:
       en: Park state multiplier
       ru: Множитель для режима парковки
     ParkRate:
-      be: Парковочный тариф
       cs: Parkovací tarif
       ka: პარკირების ტარიფი
       en: The parking rate
       ru: Парковочный тариф
       uk: Паркувальний тариф
     ParkShort:
-      be: П
       cs: ParkShort
       ka: P
       en: P
@@ -4602,21 +4229,18 @@ Sections:
       en: Partial payment
       ru: Сумма частичного списания во время поездки
     Partner:
-      be: Партнёр
       cs: Partner
       ka: პარტნიორი
       en: Partner
       ru: Партнёр
       uk: Партнер
     PartnerId:
-      be: Идентификатор партнёра
       cs: Identifikátor partnera
       ka: პარტნიორის  ID
       en: Partner ID
       ru: Идентификатор партнёра
       uk: Ідентифікатор партнера
     PassportDate:
-      be: Дата выдачи паспорта
       cs: Datum vydání OP
       ka: პასპორტის გაცემის თარიღი
       en: Passport issue date
@@ -4631,21 +4255,18 @@ Sections:
       en: ID issued by
       ru: Кем выдан паспорт
     PassportNumber:
-      be: Номер паспорта
       cs: Číslo OP
       ka: პასპორტის ნომერი
       en: Passport number
       ru: Номер паспорта
       uk: Номер паспорта
     PassportScan1:
-      be: Фото первой страницы паспорта
       cs: Fotografie přední strany občanského průkazu
       ka: პასპორტის პირველი გვერდის სურათი
       en: Photos of the front side of the ID card
       ru: Фото первой страницы паспорта
       uk: Фото першої сторінки паспорта
     PassportScan2:
-      be: Фото страницы паспорта с пропиской
       cs: Fotografie zadní strany občanského průkazu
       ka: პასპორტის სარეგისტრაციო გვერდის სურათი
       en: Photo page of the passport with residence permit
@@ -4702,39 +4323,33 @@ Sections:
       en: Patronymic
       ru: Отчество
     PaymentCanceled:
-      be: Невозможно совершить операцию с отмененым платежем
       cs: platba zrušena
       ka: გადახდა უარყოფილია
       en: Payment is canceled
       ru: Невозможно совершить операцию с отмененым платежем
     PaymentGateway:
-      be: Внутренняя ошибка сервиса платежей
       cs: vnitřní chyba platební brány
       ka: გადახდების სერვისის შიდა შეცდომა
       en: Internal payment gateway error
       ru: Внутренняя ошибка сервиса платежей
     PaymentGatewayUnsupportedOperation:
-      be: Операция недоступна для платежной системы
       cs: operace není podporována platební bránou
       ka: ოპერაცია შეუძლებელია განხორციელდეს გადახდების სისტემისთვის
       en: Payment gateway is not UnsupportedOperation
       ru: Операция недоступна для платежной системы
     PaymentIncomeEnumFailedInvalidSignature:
-      be: Некорректная подпись
       cs: Nesprávný podpis
       ka: ხელმოწერა არასწორია
       en: Invalid signature
       ru: Некорректная подпись
       uk: Некоректний підпис
     PaymentNotFoundInDatabase:
-      be: Платёж не найден в базе данных
       cs: Platba nenalezena v databázi
       ka: მონაცემთა ბაზაში გადახდა ვერ მოიძებნა
       en: Payment has not been found in the database
       ru: Платёж не найден в базе данных
       uk: Платіж не знайдено в базі даних
     PaymentsAreDisabledOnThisServer:
-      be: Платежи отключены на этом сервере
       cs: Na tomto serveru platby jsou vypnuty
       ka: ამ სერვერზე გადახდები გამორთულია
       en: Payments are disabled on this server
@@ -4744,41 +4359,35 @@ Sections:
       en: Transferred fine status to paid
       ru: Переведен статус штрафа в оплачено
     PeriodRun:
-      be: Пробег за период
       cs: Ujeto kilometrů za období
       ka: გარბენი პერიოდზე
       en: Mileage for the period
       ru: Пробег за период
     PHEV:
-      be: Гибрид
       cs: Hybrid
       ka: ჰიბრიდი
       en: Hybrid
       ru: Гибрид
       uk: Гібрид
     Phone1:
-      be: Телефон 1
       cs: Telefon 1
       ka: ტელ. ნომერი 1
       en: phone 1
       ru: Телефон 1
       uk: Телефон 1
     Phone2:
-      be: Телефон 2
       cs: Telefon 2
       ka: ტელ. ნომერი  2
       en: phone 2
       ru: Телефон 2
       uk: Телефон 2
     PictureForAppCard:
-      be: Фото машины для приложения
       cs: Foto vozidla pro vložení
       ka: ავტომობილის სურათი აპლიკაციისთვის.
       en: Photo of the car for app
       ru: Фото машины для приложения
       uk: Фото машини для додатка
     PleaseWaitCommandCompletion:
-      be: Пожалуйста, дождитесь завершения выполнения предыдущей команды
       cs: Prosím, vyčkejte na ukončení předchozího požadavku
       ka: გთხოვთ დაელოდოთ, სანამ წინა ბრძანება დასრულდება
       en: Please wait until the previous command will be completed
@@ -4788,21 +4397,18 @@ Sections:
       en: Координаты точек
       ru: Zone points coordinates
     ProfileVerification:
-      be: Верификация профиля ({0})
       cs: Ověření profilu {0}
       ka: ({0}) პროფილის შემოწმება
       en: Profile verification ({0})
       ru: Верификация профиля ({0})
       uk: Верифікація профілю ({0})
     PromocodeBonusesPercent:
-      be: Процент от суммы первой поездки, который будет переведен в бонусы за регистрацию
       cs: procent od částky první jízdy, které bude převeden do bonusových bodů za registraci.
       ka: პირველი მგზავობის საფასურის პროცენტი რომელიც დაირიცხება როგორც ბონუსი გავლილი რეგისტრაციისთვის
       en: First ride sum percent that turns in registration bonuses
       ru: Процент от суммы первой поездки, который будет переведен в бонусы за регистрацию
       uk: Відсоток від суми першої поїздки, який буде переведений в бонуси за реєстрацію
     PromoCodeIsRequired:
-      be: Требуется ввести действующий промо-код
       cs: Prosím, zadejte aktivní promo kód
       ka: საჭიროა მოქმედი პრომო კოდის შეყვანა
       en: Please enter a valid promo-code
@@ -4812,14 +4418,12 @@ Sections:
       en: Rear
       ru: Задний
     RangeOnBattery:
-      be: Запас хода на батарее
       cs: Na baterie lze najet kilometrů
       ka: ელემენტის მარაგი
       en: Power reserve on the battery
       ru: Запас хода на батарее
       uk: Запас ходу на батареї
     Rate:
-      be: Тариф
       cs: Tarif
       ka: ტარიფი
       en: Rate
@@ -4865,97 +4469,82 @@ Sections:
       ru: Готово
       uk: Готовий
     RebillLimitInKopsSettingDescription:
-      be: Максимальная сумма списания с карты клиента, в копейках
       cs: Maximální částka pro stržení z platební karty zákazníka v haléřích
       ka: მაქსიმალური ჩამოსაჭრელი თანხა მომხმარებლის ბარათიდან, თეთრებში
       en: The maximum amount debited from the customer's card, in penny
       ru: Максимальная сумма списания с карты клиента, в копейках
     RebootCarTracker:
-      be: Перезагрузка трекера
       cs: Restartování trackeru
       ka: ტრეკერის გადატვირთვა
       en: Restart tracker
       ru: Перезагрузка трекера
     ReconfigureCarTracker:
-      be: Переконфигурация трекера
       cs: Změna nastavení trackeru
       ka: ტრეკერის ხელახალი კონფიგურაცია
       en: Reconfigure the tracker
       ru: Переконфигурация трекера
     Refueling:
-      be: Заправка
       cs: Natankovat
       ka: დატენვა
       en: Refuel
       ru: Заправка
       uk: Заправка
     RefuelingBonusGivenNotificationSettingDescription:
-      be: Уведомлять о бонусе за заправку
       cs: Oznamovat o poskytnutí bonusových bodů za natankování
       ka: დატენვისთვის მიღებული ბონუსების შესახებ შეტყობინება
       en: Notify about bonuses for refuel
       ru: Уведомлять о бонусе за заправку
     RefuelingCashCostRequired:
-      be: Укажите сумму заправки или выберите "Оплачено топливной картой"
       cs: Uveďte částku za natankování nebo vyberte  "Zaplaceno palivovou kartou"
       ka: მიუთითეთ  დატენვის გადახდილი თანხა ან აირჩიეთ "გადახდილია დატენვის ბარათით"
       en: Specify the amount of refueling or select "Paid by fuel card"
       ru: Укажите сумму заправки или выберите "Оплачено топливной картой"
       uk: Вкажіть суму заправки або виберіть "Оплачено паливною карткою"
     RefuelingChecks:
-      be: Чеки заправки
       cs: Účtenky za tankování
       ka: დატენვის ქვითარი
       en: Bills for refueling
       ru: Чеки заправки
       uk: Чеки заправки
     RefuelingDateTimeUtc:
-      be: Дата и время заправки
       cs: Datum a čas tankování
       ka: დატენვის დრო და თარიღი
       en: Date and time of refueling
       ru: Дата и время заправки
       uk: Дата і час заправки
     RefuelingECheckConfirmationError:
-      be: Для подтверждения электронного чека на заправку Вам необходимо загрузить фотографии чека, присланные клиентом.
       cs: K potvrzení elektronické účtenky za natankování je potřeba odeslat fotografii účtenky
       ka: დატენვის ელ.ქვითრის დასამტკიცებლად საჭიროა მომხმარებლის მიერ გამოგზავნილი ქვითრის სურათის ატვირთვა
       en: To confirm the e-check from the fuel station you need to download the photos of the bill which was sent by the customer.
       ru: Для подтверждения электронного чека на заправку Вам необходимо загрузить фотографии чека, присланные клиентом.
       uk: Для підтвердження електронного чека на заправку Вам необхідно завантажити фотографії чека, надіслані клієнтом.
     RefuelingPaperCheckConfirmedError:
-      be: Для подтверждения бумажного чека укажите клиента
       cs: K potvrzení účtenky v papírové podobě uveďte zákazníka
       ka: ქაღალდის ქვითრის დასადასტურებლად, მიუთითეთ მომხმარებელი
       en: To confirm the hard copy of the bill, specify the client
       ru: Для подтверждения бумажного чека укажите клиента
       uk: Для підтвердження паперового чека вкажіть клієнта
     RefundDescriptionForIncomeReturnReceipt:
-      be: Возврат по транакции {0} от {1}
       cs: Vracení stržení {0} od {1}
       ka: '  {0} ტრანზაქციიდან {1} ტრანზაქციამდე დაბრუნება'
       en: Compensation for transactions{0} dated {1}
       ru: Возврат по транакции {0} от {1}
     RefundInitPaymentSettingDescription:
-      be: Возмещение первоначального списания
       cs: Vracení počátečně stržené částky
       ka: საწყისი ჩამოჭრის კომპენსაცია
       en: Compensation for the initial debit
       ru: Возмещение первоначального списания
     RefundPayment:
-      be: Возврат средств
       cs: Vracení peněz
       ka: თანხის დაბრუნება
       en: repayment
       ru: Возврат средств
     RegistrationPageUrlDescription:
-      be: Урл страницы регистрации
       cs: url stránky registrace
       ka: რეგისტრაციის გვერდის URL
       en: URL registration page
       ru: Урл страницы регистрации
     RegNumber:
-      be: Госномер
       cs: SPZ
       ka: ავტომობილის სახელმწიფო ნომერი
       en: license plate
@@ -4967,61 +4556,52 @@ Sections:
       en: 'Authentication is rejected '
       ru: Аутентификация отклонена
     RentAutoStart:
-      be: Платная бронь
       cs: Placená rezervace.
       ka: ფასიანი ჯავშანი
       en: Paid booking
       ru: Платная бронь
       uk: Платна бронь
     RentEndBonusZoneDescription:
-      be: Поездка завершена в бонусной зоне
       cs: Jízda ukončena v bonusové zóně
       ka: 'მგზავრობა დასრულდა ბონუსურ ზონაში '
       en: Rent ended in a bonus zone
       ru: Поездка завершена в бонусной зоне
     ReplenishmentOfBalance:
-      be: Пополнение баланса
       cs: Nabití kreditu
       ka: ბალანსის შევსება
       en: 'Credit the account '
       ru: Пополнение баланса
       uk: Поповнення балансу
     ReportCanceled:
-      be: Отчет отменен пользователем
       cs: Zpráva zrušena uživatele
       ka: ანგარიში გაუქმებულია მომხმარებლის მიერ
       en: Report has been canceled by the user
       ru: Отчет отменен пользователем
     ReportFailed:
-      be: Произошла ошибка
       cs: Došlo k chybě
       ka: დაფიქსირდა შეცდომა
       en: Error occurred
       ru: Произошла ошибка
       uk: Виникла помилка
     ReportWasDeletedAlready:
-      be: Отчет уже был удален
       cs: Zpráva již byla vymazána
       ka: ანგარიში უკვე წაშლილია
       en: Report has been deleted already
       ru: Отчет уже был удален
       uk: Звіт вже був вилучений
     Reserve:
-      be: Бронь
       cs: Rezervace
       ka: ჯავშანი
       en: reservations
       ru: Бронь
       uk: Бронь
     ReserveAlreadyExist:
-      be: Для выбранного автомобиля резерв уже существует. Выберите другой диапазон дат аренды.
       cs: Pro toto vozidlo již existuje rezervace. Prosím, uveďte jiný rozsah pronájmu.
       ka: ეს მანქანა დაჯავშნილია. გთხოვთ, შეარჩიოთ სხვა ავტომობილი
       en: Selected vehicle has  already been reserved. Select a different range of the rental dates.
       ru: Для выбранного автомобиля резерв уже существует. Выберите другой диапазон дат аренды.
       uk: Для обраного автомобіля бронь вже існує. Виберіть інший діапазон дат оренди.
     ReserveDatesError:
-      be: Ошибка определения диапазона аренды. Убедитесь, что дата начала аренды меньше даты окончания аренды.
       cs: Chyba určení rozsahu pronájmu. Ujistěte se, že datum počátku pronájmu je dřívější než datum konce pronájmu.
       ka: ქირაობის შერჩევისას დაფიქსირდა შეცდომა. დარწმუნდით, რომ ქირაობის დაწყების თარიღი  დასრულების დროსთან შედარებით უფრო მცირეა
       en: Error in determining rent range. Make sure that the date of commencement of the lease is less than the end date of the lease.
@@ -5037,7 +4617,6 @@ Sections:
       en: Resource not found
       ru: Ресурс не найден
     RidesHistory:
-      be: История поездок
       cs: historie jízd
       ka: მგზავრობის ისტორია
       en: Rides history
@@ -5049,77 +4628,66 @@ Sections:
       en: Authorization
       ru: Право
     RightAccessTechMenu:
-      be: Доступ к техническому меню приложения
       cs: Dostup k technickému menu aplikace
       ka: წვდომა აპლიკაციის ტექნიკური მენიუზე.
       en: Access tech menu in the app
       ru: Доступ к техническому меню приложения
       uk: Доступ до технічного меню програми
     RightActivateAndDeactivateCars:
-      be: Изменение статуса доступности автомобилей
       cs: Změna stavu dostupnosti vozidla
       ka: ავტომობილების ხელმისაწვდომობის სტატუსის შეცვლა
       en: Changing Car availability status
       ru: Изменение статуса доступности автомобилей
       uk: Зміна статусу доступності автомобілів
     RightAddBonuses:
-      be: Начислять бонусы
       cs: Připisovat bonusové body
       ka: ბონუსების ჩარიცხვა
       en: bonuses
       ru: Начислять бонусы
       uk: Нараховувати бонуси
     RightAddCarTaskComments:
-      be: Добавлять комментарии к задачам
       cs: Přidávat komentáře k úkolům
       ka: დავალებებზე კომენტარების დამატება
       en: Add comments to tasks
       ru: Добавлять комментарии к задачам
       uk: Додавати коментарі до завдань
     RightAddVouchers:
-      be: Добавление ваучеров
       cs: Přidávat poukázky
       ka: ვაუჩერების დამატება
       en: Adding vouchers
       ru: Добавление ваучеров
       uk: Додавання ваучерів
     RightAdmin:
-      be: Администрирование
       cs: Správa
       ka: ადმინისტრაცია
       en: Administration
       ru: Администрирование
       uk: Адміністрування
     RightAllowCustomersDriveFree:
-      be: Разрешать клиентам ездить бесплатно
       cs: Poskytovat jízdy zadarmo
       ka: მომხმარებლის უფასოდ ტარების დადასტურება
       en: Allow customers to rent for free
       ru: Разрешать клиентам ездить бесплатно
       uk: Дозволяти клієнтам їздити безкоштовно
     RightApproveCustomers:
-      be: Одобрение новых клиентов
       cs: Schvalovat nové zákazníky
       ka: ახალი მომხმარებლების დადასტურება
       en: Approval of new customers
       ru: Одобрение новых клиентов
       uk: Схвалення нових клієнтів
     RightBeepCarsHorn:
-      be: Активировать сигнал автомобиля
       cs: Spouštět klakson vozidla
       ka: მანქანის ხმოვანი სიგნალის გააქტიურება
       en: Activate a vehicle horn
       ru: Активировать сигнал автомобиля
       uk: Активувати сигнал автомобіля
     RightBillTheCustomer:
-      be: Накладывать штрафы
       cs: Ukládat pokuty
       ka: დაჯარიმება
       en: apply a penalty
       ru: Накладывать штрафы
       uk: Накладати штрафи
     RightBlockAndUnblockCustomers:
-      be: Блокирование и разблокирование клиентов
       cs: Blokovat a odblokovávat zákazníky
       ka: მომხმარებელთა დაბლოკვა და განბლოკვა
       en: Locking and unlocking customer
@@ -5131,14 +4699,12 @@ Sections:
       en: Lock and unlock users
       ru: Блокирование и разблокирование пользователей
     RightCancelVouchers:
-      be: Анулирование ваучеров
       cs: Rušit poukázky
       ka: ვაუჩერების გაუქმება
       en: cancel of vouchers
       ru: Анулирование ваучеров
       uk: Анулювання ваучерів
     RightCanMakeCarTasks:
-      be: Пользователь может быть назначен на выполнение задачи
       cs: Uživatel může být určen k provedení úkolu
       ka: მომხმარებელი შეიძლება დაინიშნოს დავალების შესასრულებლად
       en: User can be assigned on Car Task
@@ -5149,53 +4715,45 @@ Sections:
       ru: Арендовать автомобиль на пользователя
       uk: Призначати на користувача автомобіль
     RightChangeCarDefects:
-      be: Изменение фото дефекта
       cs: Oprávnění ke změně fotografie poškození
       ka: ავტომობილის დეფექტის სურათის შეცვლა
       en: Change Car Defects
       ru: Изменение фото дефекта
       uk: Зміна фото дефекту
     RightChangeCarFuelLevel:
-      be: Изменять уровень топлива автомобилей
       cs: Oprávnění měnit hladinu paliva v nádrži
       ka: მანქანის დამუხტვის დონის შეცვლა
       en: Change car fuel level
       ru: Изменять уровень топлива автомобилей
     RightChangeCars:
-      be: Изменять данные автомобилей
       cs: Měnit údaje o vozidlech
       ka: ავტომობილების მონაცემების შეცვლა
       en: Change the car data
       ru: Изменять данные автомобилей
       uk: Змінювати дані автомобілів
     RightChangeCarsRentState:
-      be: Изменять состояние аренды автомобилей
       cs: Měnit stav pronájmu
       ka: ავტომობილების იჯარის სტატუსის შეცვლა
       en: Change the status of rental
       ru: Изменять состояние аренды автомобилей
       uk: Змінювати стан оренди автомобілів
     RightChangeCarsRun:
-      be: Изменять пробег автомобилей
       cs: Měnit počet ujetých kilometrů
       ka: ავტომობილების გარბენის შეცვლა
       en: Change mileage of cars
       ru: Изменять пробег автомобилей
     RightChangeCustomerDocumentStatus:
-      be: Изменение статуса пользовательских документов
       cs: Změna stavu dokumentů uživatele
       ka: მომხმარებელთა დოკუმენტების სტატუსის შეცვლა
       en: Change customer document status
       ru: Изменение статуса пользовательских документов
     RightChangeCustomersData:
-      be: Изменять данные клиентов
       cs: Měnit údaje zákazníků
       ka: მომხმარებელთა მონაცემების მოდიფიცირება
       en: Modify customer data
       ru: Изменять данные клиентов
       uk: Змінювати дані клієнтів
     RightChangeCustomersPassword:
-      be: Изменять пароли клиентов
       cs: Měnit hesla zákazníků
       ka: მომხმარებელთა პაროლის შეცვლა
       en: Change customer passwords
@@ -5208,7 +4766,6 @@ Sections:
       en: Change fueling networks
       ru: Изменение сетей заправок
     RightChangeOwnPromocode:
-      be: Изменение промо-кода
       cs: Změna promo kódu
       ka: პრომო კოდის შეცვლა
       en: Change the promo-code
@@ -5227,7 +4784,6 @@ Sections:
       en: Change users authorization
       ru: Изменение прав пользователей
     RightChargeUsersDebt:
-      be: Списание долгов клиентов
       cs: Stržení pohledávek za klientem
       ka: კლიენტთა დავალიანების ჩამოწერა
       en: Charge customers debts
@@ -5239,56 +4795,48 @@ Sections:
       en: 'Permanent unique identifier authorization shall be specified '
       ru: Требуется указать постоянный уникальный идентификатор права
     RightCreateCustomersWithoutDocuments:
-      be: Создание клиентов (пользователей машин) без документов
       cs: Vytvářet zákazníky (uživatele) bez poskytnutých dokumentů
       ka: მომხმარებელთა შექმნა (ავტომობილების მომხმარებელთა) დოკუმენტაციის გარეშე
       en: Creating a customer (car users) without documents
       ru: Создание клиентов (пользователей машин) без документов
       uk: Створення клієнтів (користувачів машин) без документів
     RightCustomer:
-      be: Клиент
       cs: Zákazník
       ka: მომხმარებელი
       en: Client
       ru: Клиент
       uk: Клієнт
     RightDeleteBankCard:
-      be: Удалять карты
       cs: Oprávnění odstraňovat karty
       ka: საბანკო ბარათების წაშლა
       en: Delete bank cards
       ru: Удалять карты
       uk: Удалять карты
     RightDeleteCarDefects:
-      be: Удаление фото дефекта
       cs: Oprávnění k odstranění fotografie poškození
       ka: ავტომობილის დეფექტის სურათის წაშლა
       en: Delete Cars Defects
       ru: Удаление фото дефекта
       uk: Видалення фото дефекту
     RightDeleteCars:
-      be: Удаление автомобилей
       cs: Odstranit vozidla
       ka: ავტომობილების წაშლა
       en: Delete vehicles
       ru: Удаление автомобилей
       uk: Видалення автомобілів
     RightDeleteCarsModels:
-      be: Удалять модели автомобилей
       cs: Odstranit modely vozidel
       ka: მანქანების მოდელების წაშლა
       en: Delete car model
       ru: Удалять модели автомобилей
       uk: Видаляти моделі автомобілів
     RightDeleteCustomers:
-      be: Удалять клиентов
       cs: Odstranit zákazníky
       ka: მომხმარებელთა წაშლა
       en: Delete clients
       ru: Удалять клиентов
       uk: Видаляти клієнтів
     RightDeleteCustomersDocuments:
-      be: Удаление сканов документов клиентов
       cs: Odstranit skeny dokumentů zákazníků
       ka: მომხმარებელთა დოკუმენტების დასკანირებული ვერსიების წაშლა
       en: Deleting scans of documents of customers
@@ -5301,159 +4849,135 @@ Sections:
       en: Delete fueling network
       ru: Удаление сети заправок
     RightDeleteInspectImages:
-      be: Удалять фотографии с осмотрами автомобилей
       cs: mazání fotografií obsahující prohlídky vozidel
       ka: მანქანის დათვალიერების დროს გადაღებული სურათების წაშლა
       en: Delete inspect images
       ru: Удалять фотографии с осмотрами автомобилей
       uk: Видаляти фотографії з оглядами автомобілів
     RightDeleteOrganizationCustomers:
-      be: Удалять сотрудников корпоративных клиентов
       cs: Vymazat člena organizace
       en: Delete corporate clients
       ru: Удалять сотрудников корпоративных клиентов
     RightDeleteUnfinishedRegistrations:
-      be: Удаление незавершённых регистраций клиентов
       cs: Oprávnění k výmazu nedokončených registrací uživatelů
       ka: დაუსრულებული რეგისტრაციების წაშლა
       en: Delete unfinished registrations
       ru: Удаление незавершённых регистраций клиентов
     RightEditAdvertisment:
-      be: Редактирование рекламных кампаний
       cs: Editovat reklamní kampaně
       ka: სარეკლამო კამპანიის რედაქტირება
       en: Editing marketing campaigns
       ru: Редактирование рекламных кампаний
     RightEditBankCard:
-      be: Детально смотреть/редактировать карты
       cs: Oprávnění podrobně nahlížet do/editovat karty
       ka: საბანკო ბარათების მონაცემების რედაქტირება
       en: Edit bank cards
       ru: Детально смотреть/редактировать карты
       uk: Детально смотреть / редактировать карты
     RightEditCarDefects:
-      be: Edit Car Defect
       cs: Editovat poškození vozidel
       ka: ავტომანქანის დეფექტების რედაქტირება
       en: Edit car defects
       ru: Edit Car Defect
       uk: Edit Car Defect
     RightEditCarDefectTypes:
-      be: Редактирование типов дефектов
       cs: Oprávnění k editaci typu poškození vozidla
       ka: მანქანის დეფექტის ტიპების რედაქტირება
       en: Edit CarDefectTypes
       ru: Редактирование типов дефектов
       uk: Редагування типів дефектів
     RightEditCarsModels:
-      be: Редактировать модели автомобилей
       cs: Editovat modely vozidel
       ka: ავტომანქანების მოდელების რედაქტირება
       en: Edit model of the car
       ru: Редактировать модели автомобилей
       uk: Редагувати моделі автомобілів
     RightEditCarTasks:
-      be: Редактировать задачи по машинам
       cs: Editovat úkoly k vozidlům
       ka: მანქანის დავალებთა სახეობების რედაქტირება
       en: Edit Car Tasks
       ru: Редактировать задачи по машинам
       uk: Редагувати завдання по машинах
     RightEditCarTaskTypes:
-      be: Редактирование типов задач по машинам
       cs: Editace druhů úkolů k vozidlům
       ka: მანქანის დავალებათა ტიპების რედაქტირება
       en: Edit Car Task Types
       ru: Редактирование типов задач по машинам
       uk: Редагування типів завдань по машинам
     RightEditMarkers:
-      be: Редактирование маркеров
       cs: Editovat markery
       ka: მარკერების რედაქტირება
       en: Edit markers
       ru: Редактирование маркеров
       uk: Редагування маркерів
     RightEditOrganizationCustomers:
-      be: Добавлять сотрудников корпоративных клиентов
       cs: Přidat člena organizace
       en: Edit corporate clients
       ru: Добавлять сотрудников корпоративных клиентов
     RightEditOrganizations:
-      be: Изменение организаций
       cs: Editovat skupity
       ka: ორგანიზაციების შეცვლა
       en: Change organizations
       ru: Изменение организаций
       uk: Зміна організацій
     RightEditRates:
-      be: Изменение тарифов
       cs: Editovat tarify
       ka: ტარიფების შეცვლა
       en: Edit tariffs
       ru: Изменение тарифов
       uk: Зміна тарифів
     RightEditRatesMultipliers:
-      be: Редактирование тарифных опций
       cs: editace tarifních možností
       ka: სატარიფო პარამეტრების რედაქტირება
       en: Edit rates multipliers
       ru: Редактирование тарифных опций
       uk: Редагування тарифних опцій
     RightEditRefueling:
-      be: Редактирование заправок
       cs: Editovat čerpací stanice
       ka: გასამართი სადგურების რედაქტირება
       en: Edit fuel
       ru: Редактирование заправок
       uk: Редагування заправок
     RightEditReserves:
-      be: Редактирование броней
       cs: Editovat rezervace
       ka: ჯავშნების რედაქტირება
       en: Edit reservations
       ru: Редактирование броней
       uk: Редагування броні
     RightEditTags:
-      be: Редактирование тегов
       cs: Editovat tagy
       ka: ტაგების რედაქტირება
       en: Edit tags
       ru: Редактирование тегов
       uk: Редагування тегів
     RightEditZones:
-      be: Редактирование зон
       cs: Editovat oblasti (zóny)
       ka: ზონების რედაქტირება
       en: editing zones
       ru: Редактирование зон
       uk: Редагування зон
     RightExportToXlsxCustomersList:
-      be: Выгружать список клиентов в Xlsx
       cs: Oprávnění exportovat seznam zákazníků do Xlsx
       ka: კლიენტთა სიის ექსპორტი Xlsx- ზე
       en: Export customers list to xls
       ru: Выгружать список клиентов в Xlsx
     RightExportToXlsxOrdersList:
-      be: Выгружать список заказов в Xlsx
       cs: exportovat seznam objednávek do Xlsx
       ka: შეკვეთების ექსპორტი Xlsx- ის ფორმატში
       en: Export orders list to xlsx
       ru: Выгружать список заказов в Xlsx
       uk: Вивантажувати список замовлень в Xlsx
     RightGenerateReports:
-      be: Формирование отчетов
       cs: Vytvoření zpráv
       ka: ანგარიშების გენერირება
       en: Generate reports
       ru: Формирование отчетов
     RightGenerateWayBills:
-      be: Генерация путевых листов
       cs: Vytvoření cestovních příkazů
       ka: სამგზავრო ქვითარის გენერირება
       en: Generate waybills
       ru: Генерация путевых листов
     RightImmobilizeCars:
-      be: Блокировать автомобили
       cs: Blokovat vozidla
       ka: ავტომანქანების დაბლოკვა
       en: block cars
@@ -5463,81 +4987,69 @@ Sections:
       en: Managing corporate organizations
       ru: Управление корпоративными организациями
     RightManageLocks:
-      be: Просмотр блокировок
       cs: Prohlížet blokace
       ka: დაბლოკვების ნახვა
       en: View locks
       ru: Просмотр блокировок
     RightManageSettings:
-      be: Просмотр настроек
       cs: Prohlížení nastavení
       ka: პარამეტრების ნახვა
       en: View settings
       ru: Просмотр настроек
     RightMobilizeCars:
-      be: Разблокировать автомобили
       cs: odblokovávat vozidla
       ka: ავტომანქანების განბლოკვა
       en: unlock cars
       ru: Разблокировать автомобили
       uk: Розблокувати автомобілі
     RightOpenAndCloseCars:
-      be: Открывать и закрывать автомобили
       cs: zamýkat a odemýkat vozidla
       ka: ავტომანქანათა გაღება და დაკეტვა
       en: Open and close the car
       ru: Открывать и закрывать автомобили
       uk: Відкривати і закривати автомобілі
     RightOperateInspectImages:
-      be: Манипуляции с фотографиями осмотров автомобилей
       cs: editace fotografií obsahující prohlídky vozidel
       ka: მანქანის დათვალიერების დროს გადაღებული სურათების ცვლილება
       en: Inspect images operation
       ru: Манипуляции с фотографиями осмотров автомобилей
       uk: Маніпуляції з фотографіями оглядів автомобілів
     RightProcessCarPenalties:
-      be: Обработка автомобильных штрафов
       cs: zpracování pokud za porušení silničních předpisů
       ka: ავტომანქანების ჯარიმების დამუშავება
       en: Processing of car fines
       ru: Обработка автомобильных штрафов
     RightPromoteCustomersToOperators:
-      be: Перевод клиентов в категрию операторов и обратно
       cs: přesun zákazníků do kategorie a zpět
       ka: მომხმარებელთა ოპერატორების კატეგორიაში გადაყვანა და პირიქით
       en: Promote customers to operators and vice versa
       ru: Перевод клиентов в категрию операторов и обратно
       uk: Переклад клієнтів в категорію операторів і назад
     RightRebootCar:
-      be: Перезагружать оборудование автомобиля
       cs: Resetovat zařízení vozidla
       ka: მანქანის აღჭურვილობის გადატვირთვა
       en: Reboot car hardware
       ru: Перезагружать оборудование автомобиля
       uk: Перезавантажити обладнання автомобіля
     RightReconfigureCar:
-      be: Переконфигурирование настроек автомобиля
       cs: Změny nastavení vozidla
       ka: მანქანის კონფიგურაციის პარამეტრების  შეცვლა.
       en: Reconfigure car settings
       ru: Переконфигурирование настроек автомобиля
       uk: Переконфігурувати налаштування автомобіля
     RightRefundPayments:
-      be: Осуществлять возврат платежей
       cs: Vracet platby
       ka: თანხის დაბრუნების განხორციელება
       en: Implement refunds
       ru: Осуществлять возврат платежей
       uk: Здійснювати повернення платежів
     RightRepairCar:
-      be: Исправлять дефекты автомобиля
       cs: opravovat poškození vozidel
       ka: მანქანის დეფექტების შესწორება
       en: Correct vehicle defects
       ru: Исправлять дефекты автомобиля
       uk: Виправляти дефекти автомобіля
     RightRestoreBankCard:
-      be: Восстанавливать карты
       cs: Oprávnění k obnovení karet
       ka: საბანკო ბარათების აღდგენა
       en: Restore bank cards
@@ -5549,165 +5061,141 @@ Sections:
       en: Authorization
       ru: Права
     RightsBankCards:
-      be: Банковские карты
       cs: Platební karty
       ka: საბანკო ბარათები
       en: Bank cards
       ru: Банковские карты
       uk: Банковские карты
     RightsCarDefects:
-      be: Права по дефектам автомобиля
       cs: Oprávnění k poškozením vozidel
       ka: უფლებები მანქანის ხარვეზებზე.
       en: Rights Car Defects
       ru: Права по дефектам автомобиля
       uk: Права за дефектами автомобіля
     RightsCarTasks:
-      be: Права по задачам автомобилей
       cs: Oprávnění k úkolům ohledně vozidel
       ka: უფლებები მანქანის დავალებებზე.
       en: Authorization Car Tasks
       ru: Права по задачам автомобилей
       uk: Права за завданнями автомобілів
     RightsCustomerBilling:
-      be: Управление счётом клиента
       cs: spravovat zákaznický účet
       ka: მომხმარებლის ანგარიშის მართვა
       en: Manage customer account
       ru: Управление счётом клиента
       uk: Управління рахунком клієнта
     RightsDictionary:
-      be: Справочники
       cs: Seznamy oprávnění
       ka: ცნობარები
       en: References
       ru: Справочники
       uk: Довідники
     RightsGroupCars:
-      be: Автомобили
       cs: vozidla
       ka: ავტომობილები
       en: Cars
       ru: Автомобили
       uk: Автомобілі
     RightsGroupCustomersManagement:
-      be: Управление клиентами
       cs: správa zákazníků
       ka: მომხმარებელთა მართვა
       en: Customer management
       ru: Управление клиентами
       uk: Управління клієнтами
     RightsGroupMarkers:
-      be: Маркеры
       cs: markery
       ka: მარკერები
       en: markers
       ru: Маркеры
       uk: Маркери
     RightsGroupNotifications:
-      be: Уведомления
       cs: oznámení
       ka: შენიშვნა
       en: notice
       ru: Уведомления
       uk: Повідомлення
     RightsGroupPayments:
-      be: Платежи
       cs: platby
       ka: გადახდები
       en: payments
       ru: Платежи
       uk: Платежі
     RightsGroupRefueling:
-      be: Заправки
       cs: Natankovat
       ka: გასამართი სადგურები
       en: refueling
       ru: Заправки
       uk: Заправки
     RightsGroupReserves:
-      be: Бронирование автомобилей
       cs: rezervování vozidel
       ka: ავტომობილების დაჯავშნა
       en: Car booking
       ru: Бронирование автомобилей
       uk: Бронювання автомобілів
     RightsGroupSystem:
-      be: Системные права
       cs: systémová práva
       ka: სისტემის უფლებები
       en: system rights
       ru: Системные права
       uk: Системні права
     RightsGroupVouchers:
-      be: Ваучеры
       cs: poukázky
       ka: ვაუჩერები
       en: vouchers
       ru: Ваучеры
       uk: Ваучери
     RightsMarketing:
-      be: Маркетинг
       cs: marketing
       ka: მარკეტინგი
       en: marketing
       ru: Маркетинг
     RightsOrders:
-      be: Заказы
       cs: objednávky
       ka: შეკვეთები
       en: orders
       ru: Заказы
       uk: Замовлення
     RightsOrganizations:
-      be: Управление организациями
       cs: správa skupin
       ka: ორგანიზაციების მართვა
       en: management of organizations
       ru: Управление организациями
       uk: Управління організаціями
     RightsPenalties:
-      be: Штрафы
       cs: Pokuty
       ka: ჯარიმები
       en: Penalties
       ru: Штрафы
     RightsRates:
-      be: Управление тарифами
       cs: správa tarifů
       ka: ტარიფების მართვა
       en: Rate management
       ru: Управление тарифами
       uk: Управління тарифами
     RightsRatesMultipliers:
-      be: Тарифные опции
       cs: tarifní možnosti
       ka: სატარიფო პარამეტრები
       en: Rates multipliers
       ru: Тарифные опции
       uk: Тарифні опції
     RightsStatistics:
-      be: Статистика
       cs: Statistika
       ka: სტატისტიკა
       en: Statistics
       ru: Статистика
     RightStartAndStopEngine:
-      be: Запуск и остановка двигателя
       cs: startování a vypnutí motoru
       ka: ძრავის ჩართვა და გათიშვა
       en: Start and Stop engine
       ru: Запуск и остановка двигателя
       uk: Запуск і зупинка двигуна
     RightsZones:
-      be: Управление зонами
       cs: správa oblastí (zón)
       ka: ზონების მართვა
       en: zone management
       ru: Управление зонами
       uk: Управління зонами
     RightUploadCustomersDocuments:
-      be: Загрузка сканов документов клиентов
       cs: odeslání skenů dokumentů
       ka: კლიენტთა დოკუმენტების დასკანირებული ვერსიების ატვირთვა
       en: Download scan of  customers' documents
@@ -5724,159 +5212,136 @@ Sections:
       en: Create, edit and remove users
       ru: Создание, редактирование и удаление пользователей
     RightViewAdvertisment:
-      be: Просмотр рекламных кампаний
       cs: prohlížení reklamních kampaní
       ka: სარეკლამო კამპანიების ნახვა
       en: Browse campaigns
       ru: Просмотр рекламных кампаний
     RightViewBankCard:
-      be: 'Смотреть карты '
       cs: Oprávnění nahlížet do karet
       ka: საბანკო ბარათების ნახვა
       en: View bank cards
       ru: 'Смотреть карты '
       uk: Смотреть карты
     RightViewBankCards:
-      be: Просмотр данных банковских карт
       cs: prohlížení údajů platebních karet
       ka: საბანკო ბარათის მონაცემების ნახვა
       en: Browse bank card data
       ru: Просмотр данных банковских карт
       uk: Перегляд даних банківських карт
     RightViewBonuses:
-      be: Просмотр бонусов
       cs: Prohlížení bonusů
       ka: ბონუსების ნახვა
       en: Browse bonuses
       ru: Просмотр бонусов
       uk: Перегляд бонусів
     RightViewCarDefects:
-      be: View Car Defect
       cs: prohlížení poškození vozidel
       ka: ავტომანქანის დეფექტების ნახვა
       en: Browse cars defects
       ru: View Car Defect
       uk: View Car Defect
     RightViewCarDefectTypes:
-      be: View Car Defect Type
       cs: prohlížení typů poškození vozidel
       ka: ავტომანქანის დეფექტების სახეობების ნახვა
       en: Browse the types of defects
       ru: View Car Defect Type
       uk: View Car Defect Type
     RightViewCarPenalties:
-      be: Просмотр автомобильных штрафов
       cs: prohlížení pokud za porušení siničních předpisů
       ka: ავტომანქანის ჯარიმების ნახვა
       en: Browse car fines
       ru: Просмотр автомобильных штрафов
     RightViewCars:
-      be: Просмотр автомобилей
       cs: prohlížení vozidel
       ka: ავტომანქანის ნახვა
       en: Browse Car
       ru: Просмотр автомобилей
       uk: Перегляд автомобілів
     RightViewCarsInAnyOrganization:
-      be: Доступ ко всем организациям
       cs: Přístup ke všem organizacím
       ka: ყველა ორგანიზაციის ხელმისაწვდომობა.
       en: Access to all organizations
       ru: Доступ ко всем организациям
       uk: Доступ до всіх організацій
     RightViewCarsModels:
-      be: Просматривать модели автомобилей
       cs: prohlížení modelů vozidel
       ka: ავტომანქანების მოდელების ნახვა
       en: Browse model cars
       ru: Просматривать модели автомобилей
       uk: Переглядати моделі автомобілів
     RightViewCarTaskComments:
-      be: Просматривать комментарии к задачам
       cs: prohlížení poznámek k úkolům
       ka: დავალებათა კომენტარების ნახვა
       en: Browse comments to tasks
       ru: Просматривать комментарии к задачам
       uk: Переглядати коментарі до завдань
     RightViewCarTasks:
-      be: Просматривать задачи по машинам
       cs: Prohlížení úkolů k vozidlům
       ka: მანქანის დავალებების ნახვა
       en: View Car Tasks
       ru: Просматривать задачи по машинам
       uk: Переглядати завдання по машинах
     RightViewCarTasksAll:
-      be: Просмотр всех задач
       cs: Oprávnění k prohlížení všech úkolů
       ka: ყველა ავტომობილის დავალების ნახვა
       en: View Car Tasks All
       ru: Просмотр всех задач
       uk: Перегляд всіх завдань
     RightViewCarTasksAssigned:
-      be: Просмотр назначенных задач
       cs: Oprávnění k prohlížení nezadaných úkolů
       ka: დანიშნული დავალებების ნახვა
       en: View Car Tasks Assigned
       ru: Просмотр назначенных задач
       uk: Перегляд призначених завдань
     RightViewCarTasksCanceled:
-      be: Просмотр отмененных задач
       cs: Oprávnění k prohlížení zrušených úkolů
       ka: გაუქმებული დავალებების ნახვა
       en: View Car Tasks Canceled
       ru: Просмотр отмененных задач
       uk: Перегляд скасованих завдань
     RightViewCarTasksDefectCars:
-      be: Просмотр машин с дефектами в Задачах
       cs: Oprávnění k prohlížení vozidel s poškozeními v Úkolech
       ka: ხარვეზიანი მანქანების ნახვა დავალებებში
       en: View Car Tasks DefectCars
       ru: Просмотр машин с дефектами в Задачах
       uk: Перегляд машин з дефектами в завданнях
     RightViewCarTasksDeffered:
-      be: Просмотр отложенных задач
       cs: Prohlížení odložených úkolů
       ka: გადადებული დავალებების ნახვა
       en: View Car Tasks Deffered
       ru: Просмотр отложенных задач
       uk: Перегляд відкладених завдань
     RightViewCarTasksDone:
-      be: Просмотр выполненных задач
       cs: Prohlížení splněných úkolů
       ka: დასრულებული დავალებების ნახვა
       en: View Car Tasks Done
       ru: Просмотр выполненных задач
       uk: Перегляд виконаних завдань
     RightViewCarTasksNotAssigned:
-      be: Просмотр неприсвоенных задач
       cs: Prohlížení nepřiřazených úkolů
       ka: დაუნიშნავი დავალებების ნახვა
       en: View Car Tasks NotAssigned
       ru: Просмотр неприсвоенных задач
       uk: Перегляд неприсвоєнних завдань
     RightViewCarTaskTypes:
-      be: Просмотр типов задач по машинам
       cs: Prohlížení druhů úkolů k vozidlům
       ka: მანქანის დავალებათა სახეობების ნახვა
       en: View Car Task Types
       ru: Просмотр типов задач по машинам
       uk: Перегляд типів завдань по машинам
     RightViewChangesLog:
-      be: Просмотр лога изменений
       cs: prohlížení loga změn
       ka: ცვლილებების ჟურნალის ნახვა
       en: Browse the change log
       ru: Просмотр лога изменений
       uk: Перегляд лога змін
     RightViewCustomersDocuments:
-      be: Просмотр сканов документов клиентов
       cs: prohlížení skenů dokumentů zákazníků
       ka: მომხმარებელთა დოკუმენტების დასკანირებული ვერსიების ნახვა
       en: Browse customer scans documents
       ru: Просмотр сканов документов клиентов
       uk: Перегляд сканів документів клієнтів
     RightViewCustomersList:
-      be: Просмотр списка клиентов
       cs: prohlížení seznamu zákazníků
       ka: მომხმარებელთა ჩამონათვალის ნახვა
       en: Browse a list of clients
@@ -5895,141 +5360,120 @@ Sections:
       en: View fueling networks
       ru: Просмотр сетей заправок
     RightViewHeatMap:
-      be: Просмотр тепловой карты
       cs: prohlížení teplotní karty
       ka: ტემპერატურული რუკის გახსნა
       en: View heat map
       ru: Просмотр тепловой карты
     RightViewInspectImages:
-      be: Просмотр фотографий с осмотрами автомобилей
       cs: prohlížení fotografií obsahující prohlídky vozidel
       ka: მანქანის დათვალიერების დროს გადაღებული სურათების ნახვა
       en: View inspect images
       ru: Просмотр фотографий с осмотрами автомобилей
       uk: Перегляд фотографій з оглядами автомобілів
     RightViewMarkers:
-      be: Просмотр маркеров
       cs: prohlížení markerů
       ka: მარკერების ნახვა
       en: Browse marker
       ru: Просмотр маркеров
       uk: Перегляд маркерів
     RightViewOrders:
-      be: Просмотр заказов
       cs: prohlížení objednávek
       ka: შეკვეთების ნახვა
       en: Browse orders
       ru: Просмотр заказов
       uk: Перегляд замовлень
     RightViewOrganizationCustomers:
-      be: Просматривать сотрудников корпоративных клиентов
       cs: Zobrazit člena organizace
       en: View corporate clients
       ru: Просматривать сотрудников корпоративных клиентов
     RightViewOrganizations:
-      be: Просмотр организаций
       cs: prohlížení skupin
       ka: ორგანიზაციების ნახვა
       en: Browse organizations
       ru: Просмотр организаций
       uk: Перегляд організацій
     RightViewPayments:
-      be: Просмотр платежей
       cs: prohlížení plateb
       ka: გადახდების ნახვა
       en: Browse payments
       ru: Просмотр платежей
       uk: Перегляд платежів
     RightViewPenalties:
-      be: Просмотр штрафов
       cs: prohlížení pokut
       ka: ჯარიმების ნახვა
       en: Browse fines
       ru: Просмотр штрафов
       uk: Перегляд штрафів
     RightViewRates:
-      be: Просмотр тарифов
       cs: prohlížení tarifů
       ka: ტარიფების ნახვა
       en: Browse rates
       ru: Просмотр тарифов
       uk: Перегляд тарифів
     RightViewRatesMultipliers:
-      be: Просмотр тарифных опций
       cs: prohlížení tarifních opcí
       ka: სატარიფო  პარამეტრების ნახვა
       en: View rates multipliers
       ru: Просмотр тарифных опций
       uk: Перегляд тарифних опцій
     RightViewRefueling:
-      be: Просмотр заправок
       cs: prohlížení tankování
       ka: გასამართი სადგურების ნახვა
       en: Browse refuels
       ru: Просмотр заправок
       uk: Перегляд заправок
     RightViewReports:
-      be: Просмотр отчетов
       cs: Prohlížení zpráv
       ka: ანგარიშების ნახვა
       en: View reports
       ru: Просмотр отчетов
     RightViewReserves:
-      be: Просмотр броней
       cs: prohlížení rezervací
       ka: ჯავშნების ნახვა
       en: Browse reserves
       ru: Просмотр броней
       uk: Перегляд броні
     RightViewStatistics:
-      be: Просмотр статистики
       cs: Oprávnění prohlížet statistiku
       ka: სტატისტიკის ნახვა
       en: View statistics
       ru: Просмотр статистики
     RightViewSystemLog:
-      be: Просмотр системного лога
       cs: prohlížení systémového loga
       ka: სისტემის ლოგის ნახვა
       en: Browse the system log
       ru: Просмотр системного лога
       uk: Перегляд системного логу
     RightViewTickets:
-      be: Просматривать абонементы
       cs: Oprávnění prohlížet předplatné
       ka: ავტომობილის აბონემენტის ნახვა
       en: View CarPackages
       ru: Просматривать абонементы
       uk: Просматривать абонементы
     RightViewUnfinishedRegistrationsList:
-      be: Просмотр незавершённых регистраций клиентов
       cs: Oprávnění k prohlížení nedokončených registrací uživatelů
       ka: დაუსრულებელი რეგისტრაციის სიის ნახვა
       en: View clients with pending registration
       ru: Просмотр незавершённых регистраций клиентов
     RightViewVouchers:
-      be: Просмотр списка ваучеров
       cs: prohlížení seznamu poukázek
       ka: ვაუჩერების ჩამონათვალის ნახვა
       en: Browse vouchers List
       ru: Просмотр списка ваучеров
       uk: Перегляд списку ваучерів
     RightViewWaypoints:
-      be: Просмотр маршрутов
       cs: prohlížení tras
       ka: მარშრუტების დათვალიერება
       en: Browse routes
       ru: Просмотр маршрутов
       uk: Перегляд маршрутів
     RightViewZones:
-      be: Просмотр зон
       cs: prohlížení oblastí (zón)
       ka: ზონების დათვალიერება
       en: Browse zones
       ru: Просмотр зон
       uk: Перегляд зон
     RightWorkWithYouTell:
-      be: Работа с чатом YouTell. Ведение переписки с клиентами
       cs: práce s chatem YouTell. Vedení konverzace se zákazníky
       ka: YouTell-ის ჩატით მუშაობა. მომხმარებლებთან მიმოწერა
       en: Work with chat YouTell. Chating with clients
@@ -6041,14 +5485,12 @@ Sections:
       ru: руб.
       uk: руб.
     Run:
-      be: Пробег
       cs: Počet ujetých kilometrů
       ka: გარბენი
       en: Mileage
       ru: Пробег
       uk: Пробіг
     RunIncluded:
-      be: Включённый пробег
       cs: včetně počtu ujetých kilomentrů
       ka: ჩათვლილი გარბენი
       en: included mileage
@@ -6061,13 +5503,11 @@ Sections:
       ru: Сб
       uk: Сб
     SatelitesCountThresholdSettingDescription:
-      be: Минимальное количество доступных спутников
       cs: minimální počet dostupných satelitů
       ka: ხელმისაწვდომი სატელიტების მინ.რაოდენობა
       en: Could not complete the action - no satellites available
       ru: Минимальное количество доступных спутников
     ScanSizeMustNotBeLargerThan:
-      be: Размер изображений не должен превышать {0} Мб
       cs: Velikost souboru nesmí přesáhnout {0} Mb
       ka: გამოსახულების ზომა არ უნდა აღემატებოდეს {0} MB - ს
       en: image size must not exceed Mb {0}
@@ -6080,7 +5520,6 @@ Sections:
       en: Seats number
       ru: Количество посадочных мест
     SecondsShort:
-      be: сек.
       cs: sec.
       ka: წმ.
       en: sec
@@ -6089,74 +5528,63 @@ Sections:
       en: Send notification to user
       ru: Отправка уведомлений пользователю
     SendReceiptEnumFailedException:
-      be: Произошёл непредвиденный сбой
       cs: Došlo k neočekávané chybě
       ka: მოხდა გაუთვალისწინებელი შეცდომა
       en: An unexpected error occurred
       ru: Произошёл непредвиденный сбой
       uk: Відбувся непередбачений збій
     SendReceiptEnumFailedNoOrderPositions:
-      be: Чек не отправлен - не указаны товарные позиции
       cs: Účtenka nebyla vyhotovena - nebyly uvedeny položky
       ka: ქვითარი არ გამოიგზავნა - ბრძანება არ არის მითითებული
       en: Receipt has not been sent - no items listed
       ru: Чек не отправлен - не указаны товарные позиции
       uk: Чек не відправлено - не вказані товарні позиції
     SendReceiptEnumFailedResponseUnsuccessful:
-      be: Чек не отправлен. Онлайн-касса сообщила об ошибке
       cs: Účtenka nebyla odeslána. On-line pokladna reportovala chybu.
       ka: 'ქვითარი არ გამოიგზავნა.ონლაინ სალაროზე დაფიქსირდა შეცდომა. '
       en: Receipt has not been sent. Receipt returned error
       ru: Чек не отправлен. Онлайн-касса сообщила об ошибке
       uk: Чек не відправлено. Онлайн-каса повідомила про помилку
     SendReceiptEnumFailedUserNotFound:
-      be: Ваша учётная запись не найдена в системе
       cs: Váš uživatelský účet nebyl nalezen
       ka: თქვენი ანგარიში ვერ მოიძებნა სისტემაში.
       en: Your account has not been found in the system
       ru: Ваша учётная запись не найдена в системе
       uk: Ваш обліковий запис не знайдено в системі
     SendReceiptEnumSuccess:
-      be: Чек отправлен
       cs: Účtenka odeslána
       ka: ქვითარი გაგზავნილია
       en: Receipt  has been sent
       ru: Чек отправлен
       uk: Чек відправлений
     SignupBonus:
-      be: Бонус при регистрации
       cs: Bonus při registraci
       ka: ბონუსი რეგისტრაციების დასრულებისთვის
       en: Bonus for registration
       ru: Бонус при регистрации
       uk: Бонус при реєстрації
     SignupBonusInKopsSettingDescription:
-      be: Бонус за регистрацию, в копейках
       cs: Bonusové body za registraci v haléřích
       ka: ბონუსი რეგისტრაციის გავლისთვის, თეთრებში
       en: Sign up bonus, in penny
       ru: Бонус за регистрацию, в копейках
     SignupEmailSubject:
-      be: Вы зарегистрировались в сервисе {0}
       cs: Přihlásili jste se k naší službě {0}
       ka: თქვენ დარეგისტრირდით {0}- სერვისში
       en: You signed up for {0}
       ru: Вы зарегистрировались в сервисе {0}
       uk: Ви зареєструвалися в сервісі {0}
     SmsAuthCodeLifetimeDescription:
-      be: Время жизни кода смс авторизации
       cs: Čas platnosti kódu pro sms přihlášení
       ka: ავტორიზაციის SMS კოდის მოქმედების ვადა
       en: Lifetime SMS authorization code
       ru: Время жизни кода смс авторизации
     SmsAuthCodeSubsequentCreationDelayDescription:
-      be: Сколько времени пользователю ждать до того, как он сможет повторно сгенерировать код смс авторизации
       cs: Čekací doba pro opakované vygenerování kódu pro sms přihlášení
       ka: რამდენი ხანი უნდა იცადოს მომხმარებელმა, სანამ ავტორიზაციის SMS კოდის ხელახლა გენერირებას შეძლებს
       en: How long the user shall wait before he can re-generate SMS authorization code
       ru: Сколько времени пользователю ждать до того, как он сможет повторно сгенерировать код смс авторизации
     SmsAuthenticationCodeMessage:
-      be: Код авторизации {0}
       cs: přihlašovací kód {0}
       ka: ავტორიზაციის კოდი {0}
       en: Authorization code {0}
@@ -6168,14 +5596,12 @@ Sections:
       en: Sms Bonuses Given
       uk: '{0}, Вам нараховано {1} бонусів. Вдалих поїздок!'
     SmsCarIsBooked:
-      be: '{0} {1} забронирован.'
       cs: '{0} {1} rezervováno.'
       ka: '{0} {1} დაჯავშნილია.'
       en: '{0} {1} is booked now'
       ru: '{0} {1} забронирован.'
       uk: '{0} {1} заброньовано.'
     SmsCarTicketIsOver:
-      be: Абонемент закончился, поездка тарифицируется поминутно.
       cs: Předplatné ukončeno, jízda je dále účtována po minutách.
       ka: მანქანის აბონემენტი დასრულდა. შეკვეთა გადადის წუთობრივ ტარიფზე
       en: The purchased package is over. Your rent is switched to per minute rate
@@ -6187,75 +5613,64 @@ Sections:
       en: SMS activation code was sent
       ru: Был выслан код активации
     SmsOrderNowOnParkRate:
-      be: Бронь {0} {1} переведена на тариф {2} {3}/мин.
       cs: Rezervace {0} {1} změněna na tarif {2} {3}/min.
       ka: ჯავშანი {0} {1} გადატანილია {2} {3}/წთ. ტარიფზე
       en: The booking {0} {1} is switched to the rate {2} {3}/min
       ru: Бронь {0} {1} переведена на тариф {2} {3}/мин.
       uk: Бронь {0} {1} переведена на тариф {2} {3} / хв.
     SmsOutOfDriveZone:
-      be: Вы вне зоны Услуги. Позвоните {phoneNumber}.
       cs: Jste mimo zóny pro využití služeb Prosím, zavolejte na {phoneNumber}.
       ka: თქვენ არ ხართ მომსახურების ზონაში. გთხოვთ, დარეკოთ {phoneNumber} ნომერზე.
       en: You are out of the Home Area. Please call {phoneNumber}.
       ru: Вы вне зоны Услуги. Позвоните {phoneNumber}.
       uk: Ви поза зоною Послуги. Зателефонуйте {phoneNumber}.
     SmsRentZoneEnd:
-      be: '{0} завершена в {1}'
       cs: '{0} ukončena v {1}'
       ka: '{0} დამთავრდა  {1}-ში.'
       en: '{0} ended at {1}'
       ru: '{0} завершена в {1}'
       uk: '{0} завершена в {1}'
     SmsTheCarIsDelivered:
-      be: '{1} {2} доставлен на {3}'
       cs: '{1} {2} předáno na {3}'
       ka: '{1} {2} მიღებულია {3}'
       en: '{1} {2} is delivered to {3}'
       ru: '{1} {2} доставлен на {3}'
       uk: '{1} {2} доставлений на {3}'
     SmsUserValidatedBySecurity:
-      be: '{companyName}:Мы одобрили Ваш аккаунт!Промо-код другу:{promoCode}'
       cs: '{název společnosti}:Schválili jsme Váš uživatelský účet! Promo kód příteli:{promokód}'
       ka: '{კომპანიის სახელი}: თქვენი ანგარიში გააქტიურებულია! პრომო-კოდი მეგობრებისთვის: {პრომო კოდექსი}'
       en: '{companyName}:Your account has been approved! Invite code for friends:{promoCode}'
       ru: '{companyName}:Мы одобрили Ваш аккаунт!Промо-код другу:{promoCode}'
       uk: '{CompanyName}: Ми схвалили Ваш аккаунт! Промо-код для друга: {promoCode}'
     SpeedingAlarmMessage:
-      be: 'Скорость: {speed} км/ч. Координаты: {coords}. Зоны: {zones}'
       cs: 'Rychlost: {speed} km/hod. Souřadnice: {coords}. Zóny: {zones}'
       ka: 'სიჩქარე: {speed} კმ/სთ. კოორდინატები: {coords}. ზონები: {zones}'
       en: 'Speed: {speed} km/h. Coordinates: {coords}. Zones: {zones}'
       ru: 'Скорость: {speed} км/ч. Координаты: {coords}. Зоны: {zones}'
     SpeedLimit:
-      be: Порог превышения скорости
       cs: Limit překročení rychlosti
       ka: სიჩქარის გადაჭარბების ნიშნული
       en: Speed limit
       ru: Порог превышения скорости
       uk: Поріг перевищення швидкості
     SpeedLimitExceedWaypointsCountSettingDescription:
-      be: Количество зарегистрированных вейпоинтов для определения превышения скорости
       cs: Počet registrovaných bodů pro určení překročení rychlosti
       ka: 'სიჩქარის გადაჭარბების დასადგენად დარეგისტრირებული ნიშნულების რაოდენობა '
       en: Waypoints count to generate speed limit exceed alarm
       ru: Количество зарегистрированных вейпоинтов для определения превышения скорости
       uk: Кількість зареєстрованих вейпоінтов для визначення перевищення швидкості
     SpeedValueToClearAlarm:
-      be: Значение скорости для сброса тревоги о превышении
       cs: Ukazatel rychlosti pro zrušení upozornění na vysokou rychlost
       ka: სიჩქარის გადაჭარბების განგაშის გაუქმებისთვის საჭირო დასაშვები სიჩზარის ნიშნული
       en: Speed value to clear speed limit exceeded alarm
       ru: Значение скорости для сброса тревоги о превышении
     StaleCarAlarmDescription:
-      be: Автомобиль без движения более {0} часов
       cs: vozidlo je bez pohybu více než {0} hodin
       ka: მანქანა არ გადაადგილებულა {0} საათზე მეტია
       en: Vehicle without movement over {0} hours
       ru: Автомобиль без движения более {0} часов
       uk: Автомобіль без руху більш ніж {0} годин
     StartFuelingResultEnumSuccess:
-      be: Процесс заправки начат
       cs: Tankování zahájeno
       ka: დამუხტვის პროცესი დაწყებულია
       en: Fueling process has started
@@ -6281,14 +5696,12 @@ Sections:
       ru: Радар остановлен
       uk: Радар зупинений
     SumIsDiscounted:
-      be: 'Примечание: сумма уменьшена с учётом суточного лимита списания. Размер скидки: {0} {1}.'
       cs: 'Poznámka: částka snížena vzhledem k maximálnímu dennímu limitu pro stržení. Sleva: {0} {1}.'
       ka: 'გაითვალისწინეთ: ჯამური თანხა შემცირებულია ყოველდღიური ლიმიტის ჩამოწერის გათვალისწინებით. ფასდაკლება {0} {1}.'
       en: 'Please note: The total sum is discounted accordingly to the day limit of payments. The discount is {0} {1}'
       ru: 'Примечание: сумма уменьшена с учётом суточного лимита списания. Размер скидки: {0} {1}.'
       uk: 'Примітка: сума зменшена з урахуванням добового ліміту списання. Розмір знижки: {0} {1}.'
     SumOfOrderIsTooLarge:
-      be: Сумма списания превышает лимит и не будет списана с карты автоматически. Пожалуйста, свяжитесь с нашей службой поддержки.
       cs: Částka ke stržení překračuje limit a nemůže být stržena z platební karty automaticky. Prosím, obraťte se na naši zákaznickou službu.
       ka: თქვენი შეკვეთის თანხა აღემატება ლიმიტს. გთხოვთ დაუკავშირდეთ ჩვენს მხარდაჭერის ჯგუფს.
       en: The charged  amount exceeds the limit and will not be debited from the card automatically. Please contact our Customer Care Service
@@ -6300,38 +5713,32 @@ Sections:
       en: Surname
       ru: Фамилия
     SwitchedToDrive:
-      be: Начато использование
       cs: Uživání zahájeno.
       ka: გამოყენება დაწყებულია.
       en: Rent
       ru: Начато использование
       uk: Розпочато використання
     SwitchedToFreeBookingRate:
-      be: Бронь переведена на бесплатный тариф
       cs: Rezervace změněna na bezplatný tarif
       ka: ჯავშანი გადასულია უფასო ტარიფზე
       en: Your order has been switched to free booking rate
       ru: Бронь переведена на бесплатный тариф
     SwitchedToInspect:
-      be: Переведен в режим осмотра
       cs: Uvedeno do režimu prohlídky
       ka: გადავიდა დათვალიერების რეჟიმში.
       en: Inspection
       ru: Переведен в режим осмотра
     SwitchedToPaidBookingRate:
-      be: Бронь переведена на платный тариф
       cs: Rezervace změněna na placený tarif
       ka: ჯავშანი გადასულია ფასიან ტარიფზე
       en: Your order has been switched to paid booking rate
       ru: Бронь переведена на платный тариф
     SwitchedToPaidInspect:
-      be: Переключено в платный режим осмотра
       cs: Přepnuto do režimu placené prohlídky
       ka: გადავიდა ფასიანი დათვალიერების რეჟიმში
       en: Amount in inspection mode
       ru: Переключено в платный режим осмотра
     SwitchedToPark:
-      be: Парковка
       cs: Režim čekání
       ka: პარკირება
       en: Park
@@ -6353,7 +5760,6 @@ Sections:
       en: Multiplier id is empty
       ru: Идентификатор тарифной опции не может быть пустой
     SwitchRateMultiplierResultMultiplierNotFound:
-      be: Тарифная опция не найдена
       cs: Tarifní volba nenalezena
       ka: ტარიფი ვერ მოიძებნა
       en: Multiplier not found
@@ -6369,7 +5775,6 @@ Sections:
       en: Success
       ru: Успешно
     SwitchRateMultiplierResultUnknownError:
-      be: Неизвестная ошибка
       cs: Neznámá chyba
       ka: დაფიქსირდა შეცდომა
       en: Unknown error
@@ -6380,7 +5785,6 @@ Sections:
       en: Rate multiplier switching during the order is denied
       ru: Переключение тарифной опции во время заказа запрещено
     SwitchRateMultiplierResultUserNotFound:
-      be: Пользователь не найден
       cs: Uživatel nenalezen
       ka: მომხმარებელი ვერ მოიძებნა
       en: User not found
@@ -6405,7 +5809,6 @@ Sections:
       en: Tag deleted
       ru: Тэг удален
     Tags:
-      be: Тэги
       cs: Tagy
       ka: თეგები
       en: Tags
@@ -6420,14 +5823,12 @@ Sections:
       en: Start editing
       ru: Взять на редактирование
     TankCapacity:
-      be: Объём бака
       cs: objem nádrže
       ka: ელემენტის მოცულობა
       en: Volume of the tank
       ru: Объём бака
       uk: Обсяг бака
     TerminateOrdersWhichAreOverbookedSettingDescription:
-      be: Завершать бронирование автомобиля при превышении времени бесплатного бронирования
       cs: ukončit rezervaci vozidla při překročení počtu bezplatných rezrvací
       ka: ავტომანქანის ჯავნის გაუქმება, უფასო დაჯავშნისთვის განსაზღვრული დროის გადამეტების გამო
       en: Complete the booking of the car in excess of the free time of booking
@@ -6451,7 +5852,6 @@ Sections:
       ru: Эта машина в данный момент в аренде. Перед её удалением необходимо завершить аренду.
       uk: Ця машина в даний момент в оренді. Перед її видаленням необхідно завершити оренду.
     ThisCarHasReserveNow:
-      be: Эта машина не может быть доступна, т.к. на неё есть бронирование в классическом прокате
       cs: Toto vozidlo není dostupné z dlvodu existence rezervace běžného pronájmu.
       ka: ეს მანქანა არ არის ხელმისაწვდომი, რადგან იგი დაჯავშნილია კლასიკური ქირაობისთვის.
       en: This car can not be rented since it is booked
@@ -6474,145 +5874,123 @@ Sections:
       en: till
       ru: до
     ToHour:
-      be: До часа
       cs: do hodiny
       ka: საათამდე
       en: till (hours)
       ru: До часа
       uk: До години
     ToShortMobilePhoneNumber:
-      be: Номер мобильного телефона слишком короткий
       cs: číslo mobilního telefonu je příliš krátké
       ka: მობილური ტელეფონის ნომერი ძალიან მოკლეა
       en: mobile phone number is too short
       ru: Номер мобильного телефона слишком короткий
       uk: Номер мобільного телефону занадто короткий
     TotalBookingTime:
-      be: (Минуты) Общее время бронирования
       cs: (minuty) celkový čas rezervace
       ka: საერთო ჯავშნის დრო  (წუთი)
       en: Total booking time (minutes)
       ru: (Минуты) Общее время бронирования
     TotalOverrun:
-      be: Общий перепробег
       cs: Celkové překročení kilometrů
       ka: სულ გარბენი
       en: Total overmileage
       ru: Общий перепробег
     TotalParkingTime:
-      be: (Минуты) Общее время на парковке
       cs: (minuty) celkový čas parkování
       ka: სულ პარკირების დრო (წუთი)
       en: Total parking time (minutes)
       ru: (Минуты) Общее время на парковке
     TotalRidesCostMinuteRates:
-      be: (Минуты)Общая стоимость
       cs: (minuty) celková cena
       ka: სულ მგზავრობის ღირებულება (წუთი)
       en: Total rents cost (minutes)
       ru: (Минуты)Общая стоимость
     TotalRidesCostRatePack:
-      be: (Абонемент) Общая стоимость
       cs: (předplatné) celková cena
       ka: სულ ღირებულება (აბონემენტი)
       en: Total rents cost (packages)
       ru: (Абонемент) Общая стоимость
     TotalRidesMinutes:
-      be: (Минуты) Количество аренд
       cs: (minuty) počet pronájmů
       ka: სულ იჯარის რაოდენობა (წუთი)
       en: Total rents (minutes)
       ru: (Минуты) Количество аренд
     TotalRidesRatePack:
-      be: (Абонемент) Количество аренд
       cs: (předplatné) počet pronájmů
       ka: ქირაობის რაოდენობა (აბონემენტი)
       en: Total rents (packages)
       ru: (Абонемент) Количество аренд
     TotalUsageTime:
-      be: (Минуты) Общее время в использовании
       cs: (minuty) celkový čas užívání
       ka: სულ გამოყენების დრო (წუთი)
       en: Total usage time (minutes)
       ru: (Минуты) Общее время в использовании
     Tracker:
-      be: Трекер
       cs: Tracker
       ka: ტრეკერი
       en: tracker
       ru: Трекер
       uk: Трекер
     TrackerCut:
-      be: Отключено питание трекера
       cs: vypnutí napájení trackeru
       ka: კვების კვების სისტემის გამორთვა
       en: Trakers power is lost
       ru: Отключено питание трекера
     TrackerId:
-      be: ИД треккера
       cs: ID trackeru
       ka: ტრეკერის საიდენტიფიკაციო კოდი
       en: Tracker ID
       ru: ИД треккера
       uk: IД треккера
     TrackerIdNotFoundForCar:
-      be: В БД не удалось найти идентификатор трекера для автомобиля с ID = {0}
       cs: indentifikátor trackeru pro vozidlo {0} nebyl nalezen
       ka: 'ავტომობილი საიდენთიფიკაციო ნომრით ID = {0} მონაცემთა ბაზაში ვერ მოხერხდა ტრეკერის იდენტიფიკატორის მოძებნა '
       en: The database could not find tracker ID to the car with the ID = {0}
       ru: В БД не удалось найти идентификатор трекера для автомобиля с ID = {0}
       uk: В БД не вдалося знайти ідентифікатор трекера для автомобіля з ID = {0}
     TrackerModel:
-      be: Модель трекера
       cs: model trackeru
       ka: ტრეკერის მოდელი
       en: model tracker
       ru: Модель трекера
       uk: Модель трекера
     TrackerNotFoundMaybeOffline:
-      be: В данный момент трекер с ID = {0} недоступен. Вероятно, отсутствует связь с трекером.
       cs: v tuto chvíli tracker s ID {0} je nedostupný. Pravděpodobně došlo ke ztrátě spojení s trackerem.
       ka: ამჟამად ტრეკერი საიდენტიფიკაციო კოდით ID = {0} მიუწვდომელია. სავარაუდოდ, ვერ ხერხდება ტრეკერთან დაკავშირება.
       en: Currently the tracker ID = {0} is unavailable. Probably, no connection with the tracker.
       ru: В данный момент трекер с ID = {0} недоступен. Вероятно, отсутствует связь с трекером.
       uk: В даний момент трекер з ID = {0} недоступний. Ймовірно, відсутній зв'язок з трекером.
     TransmissionType:
-      be: Тип трансмиссии
       cs: Typ převodovky
       ka: ტრანსმისიის ტიპი
       en: Transmission type
       ru: Тип трансмиссии
       uk: Тип трансмісії
     TroubleBodyIsDamagedCount:
-      be: Число обращений "Кузов повреждён"
       cs: Počet kontaktů "Karoserie poškozena"
       ka: შეტყობინებების რაოდენობა "მანქანის სხეული დაზიანებულია"
       en: Number of complaints  "damaged car"
       ru: Число обращений "Кузов повреждён"
       uk: Число звернень "Кузов пошкоджений"
     TroubleBrokenWindowCount:
-      be: Число обращений "Автомобиль грязный"
       cs: Počet kontaktů "Znečištěné vozidlo"
       ka: შეტყობინებების რაოდენობა "მანქანა ბინძურია"
       en: Number of complaints "dirty car"
       ru: Число обращений "Автомобиль грязный"
       uk: Число звернень "Автомобіль брудний"
     TroubleCarIsDirtyCount:
-      be: Число обращений "Разбито окно"
       cs: Počet kontaktů "Rozbité okno"
       ka: მომართვების რაოდენობა "გატეხილი ფანჯარა"
       en: Number of hits "Broken window"
       ru: Число обращений "Разбито окно"
       uk: Число звернень "Розбите вікно"
     TroubleTireIsFlatCount:
-      be: Число обращений "Спущено колесо"
       cs: Počet kontaktů "Prázdné pneu"
       ka: მომართვების რაოდენობა "დაშვებულია საბურავი"
       en: Number of hits "Flat tire"
       ru: Число обращений "Спущено колесо"
       uk: Число звернень "Спущено колесо"
     TryRebillOnInitPaymentSettingDescription:
-      be: Пытаться повторно списать деньги при начальном списании
       cs: Zkusit opakované stržení peněz při počátečním stržení
       ka: 'ფულის ხელახალი ჩამოჭრა ნაღდი ფულით ჩამოწერისას '
       en: Try to debit money again after initial debit
@@ -6629,7 +6007,6 @@ Sections:
       en: You are not logged in the system
       ru: Вы не авторизованы в системе
     UnavailableAmount:
-      be: Недоступная сумма списания
       cs: částka ke stržení není dostupná
       ka: ანგარიშზე არის არასაკმარისი თანხა
       en: Unavailable amount
@@ -6638,27 +6015,23 @@ Sections:
       cs: Odblokování adaptéru
       en: Unblock charger
     UnderSupervision:
-      be: Клиент под наблюдением
       cs: Klient pod dohledem
       ka: კლიენტზე ხორციელდება დაკვირვება
       en: Customer is under control
       ru: Клиент под наблюдением
       uk: Клієнт під наглядом
     UnionPay:
-      be: UnionPay
       cs: UnionPay
       ka: UnionPay
       en: UnionPay
       ru: UnionPay
       uk: UnionPay
     Unknown:
-      be: Неизвестная ошибка
       cs: neznámá chyba
       ka: შეცდომა
       en: Unknown error
       ru: Неизвестная ошибка
     UnknownError:
-      be: Неизвестная ошибка
       cs: Neznámá chyba
       en: Unknown error
       ru: Неизвестная ошибка
@@ -6687,35 +6060,30 @@ Sections:
       cs: 'Chcete-li zahájit pronájem, kontaktujte prosím technickou podporu. Vyžaduje potvrzení operátora. Poděkování.'
       ka: 'დაიწყოს გაქირავება, გთხოვთ დაუკავშირდეთ ტექნიკური მხარდაჭერა. ოპერატორი დადასტურება არის საჭირო. ბლადჲეაპწ.'
     UnlockAndDriveCarResultFailedCarHasNoOrderNow:
-      be: Автомобиль в данный момент не арендован.
       cs: Vozidlo nyní není pronajmuto
       ka: ამჟამად მანქანა არ არის დაქირავებული.
       en: The car is rented now
       ru: Автомобиль в данный момент не арендован.
       uk: Автомобіль в даний момент не орендований.
     UnlockAndDriveCarResultFailedCarIsInRentStateAlready:
-      be: Автомобиль уже находится в состоянии использования.
       cs: Vozidlo se již nachází v režimu používání
       ka: მანქანა გამოყენების რეჟიმშია.
       en: The car is already in use
       ru: Автомобиль уже находится в состоянии использования.
       uk: Автомобіль вже знаходиться в стані використання.
     UnlockAndDriveCarResultFailedCarIsReserved:
-      be: Извините, но этот автомобиль сейчас недоступен для аренды.
       cs: Promíňte, toto vozidlo není nyní dostupné k pronájmu.
       ka: უკაცრავად, მაგრამ ეს მანქანა არ არის ხელმისაწვდომი იჯარისთვის.
       en: Sorry, this car is not available for rent for the moment
       ru: Извините, но этот автомобиль сейчас недоступен для аренды.
       uk: Вибачте, але цей автомобіль зараз недоступний для оренди.
     UnlockAndDriveCarResultFailedCarNotFound:
-      be: Автомобиль не найден в базе данных.
       cs: Vozidlo nebylo nalezeno v databázi
       ka: მანქანა ვერ მოიძებნა მონაცემთა ბაზაში
       en: The car was not found
       ru: Автомобиль не найден в базе данных.
       uk: Автомобіль не знайдений в базі даних.
     UnlockAndDriveCarResultFailedCarTrackerIsOffline:
-      be: Отсутствует связь с автомобилем.
       cs: Neexistuje spojení s vozidlem
       ka: არ არის კავშირი მანქანასთან
       en: There is no internet connection with the car
@@ -6725,28 +6093,24 @@ Sections:
       cs: Chyba hardwaru
       en: Unlock And Drive Car Result Failed Hardware Error
     UnlockAndDriveCarResultFailedNegativeBalance:
-      be: У вас отрицательный баланс, нельзя продолжить аренду, позвоните по телефону {phoneNumber}
       cs: Máte záporný zůstatek, nesmíte pokračovat v pronájmu. Prosím volejte {telefonní číslo}
       ka: მანქანა ვერ გაქირავდება უარყოფითი ბალანსის შემთხვევაში. გთხოვთ, დარეკოთ ნომერზე {phoneNumber}
       en: You have negative balance. Please contact {phoneNumber}
       ru: У вас отрицательный баланс, нельзя продолжить аренду, позвоните по телефону {phoneNumber}
       uk: У вас негативний баланс, ви не можете продовжити оренду, зателефонуйте {phoneNumber}
     UnlockAndDriveCarResultFailedOrderIsCompletedAlready:
-      be: Аренда уже закрыта.
       cs: Pronájem ukončen
       ka: ქირაობა დაიხურა.
       en: The rent has been finished
       ru: Аренда уже закрыта.
       uk: Оренда вже закрита.
     UnlockAndDriveCarResultFailedOrderNotFoundInDatabase:
-      be: Заказ не найден в базе данных.
       cs: Objednávka nebyla nalezena v databázi
       ka: შეკვეთა ვერ მოიძებნა მონაცემთა ბაზაში
       en: Your order has not been found
       ru: Заказ не найден в базе данных.
       uk: Замовлення не знайдено в базі даних.
     UnlockAndDriveCarResultFailedTheCarIsTooFar:
-      be: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       cs: Vozidlo je příliš daleko od Vás. Prosím, jděte blíž k vozidlu a pokus opakujete
       ka: 'მანქანა თქვენგან შორსაა. მიუახლოვდით მანქანას და კიდევ ერთხელ სცადეთ. '
       en: The car is too far from you. Please come closer to the car and try again
@@ -6756,27 +6120,23 @@ Sections:
       en: The car is too far from you. Please come closer to the it and try again
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     UnlockAndDriveCarResultFailedUserHasNoOrderNow:
-      be: У Вас в данный момент нет активной аренды.
       cs: Nyní nemáte aktivní pronájem
       ka: არ ფიქსირდება აქტიური ქირაობა.
       en: You don't have active rent at the moment
       ru: У Вас в данный момент нет активной аренды.
       uk: У Вас в даний момент немає активних оренд.
     UnlockAndDriveCarResultOkCarIsInDriveModeNow:
-      be: Автомобиль успешно переведён в режим использования.
       cs: Vozidlo bylo uvedeno do režimu uživání
       ka: მანქანა გამოყენების რეჟიმშია.
       en: The car is in drive mode now
       ru: Автомобиль успешно переведён в режим использования.
       uk: Автомобіль успішно переведено в режим використання.
     UnlockCar:
-      be: Автомобиль открыт
       cs: vozidlo otevřeno
       ka: მანქანა ღიაა
       en: The car is open
       ru: Автомобиль открыт
     UpdateMobileApplicationNotification:
-      be: Обновите приложение
       cs: obnovit aplikaci
       ka: განაახლეთ თქვენი აპლიკაცია
       en: Update your app
@@ -6793,19 +6153,16 @@ Sections:
       en: Download the appropriate photos
       ru: Загрузите необходимые фотографии
     UseCaptchaOnSignUpSettingDescription:
-      be: Использовать каптчу при регистрации
       cs: používat captcha při registraci
       ka: რეგისტრაციის დროს captcha კოდის გამოყენება
       en: Use captcha during registration
       ru: Использовать каптчу при регистрации
     UsePercentsForFriendsBonusSettingDescription:
-      be: Начислять процент от стоимости поездки как бонус для друга
       cs: napočítávat procenta od ceny jízdy jako bonus pro přítele
       ka: მგზავრობის ღირებულების პროცენტის მეგობართან ბონუსის სახით ჩარიცხვა
       en: Charge interest on the cost of the trip as a bonus to a friend
       ru: Начислять процент от стоимости поездки как бонус для друга
     UseProgressiveBonusForRefuelingSettingDescription:
-      be: Начислять процент от стоимости поездки, как бонус за заправку
       cs: Napočítávat procenta od ceny jízdy jako bonus za natankování
       ka: მგზავრობის ღირებულების პროცენტის ჩარიცხვა, შემოწმების ბონუსის სახით
       en: Charge interest on the cost of the trip as a bonus for refueling
@@ -6821,23 +6178,19 @@ Sections:
       en: Your account has been locked by the system administrator.
       ru: Ваша учётная запись заблокирована администратором системы
     UserAddedSuccessfully:
-      be: Клиент успешно добавлен
       cs: Přidání uživatele proběhlo úspěšně
       en: Customer added successfully
       ru: Клиент успешно добавлен
     UserAlreadyHasHold:
-      be: У пользователя уже имеется не закрытая Hold транзакция
       cs: uživatel již má blokovanou transakci
       ka: მომხარებელს უკვე ერიცხება შეჩერებული გადახდა
       en: User already has hold payment
       ru: У пользователя уже имеется не закрытая Hold транзакция
     UserAlreadyInTheGrade:
-      be: Клиент уже находится в данном грейде
       cs: Uživatel je již v této skupině
       en: Customer already in the grade
       ru: Клиент уже находится в данном грейде
     UserAlreadyInTheOrganization:
-      be: Клиент уже находится в организации
       cs: Uživatel je již v organizaci
       en: User already in the organization
       ru: Клиент уже находится в организации
@@ -6860,14 +6213,12 @@ Sections:
       en: Switching corporate organization during the rent is denied
       ru: Изменение корпоративной организации в течении заказа запрещено
     UserIsCustomerAlready:
-      be: Пользователь {0} уже зарегистрирован как клиент
       cs: Uživatel {0} je již zaregistrován
       ka: მომხმარებელი {0} უკვე რეგისტრირებულია როგორც კლიენტი
       en: User {0} is already registered as a client
       ru: Пользователь {0} уже зарегистрирован как клиент
       uk: Користувач {0} вже зареєстрований як клієнт
     UserIsNotACustomer:
-      be: Пользователь {0} не является клиентом
       cs: Uživatel {0} není zákazníkem
       ka: მომხმარებელი {0} არ არის კლიენტი
       en: User {0} is not a client
@@ -6884,14 +6235,12 @@ Sections:
       en: Account not found
       ru: Пользователь с указанными учётными отсутствует в системе
     UserNotFoundInDatabase:
-      be: Пользователь не найден в базе данных
       cs: Uživatel nebyl nalezen v databázi
       ka: მომხმარებელი ვერ მოიძებნა მონაცემთა ბაზაში
       en: The user was not found in the database
       ru: Пользователь не найден в базе данных
       uk: Користувача не знайдено в базі даних
     UserRemovedSuccessfully:
-      be: Клиент успешно удален
       cs: Vymazání uživatele proběhlo úspěšně
       en: Customer removed successfully
       ru: Клиент успешно удален
@@ -6929,7 +6278,6 @@ Sections:
       en: '{0} value must be a positive number'
       ru: Поле {0} должно быть больше нуля
     VatSettingDescription:
-      be: Налог на добавленную стоимость
       cs: daň z přidané hodnoty
       ka: დამატებითი ღირებულების გადასახადი
       en: VAT tax
@@ -6955,63 +6303,54 @@ Sections:
       en: Versioned file
       ru: Версионированный файл
     Visa:
-      be: Visa
       cs: Visa
       ka: visa
       en: Visa
       ru: Visa
       uk: Visa
     VisaElectronAndMaestroShouldNotBeUsed:
-      be: К сожалению, карты Visa Electron и Maestro не могут использоваться. Пожалуйста, прикрепите другую карту
       cs: Bohužel, platební karty Visa Electron a Maestro nelze použít. Zkuste připojít jinou platební kartu.
       ka: 'Visa Electron და Maestro საბანკო  ბარათების გამოყენება შეუძლებელია. გთხოვთ, მიამაგროთ სხვა  ბარათი. '
       en: Unfortunately, Visa Electron and Maestro cards can not be used. Please attach a different card
       ru: К сожалению, карты Visa Electron и Maestro не могут использоваться. Пожалуйста, прикрепите другую карту
       uk: На жаль, карти Visa Electron і Maestro не можуть використовуватися. Будь ласка, прикріпіть іншу карту
     Voucher:
-      be: Ваучер
       cs: Poukázka
       ka: ვაუჩერი
       en: Vouchers
       ru: Ваучер
       uk: Ваучер
     VoucherCodeIsNotCorrect:
-      be: Вы ввели неверный код ваучера. У Вас осталось {0} попытки ввода, после чего операция будет заблокирована на некоторое время.
       cs: Uvedli jste nesprávné číslo poukázky. Stále máte {0} pokusy o zadání. Poté bude operace ukončena a po nějakou dobu zablokována.
       ka: თქვენ შეიყვანეთ არასწორი ვაუჩერის კოდი. თქვენ დაგრჩათ {0} მცდელობა, რის შემდეგაც ოპერაცია დაიბლოკება გარკვეული დროის განმავლობაში.
       en: You have entered an invalid voucher number. You have {0} attempts, in case of failure the operation will be blocked for some time.
       ru: Вы ввели неверный код ваучера. У Вас осталось {0} попытки ввода, после чего операция будет заблокирована на некоторое время.
       uk: Ви ввели невірний код ваучера. У Вас залишилося {0} спроби введення, після чого операція буде заблокована на деякий час.
     VoucherCodeIsNotCorrectEnd:
-      be: Внимание! У Вас закончились попытки ввода кода ваучера. Операцию можно будет продолжить через некоторе время.
       cs: Pozor! Vyčerpal(a) jste maximální počet pokusů o zadání kódu poukázky. V operaci bude možné pokračovat po nějaké době.
       ka: ყურადღება! თქვენ ამოგეწურათ ვაუჩერის კოდის შეყვანის მცდელობების რაოდენობა. ოპერაციის გამეორებას შეძლებთ ცოტა ხანში.
       en: Attention! You have ended attempts to enter the voucher number. The operation can continue after a while.
       ru: Внимание! У Вас закончились попытки ввода кода ваучера. Операцию можно будет продолжить через некоторе время.
       uk: Увага! У Вас закінчилися спроби введення коду ваучера. Операцію можна буде продовжити через деякий час.
     VoucherCodeIsNotCorrectLast:
-      be: Внимание! Вы ввели неверный код ваучера. У Вас осталось последняя попытка ввода, после чего операция будет заблокирована на некоторое время.
       cs: Pozor! Uvedl(a) jste nesprávný kód poukázky. Máte poslední pokus na zadání; poté bude operace po určitou dobu bude zablokována
       ka: ყურადღება! თქვენ შეიყვანეთ არასწორი ვაუჩერის კოდი. ოპერაციის დროებით დაბლოკვამდე დაგრჩათ ერთი მცდელობა
       en: Attention! You have entered an invalid voucher number. You have last attempt to enter, then the operation will be blocked for some time.
       ru: Внимание! Вы ввели неверный код ваучера. У Вас осталось последняя попытка ввода, после чего операция будет заблокирована на некоторое время.
       uk: Увага! Ви ввели невірний код ваучера. У Вас залишилося остання спроба введення, після чого операція буде заблокована на деякий час.
     VoucherGiveBonusesDescription:
-      be: 'Активация ваучера с кодом: {0}'
       cs: Aktivace poukázky s kódem {0}
       ka: ვაუჩერის კოდით {0} გააქტიურება
       en: Voucher {0}
       ru: 'Активация ваучера с кодом: {0}'
       uk: 'Активація ваучера з кодом: {0}'
     VoucherIsAcivated:
-      be: Внимание! Ваучер уже активирован.
       cs: Pozor! Poukázka byla již aktivována
       ka: ყურადღება! ვაუჩერი უკვე გააქტიურებულია.
       en: Attention! Voucher has already been activated.
       ru: Внимание! Ваучер уже активирован.
       uk: Увага! Ваучер вже активований.
     VoucherIsCanceled:
-      be: Внимание! Ваучер, который вы пытаетесь активировать анулирован.
       cs: Pozor! Poukázka, kterou se pokoušíte aktivovat byla zrušena.
       ka: ყურადღება! ვაუჩერი, რომლის გააქტიურებასაც ცდილობთ, გაუქმებულია
       en: Attention! Voucher that you are trying to activate has been canceled.
@@ -7045,29 +6384,24 @@ Sections:
       ru: Ср
       uk: Ср
     WelcomeTo:
-      be: Добро пожаловать в {0}
       cs: Vítejte v {0}
       ka: კეთილი იყოს თქვენი მობრძანება  {0}-ში
       en: Welcome to {0}
       ru: Добро пожаловать в {0}
       uk: Ласкаво просимо в {0}
     WithdrawalReasonForCarTicket:
-      be: За абонемент
       cs: Za balíček
       en: For package
       ru: За абонемент
     WithdrawalReasonPurchaseBonuses:
-      be: 'Покупка бонусов'
       cs: 'Dobití účtu'
       en: 'Account top up'
       ru: 'Покупка бонусов'
     WithdrawalReasonManual:
-      be: Прочее
       cs: Jiné
       en: Other
       ru: Прочее
     WithdrawalReasonNA:
-      be: Прочее
       cs: Jiné
       en: Other
       ru: Прочее
@@ -7075,22 +6409,18 @@ Sections:
       en: Unlock payments
       ru: За начало аренды
     WithdrawalReasonOrderPartialPayment:
-      be: Промежуточное списание
       cs: Průběžná platba
       en: Partial payment
       ru: Промежуточное списание
     WithdrawalReasonOrderPayment:
-      be: За аренду
       cs: Za pronájem
       en: Amount for rent
       ru: За аренду
     WithdrawalReasonOutOfServiceZone:
-      be: Выезд за зону обслуживания
       cs: Opuštění povolené zóny
       en: Out of service zone
       ru: Выезд за зону обслуживания
     WithoutGrade:
-      be: Без группы
       cs: Bez skupiny
       en: Without grade
       ru: Без группы
@@ -7136,14 +6466,12 @@ Sections:
       en: You are not authorized to change '{0}'
       ru: У вас нет прав для сохранения изменений в '{0}'
     YouNeedToUploadDocuments:
-      be: 'Необходимо загрузить следующие документы:'
       cs: 'Prosíme, odešlete následující dokumenty:'
       ka: 'აუცილებელია შემდეგი დოკუმენტების ატვირთვა:'
       en: 'You need to upload following documents:'
       ru: 'Необходимо загрузить следующие документы:'
       uk: 'Необхідно завантажити наступні документи:'
     YouShouldBindTheBankCardAgainToUseCarsInThisRegion:
-      be: Вам необходимо привязать банковскую карту заново, чтобы использовать машины в этом регионе
       cs: K užívání vozidla v této oblasti je potřeba opětovně zadat údaje Vaší platební karty
       ka: თქვენ უნდა მიაბათ საბანკო ბარათი ხელახლა, რომ შეძლოთ ამ რეგიონში მანქანის გამოიყენება
       en: You should attach the bank card again to use cars in this region
@@ -7155,7 +6483,6 @@ Sections:
       ru: Необходимо загрузить фото первой страницы паспорта, страницы с пропиской, а также фото лицевой и обратной стороны водительского удостоверения и фото, на котором одновременно видно Ваше лицо и водительское удостоверение
       uk: Необхідно завантажити фото першої сторінки паспорта, сторінки з пропискою, а також фото лицьовій і зворотній боку водійського посвідчення і фото, на якому одночасно видно Ваше обличчя і водійське посвідчення
     YoutellAccountCanBeCreatedForAdministratorsOnly:
-      be: Учётная запись Youtell может быть создана только для операторов
       cs: Uživatelský účet pro YouTell může být zřízena pouze pro operátory
       ka: Youtell ანგარიში შეიძლება შეიქმნას მხოლოდ ოპერატორებისთვის
       en: Youtell Account can only be created for operators
@@ -7166,7 +6493,6 @@ Sections:
       en: You can not remove the bank card because you balance is negative
       ru: Перед тем как удалить карту, Вам необходимо погасить долг
     Zone:
-      be: Зона
       cs: Zóna
       ka: ზონა
       en: zone
@@ -7179,7 +6505,6 @@ Sections:
       en: Zone deleted
       ru: Зона удалена
     ZoneWithTag:
-      be: Зона (тэг)
       cs: Oblast (tag)
       ka: ზონა
       en: Zone (tag)
