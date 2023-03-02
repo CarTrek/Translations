@@ -1533,7 +1533,7 @@ Sections:
       ru: Направленные документы находятся в стадии проверки. Мы сообщим Вам о результате проверки документов в ближайшее время.
       uk: Спрямовані документи знаходяться в стадії перевірки. Ми повідомимо Вам про результат перевірки документів найближчим часом.
     BookCarResultFailedTheScooterIsTooFar:
-      en: The car is too far from you. Please come closer to the it and try again
+      en: The car is too far from you. Please come closer to it and try again
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     BookCarResultFailedUserAlreadyHasOrder:
       cs: Již máte zarezervované vozidlo.
@@ -6117,7 +6117,7 @@ Sections:
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
       uk: Автомобіль дуже далеко від Вас. Будь ласка, підійдіть ближче до обраного автомобілю і спробуйте ще раз
     UnlockAndDriveCarResultFailedTheScooterIsTooFar:
-      en: The car is too far from you. Please come closer to the it and try again
+      en: The car is too far from you. Please come closer to it and try again
       ru: Автомобиль слишком далеко от Вас. Пожалуйста, подойдите ближе к выбранному автомобилю и попробуйте ещё раз
     UnlockAndDriveCarResultFailedUserHasNoOrderNow:
       cs: Nyní nemáte aktivní pronájem
