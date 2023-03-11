@@ -4,7 +4,7 @@ Sections:
       en: "Send code to WhatsApp"
       ru: "Отправить код в WhatsApp"
     signin.send-sms-with-code:
-      en: "Send SMS with code"
+      en: "Send code via SMS"
       ru: "Отправить код в SMS"
     card-v2.charge-level:
       en: "charge level"
