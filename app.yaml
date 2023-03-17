@@ -372,7 +372,7 @@ Sections:
     agreement.link-details:
       en: 'Details...'
       ru: 'Подробнее...'
-    Refueling:  
+    Refueling:
       en: Refueling
       ru: Заправка
     refuel-screen.finish-refueling:
@@ -733,7 +733,7 @@ Sections:
       ru: Стоимость перепробега
     vehicle-card.overrun-cost-value:
       en: '{currency}{cost}'
-    vehicle-card.minute-rate-value:  
+    vehicle-card.minute-rate-value:
       en: '{currency}{cost}/min.'
       ru: '{currency}{cost}/мин.'
     vehicle-card.per-minute-rate:
@@ -1190,7 +1190,7 @@ Sections:
     hrs:
       en: h.
       ru: ч.
-    min: 
+    min:
       en: min.
       ru: мин.
     sec:
@@ -1672,7 +1672,7 @@ Sections:
         ru: 'Двигатель'
     car-details.engine-value:
         en: 'l.'
-        ru: 'л.'   
+        ru: 'л.'
     car-details.drive:
         en: 'Drive'
         ru: 'Привод'
@@ -1846,3 +1846,12 @@ Sections:
     app-rating.description.placeholder:
       en: "Please describe here and press the ‘Submit’ button to share your thoughts with us"
       ru: "Пожалуйста, опишите здесь и нажмите кнопку «Отправить», чтобы поделиться с нами своими мыслями"
+    selfie-quest.eye:
+      en: "Close your eyes for 5 seconds"
+      ru: "Закройте глаза на 5 секунд"
+    selfie-quest.month:
+      en: "Open your mouth for 5 seconds"
+      ru: "Откройте рот на 5 секунд"
+    selfie-quest.smile:
+      en: "Smile for 5 seconds"
+      ru: "Улыбнитесь на 5 секунд"
