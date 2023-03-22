@@ -1844,6 +1844,9 @@ Sections:
       en: Command timeout. Please try again later
       ru: Машина не отвечает на запрос, возможно, плохая связь. Пожалуйста, попробуйте ещё раз позже.
       uk: Машина не відповідає на запит, можливо, поганий зв'язок. Будь ласка, спробуйте ще раз пізніше.
+    CarCommandResultErrorCloseTheWheelLock:
+      en: The wheel lock is not closed. Close it please.
+      ru: Замок колеса не закрыт. Закройте его.
     CardBinding:
       cs: Připojení platební karty
       ka: 'საბანკო ბარათის მიბმა. '
