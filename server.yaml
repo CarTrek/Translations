@@ -6525,3 +6525,9 @@ Sections:
     PromoCodeResultErrorApplyVoucherСode:
       en: Error while activating the voucher code
       ru: Ошибка при активации кода ваучера 
+    CarRestored:
+      en: Vehicle restored
+      ru: Транспортное средство восстановлено
+    CarDeleted:
+      en: Vehicle deleted
+      ru: Транспортное средство удалено
