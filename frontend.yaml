@@ -2329,7 +2329,7 @@ Sections:
       en: Waiting for the car
       ru: Ждёт машину
     aside.nav.reserves.WAITDRIVER:
-      en: Waiting for the driver
+      en: Waiting - driver
       ru: Ждёт водителя
     aside.nav.reserves.READYDELIVERY:
       en: Ready for delivery
