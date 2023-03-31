@@ -10151,8 +10151,8 @@ Sections:
       en: 'Events'
       ru: 'События'
     reserve.edit.cancel-button:
-      en: 'Cancel'
-      ru: 'Отменить'
+      en: 'Cancel booking'
+      ru: 'Отменить бронирование'
     reserves.edit.status.new:
       en: 'New'
       ru: 'Новое'
