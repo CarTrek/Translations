@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.models.organizaitons:
+      en: "Organizations"
+      ru: "Организации"
     notifications.RentStart:
       en: Rent started
       ru: Аренда начата
