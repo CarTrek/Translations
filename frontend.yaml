@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    car.models.zones-organizaitons:
+      en: "Organizations of the zones where the model can ride and park"
+      ru: "Организации зон где эта модель может ездить и парковаться"
     cars.models.organizaitons:
       en: "Organizations"
       ru: "Организации"
