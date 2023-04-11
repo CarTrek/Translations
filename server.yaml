@@ -2080,12 +2080,6 @@ Sections:
       cs: Chyba. Neznámá odpověď.
       en: Error. Unknown answer.
       ru: Ошибка. Неизвестный ответ.
-    CantRollbackToThisStep:
-      en: 'Sorry. Can't revert this answer.'
-      ru: 'Извините. Не могу отменить этот ответ'
-    UnknownStepDeleteAppAndLoginAgain:
-      en: 'Error. Unknown step. Please, delete the application and install again.'
-      ru: 'Ошибка. Неизвестный шаг. Пожалуйста удалите приложение и установите заново.'
     DeleteAppAndLoginAgain:
       en: 'Error. Please, delete the application and install again.'
       ru: 'Ошибка. Пожалуйста удалите приложение и установите заново.'
