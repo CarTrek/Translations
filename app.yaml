@@ -1882,6 +1882,18 @@ Sections:
     messengerbot.list-available-payment-methods:
       en: "list available payment methods"
       ru: "показать доступные способы оплаты"
-    messengerbot.ladd-payment-method:
-      en: "add payment methods"
+    messengerbot.add-payment-method:
+      en: "add payment method"
       ru: "добавить способ оплаты"
+    messengerbot.incorrect-answer-format:
+      en: "Incorrect answer format"
+      ru: "Неверный формат ответа" 
+    messengerbot.my-rides:
+      en: "My rides"
+      ru: "Мои аренды"
+    messengerbot.my-cards:
+      en: "My cards"
+      ru: "Мои карты"
+    messengerbot.link-a-card:
+      en: "Link a card"
+      ru: "Добавить карту"
