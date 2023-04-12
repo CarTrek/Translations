@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reports.BatteryChangeReport:
+      en: "Battery change report"
+      ru: "Отчет о смене батарей"
     reports.DatesDiffTooLargeError:
       en: "Dates difference cannot be more that {days} days"
       ru: "Для данного отчета разница в датах не может быть больше {days} дней"
