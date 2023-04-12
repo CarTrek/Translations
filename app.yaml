@@ -1858,4 +1858,15 @@ Sections:
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
-    
+    messengerbot.see-your-active-rentals:
+      en: "see your active rentals"
+      ru: "посмотреть ваши активные аренды"
+    messengerbot.write-to-me:
+      en: "write to me"
+      ru: "напишите мне"
+    messengerbot.rent:
+      en: "rent"
+      ru: "арендовать"
+    messengerbot.more-scooters:
+      en: "more scooters / bicycles"
+      ru: "самокатов / велосипедов" 
