@@ -1870,3 +1870,18 @@ Sections:
     messengerbot.more-scooters:
       en: "more scooters / bicycles"
       ru: "самокатов / велосипедов" 
+    messengerbot.scooter-number:
+      en: "scooter number"
+      ru: "номер самоката"
+    messengerbot.finish-the-rental:
+      en: "finish the rental"
+      ru: "завершить аренду"
+    messengerbot.list-available-payment-methods:
+      en: "list available payment methods"
+      ru: "показать доступные способы оплаты"
+    messengerbot.list-available-payment-methods:
+      en: "list available payment methods"
+      ru: "показать доступные способы оплаты"
+    messengerbot.ladd-payment-method:
+      en: "add payment methods"
+      ru: "добавить способ оплаты"
