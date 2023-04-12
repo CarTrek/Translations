@@ -1855,6 +1855,7 @@ Sections:
     selfie-quest.smile:
       en: "Smile for 5 seconds"
       ru: "Улыбнитесь на 5 секунд"
-    selfie-quest.face-not-visible:
-      en: "I don't see your face"
-      ru: "Я не вижу вашего лица"
+    messengerbot.you-can:
+      en: "You can:"
+      ru: "Вы можете:"
+    
