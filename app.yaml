@@ -1897,3 +1897,27 @@ Sections:
     messengerbot.link-a-card:
       en: "Link a card"
       ru: "Добавить карту"
+    messengerbot.to-add-payment-card:
+      en: "To add the payment card please tap the link below to visit the secure form and then come back to the conversation"
+      ru: "Для того, чтобы добавить карту, нажмите на ссылку ниже для заполнения защищенной формы, а затем возвращайтесь"
+    messengerbot.no-available-payment-methods:
+      en: "There are no available payment methods"
+      ru: "Нет доступных способов оплаты"
+    messengerbot.remove:
+      en: "Remove"
+      ru: "Удалить"
+    messengerbot.make-active:
+      en: "Make active"
+      ru: "Сделать активной"
+    messengerbot.сard-is-successfully-removed:
+      en: "Card is successfully removed"
+      ru: "Карта успешно удалена"  
+    messengerbot.is-now-default-payment-method:
+      en: "is now default payment method"
+      ru: "теперь карта по умолчанию" 
+    messengerbot.failed-to-set-default-payment-method:
+      en: "Failed to set default payment method"
+      ru: "Ошибка при установке карты по умолчанию"      
+    messengerbot.your-debt-has-been-successfully-paid:
+      en: "Your debt has been successfully paid"
+      ru: "Ваш долг успешно погашен"
