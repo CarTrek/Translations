@@ -2020,3 +2020,12 @@ Sections:
     messengerbot.more-scooters:
       en: "more scooters"
       ru: "велосипедов"
+    messengerbot.please-send-some-photos-of-the-scooter:
+      en: "Please send some photos of the scooter"
+      ru: "Пожалуйста пришлите несколько фотографий велосипеда"
+    messengerbot.please-choose-scooter-to-report:
+      en: "Please choose scooter to report"
+      ru: "Выберите велосипед для отчета" 
+    messengerbot.thanks-for-your-report:
+      en: "Thanks for your report!"
+      ru: "Спасибо за ваш отчет!"
