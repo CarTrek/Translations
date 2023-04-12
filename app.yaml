@@ -1921,3 +1921,102 @@ Sections:
     messengerbot.your-debt-has-been-successfully-paid:
       en: "Your debt has been successfully paid"
       ru: "Ваш долг успешно погашен"
+    messengerbot.vehicle-with-number:
+      en: "Vehicle with number"
+      ru: "Транспортное средство с номером"
+    messengerbot.not-found:
+      en: "not found"
+      ru: "не найдено"
+    messengerbot.pause:
+      en: "Pause"
+      ru: "Приостановить"
+    messengerbot.finish:
+      en: "Finish"
+      ru: "Завершить"
+    messengerbot.pay-debt:
+      en: "Pay dept"
+      ru: "Погасить долг"
+    messengerbot.you-have-a-debt:
+      en: "You have a debt"
+      ru: "У вас есть непогашенная задолженность"
+    messengerbot.currency:
+      en: "€"
+      ru: "₽"
+    messengerbot.the-scooter-is-unlocked:
+      en: "The scooter is unlocked and your rent is started. Have a good ride!"
+      ru: "Велосипед разблокирован и аренда начата. Удачно поездки!"
+    messengerbot.please-link-a-card:
+      en: "Please link a card"
+      ru: "Пожалуйста добавьте карту для оплаты"
+    messengerbot.ride:
+      en: "Ride"
+      ru: "Ехать"
+    messengerbot.the-scooter-is-not-available:
+      en: "The scooter is not available"
+      ru: "Велосипед недоступен"
+    messengerbot.no-suitable-rates-found:
+      en: "No suitable rates found"
+      ru: "Не найдены доступные тарифы"
+    messengerbot.per-minute-rates:  
+      en: "Per minute rates"
+      ru: "Поминутные тарифы"
+    messengerbot.other-rates:  
+      en: "Other rates"
+      ru: "Другие тарифы"
+    messengerbot.start-the-ride:  
+      en: "Start the ride"
+      ru: "Начать поездку"
+    messengerbot.reserve:  
+      en: "Reserve"
+      ru: "Забронировать"
+    messengerbot.fuel-level:  
+      en: "Fuel level"
+      ru: "Уровень топлива"
+    messengerbot.your-ride-is-completed:  
+      en: "Your ride is completed. "
+      ru: "Ваша поездка завершена. "
+    messengerbot.total-amount-was:  
+      en: "Total amount was"
+      ru: "Общая сумма"
+    messengerbot.you-rode-for:  
+      en: "You rode for"
+      ru: "Вы ездили"
+    messengerbot.hr:  
+      en: "hr"
+      ru: "ч"
+    messengerbot.min:  
+      en: "min"
+      ru: "мин"
+    messengerbot.sec:  
+      en: "sec"
+      ru: "сек" 
+    messengerbot.and-passed:  
+      en: "and passed"
+      ru: "и проехали" 
+    messengerbot.km:  
+      en: "km"
+      ru: "км" 
+    messengerbot.see-you-next-time:  
+      en: "See you next time and have a nice day!"
+      ru: "До встречи в следующий раз и хорошего дня!"
+    messengerbot.you-have-no-rides-yet:
+      en: "You have no rides yet"
+      ru: "Вы ещё не совершили ни одной поездки"
+    messengerbot.you-can-rent-up-to:
+      en: "You can rent up to"
+      ru: "Вы можете арендовать"
+    messengerbot.scooters-simultaneosly:
+      en: "scooters simultaneosly"
+      ru: "велосипедов одновременно"
+    messengerbot.per:
+      en: "per"
+      ru: "в"  
+    messengerbot.total:
+      en: "Total"
+      ru: "Всего"
+    messengerbot.you-can-rent:
+      en: "You can rent"
+      ru: "Вы можете арендовать еще"
+    messengerbot.more-scooters:
+      en: "more scooters"
+      ru: "велосипедов"
