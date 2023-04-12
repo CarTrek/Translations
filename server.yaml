@@ -1,5 +1,11 @@
 Sections:
   Server:
+    BatteryLevelChangeDate:
+      en: Battery level change date
+      ru: Время изменения заряда батареи
+    BatteryUnlockDate:
+      en: Battery unlock date
+      ru: Время открытия отсека батареи
     RentEnd:
       en: Rent ended
       ru: Окончание аренды
