@@ -1,5 +1,8 @@
 Sections:
   Server:
+    UserWarningYouHaveCarTicket:
+      en: "You have a prepaid rental time until {car-ticket-until}. Start a ride without extra payment."
+      ru: "У вас оплаченно время аренды до {car-ticket-until}. Начните аренду без дополнительной оплаты."
     BatteryLevelChangeDate:
       en: Battery level change date
       ru: Время изменения заряда батареи
