@@ -6062,7 +6062,7 @@ Sections:
       cs: Volné
       en: Available
       ge: თავისუფალი
-      ru: Свободно
+      ru: Доступно
     cars.editor.TRACKERMODEL:
       cs: Model trackeru
       en: Tracker model
