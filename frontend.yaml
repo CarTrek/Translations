@@ -10939,3 +10939,6 @@ Sections:
     rent.PRERENT:
       cs: Budete mít INSPECT_MINUTES minut zadarmo na prohlídku vozidla
       en: Please evaluate the condition of the car.
+    rates.NotifyOperatorsOnRentStart:
+      en: Notify operators when user start his rent
+      ru: Уведомлять операторов при начале заказа
