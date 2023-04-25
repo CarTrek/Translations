@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    notifications.UserFinishedRentOnSelectedRatePack:
+      en: 'User has finished rent on selected subscription'
+      ru: 'Пользователь завершил аренду с выбранным абонементом'
     reports.BatteryChangeReport:
       en: "Battery change report"
       ru: "Отчет о смене батарей"
@@ -10940,5 +10943,5 @@ Sections:
       cs: Budete mít INSPECT_MINUTES minut zadarmo na prohlídku vozidla
       en: Please evaluate the condition of the car.
     rates.NotifyOperatorsOnRentStart:
-      en: Notify operators when user start his rent
-      ru: Уведомлять операторов при начале заказа
+      en: 'Notify operators when user start his rent'
+      ru: 'Уведомлять операторов при начале заказа'
