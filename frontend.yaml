@@ -4,8 +4,8 @@ Sections:
       en: 'The user started the rental with a subscription'
       ru: 'Пользователь начал аренду с абонементом'
     notifications.UserStartedRentOnSelectedRatePack:
-      en: 'User finished rent selected rate pack'
-      ru: 'Пользователь завершил аренду выбранного тарифного пакета'
+      en: 'User starteded rent selected rate pack'
+      ru: 'Пользователь начал аренду выбранного тарифного пакета'
     reports.BatteryChangeReport:
       en: "Battery change report"
       ru: "Отчет о смене батарей"
