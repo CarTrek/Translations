@@ -545,6 +545,9 @@ Sections:
     system.users.clear:
       ru: Очистить
       en: Clear rights
+    system.users.chooseAll:
+      ru: Выбрать все
+      en: Choose all
     system.users.copy:
       ru: Скопировать права
       en: Copy from user
