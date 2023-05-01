@@ -713,7 +713,7 @@ Sections:
     cars.editor.LOGICSETTINGS:
       en: Settings
       ru: Настройки
-    ars.editor.LOGICHAL:
+    cars.editor.LOGICHAL:
       en: Sensors
       ru: Датчики
     cars.editor.LOGICRAW:
