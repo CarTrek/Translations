@@ -710,6 +710,36 @@ Sections:
     cars.editor.LOGICACTION:
       en: Actions
       ru: Действия
+    cars.editor.LOGICSETTINGS:
+      en: Settings
+      ru: Настройки
+    ars.editor.LOGICHAL:
+      en: Sensors
+      ru: Датчики
+    cars.editor.LOGICRAW:
+      en: Raw data
+      ru: Данные
+    cars.editor.LOGICJAVASCRIPT:
+      en: Script
+      ru: Скрипт
+    cars.editor.COMMANDSMANUAL:
+      en: Equipment commands. TCP - send command via GPRS/LTE. SMS - send a command by sending an SMS to the setuped phone number
+      ru: Команды для оборудования. TCP - послать команду через GPRS/LTE. SMS - послать команду через отправку SMS на номер указаный в карточке.
+    cars.editor.OPTIONSMANUAL:
+      en: Options - special settings that determine the behavior of the vehicle  in the system.  Options interpret the states of sensors or raw data into vehicle states such as ignition, door status, battery charge, fuel level, etc. Using the options, you can also create periodic scripts, determine the available capabilities of the vehicle, data sources (for example, take mileage from CAN or GPS), the behavior of algorithms (for example, whether to check the hood) and the filtering of SMS messages.
+      ru: Опции - специальные настройки определяющие поведение транспортного средства (ТС) в системе. При помощи опция можно задачть интерпретацию состояний датчиков или сырых данных в состояния ТС такие как зажигание, состояние дверей, заряд батареи уровень топлива и т д. С помощью опций также можно создавать периодические скрипты, определить доступные возможности ТС, источники данных (например брать пробег с CAN или GPS), поведение алгоритмов (например проверять ли капот) и фильтрацию SMS сообщений.
+    cars.editor.HALMANUAL:
+      en: Sensors that standardized for all types of equipment. The current state of these sensors can be obtained in scripts and options by calling Hal('SensorName').
+      ru: Стандартизированые для всех видов оборудования датчики. Текущее состояние этих датчиков можно получать в скриптах и опциях вызовом Hal('ИмяДатчика').
+    cars.editor.HALMANUALALL:
+      en: List of all possible sensors that this type of equipment can send. If the current value is not visible, then the equipment has never sent it. Which sensors and when to send to the server is determined by the hardware settings.
+      ru: Список всех возможных датчиков которые может присылать этот тип оборудования. Если текущего значения не видно, значит оборудование его ни разу не присылало. Какие датчики и когда присылать на сервер определяется настройками оборудования.
+    cars.editor.RAWMANUAL:
+      en: Raw data from sensors sent by equipment. The names of the sensors depend on the type of equipment and the selected protocol for transmitting data to the server. The current state of raw data can be obtained in scripts and options by calling Raw('SensorName').
+      ru: Сырые данные с датчиков присылаемых оборудованием. Наименования датчиков зависит от типа оборудования и выбранного протокола передачи данных на сервер. Текущее состояние сырых можно получать в скриптах и опциях вызовом Raw('ИмяДатчика').
+    cars.editor.JSMANUAL:
+      en: A script that implements the logic of working with this vehicle. The script is created based on the given options and commands for the selected logic. You can edit options and commands in the hardware.json file.
+      ru: Скрипт реализующий логику работы с данным трансопртным средством. Скрипт создается на базе заданых опций и команд для выбраной логики. Редактировать опции и команды можно в файле hardware.json.
     tecTracker.OfflineCustomerManual:
       en: 'Algorithm of emergency door locking with engine blocking on cars with TEK terminals <br>a) Open the drivers door and leave it open, while all other doors, hood and trunk must be closed <br>b) Turn on the ignition <br>c) Immediately after turning on ignition, press the brake pedal 5 times with the ignition on: <br>- press with a pause for about 1 second <br>- hold the pedal pressed for about 1 second <br>d) The turn signal lamps will flash 1 time <br>e) Switch off the ignition <br>f) Exit the car and close the door <br>g) 10 seconds after the door is closed, the central locking system of the car will be locked, the direction lamps will blink, the engine blocking will turn on the door locking procedure will be canceled.'
       ru: 'Алгоритм аварийного запирания дверей с включением блокировки двигателя на автомобилях с терминалами ТЭК<br>a)  Открыть водительскую дверь и оставить её открытой, при этом все остальные двери, капот и багажник должны быть закрыты<br>b)  Включить зажигание<br>c)  Сразу после включения зажигания нажать 5 раз педаль тормоза при включенном зажигании <br>- нажимать с паузой около 1 сек<br>- удерживать педаль нажатой около 1 сек<br>d)  Лампы поворотов мигнут 1 раз<br>e)  Выключить зажигание<br>f)  Выйти из автомобиля и закрыть дверь<br>g)  Через 10 сек после закрытия двери, ЦЗ автомобиля заблокируется, мигнут лампы поворотов, включится блокировка двигателя<br>Прим. если после выполнения пункта “e” повторно будет включено зажигание, или после выполнения пункта “f” будет открыта любая дверь, то процедура запирания дверей будет отменена.'
