@@ -453,7 +453,7 @@ Sections:
     card-v2.start-book-question:
       en: Do you really want to book {car-name}?
       ru: Вы действительно хотите забронировать {car-name} с тарифом {rate-name}?
-    card-v2.start-book-question.not-rate:
+    card-v2.start-book-question.no-rate:
       en: Do you really want to book {car-name}?
       ru: Вы действительно хотите забронировать {car-name}?
     card-v2.start-book-question-corporate:
