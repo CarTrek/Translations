@@ -6294,7 +6294,7 @@ Sections:
       ru: Разблокировать
     cars.editor.ConfirmImmobilize:
       cs: Skutečně si přejete zablokovat auto?
-      en: Do you really want to lock the car?
+      en: Do you really want to block the car?
       ge: ნამდვილად გსურთ ავტომობილის დაბლოკვა?
       ru: Вы действительно хотите заблокировать автомобиль?
     cars.editor.ConfirmMobilize:
