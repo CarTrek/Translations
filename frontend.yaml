@@ -5692,7 +5692,7 @@ Sections:
       en: Hand brake off
       ge: გამორთულია
       ru: Отключен
-    cars.editor.lowWasherFluid:
+    cars.editor.LowWasherFluid:
       en: Low washer fluid
       ru: Мало омывайки
     cars.editor.Log:
