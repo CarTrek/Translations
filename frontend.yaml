@@ -8885,9 +8885,9 @@ Sections:
       ge: უცნობია
     orderevents.eventtype.BookStart:
       cs: Auto je rezervováno
-      en: Car is booked
+      en: Booking
       ge: მანქანა დაჯავშნილია
-      ru: Автомобиль забронирован
+      ru: Бронирование
     orderevents.eventtype.RentAutoStart:
       cs: Automaticky převod do režimu Čekání
       en: Automatic transfer to the parking mode
