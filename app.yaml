@@ -453,6 +453,9 @@ Sections:
     card-v2.start-book-question:
       en: Do you really want to book {car-name}?
       ru: Вы действительно хотите забронировать {car-name}?
+    card-v2.start-book-question.no-rate:
+      en: Do you really want to book {car-name}?
+      ru: Вы действительно хотите забронировать {car-name}?
     card-v2.start-book-question-corporate:
       en: Please choose at whose expense you want to make the ride
       ru: Пожалуйста, выберите за чей счёт вы хотите совершить поездку
@@ -1869,7 +1872,7 @@ Sections:
       ru: "арендовать"
     messengerbot.more-scooters:
       en: "more scooters / bicycles"
-      ru: "самокатов / велосипедов" 
+      ru: "самокатов / велосипедов"
     messengerbot.scooter-number:
       en: "scooter number"
       ru: "номер самоката"
@@ -1887,7 +1890,7 @@ Sections:
       ru: "добавить способ оплаты"
     messengerbot.incorrect-answer-format:
       en: "Incorrect answer format"
-      ru: "Неверный формат ответа" 
+      ru: "Неверный формат ответа"
     messengerbot.my-rides:
       en: "My rides"
       ru: "Мои аренды"
@@ -1911,13 +1914,13 @@ Sections:
       ru: "Сделать активной"
     messengerbot.сard-is-successfully-removed:
       en: "Card is successfully removed"
-      ru: "Карта успешно удалена"  
+      ru: "Карта успешно удалена"
     messengerbot.is-now-default-payment-method:
       en: "is now default payment method"
-      ru: "теперь карта по умолчанию" 
+      ru: "теперь карта по умолчанию"
     messengerbot.failed-to-set-default-payment-method:
       en: "Failed to set default payment method"
-      ru: "Ошибка при установке карты по умолчанию"      
+      ru: "Ошибка при установке карты по умолчанию"
     messengerbot.your-debt-has-been-successfully-paid:
       en: "Your debt has been successfully paid"
       ru: "Ваш долг успешно погашен"
@@ -1957,46 +1960,46 @@ Sections:
     messengerbot.no-suitable-rates-found:
       en: "No suitable rates found"
       ru: "Не найдены доступные тарифы"
-    messengerbot.per-minute-rates:  
+    messengerbot.per-minute-rates:
       en: "Per minute rates"
       ru: "Поминутные тарифы"
-    messengerbot.other-rates:  
+    messengerbot.other-rates:
       en: "Other rates"
       ru: "Другие тарифы"
-    messengerbot.start-the-ride:  
+    messengerbot.start-the-ride:
       en: "Start the ride"
       ru: "Начать поездку"
-    messengerbot.reserve:  
+    messengerbot.reserve:
       en: "Reserve"
       ru: "Забронировать"
-    messengerbot.fuel-level:  
+    messengerbot.fuel-level:
       en: "Fuel level"
       ru: "Уровень топлива"
-    messengerbot.your-ride-is-completed:  
+    messengerbot.your-ride-is-completed:
       en: "Your ride is completed. "
       ru: "Ваша поездка завершена. "
-    messengerbot.total-amount-was:  
+    messengerbot.total-amount-was:
       en: "Total amount was"
       ru: "Общая сумма"
-    messengerbot.you-rode-for:  
+    messengerbot.you-rode-for:
       en: "You rode for"
       ru: "Вы ездили"
-    messengerbot.hr:  
+    messengerbot.hr:
       en: "hr"
       ru: "ч"
-    messengerbot.min:  
+    messengerbot.min:
       en: "min"
       ru: "мин"
-    messengerbot.sec:  
+    messengerbot.sec:
       en: "sec"
-      ru: "сек" 
-    messengerbot.and-passed:  
+      ru: "сек"
+    messengerbot.and-passed:
       en: "and passed"
-      ru: "и проехали" 
-    messengerbot.km:  
+      ru: "и проехали"
+    messengerbot.km:
       en: "km"
-      ru: "км" 
-    messengerbot.see-you-next-time:  
+      ru: "км"
+    messengerbot.see-you-next-time:
       en: "See you next time and have a nice day!"
       ru: "До встречи в следующий раз и хорошего дня!"
     messengerbot.you-have-no-rides-yet:
@@ -2010,7 +2013,7 @@ Sections:
       ru: "велосипедов одновременно"
     messengerbot.per:
       en: "per"
-      ru: "в"  
+      ru: "в"
     messengerbot.total:
       en: "Total"
       ru: "Всего"
@@ -2025,7 +2028,7 @@ Sections:
       ru: "Пожалуйста пришлите несколько фотографий велосипеда"
     messengerbot.please-choose-scooter-to-report:
       en: "Please choose scooter to report"
-      ru: "Выберите велосипед для отчета" 
+      ru: "Выберите велосипед для отчета"
     messengerbot.thanks-for-your-report:
       en: "Thanks for your report!"
       ru: "Спасибо за ваш отчет!"

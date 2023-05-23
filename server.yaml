@@ -6546,3 +6546,6 @@ Sections:
     CarDeleted:
       en: Vehicle deleted
       ru: Транспортное средство удалено
+    UserStartedRentOnSelectedRatePack:
+      en: User have started rent on selected subscription
+      ru: Пользователь начал аренду с абонементом
