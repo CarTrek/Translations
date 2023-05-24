@@ -2032,3 +2032,6 @@ Sections:
     messengerbot.thanks-for-your-report:
       en: "Thanks for your report!"
       ru: "Спасибо за ваш отчет!"
+    messengerbot.switch-language:
+      en: "Switch language"
+      ru: "Переключить язык"
