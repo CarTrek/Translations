@@ -2035,3 +2035,6 @@ Sections:
     messengerbot.switch-language:
       en: "switch language"
       ru: "переключить язык"
+    messengerbot.choose-language:
+      en: "Choose language"
+      ru: "Выберите язык"
