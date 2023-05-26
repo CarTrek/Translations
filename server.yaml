@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightEditTranslations:
+      en: "Edit translations"
+      ru: "Редактирование переводов"
     UserWarningYouHaveCarTicket:
       en: "You have prepaid rental time until {car-ticket-until}. Start a ride without extra payment."
       ru: "У вас оплаченно время аренды до {car-ticket-until}. Начните аренду без дополнительной оплаты."
