@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    translations-editor.switch-show-only-empty-strings:
+      en: "Show empty strings only"
+      ru: "Паказывать только пустые строки"
+    translations-editor.switch-show-only-overriden-strings:
+      en: "Show overriden strings only"
+      ru: "Показывать только переопределённые строки"
     translations-editor.search-text:
       en: "Search..."
       ru: "Поиск..."
