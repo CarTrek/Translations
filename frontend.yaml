@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    translations-editor.search-text:
+      en: "Search..."
+      ru: "Поиск..."
     rates.NotifyOperatorsOnRentStart:
       en: 'The user started the rental with a subscription'
       ru: 'Пользователь начал аренду с абонементом'
