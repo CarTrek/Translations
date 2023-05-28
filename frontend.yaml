@@ -2,7 +2,7 @@ Sections:
   AdminFrontend:
     translations-editor.switch-show-only-empty-strings:
       en: "Show empty strings only"
-      ru: "Паказывать только пустые строки"
+      ru: "Показывать только пустые строки"
     translations-editor.switch-show-only-overridden-strings:
       en: "Show overridden strings only"
       ru: "Показывать только переопределённые строки"
