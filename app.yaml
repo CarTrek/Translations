@@ -2021,60 +2021,79 @@ Sections:
     messengerbot.you-rode-for:
       en: "You rode for"
       ru: "Вы ездили"
+      fr: "Vous avez roulé pour"
     messengerbot.hr:
       en: "hr"
       ru: "ч"
+      fr: "h"
     messengerbot.min:
       en: "min"
       ru: "мин"
+      fr: "min"
     messengerbot.sec:
       en: "sec"
       ru: "сек"
+      fr: "sec"
     messengerbot.and-passed:
       en: "and passed"
       ru: "и проехали"
+      fr: "et a passé"
     messengerbot.km:
       en: "km"
       ru: "км"
+      fr: "km"
     messengerbot.see-you-next-time:
       en: "See you next time and have a nice day!"
       ru: "До встречи в следующий раз и хорошего дня!"
+      fr: "À la prochaine fois et bonne journée!"
     messengerbot.you-have-no-rides-yet:
       en: "You have no rides yet"
       ru: "Вы ещё не совершили ни одной поездки"
+      fr: "Vous n'avez pas encore fait de trajet"
     messengerbot.you-can-rent-up-to:
       en: "You can rent up to"
       ru: "Вы можете арендовать"
+      fr: "Vous pouvez louer jusqu'à"
     messengerbot.scooters-simultaneosly:
       en: "scooters simultaneosly"
       ru: "велосипедов одновременно"
+      fr: "vélos en même temps"
     messengerbot.per:
       en: "per"
       ru: "в"
+      fr: "par"
     messengerbot.total:
       en: "Total"
       ru: "Всего"
+      fr: "Total"
     messengerbot.you-can-rent:
       en: "You can rent"
       ru: "Вы можете арендовать еще"
+      fr: "Vous pouvez louer encore"
     messengerbot.more-scooters:
       en: "more scooters"
       ru: "велосипедов"
+      fr: "plus de vélos"
     messengerbot.please-send-some-photos-of-the-scooter:
       en: "Please send some photos of the scooter"
       ru: "Пожалуйста пришлите несколько фотографий велосипеда"
+      fr: "Veuillez envoyer quelques photos du vélo"
     messengerbot.please-choose-scooter-to-report:
       en: "Please choose scooter to report"
       ru: "Выберите велосипед для отчета"
+      fr: "Veuillez choisir le vélo à signaler"
     messengerbot.thanks-for-your-report:
       en: "Thanks for your report!"
       ru: "Спасибо за ваш отчет!"
+      fr: "Merci pour votre contribution!"
     messengerbot.switch-language:
       en: "switch language"
       ru: "переключить язык"
+      fr: "changer la langue"
     messengerbot.choose-language:
       en: "Choose language"
       ru: "Выберите язык"
+      fr: "Choisir la langue"
     messengerbot.language-successfully-switched:
       en: "Language successfully switched"
       ru: "Язык успешно изменен"
