@@ -1913,84 +1913,111 @@ Sections:
     messengerbot.to-add-payment-card:
       en: "To add the payment card please tap the link below to visit the secure form and then come back to the conversation"
       ru: "Для того, чтобы добавить карту, нажмите на ссылку ниже для заполнения защищенной формы, а затем возвращайтесь"
+      fr: "Pour ajouter la carte de paiement, veuillez cliquer sur le lien ci-dessous pour accéder au formulaire sécurisé, puis revenez à la conversation."
     messengerbot.no-available-payment-methods:
       en: "There are no available payment methods"
       ru: "Нет доступных способов оплаты"
+      fr: "Aucun mode de paiement n'est disponible"
     messengerbot.remove:
       en: "Remove"
       ru: "Удалить"
+      fr: "Supprimer"
     messengerbot.make-active:
       en: "Make active"
       ru: "Сделать активной"
+      fr: "Rendre actif"
     messengerbot.сard-is-successfully-removed:
       en: "Card is successfully removed"
       ru: "Карта успешно удалена"
+      fr: "La carte a été supprimée avec succès"
     messengerbot.is-now-default-payment-method:
       en: "is now default payment method"
       ru: "теперь карта по умолчанию"
+      fr: "est désormais le mode de paiement par défaut"
     messengerbot.failed-to-set-default-payment-method:
       en: "Failed to set default payment method"
       ru: "Ошибка при установке карты по умолчанию"
+      fr: "Échec de la configuration du mode de paiement par défaut"
     messengerbot.your-debt-has-been-successfully-paid:
       en: "Your debt has been successfully paid"
       ru: "Ваш долг успешно погашен"
+      fr: "Votre dette a été payée avec succès"
     messengerbot.vehicle-with-number:
       en: "Vehicle with number"
       ru: "Транспортное средство с номером"
+      fr: "Véhicule avec numéro"
     messengerbot.not-found:
       en: "not found"
       ru: "не найдено"
+      fr: "non trouvé"
     messengerbot.pause:
       en: "Pause"
       ru: "Приостановить"
+      fr: "Mettre en pause"
     messengerbot.finish:
       en: "Finish"
       ru: "Завершить"
+      fr: "Terminer"
     messengerbot.pay-debt:
       en: "Pay dept"
       ru: "Погасить долг"
+      fr: "Payer la dette"
     messengerbot.you-have-a-debt:
       en: "You have a debt"
       ru: "У вас есть непогашенная задолженность"
+      fr: "Vous avez une dette"
     messengerbot.currency:
-      en: "€"
+      en: "$"
       ru: "₽"
+      fr: "€"
     messengerbot.the-scooter-is-unlocked:
       en: "The scooter is unlocked and your rent is started. Have a good ride!"
       ru: "Велосипед разблокирован и аренда начата. Удачно поездки!"
+      fr: "Le scooter est déverrouillé et votre location est lancée. Bon voyage!"
     messengerbot.please-link-a-card:
       en: "Please link a card"
       ru: "Пожалуйста добавьте карту для оплаты"
+      fr: "Veuillez ajouter une carte de paiement"
     messengerbot.ride:
       en: "Ride"
       ru: "Ехать"
+      fr: "Démarrer"
     messengerbot.the-scooter-is-not-available:
       en: "The scooter is not available"
       ru: "Велосипед недоступен"
+      fr: "Le vélo n'est pas disponible"
     messengerbot.no-suitable-rates-found:
       en: "No suitable rates found"
       ru: "Не найдены доступные тарифы"
+      fr: "Aucun tarif disponible trouvé"
     messengerbot.per-minute-rates:
       en: "Per minute rates"
       ru: "Поминутные тарифы"
+      fr: "Tarifs par minute"
     messengerbot.other-rates:
       en: "Other rates"
       ru: "Другие тарифы"
+      fr: "Autres tarifs"
     messengerbot.start-the-ride:
       en: "Start the ride"
       ru: "Начать поездку"
+      fr: "Commencer le trajet"
     messengerbot.reserve:
       en: "Reserve"
       ru: "Забронировать"
+      fr: "Réserver"
     messengerbot.fuel-level:
       en: "Fuel level"
       ru: "Уровень топлива"
+      fr: "Niveau de carburant"
     messengerbot.your-ride-is-completed:
       en: "Your ride is completed. "
       ru: "Ваша поездка завершена. "
+      fr: "Votre trajet est terminé. "
     messengerbot.total-amount-was:
       en: "Total amount was"
       ru: "Общая сумма"
+      fr: "Le montant total est de"
     messengerbot.you-rode-for:
       en: "You rode for"
       ru: "Вы ездили"
