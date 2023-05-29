@@ -1885,27 +1885,31 @@ Sections:
     messengerbot.finish-the-rental:
       en: "finish the rental"
       ru: "завершить аренду"
+      fr: "finir la location"
     messengerbot.list-available-payment-methods:
       en: "list available payment methods"
       ru: "показать доступные способы оплаты"
-    messengerbot.list-available-payment-methods:
-      en: "list available payment methods"
-      ru: "показать доступные способы оплаты"
+      fr: "afficher les modes de paiement disponibles"
     messengerbot.add-payment-method:
       en: "add payment method"
       ru: "добавить способ оплаты"
+      fr: "ajouter un mode de paiement"
     messengerbot.incorrect-answer-format:
       en: "Incorrect answer format"
       ru: "Неверный формат ответа"
+      fr: "Format de réponse incorrect"
     messengerbot.my-rides:
       en: "My rides"
       ru: "Мои аренды"
+      fr: "Mes locations"
     messengerbot.my-cards:
       en: "My cards"
       ru: "Мои карты"
+      fr: "Mes cartes de paiement"
     messengerbot.link-a-card:
       en: "Link a card"
       ru: "Добавить карту"
+      fr: "Ajouter une carte de paiement"
     messengerbot.to-add-payment-card:
       en: "To add the payment card please tap the link below to visit the secure form and then come back to the conversation"
       ru: "Для того, чтобы добавить карту, нажмите на ссылку ниже для заполнения защищенной формы, а затем возвращайтесь"
