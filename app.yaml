@@ -1869,15 +1869,19 @@ Sections:
     messengerbot.write-to-me:
       en: "write to me"
       ru: "напишите мне"
+      fr: "écrivez-moi"
     messengerbot.rent:
       en: "rent"
       ru: "арендовать"
+      fr: "louer"
     messengerbot.more-scooters:
       en: "more scooters / bicycles"
       ru: "самокатов / велосипедов"
+      fr: "plus de trottinettes / vélos"
     messengerbot.scooter-number:
       en: "scooter number"
       ru: "номер самоката"
+      fr: "numéro de la trottinette"
     messengerbot.finish-the-rental:
       en: "finish the rental"
       ru: "завершить аренду"
