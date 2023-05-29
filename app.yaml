@@ -1861,9 +1861,11 @@ Sections:
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
+      fr: "Vous pouvez:"
     messengerbot.see-your-active-rentals:
       en: "see your active rentals"
       ru: "посмотреть ваши активные аренды"
+      fr: "Voir vos locations actives"
     messengerbot.write-to-me:
       en: "write to me"
       ru: "напишите мне"
@@ -2041,4 +2043,5 @@ Sections:
     messengerbot.language-successfully-switched:
       en: "Language successfully switched"
       ru: "Язык успешно изменен"
+      fr: "Changement de langue effectué avec succès"
     
