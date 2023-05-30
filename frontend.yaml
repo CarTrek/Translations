@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    translations-editor.load-more:
+      en: "Load more..."
+      ru: "Загрузить ещё..."
     aside.nav.Translations:
       en: "Translations"
       ru: "Переводы"
