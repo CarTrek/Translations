@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.Translations:
+      en: "Translations"
+      ru: "Переводы"
     translations-editor.switch-show-only-empty-strings:
       en: "Show empty strings only"
       ru: "Показывать только пустые строки"
