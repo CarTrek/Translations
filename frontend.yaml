@@ -798,8 +798,8 @@ Sections:
       en: Error
       ru: Ошибка
     aside.nav.EditableFiles:
-      en: Translations and configs
-      ru: Переводы и конфигурации
+      en: Configs
+      ru: Конфигурации
     news.editor.removePhotoConfirm:
       en: Image will be removed. Are you sure you want to continue?
       ru: Изображение будет удалено. Вы уверены, что хотите продолжить?
