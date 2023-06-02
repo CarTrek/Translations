@@ -10029,8 +10029,8 @@ Sections:
     cars.editor.MechLockerPIN:
       ru: ПИН-код замка
     cars.models.EP:
-      en: Electropedist
-      ru: Электромопед
+      en: "Electric bike"
+      ru: "Электромопед / велосипед"
     cars.models.ES:
       en: Electric scooter
       ru: Электросамокат
