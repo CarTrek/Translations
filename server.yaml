@@ -1,5 +1,14 @@
 Sections:
   Server:
+    RecoveredFromFallingGround:
+      en: "Recovered from falling ground"
+      ru: "Снова стоит"
+    IllegalMoving:
+      en: "Illegal movement"
+      ru: "Кто-то шевелит"
+    FallingGround:
+      en: "Laid on ground"
+      ru: "Упал на бок"
     RightEditTranslations:
       en: "Edit translations"
       ru: "Редактирование переводов"
