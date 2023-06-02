@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.models.carbodytype:
+      en: "Car body type"
+      ru: "Тип кузова"
     cars.bodyTypes.NotSet:
       en: "(Not set)"
       ru: "(Не указан)"
