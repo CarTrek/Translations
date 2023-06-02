@@ -1,5 +1,26 @@
 Sections:
   AdminFrontend:
+    cars.bodyTypes.NotSet:
+      en: "(Not set)"
+      ru: "(Не указан)"
+    cars.bodyTypes.Hatchback:
+      en: "Hatchback"
+      ru: "Хэтчбэк"
+    cars.bodyTypes.Sedan:
+      en: "Sedan"
+      ru: "Седан"
+    cars.bodyTypes.SUV:
+      en: "SUV"
+      ru: "SUV"
+    cars.bodyTypes.Coupe:
+      en: "Coupe"
+      ru: "Купэ"
+    cars.bodyTypes.Cabriolet:
+      en: "Cabriolet"
+      ru: "Кабриолет"
+    cars.bodyTypes.Pickup:
+      en: "Pickup"
+      ru: "Пикап"
     translations-editor.load-more:
       en: "Load more..."
       ru: "Загрузить ещё..."
