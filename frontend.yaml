@@ -1,14 +1,14 @@
 Sections:
-  notifications.RecoveredFromFallingGround:
+  AdminFrontend:
+    notifications.RecoveredFromFallingGround:
       en: "Recovered from falling ground"
       ru: "Снова стоит"
-  notifications.IllegalMoving:
-      en: "Illegal movement"
-      ru: "Кто-то шевелит"
-  notifications.FallingGround:
-      en: "Laid on ground"
-      ru: "Упал на бок"
-  AdminFrontend:
+    notifications.IllegalMoving:
+        en: "Illegal movement"
+        ru: "Кто-то шевелит"
+    notifications.FallingGround:
+        en: "Laid on ground"
+        ru: "Упал на бок"
     cars.models.carbodytype:
       en: "Car body type"
       ru: "Тип кузова"
