@@ -2098,4 +2098,741 @@ Sections:
       en: "Language successfully switched"
       ru: "Язык успешно изменен"
       fr: "Changement de langue effectué avec succès"
-    
+    country-code-AC:
+      en: "Ascension Island"
+      ru: "Остров Вознесения"
+    country-code-AD:
+      en: "Andorra"
+      ru: "Андорра"
+    country-code-AE:
+      en: "United Arab Emirates"
+      ru: "Объединенные Арабские Эмираты"
+    country-code-AF:
+      en: "Afghanistan"
+      ru: "Афганистан"
+    country-code-AG:
+      en: "Antigua and Barbuda"
+      ru: "Антигуа и Барбуда"
+    country-code-AI:
+      en: "Anguilla"
+      ru: "Ангилья"
+    country-code-AL:
+      en: "Albania"
+      ru: "Албания"
+    country-code-AM:
+      en: "Armenia"
+      ru: "Армения"
+    country-code-AO:
+      en: "Angola"
+      ru: "Ангола"
+    country-code-AR:
+      en: "Argentina"
+      ru: "Аргентина"
+    country-code-AS:
+      en: "American Samoa"
+      ru: "Американское Самоа"
+    country-code-AT:
+      en: "Austria"
+      ru: "Австрия"
+    country-code-AU:
+      en: "Australia"
+      ru: "Австралия"
+    country-code-AW:
+      en: "Aruba"
+      ru: "Аруба"
+    country-code-AX:
+      en: "Aland Islands"
+      ru: "Аландские острова"
+    country-code-AZ:
+      en: "Azerbaijan"
+      ru: "Азербайджан"
+    country-code-BA:
+      en: "Bosnia and Herzegovina"
+      ru: "Босния и Герцеговина"
+    country-code-BB:
+      en: "Barbados"
+      ru: "Барбадос"
+    country-code-BD:
+      en: "Bangladesh"
+      ru: "Бангладеш"
+    country-code-BE:
+      en: "Belgium"
+      ru: "Бельгия"
+    country-code-BF:
+      en: "Burkina Faso"
+      ru: "Буркина-Фасо"
+    country-code-BG:
+      en: "Bulgaria"
+      ru: "Болгария"
+    country-code-BH:
+      en: "Bahrain"
+      ru: "Бахрейн"
+    country-code-BI:
+      en: "Burundi"
+      ru: "Бурунди"
+    country-code-BJ:
+      en: "Benin"
+      ru: "Бенин"
+    country-code-BL:
+      en: "Saint Barthélemy"
+      ru: "Сен-Бартельми"
+    country-code-BM:
+      en: "Bermuda"
+      ru: "Бермуды"
+    country-code-BN:
+      en: "Brunei Darussalam"
+      ru: "Бруней-Даруссалам"
+    country-code-BO:
+      en: "Bolivia"
+      ru: "Боливия"
+    country-code-BQ:
+      en: "Bonaire, Sint Eustatius and Saba"
+      ru: "Бонайре, Синт-Эстатиус и Саба"
+    country-code-BR:
+      en: "Brazil"
+      ru: "Бразилия"
+    country-code-BS:
+      en: "Bahamas"
+      ru: "Багамские острова"
+    country-code-BT:
+      en: "Bhutan"
+      ru: "Бутан"
+    country-code-BW:
+      en: "Botswana"
+      ru: "Ботсвана"
+    country-code-BY:
+      en: "Belarus"
+      ru: "Беларусь"
+    country-code-BZ:
+      en: "Belize"
+      ru: "Белиз"
+    country-code-CA:
+      en: "Canada"
+      ru: "Канада"
+    country-code-CC:
+      en: "Cocos (Keeling) Islands"
+      ru: "Кокосовые острова (Килинг)"
+    country-code-CD:
+      en: "Democratic Republic of the Congo"
+      ru: "Демократическая Республика Конго"
+    country-code-CF:
+      en: "Central African Republic"
+      ru: "Центральноафриканская Республика"
+    country-code-CG:
+      en: "Republic of the Congo"
+      ru: "Республика Конго"
+    country-code-CH:
+      en: "Switzerland"
+      ru: "Швейцария"
+    country-code-CI:
+      en: "Ivory Coast"
+      ru: "Кот-д'Ивуар"
+    country-code-CK:
+      en: "Cook Islands"
+      ru: "Острова Кука"
+    country-code-CL:
+      en: "Chile"
+      ru: "Чили"
+    country-code-CM:
+      en: "Cameroon"
+      ru: "Камерун"
+    country-code-CN:
+      en: "China"
+      ru: "Китай"
+    country-code-CO:
+      en: "Colombia"
+      ru: "Колумбия"
+    country-code-CR:
+      en: "Costa Rica"
+      ru: "Коста-Рика"
+    country-code-CU:
+      en: "Cuba"
+      ru: "Куба"
+    country-code-CV:
+      en: "Cape Verde"
+      ru: "Кабо-Верде"
+    country-code-CW:
+      en: "Curaçao"
+      ru: "Кюрасао"
+    country-code-CX:
+      en: "Christmas Island"
+      ru: "Остров Рождества"
+    country-code-CY:
+      en: "Cyprus"
+      ru: "Кипр"
+    country-code-CZ:
+      en: "Czech Republic"
+      ru: "Чехия"
+    country-code-DE:
+      en: "Germany"
+      ru: "Германия"
+    country-code-DJ:
+      en: "Djibouti"
+      ru: "Джибути"
+    country-code-DK:
+      en: "Denmark"
+      ru: "Дания"
+    country-code-DM:
+      en: "Dominica"
+      ru: "Доминика"
+    country-code-DO:
+      en: "Dominican Republic"
+      ru: "Доминиканская Республика"
+    country-code-DZ:
+      en: "Algeria"
+      ru: "Алжир"
+    country-code-EC:
+      en: "Ecuador"
+      ru: "Эквадор"
+    country-code-EE:
+      en: "Estonia"
+      ru: "Эстония"
+    country-code-EG:
+      en: "Egypt"
+      ru: "Египет"
+    country-code-EH:
+      en: "Western Sahara"
+      ru: "Западная Сахара"
+    country-code-ER:
+      en: "Eritrea"
+      ru: "Эритрея"
+    country-code-ES:
+      en: "Spain"
+      ru: "Испания"
+    country-code-ET:
+      en: "Ethiopia"
+      ru: "Эфиопия"
+    country-code-FI:
+      en: "Finland"
+      ru: "Финляндия"
+    country-code-FJ:
+      en: "Fiji"
+      ru: "Фиджи"
+    country-code-FK:
+      en: "Falkland Islands (Malvinas)"
+      ru: "Фолклендские острова (Мальвинские)"
+    country-code-FM:
+      en: "Micronesia"
+      ru: "Микронезия"
+    country-code-FO:
+      en: "Faroe Islands"
+      ru: "Фарерские острова"
+    country-code-FR:
+      en: "France"
+      ru: "Франция"
+    country-code-GA:
+      en: "Gabon"
+      ru: "Габон"
+    country-code-GB:
+      en: "United Kingdom"
+      ru: "Великобритания"
+    country-code-GD:
+      en: "Grenada"
+      ru: "Гренада"
+    country-code-GE:
+      en: "Georgia"
+      ru: "Грузия"
+    country-code-GF:
+      en: "French Guiana"
+      ru: "Французская Гвиана"
+    country-code-GG:
+      en: "Guernsey"
+      ru: "Гернси"
+    country-code-GH:
+      en: "Ghana"
+      ru: "Гана"
+    country-code-GI:
+      en: "Gibraltar"
+      ru: "Гибралтар"
+    country-code-GL:
+      en: "Greenland"
+      ru: "Гренландия"
+    country-code-GM:
+      en: "Gambia"
+      ru: "Гамбия"
+    country-code-GN:
+      en: "Guinea"
+      ru: "Гвинея"
+    country-code-GP:
+      en: "Guadeloupe"
+      ru: "Гваделупа"
+    country-code-GQ:
+      en: "Equatorial Guinea"
+      ru: "Экваториальная Гвинея"
+    country-code-GR:
+      en: "Greece"
+      ru: "Греция"
+    country-code-GT:
+      en: "Guatemala"
+      ru: "Гватемала"
+    country-code-GU:
+      en: "Guam"
+      ru: "Гуам"
+    country-code-GW:
+      en: "Guinea-Bissau"
+      ru: "Гвинея-Бисау"
+    country-code-GY:
+      en: "Guyana"
+      ru: "Гайана"
+    country-code-HK:
+      en: "Hong Kong"
+      ru: "Гонконг"
+    country-code-HN:
+      en: "Honduras"
+      ru: "Гондурас"
+    country-code-HR:
+      en: "Croatia"
+      ru: "Хорватия"
+    country-code-HT:
+      en: "Haiti"
+      ru: "Гаити"
+    country-code-HU:
+      en: "Hungary"
+      ru: "Венгрия"
+    country-code-ID:
+      en: "Indonesia"
+      ru: "Индонезия"
+    country-code-IE:
+      en: "Ireland"
+      ru: "Ирландия"
+    country-code-IL:
+      en: "Israel"
+      ru: "Израиль"
+    country-code-IM:
+      en: "Isle of Man"
+      ru: "Остров Мэн"
+    country-code-IN:
+      en: "India"
+      ru: "Индия"
+    country-code-IQ:
+      en: "Iraq"
+      ru: "Ирак"
+    country-code-IR:
+      en: "Iran"
+      ru: "Иран"
+    country-code-IS:
+      en: "Iceland"
+      ru: "Исландия"
+    country-code-IT:
+      en: "Italy"
+      ru: "Италия"
+    country-code-JE:
+      en: "Jersey"
+      ru: "Джерси"
+    country-code-JM:
+      en: "Jamaica"
+      ru: "Ямайка"
+    country-code-JO:
+      en: "Jordan"
+      ru: "Иордания"
+    country-code-JP:
+      en: "Japan"
+      ru: "Япония"
+    country-code-KE:
+      en: "Kenya"
+      ru: "Кения"
+    country-code-KG:
+      en: "Kyrgyzstan"
+      ru: "Киргизия"
+    country-code-KH:
+      en: "Cambodia"
+      ru: "Камбоджа"
+    country-code-KI:
+      en: "Kiribati"
+      ru: "Кирибати"
+    country-code-KM:
+      en: "Comoros"
+      ru: "Коморы"
+    country-code-KN:
+      en: "Saint Kitts and Nevis"
+      ru: "Сент-Китс и Невис"
+    country-code-KP:
+      en: "North Korea"
+      ru: "Северная Корея"
+    country-code-KR:
+      en: "South Korea"
+      ru: "Южная Корея"
+    country-code-KW:
+      en: "Kuwait"
+      ru: "Кувейт"
+    country-code-KY:
+      en: "Cayman Islands"
+      ru: "Каймановы острова"
+    country-code-KZ:
+      en: "Kazakhstan"
+      ru: "Казахстан"
+    country-code-LA:
+      en: "Laos"
+      ru: "Лаос"
+    country-code-LB:
+      en: "Lebanon"
+      ru: "Ливан"
+    country-code-LC:
+      en: "Saint Lucia"
+      ru: "Сент-Люсия"
+    country-code-LI:
+      en: "Liechtenstein"
+      ru: "Лихтенштейн"
+    country-code-LK:
+      en: "Sri Lanka"
+      ru: "Шри-Ланка"
+    country-code-LR:
+      en: "Liberia"
+      ru: "Либерия"
+    country-code-LS:
+      en: "Lesotho"
+      ru: "Лесото"
+    country-code-LT:
+      en: "Lithuania"
+      ru: "Литва"
+    country-code-LU:
+      en: "Luxembourg"
+      ru: "Люксембург"
+    country-code-LV:
+      en: "Latvia"
+      ru: "Латвия"
+    country-code-LY:
+      en: "Libya"
+      ru: "Ливия"
+    country-code-MA:
+      en: "Morocco"
+      ru: "Марокко"
+    country-code-MC:
+      en: "Monaco"
+      ru: "Монако"
+    country-code-MD:
+      en: "Moldova"
+      ru: "Молдова"
+    country-code-ME:
+      en: "Montenegro"
+      ru: "Черногория"
+    country-code-MF:
+      en: "Saint Martin (French part)"
+      ru: "Сен-Мартен (фр. часть)"
+    country-code-MG:
+      en: "Madagascar"
+      ru: "Мадагаскар"
+    country-code-MH:
+      en: "Marshall Islands"
+      ru: "Маршалловы острова"
+    country-code-MK:
+      en: "North Macedonia"
+      ru: "Северная Македония"
+    country-code-ML:
+      en: "Mali"
+      ru: "Мали"
+    country-code-MM:
+      en: "Myanmar"
+      ru: "Мьянма"
+    country-code-MN:
+      en: "Mongolia"
+      ru: "Монголия"
+    country-code-MO:
+      en: "Macao"
+      ru: "Макао"
+    country-code-MP:
+      en: "Northern Mariana Islands"
+      ru: "Северные Марианские острова"
+    country-code-MQ:
+      en: "Martinique"
+      ru: "Мартиника"
+    country-code-MR:
+      en: "Mauritania"
+      ru: "Мавритания"
+    country-code-MS:
+      en: "Montserrat"
+      ru: "Монтсеррат"
+    country-code-MT:
+      en: "Malta"
+      ru: "Мальта"
+    country-code-MU:
+      en: "Mauritius"
+      ru: "Маврикий"
+    country-code-MV:
+      en: "Maldives"
+      ru: "Мальдивы"
+    country-code-MW:
+      en: "Malawi"
+      ru: "Малави"
+    country-code-MX:
+      en: "Mexico"
+      ru: "Мексика"
+    country-code-MY:
+      en: "Malaysia"
+      ru: "Малайзия"
+    country-code-MZ:
+      en: "Mozambique"
+      ru: "Мозамбик"
+    country-code-NA:
+      en: "Namibia"
+      ru: "Намибия"
+    country-code-NC:
+      en: "New Caledonia"
+      ru: "Новая Каледония"
+    country-code-NE:
+      en: "Niger"
+      ru: "Нигер"
+    country-code-NF:
+      en: "Norfolk Island"
+      ru: "Остров Норфолк"
+    country-code-NG:
+      en: "Nigeria"
+      ru: "Нигерия"
+    country-code-NI:
+      en: "Nicaragua"
+      ru: "Никарагуа"
+    country-code-NL:
+      en: "Netherlands"
+      ru: "Нидерланды"
+    country-code-NO:
+      en: "Norway"
+      ru: "Норвегия"
+    country-code-NP:
+      en: "Nepal"
+      ru: "Непал"
+    country-code-NR:
+      en: "Nauru"
+      ru: "Науру"
+    country-code-NU:
+      en: "Niue"
+      ru: "Ниуэ"
+    country-code-NZ:
+      en: "New Zealand"
+      ru: "Новая Зеландия"
+    country-code-OM:
+      en: "Oman"
+      ru: "Оман"
+    country-code-PA:
+      en: "Panama"
+      ru: "Панама"
+    country-code-PE:
+      en: "Peru"
+      ru: "Перу"
+    country-code-PF:
+      en: "French Polynesia"
+      ru: "Французская Полинезия"
+    country-code-PG:
+      en: "Papua New Guinea"
+      ru: "Папуа — Новая Гвинея"
+    country-code-PH:
+      en: "Philippines"
+      ru: "Филиппины"
+    country-code-PK:
+      en: "Pakistan"
+      ru: "Пакистан"
+    country-code-PL:
+      en: "Poland"
+      ru: "Польша"
+    country-code-PM:
+      en: "Saint Pierre and Miquelon"
+      ru: "Сен-Пьер и Микелон"
+    country-code-PN:
+      en: "Pitcairn"
+      ru: "Питкэрн"
+    country-code-PR:
+      en: "Puerto Rico"
+      ru: "Пуэрто-Рико"
+    country-code-PS:
+      en: "Palestine"
+      ru: "Палестина"
+    country-code-PT:
+      en: "Portugal"
+      ru: "Португалия"
+    country-code-PW:
+      en: "Palau"
+      ru: "Палау"
+    country-code-PY:
+      en: "Paraguay"
+      ru: "Парагвай"
+    country-code-QA:
+      en: "Qatar"
+      ru: "Катар"
+    country-code-RE:
+      en: "Réunion"
+      ru: "Реюньон"
+    country-code-RO:
+      en: "Romania"
+      ru: "Румыния"
+    country-code-RS:
+      en: "Serbia"
+      ru: "Сербия"
+    country-code-RU:
+      en: "Russia"
+      ru: "Россия"
+    country-code-RW:
+      en: "Rwanda"
+      ru: "Руанда"
+    country-code-SA:
+      en: "Saudi Arabia"
+      ru: "Саудовская Аравия"
+    country-code-SB:
+      en: "Solomon Islands"
+      ru: "Соломоновы острова"
+    country-code-SC:
+      en: "Seychelles"
+      ru: "Сейшельские острова"
+    country-code-SD:
+      en: "Sudan"
+      ru: "Судан"
+    country-code-SE:
+      en: "Sweden"
+      ru: "Швеция"
+    country-code-SG:
+      en: "Singapore"
+      ru: "Сингапур"
+    country-code-SH:
+      en: "Saint Helena, Ascension and Tristan da Cunha"
+      ru: "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+    country-code-SI:
+      en: "Slovenia"
+      ru: "Словения"
+    country-code-SJ:
+      en: "Svalbard and Jan Mayen"
+      ru: "Шпицберген и Ян-Майен"
+    country-code-SK:
+      en: "Slovakia"
+      ru: "Словакия"
+    country-code-SL:
+      en: "Sierra Leone"
+      ru: "Сьерра-Леоне"
+    country-code-SM:
+      en: "San Marino"
+      ru: "Сан-Марино"
+    country-code-SN:
+      en: "Senegal"
+      ru: "Сенегал"
+    country-code-SO:
+      en: "Somalia"
+      ru: "Сомали"
+    country-code-SR:
+      en: "Suriname"
+      ru: "Суринам"
+    country-code-SS:
+      en: "South Sudan"
+      ru: "Южный Судан"
+    country-code-ST:
+      en: "Sao Tome and Principe"
+      ru: "Сан-Томе и Принсипи"
+    country-code-SV:
+      en: "El Salvador"
+      ru: "Сальвадор"
+    country-code-SX:
+      en: "Sint Maarten (Dutch part)"
+      ru: "Синт-Мартен (нидерл. часть)"
+    country-code-SY:
+      en: "Syria"
+      ru: "Сирия"
+    country-code-SZ:
+      en: "Eswatini"
+      ru: "Эсватини"
+    country-code-TC:
+      en: "Turks and Caicos Islands"
+      ru: "Теркс и Кайкос"
+    country-code-TD:
+      en: "Chad"
+      ru: "Чад"
+    country-code-TF:
+      en: "French Southern Territories"
+      ru: "Французские Южные и Антарктические территории"
+    country-code-TG:
+      en: "Togo"
+      ru: "Того"
+    country-code-TH:
+      en: "Thailand"
+      ru: "Таиланд"
+    country-code-TJ:
+      en: "Tajikistan"
+      ru: "Таджикистан"
+    country-code-TK:
+      en: "Tokelau"
+      ru: "Токелау"
+    country-code-TL:
+      en: "Timor-Leste"
+      ru: "Восточный Тимор"
+    country-code-TM:
+      en: "Turkmenistan"
+      ru: "Туркменистан"
+    country-code-TN:
+      en: "Tunisia"
+      ru: "Тунис"
+    country-code-TO:
+      en: "Tonga"
+      ru: "Тонга"
+    country-code-TR:
+      en: "Turkey"
+      ru: "Турция"
+    country-code-TT:
+      en: "Trinidad and Tobago"
+      ru: "Тринидад и Тобаго"
+    country-code-TV:
+      en: "Tuvalu"
+      ru: "Тувалу"
+    country-code-TW:
+      en: "Taiwan"
+      ru: "Тайвань"
+    country-code-TZ:
+      en: "Tanzania"
+      ru: "Танзания"
+    country-code-UA:
+      en: "Ukraine"
+      ru: "Украина"
+    country-code-UG:
+      en: "Uganda"
+      ru: "Уганда"
+    country-code-UM:
+      en: "United States Minor Outlying Islands"
+      ru: "Внешние малые острова США"
+    country-code-US:
+      en: "United States"
+      ru: "США"
+    country-code-UY:
+      en: "Uruguay"
+      ru: "Уругвай"
+    country-code-UZ:
+      en: "Uzbekistan"
+      ru: "Узбекистан"
+    country-code-VA:
+      en: "Vatican City"
+      ru: "Ватикан"
+    country-code-VC:
+      en: "Saint Vincent and the Grenadines"
+      ru: "Сент-Винсент и Гренадины"
+    country-code-VE:
+      en: "Venezuela"
+      ru: "Венесуэла"
+    country-code-VG:
+      en: "British Virgin Islands"
+      ru: "Британские Виргинские острова"
+    country-code-VI:
+      en: "U.S. Virgin Islands"
+      ru: "Американские Виргинские острова"
+    country-code-VN:
+      en: "Vietnam"
+      ru: "Вьетнам"
+    country-code-VU:
+      en: "Vanuatu"
+      ru: "Вануату"
+    country-code-WF:
+      en: "Wallis and Futuna"
+      ru: "Уоллис и Футуна"
+    country-code-WS:
+      en: "Samoa"
+      ru: "Самоа"
+    country-code-XK:
+      en: "Kosovo"
+      ru: "Косово"
+    country-code-YE:
+      en: "Yemen"
+      ru: "Йемен"
+    country-code-YT:
+      en: "Mayotte"
+      ru: "Майотта"
+    country-code-ZA:
+      en: "South Africa"
+      ru: "Южная Африка"
+    country-code-ZM:
+      en: "Zambia"
+      ru: "Замбия"
+    country-code-ZW:
+      en: "Zimbabwe"
+      ru: "Зимбабве"
