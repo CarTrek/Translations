@@ -4758,6 +4758,9 @@ Sections:
       ka: მანქანის დამუხტვის დონის შეცვლა
       en: Change car fuel level
       ru: Изменять уровень топлива автомобилей
+    RightChangeCarLogic:
+      en: Change vehicle logic
+      ru: Изменять логику поведения ТС
     RightChangeCars:
       cs: Měnit údaje o vozidlech
       ka: ავტომობილების მონაცემების შეცვლა
