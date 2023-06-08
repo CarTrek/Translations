@@ -487,7 +487,7 @@ Sections:
     EmailSubjectRadarCarFound:
       en: "The radar has found a car for you"
       ru: "Радар нашёл для вас машину"
-    EmailManualWriteOffEmail:
+    EmailManualWriteOff:
       en: "Manual write off"
       ru: "Ручное списание"
     EmailSubjectSpeedLimitExceeded:
