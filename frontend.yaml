@@ -4439,9 +4439,9 @@ Sections:
       ru: Управление блокировкой
     clients.list.Approving:
       cs: schválení
-      en: Approving
+      en: Approved
       ge: დადასტურება
-      ru: Одобрение
+      ru: Одобрен
     clients.list.SendEmail:
       cs: odeslat zprávu?
       en: Do you want to send e-mail?
