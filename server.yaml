@@ -1,5 +1,8 @@
 Sections:
   Server:
+    PaymentAlreadyInProcess:
+      en: "Payment is currently processing, still didn't get an answer from payment gateway"
+      ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
     RecoveredFromFallingGround:
       en: "Recovered from falling ground"
       ru: "Снова стоит"
