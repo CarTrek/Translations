@@ -442,8 +442,20 @@ Sections:
       en: Switch language
       ru: Переключить язык
     take-photo.min-photo-count-header-message:
-      en: Please take {photo-count} photo(s)
-      ru: Пожалуйста, сделайте {photo-count} фото
+      en: "Please take {photo-count} photo(s)"
+      ru: "Пожалуйста, сделайте {photo-count} фото"
+    take-photo.tap-to-continue:
+      en: "Tap to continue"
+      ru: "Нажмите, чтобы продолжить"
+    take-photo.message.loading:
+      en: "Loading..."
+      ru: "Загрузка..."
+    take-photo.message.error:
+      en: "Could not access your cam"
+      ru: "Не удалось получить доступ к камере"
+    take-photo.message.black-photo:
+      en: "The photo is too dark, please try again."
+      ru: "Не удалось получить доступ к камере"
     card-v2.private-ride:
       en: Private ride
       ru: Частная поездка
@@ -558,9 +570,6 @@ Sections:
     card-v2.waiting:
       en: waiting
       ru: ожидание
-    take-photo.tap-to-continue:
-      en: Tap to continue
-      ru: Нажмите, чтобы продолжить
     per.minute:
       en: 'per minute'
       ru: 'в минуту'
@@ -811,12 +820,6 @@ Sections:
     pin-code.close:
       en: 'Done'
       ru: 'Готово'
-    take-photo.message.loading:
-      en: 'Loading...'
-      ru: 'Загрузка...'
-    take-photo.message.error:
-      en: 'Could not access your cam'
-      ru: 'Не удалось получить доступ к камере'
     appless.insurance-conditions-title:
       en: 'Insurance conditions'
       ru: 'Условия страховки'
