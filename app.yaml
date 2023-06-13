@@ -455,7 +455,7 @@ Sections:
       ru: "Не удалось получить доступ к камере"
     take-photo.message.black-photo:
       en: "The photo is too dark, please try again."
-      ru: "Не удалось получить доступ к камере"
+      ru: "Слишком темное фото, пожалуйста попробуйте сделать ещё раз."
     card-v2.private-ride:
       en: Private ride
       ru: Частная поездка
