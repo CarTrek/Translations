@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.RenewOnFinish:
+      en: "Renew automatically after finish"
+      ru: "Продлевать автоматически после окончания"
     notifications.RecoveredFromFallingGround:
       en: "Recovered from falling ground"
       ru: "Снова стоит"
