@@ -173,6 +173,15 @@ Sections:
     report-screen.accept-act-link:
       en: "Show the act..."
       ru: "Показать акт..."
+    card-v2.button-tech-order-ride:
+      en: "▶️ Ride"
+      ru: "▶️ Поездка"
+    card-v2.button-tech-order-pause:
+      en: "⏸️ Pause"
+      ru: "⏸️ Пауза"
+    card-v2.button-tech-order-finish:
+      en: "⏹️ Finish"
+      ru: "⏹️ Завершить"
     card-v2.button-switch-organizations:
       en: "👨‍🔧 Organizations"
       ru: "👨‍🔧 Организации"
