@@ -1,8 +1,11 @@
 Sections:
   iOS:
+    menu.goToProfile:
+      en: "go to profile"
+      ru: "открыть профиль"
     rate.readMore:
-     en: 'Read more...'
-     ru: 'Подробнее...'
+      en: 'Read more...'
+      ru: 'Подробнее...'
     map.speedRestrictionNormalDescription:
       en: 'This zone has a limit of 15 km/h. The scooter will switch speed automatically.'
       ru: 'В этой зоне установлено ограничение 15 км/ч. Самокат переключит скорость автоматически.'
