@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.purchase-confirmation-title:
+      en: "Purchase subscription"
+      ru: "Покупка подписки"
     signin.send-code-to-whatsapp:
       en: "Send code to WhatsApp"
       ru: "Отправить код в WhatsApp"
