@@ -925,6 +925,12 @@ Sections:
       cs: 'Při objednávce nelze přepínat pojištění'
       ka: 'თქვენ არ შეგიძლიათ გადახვიდეთ სადაზღვევო დროს მიზნით'
       uk: 'Не можна перемикати страховку під час замовлення'
+    SwitchInsuranceResultEnumFailedMinimumTimeFromLastOrder:
+      en: 'Not enough time has passed since the last ride'
+      ru: 'Прошло недостаточно времени с момента последней поездки'
+      cs: 'Od poslední jízdy neuplynulo dost času'
+      ka: 'ბოლო გასეირნების შემდეგ საკმარისი დრო არ გასულა'
+      uk: 'Недостатньо часу пройшло з останньої поїздки'
     PuchaseBonusesFailedNotAuthorized:
       en: 'Not authorized'
       ru: 'Вы не авторизованы'
