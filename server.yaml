@@ -926,11 +926,11 @@ Sections:
       ka: 'თქვენ არ შეგიძლიათ გადახვიდეთ სადაზღვევო დროს მიზნით'
       uk: 'Не можна перемикати страховку під час замовлення'
     SwitchInsuranceResultEnumFailedMinimumTimeFromLastOrder:
-      en: 'Not enough time has passed since the last ride'
-      ru: 'Прошло недостаточно времени с момента последней поездки'
-      cs: 'Od poslední jízdy neuplynulo dost času'
-      ka: 'ბოლო გასეირნების შემდეგ საკმარისი დრო არ გასულა'
-      uk: 'Недостатньо часу пройшло з останньої поїздки'
+      en: 'Not enough time has elapsed since the last trip to switch insurance'
+      ru: 'Для переключения страховки прошло недостаточно времени с момента последней поездки'
+      cs: 'Od poslední cesty neuplynula dostatečná doba ke změně pojištění'
+      ka: 'არ არის საკმარისი დრო გასული ბოლო მოგზაურობიდან დაზღვევის გადასართავად'
+      uk: 'З моменту останньої поїздки минуло недостатньо часу для зміни страховки'
     PuchaseBonusesFailedNotAuthorized:
       en: 'Not authorized'
       ru: 'Вы не авторизованы'
