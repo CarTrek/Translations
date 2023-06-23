@@ -1,5 +1,14 @@
 Sections:
   Server:
+    NotificationSubscriptionEndsSoon:
+      en: "Your subscription {SubscriptionName} ends soon"
+      ru: "Ваша подписка {SubscriptionName} скоро закончится"
+    NotificationSubscriptionIsEnded:
+      en: "Your subscription {SubscriptionName} finished"
+      ru: "Ваша подписка {SubscriptionName} закончилась"
+    NotificationSubscriptionRenewed:
+      en: "Your subscription {SubscriptionName} was renewed"
+      ru: "Ваша подписка {SubscriptionName} обновлена"
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
