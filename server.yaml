@@ -3519,6 +3519,9 @@ Sections:
       ka: შესვლა  სისტემაში
       en: Log in backend
       ru: Авторизация в бакенде
+    SubscriptionCancelledByUser:
+      en: "Subscription cancelled by user"
+      ru: "Подписка отменена пользователем"
     LoggedInToFrontend:
       cs: Přihlášení zákazníka
       ka: კლიენტების ავტორიზაცია
