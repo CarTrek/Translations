@@ -21,6 +21,9 @@ Sections:
     drawer.button-add-bonuses:
       en: "Top up"
       ru: "Пополнить"
+    drawer.menuItemSubscription:
+      en: "Subscription"
+      ru: "Подписка"
     drawer.menuItemSupportChat:
       en: "Chat with support"
       ru: "Чат с поддержкой"
