@@ -134,6 +134,9 @@ Sections:
     profile.logout-profile-button:
       en: "Sign out"
       ru: "Выход"
+    subscription.cancel-confirmation-title:
+      en: "Cancel subscription"
+      ru: "Отмена подписки"
     subscription.cancel-confirmation-message:
       en: "Are you sure you want to cancel the subscription?"
       ru: "Вы уверены, что хотите отменить подписку?"
