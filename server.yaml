@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CanNotRemoveAccountDueToActiveOrder:
+      en: "You have an active rental. Please finish and try again"
+      ru: "У вас есть незавершённый заказ. Пожалуста, завершите его и попробуйте снова"
     NotificationSubscriptionEndsSoon:
       en: "Your subscription {SubscriptionName} ends soon"
       ru: "Ваша подписка {SubscriptionName} скоро закончится"
