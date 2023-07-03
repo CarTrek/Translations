@@ -755,6 +755,12 @@ Sections:
     cars.editor.LOGICOPTION:
       en: Option
       ru: Настройка
+    cars.editor.LOGICCOMMANDS:
+      en: Commands
+      ru: Команды
+    cars.editor.LOGICOPTIONS:
+      en: Options
+      ru: Опции
     cars.editor.LOGICVALUE:
       en: Value
       ru: Значение
