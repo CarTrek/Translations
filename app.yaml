@@ -511,11 +511,11 @@ Sections:
       en: "The tariff was purchased successfully"
       ru: "Тариф успешно приобретён"
     card-without-auth.message:
-      en: "You are not registered to rent a car"
-      ru: "Вы не зарегистрированы чтобы арендовать машину"
+      en: "To see the tariffs and to rent a car you must be resistered user"
+      ru: "Чтобы посмотреть тарифы и арендовать машину вы должны быть зарегистрированным пользователем"
     card-without-auth.button:
-      en: "Register to see rates"
-      ru: "Зарегистрироваться, чтобы увидеть тарифы"
+      en: "Sign up or sign in"
+      ru: "Зарегистрироваться или войти"
     rate-select.rent-started:
       en: Your rental has been started
       ru: Ваша аренда началась
