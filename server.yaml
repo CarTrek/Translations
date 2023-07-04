@@ -1,5 +1,17 @@
 Sections:
   Server:
+    CanNotRemoveAccountDueToActiveOrder:
+      en: "You have an active rental. Please finish and try again"
+      ru: "У вас есть незавершённый заказ. Пожалуста, завершите его и попробуйте снова"
+    NotificationSubscriptionEndsSoon:
+      en: "Your subscription {SubscriptionName} ends soon"
+      ru: "Ваша подписка {SubscriptionName} скоро закончится"
+    NotificationSubscriptionIsEnded:
+      en: "Your subscription {SubscriptionName} finished"
+      ru: "Ваша подписка {SubscriptionName} закончилась"
+    NotificationSubscriptionRenewed:
+      en: "Your subscription {SubscriptionName} was renewed"
+      ru: "Ваша подписка {SubscriptionName} обновлена"
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
@@ -925,6 +937,12 @@ Sections:
       cs: 'Při objednávce nelze přepínat pojištění'
       ka: 'თქვენ არ შეგიძლიათ გადახვიდეთ სადაზღვევო დროს მიზნით'
       uk: 'Не можна перемикати страховку під час замовлення'
+    SwitchInsuranceResultEnumFailedMinimumTimeFromLastOrder:
+      en: 'Not enough time has elapsed since the last trip to switch insurance'
+      ru: 'Для переключения страховки прошло недостаточно времени с момента последней поездки'
+      cs: 'Od poslední cesty neuplynula dostatečná doba ke změně pojištění'
+      ka: 'არ არის საკმარისი დრო გასული ბოლო მოგზაურობიდან დაზღვევის გადასართავად'
+      uk: 'З моменту останньої поїздки минуло недостатньо часу для зміни страховки'
     PuchaseBonusesFailedNotAuthorized:
       en: 'Not authorized'
       ru: 'Вы не авторизованы'
@@ -3504,6 +3522,9 @@ Sections:
       ka: შესვლა  სისტემაში
       en: Log in backend
       ru: Авторизация в бакенде
+    SubscriptionCancelledByUser:
+      en: "Subscription cancelled by user"
+      ru: "Подписка отменена пользователем"
     LoggedInToFrontend:
       cs: Přihlášení zákazníka
       ka: კლიენტების ავტორიზაცია

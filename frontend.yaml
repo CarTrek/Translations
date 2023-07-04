@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.RenewOnFinish:
+      en: "Renew automatically after finish"
+      ru: "Продлевать автоматически после окончания"
     notifications.RecoveredFromFallingGround:
       en: "Recovered from falling ground"
       ru: "Снова стоит"
@@ -752,6 +755,12 @@ Sections:
     cars.editor.LOGICOPTION:
       en: Option
       ru: Настройка
+    cars.editor.LOGICCOMMANDS:
+      en: Commands
+      ru: Команды
+    cars.editor.LOGICOPTIONS:
+      en: Options
+      ru: Опции
     cars.editor.LOGICVALUE:
       en: Value
       ru: Значение
@@ -4622,6 +4631,11 @@ Sections:
       en: Bank card
       ge: საბანკო ბარათი
       ru: Банковская карта
+    clients.editor.WithInsurance:
+      cs: S pojištěním
+      en: With insurance
+      ge: დაზღვევით
+      ru: Со страховкой
     clients.editor.UnderSupervision:
       cs: zřízen dohled
       en: Under control

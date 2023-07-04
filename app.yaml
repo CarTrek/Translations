@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.purchase-confirmation-title:
+      en: "Purchase subscription"
+      ru: "Покупка подписки"
     signin.send-code-to-whatsapp:
       en: "Send code to WhatsApp"
       ru: "Отправить код в WhatsApp"
@@ -18,6 +21,9 @@ Sections:
     drawer.button-add-bonuses:
       en: "Top up"
       ru: "Пополнить"
+    drawer.menuItemSubscription:
+      en: "Subscription"
+      ru: "Подписка"
     drawer.menuItemSupportChat:
       en: "Chat with support"
       ru: "Чат с поддержкой"
@@ -128,6 +134,9 @@ Sections:
     profile.logout-profile-button:
       en: "Sign out"
       ru: "Выход"
+    subscription.cancel-confirmation-title:
+      en: "Cancel subscription"
+      ru: "Отмена подписки"
     subscription.cancel-confirmation-message:
       en: "Are you sure you want to cancel the subscription?"
       ru: "Вы уверены, что хотите отменить подписку?"
@@ -173,6 +182,15 @@ Sections:
     report-screen.accept-act-link:
       en: "Show the act..."
       ru: "Показать акт..."
+    card-v2.button-tech-order-ride:
+      en: "▶️ Ride"
+      ru: "▶️ Поездка"
+    card-v2.button-tech-order-pause:
+      en: "⏸️ Pause"
+      ru: "⏸️ Пауза"
+    card-v2.button-tech-order-finish:
+      en: "⏹️ Finish"
+      ru: "⏹️ Завершить"
     card-v2.button-switch-organizations:
       en: "👨‍🔧 Organizations"
       ru: "👨‍🔧 Организации"
