@@ -492,6 +492,12 @@ Sections:
     card-v2.car-ticked-purchased:
       en: "The tariff was purchased successfully"
       ru: "Тариф успешно приобретён"
+    card-without-auth.message:
+      en: "You are not registered to rent a car"
+      ru: "Вы не зарегистрированы чтобы арендовать машину"
+    card-without-auth.button:
+      en: "Register to see rates"
+      ru: "Зарегистрироваться, чтобы увидеть тарифы"
     rate-select.rent-started:
       en: Your rental has been started
       ru: Ваша аренда началась
@@ -1069,6 +1075,9 @@ Sections:
     signin.smscode-header-text:
       en: We sent a text message with a code to phone number {phone-number}. Please enter the code
       ru: Мы отправили SMS c кодом на телефон {phone-number}. Пожалуйста, введите этот код
+    signin.without-auth:
+      en: View available cars
+      ru: Посмотреть доступные машины
     signup.screen-title:
       en: Registration
       ru: Регистрация
