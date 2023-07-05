@@ -1,5 +1,26 @@
 Sections:
   AdminFrontend:
+    cars.brands.new:
+      en: "Creating"
+      ru: "Создание"
+    cars.brands.general:
+      en: "General"
+      ru: "Основное"
+    cars.brands.editing:
+      en: "Editing"
+      ru: "Редактирование"
+    cars.brands.displayname:
+      en: "Name"
+      ru: "Название"
+    cars.brands.add:
+      en: "Add"
+      ru: "Добавить"
+    cars.brands.list:
+      en: "Brands list"
+      ru: "Список брендов"
+    aside.nav.cars.brands:
+      en: "Brands"
+      ru: "Бренды"
     rates.RenewOnFinish:
       en: "Renew automatically after finish"
       ru: "Продлевать автоматически после окончания"
