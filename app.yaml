@@ -511,7 +511,7 @@ Sections:
       en: "The tariff was purchased successfully"
       ru: "Тариф успешно приобретён"
     card-without-auth.message:
-      en: "To see the tariffs and to rent a car you must be resistered user"
+      en: "To see the tariffs and to rent a car you must be registered user"
       ru: "Чтобы посмотреть тарифы и арендовать машину вы должны быть зарегистрированным пользователем"
     card-without-auth.button:
       en: "Sign up or sign in"
