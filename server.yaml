@@ -1832,6 +1832,9 @@ Sections:
       en: Please close the car roof
       ru: Закройте крышу автомобиля
       uk: Закрийте дах автомобіля
+    CarCommandResultErrorCheckWindows:
+      en: Please close the car windows
+      ru: Закройте окна автомобиля
     CarCommandResultErrorRRDoorIsOpened:
       cs: Zadní pravé dveře nejsou zavřené
       ka: უკანა მარჯვენა კარი არ არის ჩაკეტილი.
