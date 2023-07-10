@@ -6150,6 +6150,18 @@ Sections:
       en: Rear right belt
       ge: უკანა მარჯვენა ღვედი
       ru: Задний правый ремень
+    cars.editor.IsDriversWindowOpened:
+      en: Drivers window
+      ru: Водительское окно
+    cars.editor.IsPassengerWindowOpened:
+      en: Passenger window
+      ru: Пассажирский ремень
+    cars.editor.IsRearLeftWindowOpened:
+      en: Rear left window
+      ru: Заднее левое окно
+    cars.editor.IsRearRightWindowOpened:
+      en: Rear right window
+      ru: Заднее правое окно
     cars.editor.IsRearCentralBeltInserted:
       cs: Střední bezpečnostní pás
       en: Central belt
