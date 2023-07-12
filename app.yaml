@@ -689,6 +689,12 @@ Sections:
     after-ride-photos.top-inspection-description:
       en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
       ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
+    after-ride-photos.timer-free-inspect:
+      en: 'Free inspection'
+      ru: 'Бесплатный осмотр'
+    after-ride-photos.timer-paid-inspect:
+      en: 'Paid inspection'
+      ru: 'Платный осмотр'
     after-ride.cancel-booking-title:
       en: 'Cancel the booking'
       ru: 'Отмена бронирования'
