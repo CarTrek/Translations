@@ -690,11 +690,11 @@ Sections:
       en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
       ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
     after-ride-photos.timer-free-inspect:
-      en: 'Free inspection {timer}'
-      ru: 'Бесплатный осмотр {timer}'
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
     after-ride-photos.timer-paid-inspect:
-      en: 'Paid inspection {cost} {symbol}'
-      ru: 'Платный осмотр {cost} {symbol}'
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
     after-ride.cancel-booking-title:
       en: 'Cancel the booking'
       ru: 'Отмена бронирования'
