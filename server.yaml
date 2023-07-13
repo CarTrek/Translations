@@ -503,8 +503,8 @@ Sections:
       en: "The radar has found a car for you"
       ru: "Радар нашёл для вас машину"
     EmailManualWriteOff:
-      en: "Manual write off"
-      ru: "Ручное списание"
+      en: "We charged your account"
+      ru: "Списание "
     EmailSubjectSpeedLimitExceeded:
       en: Speed limit violation
       ru: Вы превысили скорость
