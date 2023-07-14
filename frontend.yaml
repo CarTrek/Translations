@@ -1166,8 +1166,8 @@ Sections:
       en: App version
       ru: Версия приложения
     rates.MoveToOrganizationOnRentEnd:
-      en: Move to selected organizations on rent end
-      ru: Перемещать в следующие организации при завершении аренды
+      en: Move vehicle the organizations on rent end
+      ru: Перемещать ТС в организации по завершении аренды
     rates.NotifyOperatorsOnRentEnd:
       en: Notify operators when user ends his rent
       ru: Уведомлять операторов при завершении заказа
