@@ -1689,8 +1689,8 @@ Sections:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
     date-delivery.confirm-button:
-        en: 'Confirm'
-        ru: 'Подтвердить время'
+        en: 'Choose date'
+        ru: 'Выбрать дату'
     date-delivery.ok-button:
         en: 'Ok'
         ru: 'Ок'
