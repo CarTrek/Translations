@@ -1737,7 +1737,7 @@ Sections:
         en: '# of Seats'
         ru: 'Количество мест'
     car-details.select-button:
-        en: 'Select'
+        en: 'Choose'
         ru: 'Выбрать'
     map-delivery.screen-title:
         en: 'Delivery location'
