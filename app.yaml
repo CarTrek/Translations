@@ -1740,8 +1740,8 @@ Sections:
         en: 'Choose'
         ru: 'Выбрать'
     map-delivery.screen-title:
-        en: 'Delivery location'
-        ru: 'Место доставки'
+        en: 'Delivery address'
+        ru: 'Адрес доставки'
     map-delivery.confirm-button:
         en: 'Confirm'
         ru: 'Подтвердить'
