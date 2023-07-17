@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.ShowCarsToNotLoggedIn:
+      en: "Show vehicles to not logged in users"
+      ru: "Показывать ТС незалогиненным пользователям"
     cars.brands.new:
       en: "Creating"
       ru: "Создание"
