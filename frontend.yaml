@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    rates.RemoveDriverFromOrganizationsOnRentEnd:
+      en: "Remove driver from organizations"
+      ru: "Убрать водителя из организаций"
+    rates.MoveDriverToOrganizationsOnRentEnd:
+      en: "Move driver to organizations"
+      ru: "Поместить водителя в организации"
+    rates.editor.AfterRentLogic:
+      en: "Logic after rent"
+      ru: "Логика после аренды"
+    organizations.ShowCarsToNotLoggedIn:
+      en: "Show vehicles to not logged in users"
+      ru: "Показывать ТС незалогиненным пользователям"
     cars.brands.new:
       en: "Creating"
       ru: "Создание"
@@ -69,6 +81,9 @@ Sections:
     translations-editor.switch-show-only-overridden-strings:
       en: "Show overridden strings only"
       ru: "Показывать только переопределённые строки"
+    translations-editor.switch-show-only-not-overridden-strings:
+      en: "Show not overridden strings only"
+      ru: "Показывать только не переопределённые строки"
     translations-editor.search-text:
       en: "Search..."
       ru: "Поиск..."
