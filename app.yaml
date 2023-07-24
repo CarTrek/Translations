@@ -2872,3 +2872,6 @@ Sections:
     country-code-ZW:
       en: "Zimbabwe"
       ru: "Зимбабве"
+    search-car.close:
+      en: "Close"
+      ru: "Закрыть"
