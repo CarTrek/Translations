@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    cars.options.list:
+      en: "Options list"
+      ru: "Список опций"
+    aside.nav.cars.options:
+      en: "Car options"
+      ru: "Доп. опции машин"
     rates.RemoveDriverFromOrganizationsOnRentEnd:
       en: "Remove driver from organizations"
       ru: "Убрать водителя из организаций"
