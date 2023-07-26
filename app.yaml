@@ -1799,6 +1799,15 @@ Sections:
     change-booking.message:
         en: 'Your request is being processed. We will call you soon to confirm the booking and delivery details.'
         ru: 'Ваш запрос обрабатывается. Мы свяжемся с вами в ближайшее время, чтобы подтвердить детали бронирования и доставки.'
+    change-booking.status.confirm:
+      en: 'We will confirm delivery very soon'
+      ru: 'Мы подтвердим доставку очень скоро'
+    change-booking.status.confirmed:
+      en: 'Delivery confirmed'
+      ru: 'Доставка подтверждена'
+    change-booking.status.delivered:
+      en: 'Car delivered'
+      ru: 'Автомобиль доставлен'
     change-booking.agreement:
         en: 'Car rental agreement'
         ru: 'Договор аренды'
