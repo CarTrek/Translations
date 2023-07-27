@@ -1,5 +1,8 @@
 Sections:
   App:
+    appless.rent.support:
+      en: "👩🏼‍🔧 Support"
+      ru: "👩🏼‍🔧 Поддержка"
     subscription.purchase-confirmation-title:
       en: "Purchase subscription"
       ru: "Покупка подписки"
