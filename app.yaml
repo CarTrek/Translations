@@ -1838,6 +1838,9 @@ Sections:
     change-booking.delivery:
       en: 'Delivery'
       ru: 'Доставка'
+    change-booking.address:
+      en: '{address} at {hours}'
+      ru: '{address} в {hours}'
     change-booking.instructions:
       en: 'Instructions'
       ru: 'Инструкции'
