@@ -1826,6 +1826,18 @@ Sections:
     change-booking.cancel-message:
         en: 'Are you sure you want to cancel the booking?'
         ru: 'Вы уверены, что хотите отменить бронирование?'
+    change-booking.delivery-date:
+      en: 'Rental start'
+      ru: 'Начало аренды'
+    change-booking.period:
+      en: 'Rental period'
+      ru: 'Срок аренды'
+    change-booking.delivery:
+      en: 'Delivery'
+      ru: 'Доставка'
+    change-booking.instructions:
+      en: 'Instructions'
+      ru: 'Инструкции'
     confirm-pay.pay-confirmation-message:
         en: 'Do you confirm the payment of {currency}{amount}?'
         ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
