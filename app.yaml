@@ -1812,7 +1812,7 @@ Sections:
       en: 'Car delivered'
       ru: 'Автомобиль доставлен'
     change-booking.agreement:
-        en: 'Car rental agreement'
+        en: 'Rental agreement'
         ru: 'Договор аренды'
     change-booking.close-button:
         en: 'Close'
