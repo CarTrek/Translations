@@ -1832,6 +1832,12 @@ Sections:
     change-booking.cancel-title:
       en: 'Cancel booking'
       ru: 'Отмена бронирования'
+    change-booking.not-cancel-message:
+      en: 'Contact the operator to cancel the delivery'
+      ru: 'Связаться с оператором для отмены доставки'
+    change-booking.not-cancel-title:
+      en: 'Delivery confirmed'
+      ru: 'Доставка подтверждена'
     change-booking.delivery-date:
       en: 'Rental start'
       ru: 'Начало аренды'
