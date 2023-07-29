@@ -1823,9 +1823,9 @@ Sections:
     change-booking.save-button:
         en: 'Save'
         ru: 'Сохранить'
-    change-booking.notcancel-button:
-        en: 'Confirmed'
-        ru: 'Подтверждено'
+    change-booking.not-cancel-button:
+        en: 'Support'
+        ru: 'Поддержка'
     change-booking.cancel-message:
         en: 'Confirm cancellation'
         ru: 'Подтвердите отмену'
