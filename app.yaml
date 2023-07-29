@@ -1827,8 +1827,8 @@ Sections:
         en: 'Confirmed'
         ru: 'Подтверждено'
     change-booking.cancel-message:
-        en: 'Are you sure you want to cancel the booking?'
-        ru: 'Вы уверены, что хотите отменить бронирование?'
+        en: 'Confirm cancellation'
+        ru: 'Подтвердите отмену'
     change-booking.delivery-date:
       en: 'Rental start'
       ru: 'Начало аренды'
@@ -1846,13 +1846,13 @@ Sections:
       ru: 'Инструкции'
     change-booking.cancel-inapp-title:
       en: 'Your rent is finished'
-      ru: 'Your rent is finished'
+      ru: 'Ваша аренда закончена'
     change-booking.cancel-inapp-message:
       en: 'Now you can book another car'
-      ru: 'Now you can book another car'
+      ru: 'Теперь вы можете заказать другой автомобиль'
     change-booking.cancel-inapp-button:
       en: 'New booking'
-      ru: 'New booking'
+      ru: 'Новое бронирование'
     confirm-pay.pay-confirmation-message:
         en: 'Do you confirm the payment of {currency}{amount}?'
         ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
