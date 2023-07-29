@@ -1829,6 +1829,9 @@ Sections:
     change-booking.cancel-message:
         en: 'Confirm cancellation'
         ru: 'Подтвердите отмену'
+    change-booking.cancel-title:
+      en: 'Cancel booking'
+      ru: 'Отмена бронирования'
     change-booking.delivery-date:
       en: 'Rental start'
       ru: 'Начало аренды'
