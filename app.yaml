@@ -1844,6 +1844,15 @@ Sections:
     change-booking.instructions:
       en: 'Instructions'
       ru: 'Инструкции'
+    change-booking.cancel-inapp-title:
+      en: 'Your rent is finished'
+      ru: 'Your rent is finished'
+    change-booking.cancel-inapp-message:
+      en: 'Now you can book another car'
+      ru: 'Now you can book another car'
+    change-booking.cancel-inapp-button:
+      en: 'New booking'
+      ru: 'New booking'
     confirm-pay.pay-confirmation-message:
         en: 'Do you confirm the payment of {currency}{amount}?'
         ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
