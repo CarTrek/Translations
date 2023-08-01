@@ -1688,6 +1688,9 @@ Sections:
     catalog.price:
         en: 'from {amount} {currency} per day'
         ru: 'от {amount} {currency} в день'
+    long-filter.title:
+      en: 'Filter'
+      ru: 'Фильтр'
     long-filter.rent-period:
       en: 'Rent period'
       ru: 'Срок аренды'
