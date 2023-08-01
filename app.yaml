@@ -1712,6 +1712,9 @@ Sections:
     long-filter.price-per-day-min-max:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
+    long-car-models.title:
+      en: 'Car models'
+      ru: 'Модели автомобилей'
     date-delivery.screen-title:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
