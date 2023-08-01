@@ -1,5 +1,8 @@
 Sections:
   Server:
+    Mass_RateOptions:
+      en: "Rate option"
+      ru: "Тарифные опции"
     RightMassAssignRateOptions:
       en: "Mass assign rate options"
       ru: "Массовое назначение тарифных опций"
