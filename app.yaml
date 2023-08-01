@@ -1697,10 +1697,10 @@ Sections:
     long-filter.change:
       en: 'Change'
       ru: 'Изменить'
-    long-filter.сar-model:
+    long-filter.car-model:
       en: 'Car model'
       ru: 'Модель автомобиля'
-    long-filter.сar-body-type:
+    long-filter.car-body-type:
       en: 'Car body type'
       ru: 'Тип кузова автомобиля'
     long-filter.seats:
