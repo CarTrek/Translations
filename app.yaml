@@ -1717,7 +1717,7 @@ Sections:
       ru: 'Модели автомобилей'
     long-car-models.choose:
       en: 'Choose'
-      ru: 'Выбирать'
+      ru: 'Выбрать'
     date-delivery.screen-title:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
