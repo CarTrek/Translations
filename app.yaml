@@ -1688,6 +1688,27 @@ Sections:
     catalog.price:
         en: 'from {amount} {currency} per day'
         ru: 'от {amount} {currency} в день'
+    long-filter.rent-period:
+      en: 'Rent period'
+      ru: 'Срок аренды'
+    long-filter.change:
+      en: 'Change'
+      ru: 'Изменить'
+    long-filter.сar-model:
+      en: 'Car model'
+      ru: 'Модель автомобиля'
+    long-filter.сar-body-type:
+      en: 'Car body type'
+      ru: 'Тип кузова автомобиля'
+    long-filter.seats:
+      en: 'Seats'
+      ru: 'Сиденья'
+    long-filter.price-per-day:
+      en: 'Price per day'
+      ru: 'Цена в день'
+    long-filter.price-per-day-min-max:
+      en: '{currency} {amount}'
+      ru: '{currency} {amount}'
     date-delivery.screen-title:
         en: 'Delivery date and time'
         ru: 'Дата и время доставки'
