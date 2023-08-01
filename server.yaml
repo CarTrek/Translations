@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightMassAssignRateOptions:
+      en: "Mass assign rate options"
+      ru: "Массовое назначение тарифных опций"
     RateOptionRemovedFromCustomers:
       en: "Rate option removed from {customersCount} customer(s)"
       ru: "Тарифная опция удалена у {customersCount} пользователя(ей)"
