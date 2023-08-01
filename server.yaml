@@ -1,5 +1,23 @@
 Sections:
   Server:
+    Mass_RateOptions:
+      en: "Rate option"
+      ru: "Тарифные опции"
+    RightMassAssignRateOptions:
+      en: "Mass assign rate options"
+      ru: "Массовое назначение тарифных опций"
+    RateOptionRemovedFromCustomers:
+      en: "Rate option removed from {customersCount} customer(s)"
+      ru: "Тарифная опция удалена у {customersCount} пользователя(ей)"
+    RateOptionAssignedToCustomers:
+      en: "Rate option assigned to {customersCount} customer(s)"
+      ru: "Тарифная опция назначена {customersCount} пользователю(ям)"
+    RateOptionRemovedromAllCustomersSuccessfully:
+      en: "Rate option removed from all customers successfully"
+      ru: "Тарифная опция удалена у всех пользователей успешно"
+    RateOptionAssignedToAllCustomersSuccessfully:
+      en: "Rate option assigned to all customers successfully"
+      ru: "Тарифная опция назначена всем пользователям успешно"
     CanNotRemoveAccountDueToActiveOrder:
       en: "You have an active rental. Please finish and try again"
       ru: "У вас есть незавершённый заказ. Пожалуста, завершите его и попробуйте снова"
