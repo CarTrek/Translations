@@ -1718,9 +1718,9 @@ Sections:
     long-car-models.choose:
       en: 'Choose'
       ru: 'Выбрать'
-    date-delivery.screen-title:
-        en: 'Delivery date and time'
-        ru: 'Дата и время доставки'
+    date-delivery.title:
+        en: 'Choose your date'
+        ru: 'Выберите дату'
     date-delivery.confirm-button:
         en: 'Choose date'
         ru: 'Выбрать дату'
@@ -1730,6 +1730,63 @@ Sections:
     date-delivery.cancel-button:
         en: 'Cancel'
         ru: 'Отмена'
+    date-delivery.mon:
+      en: 'Mon'
+      ru: 'Пн'
+    date-delivery.tu:
+      en: 'Tu'
+      ru: 'Вт'
+    date-delivery.wed:
+      en: 'Wed'
+      ru: 'Ср'
+    date-delivery.th:
+      en: 'Th'
+      ru: 'Чт'
+    date-delivery.fri:
+      en: 'Fri'
+      ru: 'Пт'
+    date-delivery.sat:
+      en: 'Sat'
+      ru: 'Сб'
+    date-delivery.sun:
+      en: 'Sun'
+      ru: 'Вс'
+    date-delivery.january:
+      en: 'January'
+      ru: 'Январь'
+    date-delivery.february:
+      en: 'February'
+      ru: 'Февраль'
+    date-delivery.march:
+      en: 'March'
+      ru: 'Март'
+    date-delivery.april:
+      en: 'April'
+      ru: 'Апрель'
+    date-delivery.may:
+      en: 'May'
+      ru: 'Май'
+    date-delivery.june:
+      en: 'June'
+      ru: 'Июнь'
+    date-delivery.july:
+      en: 'July'
+      ru: 'Июль'
+    date-delivery.august:
+      en: 'August'
+      ru: 'Август'
+    date-delivery.september:
+      en: 'September'
+      ru: 'Сентябрь'
+    date-delivery.october:
+      en: 'October'
+      ru: 'Октябрь'
+    date-delivery.november:
+      en: 'November'
+      ru: 'Ноябрь'
+    date-delivery.december:
+      en: 'December'
+      ru: 'Декабрь'
     car-details.characteristics:
         en: 'Car details'
         ru: 'Характеристики автомобиля'
