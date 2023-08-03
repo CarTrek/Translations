@@ -3007,3 +3007,6 @@ Sections:
     search-car.close:
       en: "Close"
       ru: "Закрыть"
+    bottom-sheet.reset:
+      en: "reset"
+      ru: "сбросить"
