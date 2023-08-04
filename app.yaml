@@ -1229,6 +1229,12 @@ Sections:
     ds:
       en: d.
       ru: д.
+    ds-all-many:
+      en: "days"
+      ru: "дней"
+    ds-all-one:
+      en: "day"
+      ru: "днь"
     hrs:
       en: h.
       ru: ч.
