@@ -1238,6 +1238,15 @@ Sections:
     hrs:
       en: h.
       ru: ч.
+    hrs-all-many:
+      en: "hours"
+      ru: "часа"
+    hrs-all-many2:
+      en: "hours"
+      ru: "часов"
+    hrs-all-one:
+      en: "hour"
+      ru: "час"
     min:
       en: min.
       ru: мин.
