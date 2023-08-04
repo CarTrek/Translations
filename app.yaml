@@ -1712,6 +1712,24 @@ Sections:
     long-filter.price-per-day-min-max:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
+    long-filter.all:
+      en: 'All'
+      ru: 'Все'
+    long-filter.hatchback:
+      en: 'Hatchback'
+      ru: 'Hatchback'
+    long-filter.sedan:
+      en: 'Sedan'
+      ru: 'Sedan'
+    long-filter.suv:
+      en: 'SUV'
+      ru: 'SUV'
+    long-filter.coupe:
+      en: 'Coupe'
+      ru: 'Coupe'
+    long-filter.cabriolet:
+      en: 'Cabriolet'
+      ru: 'Cabriolet'
     long-car-models.title:
       en: 'Car models'
       ru: 'Модели автомобилей'
