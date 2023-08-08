@@ -1886,9 +1886,9 @@ Sections:
     map-delivery.confirm-button:
         en: 'Confirm'
         ru: 'Подтвердить'
-    confirm-pay.screen-title:
-        en: 'Confirmation and payment'
-        ru: 'Подтверждение и оплата'
+    confirm-pay.title:
+        en: 'Confirmation'
+        ru: 'Подтверждение'
     confirm-pay.pay-button:
         en: 'Pay'
         ru: 'Оплатить'
