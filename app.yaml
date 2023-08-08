@@ -2001,8 +2001,11 @@ Sections:
       en: 'New booking'
       ru: 'Новое бронирование'
     confirm-pay.pay-confirmation-message:
-        en: 'Do you confirm the payment of {currency}{amount}?'
-        ru: 'Подтверждаете ли вы оплату {currency}{amount}?'
+      en: '{currency} {amount}?'
+      ru: '{currency} {amount}?'
+    confirm-pay.pay-confirmation-title:
+      en: 'Confirm payment'
+      ru: 'Подтвердите платеж'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
