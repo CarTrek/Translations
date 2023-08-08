@@ -1877,6 +1877,9 @@ Sections:
     car-details.engine-power:
       en: '{power} hp'
       ru: '{power} лс'
+    car-details.cost-per-day:
+      en: '{amount} {currency}/day'
+      ru: '{amount} {currency}/день'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
