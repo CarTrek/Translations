@@ -1862,6 +1862,9 @@ Sections:
     car-details.select-button:
         en: 'Choose'
         ru: 'Выбрать'
+    car-details.rate-pack-cost:
+      en: '{currency} {amount}'
+      ru: '{currency} {amount}'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
