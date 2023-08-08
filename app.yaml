@@ -1874,6 +1874,9 @@ Sections:
     car-details.photos:
       en: 'Photos'
       ru: 'Фото'
+    car-details.engine-power:
+      en: '{power} hp'
+      ru: '{power} лс'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
