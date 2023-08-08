@@ -1865,6 +1865,9 @@ Sections:
     car-details.rate-pack-cost:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
+    car-details.run-included:
+      en: '{included} km'
+      ru: '{included} км'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
