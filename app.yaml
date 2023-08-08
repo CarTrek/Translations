@@ -2006,12 +2006,15 @@ Sections:
     confirm-pay.pay-confirmation-message:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
-    confirm-pay.pay-bank-card:
-      en: 'Pay {card}'
-      ru: 'Оплатить {card}'
     confirm-pay.pay-confirmation-title:
       en: 'Confirm payment'
       ru: 'Подтвердите платеж'
+    confirm-pay.pay-bank-card:
+      en: 'Pay {card}'
+      ru: 'Оплатить {card}'
+    confirm-pay.pay-other-card:
+      en: 'Pay with another card'
+      ru: 'Оплатить другой картой'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
