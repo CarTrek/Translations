@@ -2015,6 +2015,15 @@ Sections:
     confirm-pay.pay-other-card:
       en: 'Pay with another card'
       ru: 'Оплатить другой картой'
+    confirm-pay.pay-repeat-card:
+      en: 'To try one more time'
+      ru: 'Попробовать еще раз'
+    confirm-pay.pay-failed-title:
+      en: 'Failed to pay'
+      ru: 'Не удалось оплатить'
+    confirm-pay.pay-failed-message:
+      en: 'Failed to charge card {card}'
+      ru: 'Не удалось списать оплату с карты {card}'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
