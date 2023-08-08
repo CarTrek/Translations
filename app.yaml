@@ -2004,8 +2004,8 @@ Sections:
       en: 'New booking'
       ru: 'Новое бронирование'
     confirm-pay.pay-confirmation-message:
-      en: '{currency} {amount}?'
-      ru: '{currency} {amount}?'
+      en: '{currency} {amount}'
+      ru: '{currency} {amount}'
     confirm-pay.pay-confirmation-title:
       en: 'Confirm payment'
       ru: 'Подтвердите платеж'
