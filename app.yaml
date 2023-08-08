@@ -1871,6 +1871,9 @@ Sections:
     car-details.overrun-cost-per-km:
       en: '{currency} {amount} per extra km'
       ru: '{currency} {amount} за км'
+    car-details.photos:
+      en: 'Photos'
+      ru: 'Фото'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
