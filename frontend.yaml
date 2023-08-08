@@ -10156,6 +10156,9 @@ Sections:
     organizations.Balance:
       en: Balance
       ru: Баланс
+    organizations.Priority:
+      en: Priority
+      ru: Приоритет
     organizations.withdrawals.Amount:
       en: Amount
       ru: Сумма
