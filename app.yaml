@@ -2006,6 +2006,9 @@ Sections:
     confirm-pay.pay-confirmation-message:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
+    confirm-pay.pay-bank-card:
+      en: 'Pay {card}'
+      ru: 'Оплатить {card}'
     confirm-pay.pay-confirmation-title:
       en: 'Confirm payment'
       ru: 'Подтвердите платеж'
