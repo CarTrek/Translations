@@ -2045,6 +2045,9 @@ Sections:
     confirm-pay.delivery-time:
       en: 'Delivery by {time}'
       ru: 'Доставить до {time}'
+    confirm-pay.promo-code:
+      en: 'Promo code'
+      ru: 'Промо-код'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
