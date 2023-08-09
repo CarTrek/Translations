@@ -1889,51 +1889,6 @@ Sections:
     map-delivery.confirm-button:
         en: 'Confirm'
         ru: 'Подтвердить'
-    confirm-pay.title:
-        en: 'Confirmation'
-        ru: 'Подтверждение'
-    confirm-pay.pay-button:
-        en: 'Pay'
-        ru: 'Оплатить'
-    confirm-pay.delivery:
-        en: 'Delivery'
-        ru: 'Доставка'
-    confirm-pay.total:
-        en: 'Total'
-        ru: 'Полная стоимость'
-    confirm-pay.fuel:
-        en: 'Fuel'
-        ru: 'Топливо'
-    confirm-pay.included-milage:
-        en: 'Included milage'
-        ru: 'Включённый пробег'
-    confirm-pay.extra-milage:
-        en: 'Extra milage'
-        ru: 'Перепробег'
-    confirm-pay.prepayment:
-        en: 'Prepayment'
-        ru: 'Предоплата'
-    confirm-pay.per-km:
-        en: 'per km.'
-        ru: '/км.'
-    confirm-pay.messagebox-title:
-        en: 'Successfully paid'
-        ru: 'Заказ успешно оплачен'
-    confirm-pay.messagebox-message:
-        en: 'Your order is being processed. Please wait for a call from the operator.'
-        ru: 'Ваш заказ находится в обработке. Пожалуйста, ожидайте звонка от оператора.'
-    confirm-pay.messagebox-button:
-        en: 'See details'
-        ru: 'Посмотреть подробности'
-    confirm-pay.for:
-        en: 'for'
-        ru: 'на'
-    confirm-pay.fuel-included:
-        en: 'Included'
-        ru: 'Включено'
-    confirm-pay.fuel-not-included:
-        en: 'Not included'
-        ru: 'Не включено'
     change-booking.screen-title:
         en: 'Change booking'
         ru: 'Изменить бронирование'
@@ -2003,6 +1958,51 @@ Sections:
     change-booking.cancel-inapp-button:
       en: 'New booking'
       ru: 'Новое бронирование'
+    confirm-pay.title:
+      en: 'Confirmation'
+      ru: 'Подтверждение'
+    confirm-pay.pay-button:
+      en: 'Pay'
+      ru: 'Оплатить'
+    confirm-pay.delivery:
+      en: 'Delivery'
+      ru: 'Доставка'
+    confirm-pay.total:
+      en: 'Total'
+      ru: 'Полная стоимость'
+    confirm-pay.fuel:
+      en: 'Fuel'
+      ru: 'Топливо'
+    confirm-pay.included-mileage:
+      en: 'Included mileage'
+      ru: 'Включённый пробег'
+    confirm-pay.extra-mileage:
+      en: 'Extra mileage'
+      ru: 'Перепробег'
+    confirm-pay.prepayment:
+      en: 'Prepayment'
+      ru: 'Предоплата'
+    confirm-pay.per-km:
+      en: 'per km.'
+      ru: '/км.'
+    confirm-pay.messagebox-title:
+      en: 'Successfully paid'
+      ru: 'Заказ успешно оплачен'
+    confirm-pay.messagebox-message:
+      en: 'Your order is being processed. Please wait for a call from the operator.'
+      ru: 'Ваш заказ находится в обработке. Пожалуйста, ожидайте звонка от оператора.'
+    confirm-pay.messagebox-button:
+      en: 'See details'
+      ru: 'Посмотреть подробности'
+    confirm-pay.for:
+      en: 'for'
+      ru: 'на'
+    confirm-pay.fuel-included:
+      en: 'Included'
+      ru: 'Включено'
+    confirm-pay.fuel-not-included:
+      en: 'Not included'
+      ru: 'Не включено'
     confirm-pay.pay-confirmation-message:
       en: '{currency} {amount}'
       ru: '{currency} {amount}'
@@ -2024,6 +2024,27 @@ Sections:
     confirm-pay.pay-failed-message:
       en: 'Failed to charge card {card}'
       ru: 'Не удалось списать оплату с карты {card}'
+    confirm-pay.part-header-included:
+      en: 'Included'
+      ru: 'Включено'
+    confirm-pay.part-header-delivery:
+      en: 'Delivery'
+      ru: 'Доставка'
+    confirm-pay.button-promo:
+      en: 'Activate promo code'
+      ru: 'Активировать промокод'
+    confirm-pay.button-rental-agreement:
+      en: 'Rental agreement'
+      ru: 'Договор аренды'
+    confirm-pay.total-header:
+      en: 'Details of the rent'
+      ru: 'Подробности аренды'
+    confirm-pay.total-info-text:
+      en: 'Car rental'
+      ru: 'Аренда автомобиля'
+    confirm-pay.delivery-time:
+      en: 'Delivery by {time}'
+      ru: 'Доставить до {time}'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
