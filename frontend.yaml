@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    organizations.editor.InspectActivationMode:
+      en: "Inpect mode options"
+      ru: "Настройки режима осмотра"
+    organizations.inspectActivationModes.Always:
+      en: "Always before booking"
+      ru: "Всегда перед началом аренды"
+    organizations.inspectActivationModes.Never:
+      en: "Never before booking"
+      ru: "Никогда перед началом аренды"
     cars.options.list:
       en: "Options list"
       ru: "Список опций"
