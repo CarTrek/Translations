@@ -367,8 +367,8 @@ Sections:
       en: Failed to update
       ru: Не удалось обновить данные
     CannotChangeBooking:
-      en: Cannot change active booking
-      ru: Активное бронирование невозможно изменить
+      en: Cannot change a booking after delivery started
+      ru: Нельзя менять бронирование после начала доставки
     BookingNotFound:
       en: Reservation not found
       ru: Бронирование не найдено
