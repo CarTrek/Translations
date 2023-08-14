@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FileHasNoValidEmails:
+      en: "File has no vaild emails"
+      ru: "В файле нет валидных email адресов"
     Mass_RateOptions:
       en: "Rate option"
       ru: "Тарифные опции"
