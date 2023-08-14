@@ -1,5 +1,14 @@
 Sections:
   Server:
+    FileHasNoValidIds:
+      en: "File has no valid id's"
+      ru: "В файле нет валидных идентификаторов"
+    FileHasNoValidPhoneNumbers:
+      en: "File has no valid phone numbers"
+      ru: "В файле нет валидных номеров телефонов"
+    FileHasNoValidEmails:
+      en: "File has no vaild emails"
+      ru: "В файле нет валидных email адресов"
     Mass_RateOptions:
       en: "Rate option"
       ru: "Тарифные опции"
