@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.model.options:
+      en: "Add. options"
+      ru: "Доп. опции"
     organizations.editor.InspectActivationMode:
       en: "Inpect mode options"
       ru: "Настройки режима осмотра"
