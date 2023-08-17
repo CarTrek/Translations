@@ -1,5 +1,8 @@
 Sections:
   Server:
+    DeliverToAddress:
+      en: "Deliver to address: {delivery-address} by {delivery-time}"
+      ru: "Доставьте по адресу: {delivery-address} к {delivery-time}"
     FileHasNoValidIds:
       en: "File has no valid id's"
       ru: "В файле нет валидных идентификаторов"
