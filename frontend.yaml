@@ -1,6 +1,6 @@
 Sections:
   AdminFrontend:
-    cars.model.options:
+    cars.models.options:
       en: "Add. options"
       ru: "Доп. опции"
     organizations.editor.InspectActivationMode:
