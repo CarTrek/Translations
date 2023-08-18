@@ -1,5 +1,7 @@
 Sections:
   App:
+    card-v2.address-value:
+      en: "{address}"
     card-v2.fuel-level-value:
       en: "{fuel-level}"
     take-photo.retake-header-message:
