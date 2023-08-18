@@ -1,5 +1,7 @@
 Sections:
   App:
+    card-v2.fuel-level-value:
+      en: "{fuel-level}"
     take-photo.retake-header-message:
       en: "Is the photo good enough? You can retake it if not."
       ru: "Фото удалось? Если нет, вы можете переснять его."
