@@ -1,5 +1,11 @@
 Sections:
   App:
+    payment-methods.add-another-card:
+      en: "Add a bank card..."
+      ru: "Добавить карту..."
+    payment-method-selector.pay:
+      en: "Pay..."
+      rn: "Оплатить..."
     purchase.bonuses.pay-with-multiple-methods:
       en: "Purchase"
       ru: "Купить"
