@@ -1,5 +1,8 @@
 Sections:
   App:
+    purchase.bonuses.pay-with-multiple-methods:
+      en: "Purchase"
+      ru: "Купить"
     card-v2.address-value:
       en: "{address}"
     card-v2.fuel-level-value:
