@@ -1905,6 +1905,12 @@ Sections:
     car-details.cost-per-day:
       en: '{amount} {currency}/day'
       ru: '{amount} {currency}/день'
+    car-details.header-title:
+      en: 'Car details'
+      ru: 'Подробнее об автомобиле'
+    car-details.header-additional:
+      en: 'Additional'
+      ru: 'Дополнительно'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
