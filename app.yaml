@@ -1911,6 +1911,15 @@ Sections:
     car-details.header-additional:
       en: 'Additional'
       ru: 'Дополнительно'
+    car-details.deposit:
+      en: 'Deposit {currency} {amount}'
+      ru: 'Депозит {currency} {amount}'
+    car-details.ticket-additional-free-delivery:
+      en: 'Free delivery'
+      ru: 'Бесплатная доставка'
+    car-details.ticket-additional-standard-insurance:
+      en: 'Standard insurance'
+      ru: 'Стандартная страховка'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
