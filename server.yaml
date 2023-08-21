@@ -1,5 +1,17 @@
 Sections:
   Server:
+    DeliverToAddress:
+      en: "Deliver to address: {delivery-address} by {delivery-time}"
+      ru: "Доставьте по адресу: {delivery-address} к {delivery-time}"
+    FileHasNoValidIds:
+      en: "File has no valid id's"
+      ru: "В файле нет валидных идентификаторов"
+    FileHasNoValidPhoneNumbers:
+      en: "File has no valid phone numbers"
+      ru: "В файле нет валидных номеров телефонов"
+    FileHasNoValidEmails:
+      en: "File has no vaild emails"
+      ru: "В файле нет валидных email адресов"
     Mass_RateOptions:
       en: "Rate option"
       ru: "Тарифные опции"
@@ -367,8 +379,8 @@ Sections:
       en: Failed to update
       ru: Не удалось обновить данные
     CannotChangeBooking:
-      en: Cannot change active booking
-      ru: Активное бронирование невозможно изменить
+      en: Cannot change a booking after delivery started
+      ru: Нельзя менять бронирование после начала доставки
     BookingNotFound:
       en: Reservation not found
       ru: Бронирование не найдено

@@ -1,5 +1,24 @@
 Sections:
   App:
+    payment-methods.pay-by-qr-code:
+      en: "Pay with QR code"
+      ru: "Оплатить с помощью QR"
+    payment-method-selector.cancel:
+      en: "Cancel"
+      ru: "Отмена"
+    payment-methods.add-another-card:
+      en: "Add a bank card"
+      ru: "Добавить банковскую карту"
+    payment-method-selector.pay:
+      en: "Pay"
+      rn: "Оплатить"
+    purchase.bonuses.pay-with-multiple-methods:
+      en: "Purchase"
+      ru: "Купить"
+    card-v2.address-value:
+      en: "{address}"
+    card-v2.fuel-level-value:
+      en: "{fuel-level}"
     take-photo.retake-header-message:
       en: "Is the photo good enough? You can retake it if not."
       ru: "Фото удалось? Если нет, вы можете переснять его."
