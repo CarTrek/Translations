@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-methods.pay-by-qr-code:
+      en: "Pay with QR code"
+      ru: "Оплатить с помощью QR"
     payment-method-selector.cancel:
       en: "Cancel"
       ru: "Отмена"
