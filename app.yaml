@@ -1781,6 +1781,9 @@ Sections:
     long-filter.cabriolet:
       en: 'Cabriolet'
       ru: 'Cabriolet'
+    long-filter.button-show:
+      en: 'Show {count} cars'
+      ru: 'Показать {count} автомобилей'
     long-car-models.title:
       en: 'Car models'
       ru: 'Модели автомобилей'
@@ -1916,6 +1919,21 @@ Sections:
     car-details.cost-per-day:
       en: '{amount} {currency}/day'
       ru: '{amount} {currency}/день'
+    car-details.header-title:
+      en: 'Car details'
+      ru: 'Подробнее об автомобиле'
+    car-details.header-additional:
+      en: 'Additional'
+      ru: 'Дополнительно'
+    car-details.deposit:
+      en: 'Deposit {currency} {amount}'
+      ru: 'Депозит {currency} {amount}'
+    car-details.ticket-additional-free-delivery:
+      en: 'Free delivery'
+      ru: 'Бесплатная доставка'
+    car-details.ticket-additional-standard-insurance:
+      en: 'Standard insurance'
+      ru: 'Стандартная страховка'
     map-delivery.screen-title:
         en: 'Delivery address'
         ru: 'Адрес доставки'
