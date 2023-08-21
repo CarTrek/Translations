@@ -4,8 +4,8 @@ Sections:
       en: "Add a bank card"
       ru: "Добавить банковскую карту"
     payment-method-selector.pay:
-      en: "Pay..."
-      rn: "Оплатить..."
+      en: "Pay"
+      rn: "Оплатить"
     purchase.bonuses.pay-with-multiple-methods:
       en: "Purchase"
       ru: "Купить"
