@@ -1,8 +1,8 @@
 Sections:
   App:
     payment-methods.add-another-card:
-      en: "Add a bank card..."
-      ru: "Добавить карту..."
+      en: "Add a bank card"
+      ru: "Добавить банковскую карту"
     payment-method-selector.pay:
       en: "Pay..."
       rn: "Оплатить..."
