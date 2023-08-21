@@ -1,5 +1,19 @@
 Sections:
   App:
+    qr-payment.background-color-code:
+      en: "000000"
+    qr-payment.button-close:
+      en: "Close"
+      ru: "Закрыть"
+    qr-payment.message:
+      en: "Please pay the QR via you bank app:"
+      ru: "Пожалуйста, оплатите QR код с помощью банковского приложения:"
+    qr-payment.title:
+      en: "QR payment"
+      ru: "Оплата QR"
+    qr-payment.button-open-in-browser:
+      en: "Open in browser"
+      ru: "Открыть в браузере"
     payment-methods.pay-by-qr-code:
       en: "Pay with QR code"
       ru: "Оплатить с помощью QR"
