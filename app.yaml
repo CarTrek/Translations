@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-method-selector.cancel:
+      en: "Cancel"
+      ru: "Отмена"
     payment-methods.add-another-card:
       en: "Add a bank card"
       ru: "Добавить банковскую карту"
