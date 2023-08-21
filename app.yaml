@@ -1748,6 +1748,9 @@ Sections:
     long-filter.cabriolet:
       en: 'Cabriolet'
       ru: 'Cabriolet'
+    long-filter.button-show:
+      en: 'Show {count} cars'
+      ru: 'Показать {count} автомобилей'
     long-car-models.title:
       en: 'Car models'
       ru: 'Модели автомобилей'
