@@ -1553,8 +1553,8 @@ Sections:
         en: Top-up
         ru: Пополнение баланса
     topup.sum-description:
-        en: This amount will be withdrawed from you bank card
-        ru: С вашей банковской карты будет списана следующая сумма
+        en: Amount to be topped up
+        ru: Сумма, на которую требуется пополнить баланс
     topup.pay:
         en: Pay
         ru: Оплатить
