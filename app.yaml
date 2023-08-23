@@ -6,7 +6,7 @@ Sections:
       en: "Close"
       ru: "Закрыть"
     qr-payment.message:
-      en: "Please pay the QR via you bank app:"
+      en: "Please pay the QR via your bank app:"
       ru: "Пожалуйста, оплатите QR код с помощью банковского приложения:"
     qr-payment.title:
       en: "QR payment"
