@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    common.export:
+      en: "Export"
+      ru: "Экспорт"
     cars.models.options:
       en: "Add. options"
       ru: "Доп. опции"
