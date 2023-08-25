@@ -6492,12 +6492,12 @@ Sections:
       ru: Разблокировать
     cars.editor.ImmoIsOn:
       cs: BLOK
-      en: BLOCK
+      en: BLOCKED
       ge: ბლოკი
       ru: БЛОК
     cars.editor.ImmoIsOff:
       cs: ODBLOK
-      en: UNBLOCK
+      en: UNBLOCKED
       ge: განბლოკვა
       ru: РАЗБЛОК
     cars.editor.StartEngine:
