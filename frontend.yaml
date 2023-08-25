@@ -6124,12 +6124,12 @@ Sections:
       ru: До
     cars.editor.LOCKED:
       cs: Zavřený
-      en: Closed
+      en: Locked
       ge: ჩაკეტილი
       ru: Закрыт
     cars.editor.UNLOCKED:
       cs: Otevřený
-      en: Open
+      en: Unlocked
       ge: ღია
       ru: Открыт
     cars.editor.CLOSED:
@@ -6491,15 +6491,15 @@ Sections:
       ge: განბლოკვა
       ru: Разблокировать
     cars.editor.ImmoIsOn:
-      cs: BLOK
-      en: BLOCKED
+      cs: Blok
+      en: Blocked
       ge: ბლოკი
-      ru: БЛОК
+      ru: Блок
     cars.editor.ImmoIsOff:
-      cs: ODBLOK
-      en: UNBLOCKED
+      cs: Odblok
+      en: Unblocked
       ge: განბლოკვა
-      ru: РАЗБЛОК
+      ru: Разблок
     cars.editor.StartEngine:
       cs: Nastartovat motor
       en: Start engine
