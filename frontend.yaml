@@ -6139,7 +6139,7 @@ Sections:
       ru: Закрыт
     cars.editor.OPENED:
       cs: Otevřený
-      en: Open
+      en: Opened
       ge: გაღებული
       ru: Открыт
     cars.editor.IsDriversDoorOpened:
