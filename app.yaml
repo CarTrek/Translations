@@ -1270,7 +1270,7 @@ Sections:
       ru: "дней"
     ds-all-one:
       en: "day"
-      ru: "днь"
+      ru: "день"
     hrs:
       en: h.
       ru: ч.
@@ -3157,3 +3157,9 @@ Sections:
     bottom-sheet.reset:
       en: "reset"
       ru: "сбросить"
+    time.title:
+      en: "Choose time of delivery"
+      ru: "Выберите время доставки"
+    time.button-confirm:
+      en: "Confirm"
+      ru: "Подтвердить"
