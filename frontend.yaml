@@ -6011,6 +6011,12 @@ Sections:
     cars.editor.SMSCOMMAND:
       en: Send SMS command
       ru: Послать СМС команду
+    cars.editor.DISCONNECT:
+      en: Reject connection
+      ru: Разорвать соединение
+    cars.editor.CLEARSTATE:
+      en: Clear the vehicle state
+      ru: Обнулить состояние ТС
     cars.editor.SERVERIP:
       cs: Zvolte základní nebo náhradní server, který je potřeba nastavit
       en: Select the primary or secondary server to setup.
@@ -6453,6 +6459,12 @@ Sections:
     cars.editor.ConfirmUnlockBattery:
       en: Do you really want to unlock the battery lock?
       ru: Вы действительно хотите открыть замок батареи?
+    cars.editor.ConfirmDisconnect:
+      en: Do you really want to break the connection with tracker?
+      ru: Вы действительно хотите разорвать соединение с трекером?
+    cars.editor.ConfirmClearState:
+      en: Do you really want to clear the vehicle state?
+      ru: Вы действительно хотите обнулить состояние ТС?
     cars.editor.ConfirmChangeSim:
       cs: Odeslat příkaz změny SIM?  K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Do you want to sent command for SIM changing? SMS service should be turned on for this function.
