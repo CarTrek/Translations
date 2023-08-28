@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightExecSql:
+      en: "Exec SQL queries"
+      en: "Выполнять SQL-запросы"
     DeliverToAddress:
       en: "Deliver to address: {delivery-address} by {delivery-time}"
       ru: "Доставьте по адресу: {delivery-address} к {delivery-time}"
