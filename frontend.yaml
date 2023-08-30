@@ -10312,7 +10312,7 @@ Sections:
       en: 'Cancel'
       ru: 'Отмена'
     reserves.edit.сreate:
-      en: 'Date creation'
+      en: 'Creation date '
       ru: 'Дата создания'
     reserves.edit.start-booking:
       en: 'Start booking'
