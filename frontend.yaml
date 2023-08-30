@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    organizations.InspectActivationPeriod:
+      en: "Parking period (min)"
+      ru: "Длительность режима парковки (мин.)"
+    organizations.parkingInspectActivationModes.AfterXMinutes:
+      en: "If parking more that X min"
+      ru: "Если парковка дольше X мин."
+    organizations.parkingInspectActivationModes.Never:
+      en: "Never"
+      ru: "Никогда"
+    organizations.editor.ParkingInspectActivationMode:
+      en: "Inspect mode before booking"
+      ru: "Режим осмотра после парковки"
     common.export:
       en: "Export"
       ru: "Экспорт"
@@ -7,8 +19,8 @@ Sections:
       en: "Add. options"
       ru: "Доп. опции"
     organizations.editor.InspectActivationMode:
-      en: "Inpect mode options"
-      ru: "Настройки режима осмотра"
+      en: "Inpect mode before booking"
+      ru: "Режим осмотра перед бронированием"
     organizations.inspectActivationModes.Always:
       en: "Always before booking"
       ru: "Всегда перед началом аренды"
