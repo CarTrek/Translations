@@ -3226,3 +3226,12 @@ Sections:
     gallery-ride-photo.trouble-V1C7:
       en: "Right back light"
       ru: "Правая задняя фара"
+    gallery-ride-photo.top-description:
+      en: "Your ride is over. Take a photo of the car from four sides so that you don't have any claims if someone damages the car after you leave"
+      ru: "Ваша поездка завершена. Сделайте фото автомобиля с четырёх сторон, чтобы к вам не было претензий, если кто-то повредит автомобиль после того как вы уйдёте"
+    gallery-ride-photo.top-before-finish-description:
+      en: "Take a photo of the car from four sides so that you do not have any claims about damage that may appear after you"
+      ru: "Сделайте фото автомобиля с четырёх сторон, чтобы к вам не было претензий по поводу повреждений, которые могут появиться после вас"
+    gallery-ride-photo.top-inspection-description:
+      en: "Carefully inspect the car outside and inside. Photograph the new damage"
+      ru: "Внимательно осмотрите автомобиль снаружи и изнутри. Сфотографируйте новые повреждения"
