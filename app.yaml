@@ -3247,3 +3247,9 @@ Sections:
     gallery-ride-photo.button-open-case:
       en: 'Open the case'
       ru: 'Открыть кофр'
+    gallery-ride-photo.button-done:
+      en: 'Done'
+      ru: 'Готово'
+    gallery-ride-photo.button-done-uploading:
+      en: 'Uploading...'
+      ru: 'Загрузка...'
