@@ -1091,8 +1091,8 @@ Sections:
       en: '{pin}'
       ru: '{pin}'
     appless.rent.button-unlock:
-      en: Unlock
-      ru: Открыть
+      en: 🔒 Unlock
+      ru: 🔒 Открыть
     signin.wrong-phone-number:
       en: '{phone-number} is not your number?'
       ru: 'Ваш номер не {phone-number}?'
