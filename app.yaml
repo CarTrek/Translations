@@ -3235,3 +3235,15 @@ Sections:
     gallery-ride-photo.top-inspection-description:
       en: "Carefully inspect the car outside and inside. Photograph the new damage"
       ru: "Внимательно осмотрите автомобиль снаружи и изнутри. Сфотографируйте новые повреждения"
+    gallery-ride-photo.header-photos:
+      en: "These damages are already known to us:"
+      ru: "Эти повреждения нам уже известны:"
+    gallery-ride-photo.button-back:
+      en: "Back"
+      ru: "Назад"
+    gallery-ride-photo.button-cancel:
+      en: "Cancel"
+      ru: "Отменить"
+    gallery-ride-photo.button-open-case:
+      en: 'Open the case'
+      ru: 'Открыть кофр'
