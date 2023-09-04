@@ -3163,3 +3163,66 @@ Sections:
     time.button-confirm:
       en: "Confirm"
       ru: "Подтвердить"
+    gallery-ride-photo.trouble-V1A1:
+      en: "Left headlight"
+      ru: "Левая передняя фара"
+    gallery-ride-photo.trouble-V1A2:
+      en: "Front left fender"
+      ru: "Левое переднее крыло"
+    gallery-ride-photo.trouble-V1A3:
+      en: "Left mirror"
+      ru: "Левое зеркало"
+    gallery-ride-photo.trouble-V1A4:
+      en: "Left front door"
+      ru: "Левая передняя дверь"
+    gallery-ride-photo.trouble-V1A5:
+      en: "Left back door"
+      ru: "Левая задняя дверь"
+    gallery-ride-photo.trouble-V1A6:
+      en: "Left back fender"
+      ru: "Левое заднее крыло"
+    gallery-ride-photo.trouble-V1A7:
+      en: "Left tail light"
+      ru: "Левая задняя фара"
+    gallery-ride-photo.trouble-V1B1:
+      en: "Front bumper"
+      ru: "Передний бампер"
+    gallery-ride-photo.trouble-V1B2:
+      en: "Bonnet"
+      ru: "Капот"
+    gallery-ride-photo.trouble-V1B3:
+      en: "Windshield"
+      ru: "Лобовое стекло"
+    gallery-ride-photo.trouble-V1B4:
+      en: "Roof"
+      ru: "Крыша"
+    gallery-ride-photo.trouble-V1B5:
+      en: "Roof"
+      ru: "Крыша"
+    gallery-ride-photo.trouble-V1B6:
+      en: "Back window"
+      ru: "Заднее стекло"
+    gallery-ride-photo.trouble-V1B7:
+      en: "Back bumper/trunk"
+      ru: "Задний бампер/багажник"
+    gallery-ride-photo.trouble-V1C1:
+      en: "Right headlight"
+      ru: "Правая передняя фара"
+    gallery-ride-photo.trouble-V1C2:
+      en: "Right front fender"
+      ru: "Правое переднее крыло"
+    gallery-ride-photo.trouble-V1C3:
+      en: "Right mirror"
+      ru: "Правое зеркало"
+    gallery-ride-photo.trouble-V1C4:
+      en: "Right front door"
+      ru: "Правая передняя дверь"
+    gallery-ride-photo.trouble-V1C5:
+      en: "Right back door"
+      ru: "Правая задняя дверь"
+    gallery-ride-photo.trouble-V1C6:
+      en: "Right back fender"
+      ru: "Правое заднее крыло"
+    gallery-ride-photo.trouble-V1C7:
+      en: "Right back light"
+      ru: "Правая задняя фара"
