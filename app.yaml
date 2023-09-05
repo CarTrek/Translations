@@ -3226,6 +3226,9 @@ Sections:
     gallery-ride-photo.trouble-V1C7:
       en: "Right back light"
       ru: "Правая задняя фара"
+    gallery-ride-photo.trouble-New:
+      en: "New"
+      ru: "Новое"
     gallery-ride-photo.top-description:
       en: "Your ride is over. Take a photo of the car from four sides so that you don't have any claims if someone damages the car after you leave"
       ru: "Ваша поездка завершена. Сделайте фото автомобиля с четырёх сторон, чтобы к вам не было претензий, если кто-то повредит автомобиль после того как вы уйдёте"
