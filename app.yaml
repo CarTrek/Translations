@@ -14,15 +14,9 @@ Sections:
     qr-payment.button-open-in-browser:
       en: "Open in browser"
       ru: "Открыть в браузере"
-    payment-methods.pay-by-qr-code:
-      en: "Pay with QR code"
-      ru: "Оплатить с помощью QR"
     payment-method-selector.cancel:
       en: "Cancel"
       ru: "Отмена"
-    payment-methods.add-another-card:
-      en: "Add a bank card"
-      ru: "Добавить банковскую карту"
     payment-method-selector.pay:
       en: "Pay"
       rn: "Оплатить"
@@ -1063,6 +1057,18 @@ Sections:
     payment-methods.screen-title:
       en: Payment methods
       ru: Способы оплаты
+    payment-methods.pay-by-qr-code:
+      en: "Pay with QR code"
+      ru: "Оплатить с помощью QR"
+    payment-methods.add-another-card:
+      en: "Add a bank card"
+      ru: "Добавить банковскую карту"
+    payment-methods.bank-card-title:
+      en: "Bank card"
+      ru: "Банковская карта"
+    payment-methods.bank-card-number:
+      en: "•••• {card-number}"
+      ru: "•••• {card-number}"
     drawer.profile:
       en: My profile
       ru: Мои данные
