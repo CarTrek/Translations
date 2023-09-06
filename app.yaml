@@ -1072,6 +1072,9 @@ Sections:
     payment-methods.main:
       en: "Main"
       ru: "Main"
+    payment-methods.done:
+      en: "Done"
+      ru: "Done"
     drawer.profile:
       en: My profile
       ru: Мои данные
