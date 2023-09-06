@@ -1049,8 +1049,8 @@ Sections:
       en: Remove bank card
       ru: Удалить карту
     payment-methods.remove-bank-card-message:
-      en: 'Do you really want to remove the card with number {card-number}?'
-      ru: 'Вы действительно хотите удалить карту с номером {card-number}?'
+      en: 'Do you really want to remove the card with number •••• {card-number}?'
+      ru: 'Вы действительно хотите удалить карту с номером •••• {card-number}?'
     payment-methods.add-payment-method:
       en: Add a card
       ru: Добавить карту
