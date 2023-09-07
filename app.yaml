@@ -14,15 +14,9 @@ Sections:
     qr-payment.button-open-in-browser:
       en: "Open in browser"
       ru: "Открыть в браузере"
-    payment-methods.pay-by-qr-code:
-      en: "Pay with QR code"
-      ru: "Оплатить с помощью QR"
     payment-method-selector.cancel:
       en: "Cancel"
       ru: "Отмена"
-    payment-methods.add-another-card:
-      en: "Add a bank card"
-      ru: "Добавить банковскую карту"
     payment-method-selector.pay:
       en: "Pay"
       rn: "Оплатить"
@@ -54,6 +48,9 @@ Sections:
     alert.close-button-text:
       en: "OK"
       ru: "Закрыть"
+    alert.back:
+      en: "Back"
+      ru: "Назад"
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
@@ -1055,14 +1052,32 @@ Sections:
       en: Remove bank card
       ru: Удалить карту
     payment-methods.remove-bank-card-message:
-      en: 'Do you really want to remove the card with number {card-number}?'
-      ru: 'Вы действительно хотите удалить карту с номером {card-number}?'
+      en: 'Do you really want to remove the card with number •••• {card-number}?'
+      ru: 'Вы действительно хотите удалить карту с номером •••• {card-number}?'
     payment-methods.add-payment-method:
       en: Add a card
       ru: Добавить карту
     payment-methods.screen-title:
       en: Payment methods
       ru: Способы оплаты
+    payment-methods.pay-by-qr-code:
+      en: "Pay with QR code"
+      ru: "Оплатить с помощью QR"
+    payment-methods.add-another-card:
+      en: "Add a bank card"
+      ru: "Добавить банковскую карту"
+    payment-methods.bank-card-title:
+      en: "Bank card"
+      ru: "Банковская карта"
+    payment-methods.bank-card-number:
+      en: "•••• {card-number}"
+      ru: "•••• {card-number}"
+    payment-methods.main:
+      en: "Main"
+      ru: "Main"
+    payment-methods.done:
+      en: "Done"
+      ru: "Done"
     drawer.profile:
       en: My profile
       ru: Мои данные
@@ -3163,3 +3178,96 @@ Sections:
     time.button-confirm:
       en: "Confirm"
       ru: "Подтвердить"
+    gallery-ride-photo.trouble-V1A1:
+      en: "Left headlight"
+      ru: "Левая передняя фара"
+    gallery-ride-photo.trouble-V1A2:
+      en: "Front left fender"
+      ru: "Левое переднее крыло"
+    gallery-ride-photo.trouble-V1A3:
+      en: "Left mirror"
+      ru: "Левое зеркало"
+    gallery-ride-photo.trouble-V1A4:
+      en: "Left front door"
+      ru: "Левая передняя дверь"
+    gallery-ride-photo.trouble-V1A5:
+      en: "Left back door"
+      ru: "Левая задняя дверь"
+    gallery-ride-photo.trouble-V1A6:
+      en: "Left back fender"
+      ru: "Левое заднее крыло"
+    gallery-ride-photo.trouble-V1A7:
+      en: "Left tail light"
+      ru: "Левая задняя фара"
+    gallery-ride-photo.trouble-V1B1:
+      en: "Front bumper"
+      ru: "Передний бампер"
+    gallery-ride-photo.trouble-V1B2:
+      en: "Bonnet"
+      ru: "Капот"
+    gallery-ride-photo.trouble-V1B3:
+      en: "Windshield"
+      ru: "Лобовое стекло"
+    gallery-ride-photo.trouble-V1B4:
+      en: "Roof"
+      ru: "Крыша"
+    gallery-ride-photo.trouble-V1B5:
+      en: "Roof"
+      ru: "Крыша"
+    gallery-ride-photo.trouble-V1B6:
+      en: "Back window"
+      ru: "Заднее стекло"
+    gallery-ride-photo.trouble-V1B7:
+      en: "Back bumper/trunk"
+      ru: "Задний бампер/багажник"
+    gallery-ride-photo.trouble-V1C1:
+      en: "Right headlight"
+      ru: "Правая передняя фара"
+    gallery-ride-photo.trouble-V1C2:
+      en: "Right front fender"
+      ru: "Правое переднее крыло"
+    gallery-ride-photo.trouble-V1C3:
+      en: "Right mirror"
+      ru: "Правое зеркало"
+    gallery-ride-photo.trouble-V1C4:
+      en: "Right front door"
+      ru: "Правая передняя дверь"
+    gallery-ride-photo.trouble-V1C5:
+      en: "Right back door"
+      ru: "Правая задняя дверь"
+    gallery-ride-photo.trouble-V1C6:
+      en: "Right back fender"
+      ru: "Правое заднее крыло"
+    gallery-ride-photo.trouble-V1C7:
+      en: "Right back light"
+      ru: "Правая задняя фара"
+    gallery-ride-photo.trouble-New:
+      en: "New"
+      ru: "Новое"
+    gallery-ride-photo.top-description:
+      en: "Your ride is over. Take a photo of the car from four sides so that you don't have any claims if someone damages the car after you leave"
+      ru: "Ваша поездка завершена. Сделайте фото автомобиля с четырёх сторон, чтобы к вам не было претензий, если кто-то повредит автомобиль после того как вы уйдёте"
+    gallery-ride-photo.top-before-finish-description:
+      en: "Take a photo of the car from four sides so that you do not have any claims about damage that may appear after you"
+      ru: "Сделайте фото автомобиля с четырёх сторон, чтобы к вам не было претензий по поводу повреждений, которые могут появиться после вас"
+    gallery-ride-photo.top-inspection-description:
+      en: "Carefully inspect the car outside and inside. Photograph the new damage"
+      ru: "Внимательно осмотрите автомобиль снаружи и изнутри. Сфотографируйте новые повреждения"
+    gallery-ride-photo.header-photos:
+      en: "These damages are already known to us:"
+      ru: "Эти повреждения нам уже известны:"
+    gallery-ride-photo.button-back:
+      en: "Back"
+      ru: "Назад"
+    gallery-ride-photo.button-cancel:
+      en: "Cancel"
+      ru: "Отменить"
+    gallery-ride-photo.button-open-case:
+      en: 'Open the case'
+      ru: 'Открыть кофр'
+    gallery-ride-photo.button-done:
+      en: 'Done'
+      ru: 'Готово'
+    gallery-ride-photo.button-done-uploading:
+      en: 'Uploading...'
+      ru: 'Загрузка...'
