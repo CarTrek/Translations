@@ -48,6 +48,9 @@ Sections:
     alert.close-button-text:
       en: "OK"
       ru: "Закрыть"
+    alert.back:
+      en: "Back"
+      ru: "Назад"
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
