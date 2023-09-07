@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightExecCode:
+      en: "Exec C# code"
+      en: "Выполнять код C#"
     RightExecSql:
       en: "Exec SQL queries"
       en: "Выполнять SQL-запросы"
