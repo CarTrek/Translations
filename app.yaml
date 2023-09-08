@@ -2031,8 +2031,8 @@ Sections:
       en: 'Confirmation'
       ru: 'Подтверждение'
     confirm-pay.pay-button:
-      en: 'Pay'
-      ru: 'Оплатить'
+      en: "Pay {amount} {currencySymbol}"
+      ru: "Оплатить {amount} {currencySymbol}"
     confirm-pay.delivery:
       en: 'Delivery'
       ru: 'Доставка'
