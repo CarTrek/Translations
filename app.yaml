@@ -1159,6 +1159,9 @@ Sections:
     signup.screen-title:
       en: Registration
       ru: Регистрация
+    signup.input-placeholder:
+      en: "Type your e-mail here"
+      ru: "Введите e-mail"
     agreement.terms.begin:
       en: I agree with
       ru: Я согласен с
