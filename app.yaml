@@ -319,7 +319,13 @@ Sections:
       ru: "Free rides"
     drawer.menuItemMyBookings:
       en: "My bookings"
-      ru: "My bookings"
+      ru: "Мои брони"
+    drawer.personal:
+      en: "Personal"
+      ru: "Личный"
+    drawer.corporate:
+      en: "Corporate"
+      ru: "Корпоративный"
     common.yes:
       be: Yes
       cs: Ano
