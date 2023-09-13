@@ -54,18 +54,6 @@ Sections:
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
-    drawer.button-add-bonuses:
-      en: "Top up"
-      ru: "Пополнить"
-    drawer.menuItemSubscription:
-      en: "Subscription"
-      ru: "Подписка"
-    drawer.menuItemSupportChat:
-      en: "Chat with support"
-      ru: "Чат с поддержкой"
-    drawer.menuItemLanguage:
-      en: "Language"
-      ru: "Язык"
     profile.admin-backend-url:
       en: "Backend url"
       ru: "URL сервера"
@@ -276,41 +264,59 @@ Sections:
       en: "Bonuses"
       ru: "Бонусы"
     drawer.menuItemPurchaseBonuses:
-      en: Purchase bonuses
-      ru: Купить бонусы
+      en: "Purchase bonuses"
+      ru: "Купить бонусы"
     drawer.menuItemCatalog:
-      en: Select a car
-      ru: Выбрать автомобиль
+      en: "Select a car"
+      ru: "Выбрать автомобиль"
     drawer.menuItemMap:
-      en: Map
-      ru: Карта
+      en: "Map"
+      ru: "Карта"
     drawer.catalog:
-      en: Select a car
-      ru: Выбрать автомобиль
+      en: "Select a car"
+      ru: "Выбрать автомобиль"
     drawer.map:
-      en: Map
-      ru: Карта
+      en: "Map"
+      ru: "Карта"
     drawer.menuItemProfile:
-      en: My profile
-      ru: Мои данные
+      en: "My profile"
+      ru: "Мои данные"
     drawer.menuItemPaymentMethods:
-      en: Payment methods
-      ru: Способ оплаты
+      en: "Payment methods"
+      ru: "Способ оплаты"
     drawer.menuItemRidesHistory:
-      en: My rides
-      ru: Мои поездки
+      en: "My rides"
+      ru: "Мои поездки"
     drawer.menuItemPromoCode:
-      en: Promo code
-      ru: Промокод
+      en: "Promo code"
+      ru: "Промокод"
     drawer.menuItemSupport:
-      en: Support
-      ru: Поддержка
+      en: "Support"
+      ru: "Поддержка"
     drawer.menuItemRules:
-      en: Rules
-      ru: Правила сервиса
+      en: "Rules"
+      ru: "Правила сервиса"
     drawer.menuItemRadar:
-      en: Radar
-      ru: Радар
+      en: "Radar"
+      ru: "Радар"
+    drawer.button-add-bonuses:
+      en: "Top up"
+      ru: "Пополнить"
+    drawer.menuItemSubscription:
+      en: "Subscription"
+      ru: "Подписка"
+    drawer.menuItemSupportChat:
+      en: "Chat with support"
+      ru: "Чат с поддержкой"
+    drawer.menuItemLanguage:
+      en: "Language"
+      ru: "Язык"
+    drawer.menuItemFreeRides:
+      en: "Free rides"
+      ru: "Free rides"
+    drawer.menuItemMyBookings:
+      en: "My bookings"
+      ru: "My bookings"
     common.yes:
       be: Yes
       cs: Ano
