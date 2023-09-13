@@ -1,5 +1,8 @@
 Sections:
   App:
+    subscription.more-info-link:
+      en: "More info..."
+      ru: "Узнать больше..."
     qr-payment.background-color-code:
       en: "000000"
     qr-payment.button-close:
