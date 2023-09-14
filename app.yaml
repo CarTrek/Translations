@@ -506,6 +506,9 @@ Sections:
     profile.logout:
       en: "Logout"
       ru: "Выход"
+    profile.top-up-button:
+      en: "top up the balance"
+      ru: "пополнить баланс"
     card-v2.button-unlock-case:
       en: 'Unlock case'
       ru: 'Открыть кофр'
