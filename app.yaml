@@ -509,6 +509,9 @@ Sections:
     profile.top-up-button:
       en: "top up the balance"
       ru: "пополнить баланс"
+    profile.payment-history:
+      en: "Payment history"
+      ru: "История платежей"
     card-v2.button-unlock-case:
       en: 'Unlock case'
       ru: 'Открыть кофр'
