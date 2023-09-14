@@ -57,36 +57,18 @@ Sections:
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
-    profile.admin-backend-url:
-      en: "Backend url"
-      ru: "URL сервера"
     card-v2.button-start-engine:
       en: "Start engine"
       ru: "Завести"
     card-v2.button-stop-engine:
       en: "Stop engine"
       ru: "Заглушить"
-    profile.admin-app-url:
-      en: "Switch to the test app"
-      ru: "Тестовое приложение"
-    profile.admin-switch-to-distrib:
-      en: "Switch"
-      ru: "Переключить"
     appless.resume-ride:
       en: "Resume ride"
       ru: "Возобновить поездку"
     appless.pause-ride:
       en: "Pause ride"
       ru: "Поставить на паузу"
-    profile.admin-qr-message:
-      en: "Find QR code at the login page"
-      ru: "Отсканируйте QR-код на странице входа"
-    profile.admin-qr-login-button:
-      en: "Login"
-      ru: "Войти"
-    profile.admin-qr-login:
-      en: "Login to admin panel"
-      ru: "Вход в админку"
     zones-rides-report.rides:
       en: "rides"
       ru: "поездок"
@@ -146,21 +128,6 @@ Sections:
     app-start.running-distrib-warning:
       en: "Running develop version of the app now"
       ru: "Запущена отладочная версия приложения"
-    profile.open-payment-methods:
-      en: "Show"
-      ru: "Показать"
-    profile.payment-methods:
-      en: "Payment methods"
-      ru: "Способы оплаты"
-    profile.logout-profile-title:
-      en: "Log out"
-      ru: "Выход"
-    profile.logout-profile-message:
-      en: "Are you sure you want to sign out from the app?"
-      ru: "Вы действительно хотите выйти из приложения?"
-    profile.logout-profile-button:
-      en: "Sign out"
-      ru: "Выход"
     subscription.cancel-confirmation-title:
       en: "Cancel subscription"
       ru: "Отмена подписки"
@@ -414,6 +381,131 @@ Sections:
       ru: 'Баланс'
     profile.bonuses-balance-amount:
       en: '{currency}{amount}'
+    profile.money-amount:
+      en: '{amount} {currency}'
+    profile.open-payment-methods:
+      en: "Show"
+      ru: "Показать"
+    profile.payment-methods:
+      en: "Payment methods"
+      ru: "Способы оплаты"
+    profile.logout-profile-title:
+      en: "Log out"
+      ru: "Выход"
+    profile.logout-profile-message:
+      en: "Are you sure you want to sign out from the app?"
+      ru: "Вы действительно хотите выйти из приложения?"
+    profile.logout-profile-button:
+      en: "Sign out"
+      ru: "Выход"
+    profile.admin-qr-message:
+      en: "Find QR code at the login page"
+      ru: "Отсканируйте QR-код на странице входа"
+    profile.admin-qr-login-button:
+      en: "Login"
+      ru: "Войти"
+    profile.admin-qr-login:
+      en: "Login to admin panel"
+      ru: "Вход в админку"
+    profile.admin-app-url:
+      en: "Switch to the test app"
+      ru: "Тестовое приложение"
+    profile.admin-switch-to-distrib:
+      en: "Switch"
+      ru: "Переключить"
+    profile.admin-backend-url:
+      en: "Backend url"
+      ru: "URL сервера"
+    profile.language:
+      en: "Language"
+      ru: "Язык"
+    profile.switch-language:
+      en: "Switch language"
+      ru: "Переключить язык"
+    profile.enter-romo-code:
+      en: "Enter promo code"
+      ru: "Ввести промо-код"
+    profile.enter:
+      en: "Enter"
+      ru: "Ввести"
+    profile.kbm:
+      en: "KBM"
+      ru: "КБМ"
+    profile.open-rides-history:
+      en: "Show"
+      ru: "Посмотреть"
+    profile.rides-history:
+      en: "My rides"
+      ru: "Мои поездки"
+    profile.profile-removed:
+      en: "You profile has been removed"
+      ru: "Ваш профиль удалён"
+    profile.remove-profile-title:
+      en: "Profile removal"
+      ru: "Удаление профиля"
+    profile.remove-profile-message:
+      en: "Do you really want to delete your profile? After that, you will not be able to use our service. It will be impossible to restore the profile."
+      ru: "Вы действительно хотите удалить свой профиль? После этого вы не сможете пользоваться нашим сервисом. Восстановить профиль будет невозможно."
+    profile.remove-profile:
+      en: "Profile removal"
+      ru: "Удаление профиля"
+    profile.remove-profile-button:
+      en: "Remove"
+      ru: "Удалить"
+    profile.name:
+      en: "Name"
+      ru: "Имя"
+    profile.surname:
+      en: "Surname"
+      ru: "Фамилия"
+    profile.incognito.name-and-surname-description:
+      en: "You can tell us your name. Then we can call you by your name."
+      ru: "Вы можете рассказать нам, как вас зовут. Тогда мы сможем обращаться к вам по имени."
+    profile.promo-code:
+      en: "Promo code"
+      ru: "Промо-код"
+    profile.bonus-account:
+      en: "Total credits"
+      ru: "Всего на счету"
+    profile.blocked:
+      en: "Blocked"
+      ru: "Заблокирован"
+    profile.screen-title:
+      en: "My profile"
+      ru: "Мои данные"
+    profile.resend-sms:
+      en: "Send code again"
+      ru: "Отправить код повторно"
+    profile.incognito.sms-code-description:
+      en: "We sent an SMS code to the phone number {phone-number}. If the code is not received within a minute, please click the Send code again button."
+      ru: "Мы отправили SMS-код на номер телефона {phone-number}. Если код не пришёл в течение минуты, пожалуйста, нажмите кнопку Отправить код повторно"
+    profile.sms-code:
+      en: "SMS code"
+      ru: "SMS-код"
+    profile.next-button:
+      en: "Next"
+      ru: "Далее"
+    profile.incognito.email-description:
+      en: "Please enter your e-mail. We will send recipes for your ride to your e-mail."
+      ru: "Пожалуйста, введите ваш e-mail. На e-mail мы будем отправлять чеки."
+    profile.incognito.captcha-description:
+      en: 'Please enter the captcha code you see on the picture below:'
+      ru: 'Пожалуйста, введите код с картинки, которую вы видите ниже:'
+    profile.incognito.phone-number-description:
+      en: "Please enter your mobile phone number. We will send a confirmation code to the number."
+      ru: "Введите ваш номер телефона. Мы пришлём на него код подтверждения."
+    profile.phone-number:
+      en: "Phone number"
+      ru: "Номер телефона"
+    profile.email:
+      en: "E-mail"
+      ru: "E-mail"
+    profile.captcha-code:
+      en: "Captcha code"
+      ru: "Код с картинки"
+    profile.logout:
+      en: "Logout"
+      ru: "Выход"
     card-v2.button-unlock-case:
       en: 'Unlock case'
       ru: 'Открыть кофр'
@@ -489,12 +581,6 @@ Sections:
     card-v2.you-should-take-a-selfie:
       en: Before you open the car you have to take a selfie
       ru: Перед тем как открыть машину, вы должны сделать селфи
-    profile.enter-romo-code:
-      en: Enter promo code
-      ru: Ввести промо-код
-    profile.enter:
-      en: Enter
-      ru: Ввести
     card-v2.button-unlock-lock:
       en: 'Unlock'
       ru: 'Открыть'
@@ -504,12 +590,6 @@ Sections:
       en: Русский
     language-name-en:
       en: English
-    profile.language:
-      en: Language
-      ru: Язык
-    profile.switch-language:
-      en: Switch language
-      ru: Переключить язык
     take-photo.min-photo-count-header-message:
       en: "Please take {photo-count} photo(s)"
       ru: "Пожалуйста, сделайте {photo-count} фото"
@@ -650,15 +730,6 @@ Sections:
       ru: 'в минуту'
     money.amount:
       en: '{currency}{amount}'
-    profile.kbm:
-      en: KBM
-      ru: КБМ
-    profile.open-rides-history:
-      en: Show
-      ru: Посмотреть
-    profile.rides-history:
-      en: My rides
-      ru: Мои поездки
     after-ride-photos.take-front:
       en: 'Please take a photo in front of the car'
       ru: 'Пожалуйста, сфотографируйте перед автомобилем'
@@ -752,21 +823,6 @@ Sections:
     after-ride.cancel-booking-message:
       en: 'Are you sure you want to cancel your booking?'
       ru: 'Вы уверены, что хотите отменить своё бронирование'
-    profile.profile-removed:
-      en: 'You profile has been removed'
-      ru: 'Ваш профиль удалён'
-    profile.remove-profile-title:
-      en: 'Profile removal'
-      ru: 'Удаление профиля'
-    profile.remove-profile-message:
-      en: 'Do you really want to delete your profile? After that, you will not be able to use our service. It will be impossible to restore the profile.'
-      ru: 'Вы действительно хотите удалить свой профиль? После этого вы не сможете пользоваться нашим сервисом. Восстановить профиль будет невозможно.'
-    profile.remove-profile:
-      en: 'Profile removal'
-      ru: 'Удаление профиля'
-    profile.remove-profile-button:
-      en: 'Remove'
-      ru: 'Удалить'
     long-rental.go-to-upload-documents:
       en: 'To proceed you need to upload your documents. Are you ready to do it now?'
       ru: 'Чтобы продолжить, необходимо загрузить фото ваших документов. Вы готовы сделать это сейчас?'
@@ -1196,66 +1252,12 @@ Sections:
       kk: Кіру және тіркеу
       ru: Вход и регистрация
       uk: Вход и регистрация
-    profile.name:
-      en: Name
-      ru: Имя
-    profile.surname:
-      en: Surname
-      ru: Фамилия
-    profile.incognito.name-and-surname-description:
-      en: You can tell us your name. Then we can call you by your name.
-      ru: Вы можете рассказать нам, как вас зовут. Тогда мы сможем обращаться к вам по имени.
-    profile.promo-code:
-      en: Promo code
-      ru: Промо-код
     debt-card.charge-button:
       en: Pay off
       ru: Погасить долг
     debt-card.you-have-a-debt:
       en: You have a debt of {currency}{sum}. Please top up your bank card and press the button.
       ru: У вас долг {currency}{sum}. Пожалуйста, пополните карту и нажмите кнопку.
-    profile.bonus-account:
-      en: Total credits
-      ru: Всего на счету
-    profile.blocked:
-      en: Blocked
-      ru: Заблокирован
-    profile.screen-title:
-      en: My profile
-      ru: Мои данные
-    profile.resend-sms:
-      en: Send code again
-      ru: Отправить код повторно
-    profile.incognito.sms-code-description:
-      en: We sent an SMS code to the phone number {phone-number}. If the code is not received within a minute, please click the Send code again button.
-      ru: Мы отправили SMS-код на номер телефона {phone-number}. Если код не пришёл в течение минуты, пожалуйста, нажмите кнопку Отправить код повторно
-    profile.sms-code:
-      en: SMS code
-      ru: SMS-код
-    profile.next-button:
-      en: Next
-      ru: Далее
-    profile.incognito.email-description:
-      en: Please enter your e-mail. We will send recipes for your ride to your e-mail.
-      ru: Пожалуйста, введите ваш e-mail. На e-mail мы будем отправлять чеки.
-    profile.incognito.captcha-description:
-      en: 'Please enter the captcha code you see on the picture below:'
-      ru: 'Пожалуйста, введите код с картинки, которую вы видите ниже:'
-    profile.incognito.phone-number-description:
-      en: Please enter your mobile phone number. We will send a confirmation code to the number.
-      ru: Введите ваш номер телефона. Мы пришлём на него код подтверждения.
-    profile.phone-number:
-      en: Phone number
-      ru: Номер телефона
-    profile.email:
-      en: E-mail
-      ru: E-mail
-    profile.captcha-code:
-      en: Captcha code
-      ru: Код с картинки
-    profile.logout:
-      en: Logout
-      ru: Выход
     rent-finish-screen.done-message-for-incognito:
       en: To receive a payment receipt, view your trip history, and receive favorable fares and bonuses, you must enter your email address and phone number. Do you want to enter your details?
       ru: Чтобы получить чек об оплате, просматривать историю поездок, получать выгодные тарифы и бонусы, необходимо ввести Ваш емейл и номер телефона. Хотите ввести Ваши данные?
