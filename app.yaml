@@ -260,6 +260,9 @@ Sections:
     drawer.menuItemRidesHistory:
       en: "My rides"
       ru: "Мои поездки"
+    drawer.menuItemBookingHistory:
+      en: "My bookings"
+      ru: "Мои брони"
     drawer.menuItemPromoCode:
       en: "Promo code"
       ru: "Промокод"
@@ -287,9 +290,6 @@ Sections:
     drawer.menuItemFreeRides:
       en: "Free rides"
       ru: "Free rides"
-    drawer.menuItemMyBookings:
-      en: "My bookings"
-      ru: "Мои брони"
     drawer.personal:
       en: "Personal"
       ru: "Личный"
