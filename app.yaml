@@ -1057,68 +1057,71 @@ Sections:
       en: Private data processing consent
       ru: Согласие на обработку персональных данных
     drawer.purchase-bonuses:
-      en: Purchase bonuses
-      ru: Купить бонусы
+      en: "Purchase bonuses"
+      ru: "Купить бонусы"
     ride-details.overrun:
-      en: Extra milage
-      ru: Перепробег
+      en: "Extra mileage"
+      ru: "Перепробег"
     ride-details.with-card:
-      en: From card
-      ru: Картой
+      en: "From card"
+      ru: "Картой"
     ride-details.with-bonuses:
-      en: From bonuses
-      ru: Бонусами
+      en: "From bonuses"
+      ru: "Бонусами"
     ride-details.payments:
-      en: Payments
-      ru: Платежи
+      en: "Payments"
+      ru: "Платежи"
     ride-details.details:
-      en: Details
-      ru: Детализация
+      en: "Details"
+      ru: "Детализация"
     ride-details.summary-free-booking:
-      en: Free reservation
-      ru: Бесплатная бронь
+      en: "Free reservation"
+      ru: "Бесплатная бронь"
     ride-details.summary-paid-booking:
-      en: Paid booking
-      ru: Платная бронь
+      en: "Paid booking"
+      ru: "Платная бронь"
     ride-details.summary-inspect:
-      en: Inspection
-      ru: Осмотр
+      en: "Inspection"
+      ru: "Осмотр"
     ride-details.summary-paid-inspect:
-      en: Paid inspection
-      ru: Платный осмотр
+      en: "Paid inspection"
+      ru: "Платный осмотр"
     ride-details.summary-park:
-      en: Park mode
-      ru: На парковке
+      en: "Park mode"
+      ru: "На парковке"
     ride-details.summary-drive:
-      en: Drive mode
-      ru: Использование
+      en: "Drive mode"
+      ru: "Использование"
     ride-details.screen-title:
-      en: Ride details
-      ru:  Детализация поездки
+      en: "Ride details"
+      ru: "Детализация поездки"
     rides-history.no-rides:
-      en: You have no rides yet
-      ru: Вы ещё не совершили ни одной поездки
+      en: "You have no rides yet"
+      ru: "Вы ещё не совершили ни одной поездки"
     rides-history.load-more:
-      en: Load more
-      ru: Ещё
+      en: "Load more"
+      ru: 'Ещё'
     rides-history.total-rides-label:
-      en: Rides
-      ru: Поездки
+      en: "Rides"
+      ru: "Поездки"
     rides-history.total-run-label:
-      en: Run
-      ru: Пробег
+      en: "Run"
+      ru: "Пробег"
     rides-history.total-time-label:
-      en: Duration
-      ru: Длительность
+      en: "Duration"
+      ru: "Длительность"
     rides-history.screen-title:
-      en: My rides
-      ru: Мои поездки
+      en: "My rides"
+      ru: "Мои поездки"
     rides-history.header-booked:
-      en: Booked trips
-      ru: Предстоящие поездки
+      en: "Booked trips"
+      ru: "Предстоящие поездки"
     rides-history.header-history:
-      en: Trips history
-      ru: Прошлые поездки
+      en: "Trips history"
+      ru: "Прошлые поездки"
+    booking-history.title:
+      en: "My bookings"
+      ru: "Мои брони"
     payment-methods.no-card:
       en: You haven't linked any bank cards
       ru: Вы не привязали ни одной банковской карты
