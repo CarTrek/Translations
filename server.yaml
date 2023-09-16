@@ -1,5 +1,11 @@
 Sections:
   Server:
+    Manual:
+      en: "MT"
+      ru: "МКПП"
+    Automatic:
+      en: "AT"
+      ru: "АКПП"
     RightExecCode:
       en: "Exec C# code"
       en: "Выполнять код C#"
