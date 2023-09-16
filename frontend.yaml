@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.UserType:
+      en: "Client type"
+      ru: "Тип клиента"
     organizations.InspectActivationPeriod:
       en: "Parking period (min)"
       ru: "Длительность режима парковки (мин.)"
