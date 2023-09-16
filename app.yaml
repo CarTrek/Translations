@@ -227,6 +227,9 @@ Sections:
     drawer.menuItemFaq:
       en: "FAQ"
       ru: "Помощь"
+    drawer.menuItemFaqBottomSheet:
+      en: "FAQ"
+      ru: "Помощь"
     drawer.menuItemRates:
       en: "Tariffs"
       ru: "Тарифы"
