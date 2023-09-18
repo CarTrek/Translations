@@ -22,8 +22,8 @@ Sections:
       en: "Add. options"
       ru: "Доп. опции"
     organizations.editor.InspectActivationMode:
-      en: "Inpect mode before booking"
-      ru: "Режим осмотра перед бронированием"
+      en: "Inpect mode after booking"
+      ru: "Режим осмотра после бронирования"
     organizations.inspectActivationModes.Always:
       en: "Always before booking"
       ru: "Всегда перед началом аренды"
