@@ -3303,6 +3303,9 @@ Sections:
     gallery-ride-photo.button-done-uploading:
       en: 'Uploading...'
       ru: 'Загрузка...'
+    gallery-ride-photo.image-button-close:
+      en: "Close"
+      ru: "Закрыть"
     marker.reg-number:
       en: "{reg-number} {fuel-level}%"
       ru: "{reg-number} {fuel-level}%"
