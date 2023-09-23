@@ -20,6 +20,8 @@ Sections:
       ru: '10 км/ч'
     signin.completeChatFlagOptValue:
       en: 'The chat has ended!'
+    authorization.error:
+      en: 'Access denied (403)'
     alert.lowfuel:
       be: Low fuel level, please refuel auto
       cs: Nízká hladina paliva, prosím natankujte vozidlo
