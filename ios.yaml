@@ -18,6 +18,8 @@ Sections:
     map.speedRestrictionEco:
       en: '10 km/h'
       ru: '10 км/ч'
+    signin.completeChatFlagOptValue:
+      en: 'The chat has ended!'
     alert.lowfuel:
       be: Low fuel level, please refuel auto
       cs: Nízká hladina paliva, prosím natankujte vozidlo
