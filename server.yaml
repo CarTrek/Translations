@@ -617,9 +617,9 @@ Sections:
       en: 'Cannot set following rights (access denied):'
       ru: 'Невозможно установить следующие права (доступ запрещен):'
     PurchaseBonusesPaymentDescription:
-      en: Purchase bonuses
-      ru: Покупка бонусов
-      cs: Nákup bonusů
+      en: "Purchase bonuses '{package-name}'"
+      ru: "Покупка бонусов '{package-name}'"
+      cs: "Nákup bonusů '{package-name}'"
     BatteryUnlocked:
       en: Battery compartment unlocked
       ru: Открыт отсек батареи
