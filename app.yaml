@@ -838,9 +838,6 @@ Sections:
     after-ride-photos.back:
       en: "Back"
       ru: "Сзади"
-    after-ride-photos.incide:
-      en: "Incide"
-      ru: "Внутри"
     after-ride.cancel-booking-title:
       en: 'Cancel the booking'
       ru: 'Отмена бронирования'
