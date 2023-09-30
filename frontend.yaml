@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.list.FeedComments:
+      en: "Feed"
+      ru: "Лента комментариев"
     clients.editor.UserType:
       en: "Client type"
       ru: "Тип клиента"

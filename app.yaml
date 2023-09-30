@@ -3210,6 +3210,9 @@ Sections:
     time.button-confirm:
       en: "Confirm"
       ru: "Подтвердить"
+    gallery-ride-photo.take-other:
+      en: "Take more photos if you want"
+      ru: "Сделайте ещё фото при необходимости"
     gallery-ride-photo.trouble-V1A1:
       en: "Left headlight"
       ru: "Левая передняя фара"
