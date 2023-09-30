@@ -826,6 +826,21 @@ Sections:
     after-ride-photos.timer-paid-inspect:
       en: 'Paid inspection: {cost} {symbol}'
       ru: 'Платный осмотр: {cost} {symbol}'
+    after-ride-photos.front:
+      en: "Front"
+      ru: "Спереди"
+    after-ride-photos.left:
+      en: "Left"
+      ru: "Слева"
+    after-ride-photos.right:
+      en: "Right"
+      ru: "Справа"
+    after-ride-photos.back:
+      en: "Back"
+      ru: "Сзади"
+    after-ride-photos.incide:
+      en: "Incide"
+      ru: "Внутри"
     after-ride.cancel-booking-title:
       en: 'Cancel the booking'
       ru: 'Отмена бронирования'
