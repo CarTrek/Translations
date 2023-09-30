@@ -3309,3 +3309,18 @@ Sections:
     marker.reg-number:
       en: "{reg-number} {fuel-level}%"
       ru: "{reg-number} {fuel-level}%"
+    card-long.chat-take-photo:
+      en: "Take photos"
+      ru: "Сделать фото"
+    card-long.chat-before-message:
+      en: "Before you start the rent, take photos"
+      ru: "Прежде чем начать аренду, сделайте фотографии"
+    card-long.chat-name-assistant:
+      en: "Omar"
+      ru: "Омар"
+    card-long.chat-about-assistant:
+      en: "your personal assistant"
+      ru: "ваш персональный ассисетн"
+    card-long.chat-bottom-message:
+      en: "In case of serious damage please contact us"
+      ru: "В случае серьезного ущерба, пожалуйста, свяжитесь с нами"
