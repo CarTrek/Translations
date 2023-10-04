@@ -1134,6 +1134,24 @@ Sections:
     booking-history.title:
       en: "My bookings"
       ru: "Мои брони"
+    booking-history.no-rides:
+      en: "Your booking history will be displayed here. Book your car"
+      ru: "Здесь будет отображаться история ваших бронирований. Забронируйте свой автомобиль"
+    booking-history.booking-finished:
+      en: "Booking finished"
+      ru: "Бронирование завершено"
+    booking-history.current-booking:
+      en: "Current booking"
+      ru: "Текущее бронирование"
+    booking-history.load-more:
+      en: "Load more"
+      ru: 'Ещё'
+    booking-details.title:
+      en: "My bookings"
+      ru: "Мои брони"
+    booking-details.no-ride:
+      en: "No ride details"
+      ru: "Нет данных о поездке"
     payment-methods.no-card:
       en: You haven't linked any bank cards
       ru: Вы не привязали ни одной банковской карты
