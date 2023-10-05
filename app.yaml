@@ -1816,6 +1816,12 @@ Sections:
     catalog.price:
         en: 'from {amount} {currency} per day'
         ru: 'от {amount} {currency} в день'
+    catalog.not-found:
+      en: 'Not found'
+      ru: 'Не найдено'
+    catalog.not-found-message:
+      en: 'Nothing was found by filters'
+      ru: 'По фильтрам ничего не найдено'
     long-filter.title:
       en: 'Filter'
       ru: 'Фильтр'
