@@ -296,6 +296,27 @@ Sections:
     drawer.corporate:
       en: "Corporate"
       ru: "Корпоративный"
+    drawer.profile:
+      en: "My profile"
+      ru: "Мои данные"
+    drawer.payment-methods:
+      en: "Payment methods"
+      ru: "Способ оплаты"
+    drawer.rides:
+      en: "My rides"
+      ru: "Мои поездки"
+    drawer.promo-code:
+      en: "Promo code"
+      ru: "Промокод"
+    drawer.support:
+      en: "Support"
+      ru: "Поддержка"
+    drawer.rules:
+      en: "Rules"
+      ru: "Правила сервиса"
+    drawer.purchase-bonuses:
+      en: "Purchase bonuses"
+      ru: "Купить бонусы"
     common.yes:
       be: Yes
       cs: Ano
@@ -1068,9 +1089,6 @@ Sections:
     rules-menu.privateDataProcessingConsent:
       en: Private data processing consent
       ru: Согласие на обработку персональных данных
-    drawer.purchase-bonuses:
-      en: "Purchase bonuses"
-      ru: "Купить бонусы"
     ride-details.overrun:
       en: "Extra mileage"
       ru: "Перепробег"
@@ -1191,24 +1209,6 @@ Sections:
     payment-methods.done:
       en: "Done"
       ru: "Done"
-    drawer.profile:
-      en: My profile
-      ru: Мои данные
-    drawer.payment-methods:
-      en: Payment methods
-      ru: Способ оплаты
-    drawer.rides:
-      en: My rides
-      ru: Мои поездки
-    drawer.promo-code:
-      en: Promo code
-      ru: Промокод
-    drawer.support:
-      en: Support
-      ru: Поддержка
-    drawer.rules:
-      en: Rules
-      ru: Правила сервиса
     appless.rent.show-pin-title:
       en: 'How to open lock'
       ru: 'Как открыть замок'
