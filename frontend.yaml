@@ -1,14 +1,5 @@
 Sections:
   AdminFrontend:
-    cars.editor.RatesDecisionPath.Rates:
-      en: "🕒 Minute rates"
-      ru: "🕒 Минутные тарифы"
-    cars.editor.RatesDecisionPath.RatePacks:
-      en: "📅 Prepaid rates"
-      ru: "📅 Предоплатные тарифы"
-    cars.editor.RatesDecisionPath:
-      en: "Which rates are available and why"
-      ru: "Какие тарифы и почему получились"
     cars.list.FeedComments:
       en: "Feed"
       ru: "Лента комментариев"
