@@ -1,7 +1,7 @@
 Sections:
   AdminFrontend:
     cars.editor.RatesDecisionPath:
-      en: "Which rates available and why"
+      en: "Which rates are available and why"
       ru: "Какие тарифы и почему получились"
     cars.list.FeedComments:
       en: "Feed"
