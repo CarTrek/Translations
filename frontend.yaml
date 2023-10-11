@@ -3,7 +3,7 @@ Sections:
     cars.editor.RatesDecisionPath.Rates:
       en: "🕒 Minute rates"
       ru: "🕒 Минутные тарифы"
-     cars.editor.RatesDecisionPath.RatePacks:
+    cars.editor.RatesDecisionPath.RatePacks:
       en: "📅 Prepaid rates"
       ru: "📅 Предоплатные тарифы"
     cars.editor.RatesDecisionPath:
