@@ -5644,7 +5644,7 @@ Sections:
       ru: Доступна клиентам
     cars.list.IDENTIFIER:
       cs: Identifikátor
-      en: Identificator
+      en: Identifier
       ge: იდენტიფიკატორი
       ru: Идентификатор
     cars.list.IsOnline:
