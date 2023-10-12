@@ -3363,3 +3363,24 @@ Sections:
     card-long.chat-bottom-message:
       en: "In case of serious damage please contact us"
       ru: "В случае серьезного ущерба, пожалуйста, свяжитесь с нами"
+    technical-comments.internal-messages:
+      en: "Internal messages"
+      ru: "Внутренние сообщения"
+    technical-comments.user-messages:
+      en: "User messages"
+      ru: "Сообщения пользователей"
+    technical-comments.no-comments:
+      en: "No comments"
+      ru: "Комментариев нет"
+    technical-comments.load-more:
+      en: "Load more..."
+      ru: "Загрузить еще..."
+    technical-comments.send-mark-normal:
+      en: "Send regular message"
+      ru: "Отправить обычное сообщение"
+    technical-comments.send-mark-bad:
+      en: "Send with the mark “Bad”"
+      ru: "Отправить с пометкой “Плохо”"
+    technical-comments.send-mark-good:
+      en: "Send with the note “Good”"
+      ru: "Отправить с пометкой “Хорошо”"
