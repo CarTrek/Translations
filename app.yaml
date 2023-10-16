@@ -188,9 +188,6 @@ Sections:
     card-v2.button-switch-organizations:
       en: "👨‍🔧 Organizations"
       ru: "👨‍🔧 Организации"
-    card-v2.button-techComments:
-      en: "📝 Comments"
-      ru: "📝 Комментарии"
     card-v2.button-open-case:
       en: "🧳 Open case"
       ru: "🧳 Открыть кофр"
