@@ -1,5 +1,8 @@
 Sections:
   App:
+    swap-battery.qr-message:
+      en: "Find the QR code on the station"
+      ru: "Найдите QR-код на корпусе станции"
     fueling-card.swap-battery:
       en: "Swap battery"
       ru: "Сменить батарею"
