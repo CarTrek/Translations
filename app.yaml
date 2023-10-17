@@ -1,5 +1,8 @@
 Sections:
   App:
+    fueling-card.swap-battery:
+      en: "Swap battery"
+      ru: "Сменить батарею"
     subscription.more-info-link:
       en: "More info..."
       ru: "Узнать больше..."
