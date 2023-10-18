@@ -1,5 +1,11 @@
 Sections:
   App:
+    long-rental.manage-rental.extend-rental:
+      en: "Extend your rent"
+      ru: "Продлить аренду"
+    long-rental.manage-rental.cancel-rental:
+      en: "Cancel your rent"
+      ru: "Завершить аренду"
     long-rental.bottom-menu.catalogue:
       en: "Catalogue"
       ru: "Каталог"
