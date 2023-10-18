@@ -1,5 +1,7 @@
 Sections:
   App:
+    long-rental.car-model-hp:
+      en: "{power} hp"
     swap-battery.qr-message:
       en: "Find the QR code on the station"
       ru: "Найдите QR-код на корпусе станции"
