@@ -1,7 +1,17 @@
 Sections:
   App:
     long-rental.bottom-menu.catalogue:
-      en: ""
+      en: "Catalogue"
+      ru: "Каталог"
+    long-rental.bottom-menu.map:
+      en: "Map"
+      ru: "Карта"
+    long-rental.bottom-menu.booking:
+      en: "Booking"
+      ru: "Аренда"
+    long-rental.bottom-menu.menu:
+      en: "Menu"
+      ru: "Меню"
     long-rental.car-model-hp:
       en: "{power} hp"
       ru: "{power} л.с."
