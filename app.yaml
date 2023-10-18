@@ -1,5 +1,8 @@
 Sections:
   App:
+    long-rental.report.title:
+      en: "Comments"
+      ru: "Комментарии"
     long-rental.report.other-problems:
       en: "Other problems"
       ru: "Другие проблемы"
