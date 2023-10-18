@@ -6639,3 +6639,6 @@ Sections:
     UserStartedRentOnSelectedRatePack:
       en: User have started rent on selected subscription
       ru: Пользователь начал аренду с абонементом
+  LogOutUser:
+      en: User is logged out
+      ru: Пользователь разлогинен
