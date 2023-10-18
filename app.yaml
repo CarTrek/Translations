@@ -1,8 +1,10 @@
 Sections:
   App:
+    long-rental.bottom-menu.catalogue:
+      en: ""
     long-rental.car-model-hp:
       en: "{power} hp"
-      en: "{power} л.с."
+      ru: "{power} л.с."
     swap-battery.qr-message:
       en: "Find the QR code on the station"
       ru: "Найдите QR-код на корпусе станции"
