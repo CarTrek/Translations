@@ -1,5 +1,8 @@
 Sections:
   App:
+    long-rental.report.enter-text:
+      en: "Enter text"
+      ru: "Введите текст"
     long-rental.report.title:
       en: "Comments"
       ru: "Комментарии"
