@@ -25,7 +25,7 @@ Sections:
       en: "Never"
       ru: "Никогда"
     organizations.editor.ParkingInspectActivationMode:
-      en: "Inspect mode before booking"
+      en: "Inspect mode after park"
       ru: "Режим осмотра после парковки"
     common.export:
       en: "Export"
