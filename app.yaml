@@ -1,5 +1,8 @@
 Sections:
   App:
+    card-without-auth.rules-button:
+      en: "More about rules and tariffs"
+      ru: "Подробнее о правилах и тарифах"
     long-rental.report.enter-text:
       en: "Enter text"
       ru: "Введите текст"
