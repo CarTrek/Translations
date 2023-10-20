@@ -3423,3 +3423,6 @@ Sections:
     technical-comments.send-mark-good:
       en: "Send with the note “Good”"
       ru: "Отправить с пометкой “Хорошо”"
+    support-chat.title:
+      en: "Support"
+      ru: "Поддрежка"
