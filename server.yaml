@@ -1,5 +1,8 @@
 Sections:
   Server:
+    card-without-auth.rules-button:
+      en: "More about rules and tariffs"
+      ru: "Подробнее о правилах и тарифах"
     ForReservation:
       en: "For reservation"
       ru: "Плата за бронь"
