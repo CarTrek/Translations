@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.TrackUsers:
+      en: "Track users"
+      ru: "Трекинг пользователей"
     cars.editor.RatesDecisionPath.Rates:
       en: "🕒 Minute rates"
       ru: "🕒 Минутные тарифы"
