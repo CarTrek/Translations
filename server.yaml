@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightViewUsersTracks:
+      en: "View users tracks"
+      ru: "Просмотр треков пользователей"
     ForReservation:
       en: "For reservation"
       ru: "Плата за бронь"
