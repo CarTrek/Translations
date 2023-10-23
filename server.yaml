@@ -1,5 +1,11 @@
 Sections:
   Server:
+    FailedDeliveryIsNotAllowedHere:
+      en: "Delivery is not allowed here. Please select an other point inside the delivery zone."
+      en: "Сюда мы не сможем доставить машину. Пожалуйста, выберите другое место в пределах зоны доставки."
+    RightViewUsersTracks:
+      en: "View users tracks"
+      ru: "Просмотр треков пользователей"
     ForReservation:
       en: "For reservation"
       ru: "Плата за бронь"
