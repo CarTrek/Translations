@@ -15,6 +15,9 @@ Sections:
     long-rental.manage-rental.cancel-rental:
       en: "Cancel your rent"
       ru: "Завершить аренду"
+    long-rental.manage-rental.damage-report:
+      en: "Take pictures of damage"
+      ru: "Сфотографировать повреждения"
     long-rental.bottom-menu.catalogue:
       en: "Catalogue"
       ru: "Каталог"
