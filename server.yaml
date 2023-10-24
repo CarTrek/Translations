@@ -1,8 +1,11 @@
 Sections:
   Server:
+    YouProvidedABrokenFile:
+      en: "You provided a broken file ({trace-id})"
+      ru: "Вы загрузили сломанный файл ({trace-id})"
     FailedDeliveryIsNotAllowedHere:
       en: "Delivery is not allowed here. Please select an other point inside the delivery zone."
-      en: "Сюда мы не сможем доставить машину. Пожалуйста, выберите другое место в пределах зоны доставки."
+      ru: "Сюда мы не сможем доставить машину. Пожалуйста, выберите другое место в пределах зоны доставки."
     RightViewUsersTracks:
       en: "View users tracks"
       ru: "Просмотр треков пользователей"
