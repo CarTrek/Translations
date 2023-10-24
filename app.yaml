@@ -3408,6 +3408,12 @@ Sections:
     card-long.chat-bottom-message:
       en: "In case of serious damage please contact us"
       ru: "В случае серьезного ущерба, пожалуйста, свяжитесь с нами"
+    card-long.chat-bottom-message-damage:
+      en: "In case of serious damage please contact us"
+      ru: "В случае серьезного ущерба, пожалуйста, свяжитесь с нами"
+    card-long.chat-damage-message:
+      en: "If there are visible damages take a picture and send it through the app"
+      ru: "Если есть видимые повреждения, сфотографируйте и отправьте через приложение"
     technical-comments.internal-messages:
       en: "Internal messages"
       ru: "Внутренние сообщения"
