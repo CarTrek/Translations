@@ -1,5 +1,8 @@
 Sections:
   Server:
+    YouProvidedADangerousFile:
+      en: "You provided a broken file ({trace-id})"
+      ru: "Вы загрузили сломанный файл ({trace-id})"
     YouProvidedABrokenFile:
       en: "You provided a broken file ({trace-id})"
       ru: "Вы загрузили сломанный файл ({trace-id})"
