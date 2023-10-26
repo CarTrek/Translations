@@ -2369,7 +2369,7 @@ Sections:
       en: "Make active"
       ru: "Сделать активной"
       fr: "Rendre actif"
-    messengerbot.сard-is-successfully-removed:
+    messengerbot.card-is-successfully-removed:
       en: "Card is successfully removed"
       ru: "Карта успешно удалена"
       fr: "La carte a été supprimée avec succès"
