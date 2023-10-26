@@ -3414,6 +3414,15 @@ Sections:
     card-long.chat-damage-message:
       en: "If there are visible damages take a picture and send it through the app"
       ru: "Если есть видимые повреждения, сфотографируйте и отправьте через приложение"
+    card-long.act-acceptance:
+      en: "act of acceptance"
+      ru: "акт приемки"
+    card-long.manage-rent:
+      en: "manage rent"
+      ru: "управлять арендой"
+    card-long.blink:
+      en: "blink"
+      ru: "моргать"
     technical-comments.internal-messages:
       en: "Internal messages"
       ru: "Внутренние сообщения"
