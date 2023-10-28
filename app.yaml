@@ -1369,6 +1369,9 @@ Sections:
     report.send-report:
         en: 'Send to us'
         ru: 'Отправить'
+    report.assistant-message:
+      en: 'If the recorded damage was your fault please contact me'
+      ru: 'Если зарегистрированный ущерб произошел по вашей вине, пожалуйста, свяжитесь со мной'
     rent-finish-screen.overrun:
       en: Overrun
       ru: Перепробег
