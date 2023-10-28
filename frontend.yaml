@@ -4158,7 +4158,7 @@ Sections:
       en: Edit the refueling
       ge: გასამართი სადგურის რედაქტირება
       ru: Редактировать заправку
-    refueling.editor.СameFrom:
+    refueling.editor.CameFrom:
       cs: účtenka došla přes
       en: Receipt came through
       ge: 'ქვითარი შემოვიდა '
@@ -4174,6 +4174,11 @@ Sections:
       ge: ინფორმაცია დატენვის შესახებ
       ru: Данные по заправке
     refueling.editor.СameFromDescription:
+      cs: popis
+      en: Description
+      ge: აღწერა
+      ru: Описание
+    refueling.editor.CameFromDescription:
       cs: popis
       en: Description
       ge: აღწერა
@@ -10341,13 +10346,13 @@ Sections:
     pushjobs.edit.cancel:
       en: 'Cancel'
       ru: 'Отмена'
-    reserves.edit.сreate:
+    reserves.edit.create:
       en: 'Creation date '
       ru: 'Дата создания'
     reserves.edit.start-booking:
       en: 'Start booking'
       ru: 'Дата начала заказа'
-    reserves.edit.сompletion-booking:
+    reserves.edit.completion-booking:
       en: 'Completion of booking'
       ru: 'Дата окончания заказа'
     reserves.edit.brand-model:
@@ -10356,7 +10361,7 @@ Sections:
     reserves.edit.regnumber:
       en: 'Regnumber'
       ru: 'Госномер'
-    reserves.edit.сlient:
+    reserves.edit.client:
       en: 'Client'
       ru: 'ФИО клиента'
     reserves.edit.technician:
