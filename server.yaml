@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FuelIsNotIncludedInRatePack:
+      en: "Fuel is not included"
+      ru: "Топливо не включено в цену"
     YouProvidedADangerousFile:
       en: "You provided a broken file ({trace-id})"
       ru: "Вы загрузили сломанный файл ({trace-id})"
