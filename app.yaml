@@ -3456,3 +3456,39 @@ Sections:
     support-chat.title:
       en: "Support"
       ru: "Поддрежка"
+    tech-vehicles-filter.car-model-filter:
+      en: "Cars filter ❯"
+      ru: "Фильтр по моделям ❯"
+    tech-vehicles-filter.online:
+      en: "Available for rent"
+      ru: "Доступны для аренды"
+    tech-vehicles-filter.not-online:
+      en: "Not available for rent"
+      ru: "Недоступны для аренды"
+    tech-vehicles-filter.no-connection:
+      en: "No connection"
+      ru: "Без связи"
+    tech-vehicles-filter.book:
+      en: "Booked"
+      ru: "Забронированные"
+    tech-vehicles-filter.inspect:
+      en: "In inspection mode"
+      ru: "В режиме осмотра"
+    tech-vehicles-filter.drive:
+      en: "In drive mode"
+      ru: "В режиме поездки"
+    tech-vehicles-filter.park:
+      en: "In parking mode"
+      ru: "В режиме парковки"
+    tech-vehicles-filter.voltage:
+      en: "Battery is low"
+      ru: "Аккумулятор разряжен"
+    tech-vehicles-filter.low-fuel:
+      en: "Low fuel /charge"
+      ru: "Мало топлива / заряда"
+    tech-vehicles-filter.full-fuel:
+      en: "Full tank / charge"
+      ru: "Полный бак / заряд"
+    tech-vehicles-filter.normal-fuel:
+      en: "Normal fuel/charge"
+      ru: "Нормально топлива / заряда"
