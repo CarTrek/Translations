@@ -3495,3 +3495,6 @@ Sections:
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"
+    start-news.start:
+      en: "Get started"
+      ru: "Начать"
