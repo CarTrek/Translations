@@ -1,5 +1,11 @@
 Sections:
   Server:
+    PaymentGatewaystripeDisplayName:
+      en: "Stripe"
+    PaymentGatewayyoomoneyDisplayName:
+      en: "YooMoney"
+    PaymentGatewayomiseDisplayName:
+      en: "Omise"
     FuelIsNotIncludedInRatePack:
       en: "Fuel is not included"
       ru: "Топливо не включено в цену"
