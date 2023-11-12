@@ -1,5 +1,7 @@
 Sections:
   App:
+    PaymentGatewaySelector.omise:
+      en: "Open Payments"
     PaymentGatewaySelector.stripe:
       en: "Stripe"
     PaymentGatewaySelector.yoomoney:
