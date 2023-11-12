@@ -1,5 +1,11 @@
 Sections:
   App:
+    payment-method-gateway.use:
+      en: "Select"
+      ru: "Выбрать"
+    payment-gateway-selector.cancel:
+      en: "Cancel"
+      ru: "Отмена"
     card-without-auth.rules-button:
       en: "More about rules and tariffs"
       ru: "Подробнее о правилах и тарифах"
