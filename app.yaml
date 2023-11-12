@@ -1,5 +1,7 @@
 Sections:
   App:
+    PaymentGatewaySelector.jccpayments:
+      en: "JCC Payments"
     PaymentGatewaySelector.omise:
       en: "Open Payments"
     PaymentGatewaySelector.stripe:
