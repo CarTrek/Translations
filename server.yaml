@@ -1,5 +1,7 @@
 Sections:
   Server:
+    PaymentGatewayjccpaymentsDisplayName:
+      en: "JCC"
     PaymentGatewaystripeDisplayName:
       en: "Stripe"
     PaymentGatewayyoomoneyDisplayName:
