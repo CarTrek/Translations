@@ -1,5 +1,10 @@
 Sections:
   App:
+    PaymentGatewaySelector.stripe:
+      en: "Stripe"
+    PaymentGatewaySelector.yoomoney:
+      en: "YooMoney"
+      ru: "ЮMoney"
     payment-method-gateway.use:
       en: "Select"
       ru: "Выбрать"
