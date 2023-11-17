@@ -8008,6 +8008,21 @@ Sections:
       en: Overrun
       ge: გარბენის საფასური
       ru: Перепробег
+    ratepacks.FineForFinishOutZone:
+      cs: V pořádku pro zónu dokončení
+      en: Fine for finish out zone
+      ge: ჯარიმა დასრულების ზონისთვის
+      ru: Штраф за завершение за зоной
+    ratepacks.AutoCalcWholeCost:
+      cs: Automaticky vypočítat celou cenu tarifu na základě
+      en: Auto calc the whole cost of the tariff based on
+      ge: ავტომატურად გამოთვალეთ ტარიფის მთელი ღირებულება
+      ru: Автоматический расчет всей стоимости тарифа на основе
+    ratepacks.AutoCalcTimeKmPrice:
+      cs: Auto calc čas, km a cena stačí do centra zóny
+      en: Auto calc time, km and price enough to go to the center of the zone
+      ge: ავტომატური გამოთვლის დრო, კმ და ფასი საკმარისია ზონის ცენტრში მისასვლელად
+      ru: Автоматический расчет времени, км и цены, достаточных для поездки в центр зоны
     ratepacks.Cost:
       cs: Cena předplatného
       en: Prepaid tariff cost
