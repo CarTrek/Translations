@@ -8012,7 +8012,7 @@ Sections:
       cs: V pořádku pro zónu dokončení
       en: Fine for finish out zone
       ge: ჯარიმა დასრულების ზონისთვის
-      ru: Штраф за завершение за зоной
+      ru: Штраф заверш. за зоной
     ratepacks.AutoCalcWholeCost:
       cs: Automaticky vypočítat celou cenu tarifu na základě
       en: Auto calc the whole cost of the tariff based on
