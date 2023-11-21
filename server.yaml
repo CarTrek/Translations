@@ -1,5 +1,8 @@
 Sections:
   Server:
+    HoldingDepositDescription:
+      en: "Holding the deposit"
+      ru: "Предавторизация депозита"
     PaymentGatewayjccpaymentsDisplayName:
       en: "JCC"
     PaymentGatewaystripeDisplayName:
