@@ -141,6 +141,9 @@ Sections:
     rates.NotifyOperatorsOnRentStart:
       en: 'The user started the rental with a subscription'
       ru: 'Пользователь начал аренду с абонементом'
+    notifications.OrderSwitchedToFreeRateFromPaidRate:
+      en: "Order switched to free tariff from paid"
+      ru: "Заказ переключился на бесплатный тариф с платного"
     notifications.UserStartedRentOnSelectedRatePack:
       en: 'User starteded rent selected rate pack'
       ru: 'Пользователь начал аренду выбранного тарифного пакета'

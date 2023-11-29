@@ -6665,6 +6665,9 @@ Sections:
     CarDeleted:
       en: Vehicle deleted
       ru: Транспортное средство удалено
+    OrderSwitchedToFreeRateFromPaidRate:
+      en: "Order switched to free tariff from paid"
+      ru: "Заказ переключился на бесплатный тариф с платного"
     UserStartedRentOnSelectedRatePack:
       en: User have started rent on selected subscription
       ru: Пользователь начал аренду с абонементом
