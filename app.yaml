@@ -1,5 +1,8 @@
 Sections:
   App:
+    swap-battery.start-success:
+      en: "Battery swapping started"
+      ru: "Смена батареи инициирована успешно"
     PaymentGatewaySelector.jccpayments:
       en: "JCC Payments"
     PaymentGatewaySelector.omise:
