@@ -3513,3 +3513,15 @@ Sections:
     start-news.start:
       en: "Get started"
       ru: "Начать"
+    sign-contract.header-title:
+      en: "Hand over protocol"
+      ru: "Протокол передачи"
+    sign-contract.title:
+      en: "Customer signature"
+      ru: "Подпись арендатора"
+    sign-contract.button-done:
+      en: "Done"
+      ru: "Готово"
+    sign-contract.empty:
+      en: "Signature is empty"
+      ru: "Подпись пуста"
