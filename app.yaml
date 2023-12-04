@@ -233,6 +233,15 @@ Sections:
     report-screen.accept-act-link:
       en: "Show the act..."
       ru: "Показать акт..."
+    report-screen.click-here:
+      en: "Click here"
+      ru: "Нажмите здесь,"
+    report-screen.click-here-next:
+      en: "to see the handover act."
+      ru: "чтобы увидеть акт передачи."
+    report-screen.sing-contract:
+      en: "Sign the handover act here:"
+      ru: "Подпишите акт приема-передачи здесь:"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
