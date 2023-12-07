@@ -40,10 +40,13 @@ Sections:
       ru: "АКПП"
     RightExecCode:
       en: "Exec C# code"
-      en: "Выполнять код C#"
+      ru: "Выполнять код C#"
     RightExecSql:
       en: "Exec SQL queries"
-      en: "Выполнять SQL-запросы"
+      ru: "Выполнять SQL-запросы"
+    ManageStorage:
+      en: "Manage storage"
+      ru: "Управление хранилищем"
     DeliverToAddress:
       en: "Deliver to address: {delivery-address} by {delivery-time}"
       ru: "Доставьте по адресу: {delivery-address} к {delivery-time}"
