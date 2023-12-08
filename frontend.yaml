@@ -6190,6 +6190,16 @@ Sections:
       en: Passenger
       ge: მგზავრის კარები
       ru: Пассажирская
+    cars.editor.IsFrontLeftDoorOpened:
+      cs: Dveře řidiče
+      en: Front Left
+      ge: მძღოლის კარები
+      ru: Передняя Левая
+    cars.editor.IsFrontRightDoorOpened:
+      cs: Dveře spolujezdce
+      en: Front Right
+      ge: მგზავრის კარები
+      ru: Передняя Правая
     cars.editor.IsRearLeftDoorOpened:
       cs: Zadní levé
       en: Rear Left
