@@ -6230,6 +6230,16 @@ Sections:
       en: Passenger belt
       ge: მგზავრის ღვედი
       ru: Пассажирский ремень
+    cars.editor.IsFrontLeftBeltInserted:
+      cs: Bezpečnostní pás řidiče
+      en: Front left belt
+      ge: მძღოლის ღვედი
+      ru: Передний левый ремень
+    cars.editor.IsFrontRightBeltInserted:
+      cs: Bezpečnostní pás spolujezdce
+      en: Front right belt
+      ge: მგზავრის ღვედი
+      ru: Передний правый ремень
     cars.editor.IsRearLeftBeltInserted:
       cs: Bezpečnostní pás vlevo vzadu
       en: Rear left belt
@@ -6245,7 +6255,13 @@ Sections:
       ru: Водительское окно
     cars.editor.IsPassengerWindowOpened:
       en: Passenger window
-      ru: Пассажирский ремень
+      ru: Пассажирский окно
+    cars.editor.IsFrontLeftWindowOpened:
+      en: Front left window
+      ru: Переднее левое окно
+    cars.editor.IsFrontRightWindowOpened:
+      en: Front right window
+      ru: Переднее правое окно
     cars.editor.IsRearLeftWindowOpened:
       en: Rear left window
       ru: Заднее левое окно
