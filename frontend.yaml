@@ -1,11 +1,14 @@
 Sections:
   AdminFrontend:
+    cars.list.LowWasherFluid:
+      en: "Washer"
+      ru: "Омыватель"
     cars.list.LowWasherFluidFalse:
-      en: ''
-      ru: ''
+      en: ""
+      ru: ""
     cars.list.LowWasherFluidTrue:
-      en: 'Washer'
-      ru: 'Омыв.'
+      en: "Washer"
+      ru: "Омыватель"
     organizations.TrackUsers:
       en: "Track users"
       ru: "Трекинг пользователей"
