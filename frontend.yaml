@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    aside.nav.cars.LOWWASHINGFLUID:
+      en: "No washer"
+      ru: "Нет омывателя"
     cars.list.LowWasherFluid:
       en: "Washer"
       ru: "Омыватель"
