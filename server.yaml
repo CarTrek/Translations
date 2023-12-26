@@ -1,5 +1,11 @@
 Sections:
   Server:
+    OverrunShort:
+      en: "OR"
+      ru: "ПП"
+    RatePackShort:
+      en: "PP"
+      ru: "ПТ"
     MakeZeroBalanceWithDebtDate:
       en: "Make zero balance, debt date: {DebtDate}"
       ru: "Погашение долга. Дата долга: {DebtDate}"
