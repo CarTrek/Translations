@@ -4,7 +4,7 @@ Sections:
       en: "OR"
       ru: "ПП"
     RatePackShort:
-      en: "PP"
+      en: "PPT"
       ru: "ПТ"
     MakeZeroBalanceWithDebtDate:
       en: "Make zero balance, debt date: {DebtDate}"
