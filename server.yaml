@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CastomerTelegramAuthPrompt:
+      en: "I dont know you. Please share your phone number. I you are already registered in our service, I will send you your current rentals. You will be able to open, to close the car and to finish your rides."
+      ru: "Я вас не узнал. Пришлите пожалуйста ваш номер телефона. Если вы уже зарегистрированы в нашем сервисе, я пришлю вам ваши аренды. Вы сможете открывать и закрывать двери машины, а также завершить аренду."
     MakeZeroBalanceWithDebtDate:
       en: "Make zero balance, debt date: {DebtDate}"
       ru: "Погашение долга. Дата долга: {DebtDate}"
