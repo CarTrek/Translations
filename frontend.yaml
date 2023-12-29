@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    ratesmultiplier.ChooseRateMultiplier:
+      en: "Unlock price"
+      ru: "Стоимость разблокировки"
+    cars.editor.TariffModifiers:
+      en: "⚖️ Tariff modifiers"
+      ru: "⚖️ Тарифные опции"
     aside.nav.cars.LOWWASHINGFLUID:
       en: "No washer"
       ru: "Нет омывателя"
