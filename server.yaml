@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CustomerTelegramUserIsNotRegistered:
+      en: "Looks like you did not register yet. Or did you use another phone number? Please use this bot from the Telegram account with <b>the same phone number</b> you used to sign up to our service."
+      ru: "Похоже, что вы у нас не зарегистрированы. Или вы использовали другой номер телефона? Пожалуйста, зайдите в этот бот с аккаунтом Telegram, привязанного <b>к тому же номеру телефона</b>, который вы использовали при регистрации в нашем сервисе."
     CustomerTelegramShareMyPhoneNumber:
       en: "Share my phone number"
       ru: "Отправить мой номер телефона"
