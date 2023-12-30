@@ -1,6 +1,6 @@
 Sections:
   Server:
-    CustomerTelegramCongratulationsNowIKknowYou:
+    CustomerTelegramCongratulationsNowIKnowYou:
       en: "Welcome, {name}! Now you can see and control you rides via Telegram."
       ru: "Здравствуйте, {name}! Теперь вы можете управлать своими арендами через Telegram."
     CustomerTelegramUserIsNotRegistered:
