@@ -1,5 +1,14 @@
 Sections:
   Server:
+    CustomerTelegramActionFinishRent:
+      en: "Finish rent"
+      ru: "Завершить аренду"
+    CustomerTelegramActionDrive:
+      en: "Open"
+      ru: "Открыть"
+    CustomerTelegramActionPark:
+      en: "Close"
+      ru: "Закрыть"
     CustomerTelegramRideMessageTemplate:
       en: "{icon} {model-name} <b>{reg-number}</b> in the state: <i>{ride-state}</i>"
       ru: "{icon} {model-name} <b>{reg-number}</b> в состоянии: <i>{ride-state}</i>"
