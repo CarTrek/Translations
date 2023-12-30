@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CustomerTelegramYouHaveNoRides:
+      en: "{name}, you do not have any active ride now."
+      ru: "{name}, у вас сейчас нет активных поездок."
     CustomerTelegramCongratulationsNowIKnowYou:
       en: "Welcome, {name}! Now you can see and control you rides via Telegram."
       ru: "Здравствуйте, {name}! Теперь вы можете управлать своими арендами через Telegram."
