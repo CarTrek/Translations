@@ -31,7 +31,7 @@ Sections:
       en: "Share my phone number"
       ru: "Отправить мой номер телефона"
     CustomerTelegramAuthPrompt:
-      en: "I dont know you. Please share your phone number. I you are already registered in our service, I will send you your current rentals. You will be able to open, to close the car and to finish your rides. "
+      en: "I dont know you. Please share your phone number. If you are already registered in our service, I will send you your current rentals. You will be able to open, to close the car and to finish your rides. "
       ru: "Я вас не узнал. Пришлите пожалуйста ваш номер телефона. Если вы уже зарегистрированы в нашем сервисе, я пришлю вам ваши аренды. Вы сможете открывать и закрывать двери машины, а также завершить аренду."
     OverrunShort:
       en: "OR"
