@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CustomerTelegramCommandNotFound:
+      en: "You did something strange"
+      ru: "Вы сделали что-то странное"
     CustomerTelegramActionFinishRent:
       en: "Finish rent"
       ru: "Завершить аренду"
