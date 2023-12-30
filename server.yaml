@@ -1,5 +1,7 @@
 Sections:
   Server:
+    CustomerTelegramRideMessageTemplate:
+      en: "{icon} {model-name} <b>{reg-number}</b>: <i>{ride-state}</i>"
     CustomerTelegramHereAreYouActiveRides:
       en: "{name}, here are you active rides:"
       ru: "{name}, вот ваши активные аренды:"
