@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CustomerTelegramHereAreYouActiveRides:
+      en: "{name}, here are you active rides:"
+      ru: "{name}, вот ваши активные аренды:"
     CustomerTelegramYouHaveNoRides:
       en: "{name}, you do not have any active ride now."
       ru: "{name}, у вас сейчас нет активных поездок."
