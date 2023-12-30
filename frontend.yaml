@@ -5335,6 +5335,9 @@ Sections:
       en: Alarm notifications
       ge: შეტყობინება განგაშების შესახებ
       ru: Уведомления о тревогах
+    system.users.notify.telegram:
+      en: "Notify via Telegram"
+      ru: "Уведомлять через Telegram"
     system.users.notify.web:
       cs: Oznamovat přes web-interface
       en: Notify via web-interface
