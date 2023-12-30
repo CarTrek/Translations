@@ -5350,6 +5350,8 @@ Sections:
       en: Notify via sms
       ge: შეტყობინება sms-ით
       ru: Уведомлять по sms
+    system.users.notify.allTelegram:
+      en: "Telegram"
     system.users.notify.allWeb:
       cs: Oznamovat přes web-interface (zvýraznit/odstranit zvýraznění)
       en: Notify via web-interface (select/deselect)
