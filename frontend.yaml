@@ -5876,10 +5876,15 @@ Sections:
       en: Low washer fluid
       ru: Мало омывайки
     cars.editor.Log:
-      cs: Deník
-      en: Register
+      cs: IoT deník
+      en: IoT log
       ge: ჟურნალი
-      ru: Журнал
+      ru: IoT лог
+    cars.editor.HwmLog:
+      cs: Deník
+      en: Log
+      ge: ჟურნალი
+      ru: Лог
     cars.editor.Last:
       cs: Poslední
       en: Last
