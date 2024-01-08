@@ -3519,6 +3519,9 @@ Sections:
     tech-vehicles-filter.normal-fuel:
       en: "Normal fuel/charge"
       ru: "Нормально топлива / заряда"
+    tech-vehicles-filter.washer-level:
+      en: "Washer level"
+      ru: "Уровень жидкости"
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"
