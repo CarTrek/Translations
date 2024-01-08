@@ -1,5 +1,23 @@
 Sections:
   AdminFrontend:
+    ratesmultiplier.ChooseRateMultiplier:
+      en: "Unlock price"
+      ru: "Стоимость разблокировки"
+    cars.editor.TariffModifiers:
+      en: "⚖️ Tariff modifiers"
+      ru: "⚖️ Тарифные опции"
+    aside.nav.cars.LOWWASHINGFLUID:
+      en: "No washer"
+      ru: "Нет омывателя"
+    cars.list.LowWasherFluid:
+      en: "Washer"
+      ru: "Омыватель"
+    cars.list.LowWasherFluidFalse:
+      en: ""
+      ru: ""
+    cars.list.LowWasherFluidTrue:
+      en: "Washer"
+      ru: "Омыватель"
     organizations.TrackUsers:
       en: "Track users"
       ru: "Трекинг пользователей"
@@ -141,6 +159,9 @@ Sections:
     rates.NotifyOperatorsOnRentStart:
       en: 'The user started the rental with a subscription'
       ru: 'Пользователь начал аренду с абонементом'
+    notifications.OrderSwitchedToFreeRateFromPaidRate:
+      en: "Order switched to free tariff from paid"
+      ru: "Заказ переключился на бесплатный тариф с платного"
     notifications.UserStartedRentOnSelectedRatePack:
       en: 'User starteded rent selected rate pack'
       ru: 'Пользователь начал аренду выбранного тарифного пакета'
@@ -5314,6 +5335,9 @@ Sections:
       en: Alarm notifications
       ge: შეტყობინება განგაშების შესახებ
       ru: Уведомления о тревогах
+    system.users.notify.telegram:
+      en: "Notify via Telegram"
+      ru: "Уведомлять через Telegram"
     system.users.notify.web:
       cs: Oznamovat přes web-interface
       en: Notify via web-interface
@@ -5329,6 +5353,8 @@ Sections:
       en: Notify via sms
       ge: შეტყობინება sms-ით
       ru: Уведомлять по sms
+    system.users.notify.allTelegram:
+      en: "Telegram"
     system.users.notify.allWeb:
       cs: Oznamovat přes web-interface (zvýraznit/odstranit zvýraznění)
       en: Notify via web-interface (select/deselect)
@@ -5850,10 +5876,15 @@ Sections:
       en: Low washer fluid
       ru: Мало омывайки
     cars.editor.Log:
-      cs: Deník
-      en: Register
+      cs: IoT deník
+      en: IoT log
       ge: ჟურნალი
-      ru: Журнал
+      ru: IoT лог
+    cars.editor.HwmLog:
+      cs: Deník
+      en: Log
+      ge: ჟურნალი
+      ru: Лог
     cars.editor.Last:
       cs: Poslední
       en: Last
@@ -6187,6 +6218,16 @@ Sections:
       en: Passenger
       ge: მგზავრის კარები
       ru: Пассажирская
+    cars.editor.IsFrontLeftDoorOpened:
+      cs: Dveře řidiče
+      en: Front Left
+      ge: მძღოლის კარები
+      ru: Передняя Левая
+    cars.editor.IsFrontRightDoorOpened:
+      cs: Dveře spolujezdce
+      en: Front Right
+      ge: მგზავრის კარები
+      ru: Передняя Правая
     cars.editor.IsRearLeftDoorOpened:
       cs: Zadní levé
       en: Rear Left
@@ -6217,6 +6258,16 @@ Sections:
       en: Passenger belt
       ge: მგზავრის ღვედი
       ru: Пассажирский ремень
+    cars.editor.IsFrontLeftBeltInserted:
+      cs: Bezpečnostní pás řidiče
+      en: Front left belt
+      ge: მძღოლის ღვედი
+      ru: Передний левый ремень
+    cars.editor.IsFrontRightBeltInserted:
+      cs: Bezpečnostní pás spolujezdce
+      en: Front right belt
+      ge: მგზავრის ღვედი
+      ru: Передний правый ремень
     cars.editor.IsRearLeftBeltInserted:
       cs: Bezpečnostní pás vlevo vzadu
       en: Rear left belt
@@ -6232,7 +6283,13 @@ Sections:
       ru: Водительское окно
     cars.editor.IsPassengerWindowOpened:
       en: Passenger window
-      ru: Пассажирский ремень
+      ru: Пассажирский окно
+    cars.editor.IsFrontLeftWindowOpened:
+      en: Front left window
+      ru: Переднее левое окно
+    cars.editor.IsFrontRightWindowOpened:
+      en: Front right window
+      ru: Переднее правое окно
     cars.editor.IsRearLeftWindowOpened:
       en: Rear left window
       ru: Заднее левое окно
@@ -8008,6 +8065,21 @@ Sections:
       en: Overrun
       ge: გარბენის საფასური
       ru: Перепробег
+    ratepacks.FineForFinishOutZone:
+      cs: V pořádku pro zónu dokončení
+      en: Fine for finish out zone
+      ge: ჯარიმა დასრულების ზონისთვის
+      ru: Штраф заверш. за зоной
+    ratepacks.AutoCalcWholeCost:
+      cs: Automaticky vypočítat celou cenu tarifu na základě
+      en: Auto calc the whole cost of the tariff based on
+      ge: ავტომატურად გამოთვალეთ ტარიფის მთელი ღირებულება
+      ru: Автоматический расчет всей стоимости тарифа на основе
+    ratepacks.AutoCalcTimeKmPrice:
+      cs: Auto calc čas, km a cena stačí do centra zóny
+      en: Auto calc time, km and price enough to go to the center of the zone
+      ge: ავტომატური გამოთვლის დრო, კმ და ფასი საკმარისია ზონის ცენტრში მისასვლელად
+      ru: Автоматический расчет времени, км и цены, достаточных для поездки в центр зоны
     ratepacks.Cost:
       cs: Cena předplatného
       en: Prepaid tariff cost

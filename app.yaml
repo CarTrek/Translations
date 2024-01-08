@@ -1,5 +1,23 @@
 Sections:
   App:
+    swap-battery.start-success:
+      en: "Battery swapping started"
+      ru: "Смена батареи инициирована успешно"
+    PaymentGatewaySelector.jccpayments:
+      en: "JCC Payments"
+    PaymentGatewaySelector.omise:
+      en: "Open Payments"
+    PaymentGatewaySelector.stripe:
+      en: "Stripe"
+    PaymentGatewaySelector.yoomoney:
+      en: "YooMoney"
+      ru: "ЮMoney"
+    payment-method-gateway.use:
+      en: "Select"
+      ru: "Выбрать"
+    payment-gateway-selector.cancel:
+      en: "Cancel"
+      ru: "Отмена"
     card-without-auth.rules-button:
       en: "More about rules and tariffs"
       ru: "Подробнее о правилах и тарифах"
@@ -218,6 +236,15 @@ Sections:
     report-screen.accept-act-link:
       en: "Show the act..."
       ru: "Показать акт..."
+    report-screen.click-here:
+      en: "Click here"
+      ru: "Нажмите здесь,"
+    report-screen.click-here-next:
+      en: "to see the handover act."
+      ru: "чтобы увидеть акт передачи."
+    report-screen.sing-contract:
+      en: "Sign the handover act here:"
+      ru: "Подпишите акт приема-передачи здесь:"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
@@ -3495,3 +3522,18 @@ Sections:
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"
+    start-news.start:
+      en: "Get started"
+      ru: "Начать"
+    sign-contract.header-title:
+      en: "Hand over protocol"
+      ru: "Протокол передачи"
+    sign-contract.title:
+      en: "Customer signature"
+      ru: "Подпись арендатора"
+    sign-contract.button-done:
+      en: "Done"
+      ru: "Готово"
+    sign-contract.empty:
+      en: "Signature is empty"
+      ru: "Подпись пуста"
