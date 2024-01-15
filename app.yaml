@@ -872,7 +872,7 @@ Sections:
       en: Cars body is damaged
       ru: Кузов повреждён
     after-ride-photos.report-item-TireIsFlat:
-      en: Tier is flat
+      en: Tire is flat
       ru: Спущено колесо
     after-ride-photos.report-item-BrokenWindow:
       en: Window is broken
