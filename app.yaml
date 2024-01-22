@@ -1595,6 +1595,15 @@ Sections:
       ka: Are you sure you want to book an auto automatically?
       ru: Зарезервировать авто автоматически?
       uk: Are you sure you want to book an auto automatically?
+    radar.selected:
+      en: "SELECTED: {modelsCount}"
+      ru: "ВЫБРАНО: {modelsCount}"
+    radar.none:
+      en: "NONE"
+      ru: "НЕТ"
+    radar.filter:
+      en: "Filter by model"
+      ru: "Фильтр по модели"
     common.systemBackButtonTitle:
       en: 'Back'
       ru: 'Назад'
