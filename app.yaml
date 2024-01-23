@@ -1596,8 +1596,8 @@ Sections:
       ru: Зарезервировать авто автоматически?
       uk: Are you sure you want to book an auto automatically?
     radar.selected:
-      en: "SELECTED: "
-      ru: "ВЫБРАНО: "
+      en: "SELECTED: {models-count}"
+      ru: "ВЫБРАНО: {models-count}"
     radar.none:
       en: "NONE"
       ru: "НЕТ"
