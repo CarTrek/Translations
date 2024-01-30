@@ -811,7 +811,7 @@ Sections:
       ru: Завершить
     card-v2.finish-rental-question:
       en: Are you sure you want to complete your rental? \n\nLift the handbrake, switch the automatic transmission selector to the P position, turn off the headlights and interior lights. \n\nAfter completing the rental, take photos of the car.
-      ru: Вы уверены, что хотите завершить вашу аренду? \n\nПоднимите ручной тормоз, переключите селектор АКПП в положление P, выключите фары и свет в салоне. \n\nПосле завершения аренды сделайте фото атвомобиля.
+      ru: Вы уверены, что хотите завершить вашу аренду? \n\nПоднимите ручной тормоз, переключите селектор АКПП в положение P, выключите фары и свет в салоне. \n\nПосле завершения аренды сделайте фото автомобиля.
     card-v2.button-inspect:
       en: Open
       ru: Открыть
@@ -875,7 +875,7 @@ Sections:
       en: Cars body is damaged
       ru: Кузов повреждён
     after-ride-photos.report-item-TireIsFlat:
-      en: Tier is flat
+      en: Tire is flat
       ru: Спущено колесо
     after-ride-photos.report-item-BrokenWindow:
       en: Window is broken
@@ -1598,6 +1598,15 @@ Sections:
       ka: Are you sure you want to book an auto automatically?
       ru: Зарезервировать авто автоматически?
       uk: Are you sure you want to book an auto automatically?
+    radar.selected:
+      en: "SELECTED: {models-count}"
+      ru: "ВЫБРАНО: {models-count}"
+    radar.none:
+      en: "NONE"
+      ru: "НЕТ"
+    radar.filter:
+      en: "Filter by model"
+      ru: "Фильтр по модели"
     common.systemBackButtonTitle:
       en: 'Back'
       ru: 'Назад'
@@ -2307,6 +2316,18 @@ Sections:
     error.disconnect.message:
       en: "The command failed because there is no connection. Please check your internet connection and try again."
       ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз."
+    error.notfound.message:
+      en: "Server request error. Restart the application, if the error persists, contact support (404)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (404)"
+    error.forbidden.message:
+      en: "This car already booked"
+      ru: "Эту машину уже кто то арендовал"
+    error.unauthorized.message:
+      en: "Server request error. Restart the application, if the error persists, contact support (401)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (401)"
+    error.redirect.message:
+      en: "Server request error. Restart the application, if the error persists, contact support (301)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (301)"
     error.other.title:
       en: "Something went wrong"
       ru: "Что-то пошло не так"
@@ -3522,6 +3543,9 @@ Sections:
     tech-vehicles-filter.normal-fuel:
       en: "Normal fuel/charge"
       ru: "Нормально топлива / заряда"
+    tech-vehicles-filter.washer-level:
+      en: "Washer level"
+      ru: "Уровень жидкости"
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"

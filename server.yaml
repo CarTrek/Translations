@@ -1,5 +1,44 @@
 Sections:
   Server:
+    CustomerTelegramCommandNotFound:
+      en: "You did something strange"
+      ru: "Вы сделали что-то странное"
+    CustomerTelegramActionFinishRent:
+      en: "Finish rent"
+      ru: "Завершить аренду"
+    CustomerTelegramActionDrive:
+      en: "Open"
+      ru: "Открыть"
+    CustomerTelegramActionPark:
+      en: "Close"
+      ru: "Закрыть"
+    CustomerTelegramRideMessageTemplate:
+      en: "{icon} {model-name} <b>{reg-number}</b> in the state: <i>{ride-state}</i>"
+      ru: "{icon} {model-name} <b>{reg-number}</b> в состоянии: <i>{ride-state}</i>"
+    CustomerTelegramHereAreYouActiveRides:
+      en: "{name}, here are your active rides:"
+      ru: "{name}, вот ваши активные аренды:"
+    CustomerTelegramYouHaveNoRides:
+      en: "{name}, you do not have any active ride now."
+      ru: "{name}, у вас сейчас нет активных поездок."
+    CustomerTelegramCongratulationsNowIKnowYou:
+      en: "Welcome, {name}! Now you can see and control you rides via Telegram."
+      ru: "Здравствуйте, {name}! Теперь вы можете управлать своими арендами через Telegram."
+    CustomerTelegramUserIsNotRegistered:
+      en: "Looks like you did not register yet. Or did you use another phone number? Please use this bot from the Telegram account with <b>the same phone number</b> you used to sign up to our service."
+      ru: "Похоже, что вы у нас не зарегистрированы. Или вы использовали другой номер телефона? Пожалуйста, зайдите в этот бот с аккаунтом Telegram, привязанным <b>к тому же номеру телефона</b>, который вы использовали при регистрации в нашем сервисе."
+    CustomerTelegramShareMyPhoneNumber:
+      en: "Share my phone number"
+      ru: "Отправить мой номер телефона"
+    CustomerTelegramAuthPrompt:
+      en: "I dont know you. Please share your phone number. <b>Tap the 'Share my phone number' button</b>; If you send your phone number as a text message, we will not be able to authorize you. Then if you are already registered in our service, I will send you your current rentals. You will be able to open, to close the car and to finish your rides."
+      ru: "Я вас не узнал. Пришлите пожалуйста ваш номер телефона. <b>Нажмите кнопку 'Отправить мой номер телефона'</b>; если пришлёте номер телефона текстом в сообщении, мы не сможем вас авторизовать. После этого если вы уже зарегистрированы в нашем сервисе, я пришлю вам ваши аренды. Вы сможете открывать и закрывать двери машины, а также завершить аренду."
+    OverrunShort:
+      en: "OR"
+      ru: "ПП"
+    RatePackShort:
+      en: "PPT"
+      ru: "ПТ"
     MakeZeroBalanceWithDebtDate:
       en: "Make zero balance, debt date: {DebtDate}"
       ru: "Погашение долга. Дата долга: {DebtDate}"
@@ -40,10 +79,13 @@ Sections:
       ru: "АКПП"
     RightExecCode:
       en: "Exec C# code"
-      en: "Выполнять код C#"
+      ru: "Выполнять код C#"
     RightExecSql:
       en: "Exec SQL queries"
-      en: "Выполнять SQL-запросы"
+      ru: "Выполнять SQL-запросы"
+    ManageStorage:
+      en: "Manage storage"
+      ru: "Управление хранилищем"
     DeliverToAddress:
       en: "Deliver to address: {delivery-address} by {delivery-time}"
       ru: "Доставьте по адресу: {delivery-address} к {delivery-time}"
