@@ -60,6 +60,9 @@ Sections:
     fueling-card.swap-battery:
       en: "Swap battery"
       ru: "Сменить батарею"
+    fueling-card.get-directions:
+      en: "Get directions"
+      ru: "Построить маршрут"
     subscription.more-info-link:
       en: "More info..."
       ru: "Узнать больше..."
