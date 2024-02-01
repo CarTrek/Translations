@@ -774,17 +774,23 @@ Sections:
       en: "The full cost of the selected fare ({currency}{amount}) will be debited from your account. Continue?"
       ru: "С вашего счёта будет списана полная стоимость выбранного тарифа: {currency}{amount}. Продолжить?"
     rate-select.cancel-rental:
-      en: Cancel reservation
-      ru: Отменить бронь
+      en: "Cancel reservation"
+      ru: "Отменить бронь"
     rate-select.select-rate:
-      en: Select
-      ru: Выбрать
+      en: "Select"
+      ru: "Выбрать"
+    rate-select.rate-pack-cost:
+      en: "{amount} {currency}"
+      ru: "{amount} {currency}"
+    rate-select.rate-cost-per-min:
+      en: "{amount} {currency}/min"
+      ru: "{amount} {currency}/мин"
     card-v2.button-book-rate:
-      en: Book
-      ru: Забронировать
+      en: "Book"
+      ru: "Забронировать"
     card-v2.start-inspect-title:
-      en: Open the car?
-      ru: Открыть автомобиль?
+      en: "Open the car?"
+      ru: "Открыть автомобиль?"
     card-v2.start-inspect-question:
       en: "You will have {minutes} free minutes to inspect the car."
       ru: "У вас будет {minutes} бесплатных минут, чтобы осмотреть автомобиль."
