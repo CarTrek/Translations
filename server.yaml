@@ -5009,6 +5009,12 @@ Sections:
       en: Delete car model
       ru: Удалять модели автомобилей
       uk: Видаляти моделі автомобілів
+    RightDeleteCarTaskComments:
+      cs: Odstranit komentáře k úkolům
+      ka: ამოცანების კომენტარების წაშლა
+      en: Delete comments for tasks
+      ru: Удалять комментарии к задачам
+      uk: Видаляти коментарі до завдань
     RightDeleteCustomers:
       cs: Odstranit zákazníky
       ka: მომხმარებელთა წაშლა
@@ -5077,6 +5083,12 @@ Sections:
       en: Edit Car Tasks
       ru: Редактировать задачи по машинам
       uk: Редагувати завдання по машинах
+    RightEditCarTaskComments:
+      cs: Editovat poznámek k úkolům
+      ka: ამოცანების კომენტარების რედაქტირება
+      en: Edit comments to tasks
+      ru: Редактировать комментарии к задачам
+      uk: Редагувати коментарі до завдань
     RightEditCarTaskTypes:
       cs: Editace druhů úkolů k vozidlům
       ka: მანქანის დავალებათა ტიპების რედაქტირება
