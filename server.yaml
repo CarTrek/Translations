@@ -5003,6 +5003,12 @@ Sections:
       en: Delete vehicles
       ru: Удаление автомобилей
       uk: Видалення автомобілів
+    RightDeleteCarComments:
+      cs: Odstranit komentáře k autu
+      ka: წაშალეთ მანქანის კომენტარები
+      en: Delete car comments
+      ru: Удалять комментарии к автомоблю
+      uk: Видаляти коментарі до автомобіля
     RightDeleteCarsModels:
       cs: Odstranit modely vozidel
       ka: მანქანების მოდელების წაშლა
@@ -5071,6 +5077,12 @@ Sections:
       en: Edit CarDefectTypes
       ru: Редактирование типов дефектов
       uk: Редагування типів дефектів
+    RightEditCarComments:
+      cs: Editovat komentáře k autu
+      ka: მანქანის კომენტარების რედაქტირება
+      en: Edit car comments
+      ru: Редактировать комментарии к автомобилю
+      uk: Редагувати коментарі до автомобіля     
     RightEditCarsModels:
       cs: Editovat modely vozidel
       ka: ავტომანქანების მოდელების რედაქტირება
