@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.fuel-level-unknown:
+      en: "Fuel level is unknown"
+      ru: "Уровень топлива неизвестен"
+    card-v2.charge-level-unknown:
+      en: "Battery level is unknown"
+      ru: "Уровень заряда неизвестен"  
     swap-battery.start-success:
       en: "Battery swapping started"
       ru: "Смена батареи инициирована успешно"
