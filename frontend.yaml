@@ -4679,6 +4679,16 @@ Sections:
       en: Add comment
       ge: კომენტარების დამატება
       ru: Добавить комментарий
+    clients.editor.applychanges:
+      cs: použít změněno
+      en: Apply changes
+      ge: განაცხადი შეცვლილია
+      ru: Применить изменения
+    clients.editor.cancel:
+      cs: zrušení
+      en: Cancel
+      ge: გაუქმება
+      ru: Отменить
     clients.editor.commentMarkBad:
       cs: hodnocení se snížilo o -1
       en: Score dropped by 1
