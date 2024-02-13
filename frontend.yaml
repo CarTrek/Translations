@@ -4689,6 +4689,11 @@ Sections:
       en: Cancel
       ge: გაუქმება
       ru: Отменить
+    clients.editor.removeCommentConfirm:
+      cs: komentář bude smazán. Chceš pokračovat?
+      en: Comment will be deleted. Do you want to continue?
+      ge: კომენტარი წაიშლება. Გინდა გააგრძელო?
+      ru: Комментарий будет удален. Продолжить?
     clients.editor.commentMarkBad:
       cs: hodnocení se snížilo o -1
       en: Score dropped by 1
