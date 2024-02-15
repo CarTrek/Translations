@@ -1222,6 +1222,11 @@ Sections:
     organization.editor.UserPromocodes:
       en: User with this promocodes will be added to organization
       ru: Помещать в организацию новых пользователей с промо-кодами
+    organization.editor.UseInCustomFilters:
+      en: Use in custom filters
+      ru: Использовать в кастомных фильтрах
+      cz: Použití ve vlastních filtrech
+      ge: გამოიყენეთ მორგებულ ფილტრებში
     zone.editor.removePhotoConfirm:
       en: Marker will be removed. Are you sure you want to continue?
       ru: Маркер будет удален. Вы уверены, что хотите продолжить?
