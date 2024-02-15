@@ -1555,6 +1555,11 @@ Sections:
       en: from
       ge: დან
       ru: из
+    app.ORGANIZATIONS:
+      cs: Organizace
+      en: Organizations
+      ge: ორგანიზაციები
+      ru: Организации
     app.SEARCH:
       cs: hledání
       en: Search
