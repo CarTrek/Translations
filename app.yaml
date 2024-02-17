@@ -2330,16 +2330,16 @@ Sections:
       ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз."
     error.notfound.message:
       en: "Server request error. Restart the application, if the error persists, contact support (404)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (404)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повторится обратитесь в службу поддержки (404)"
     error.forbidden.message:
       en: "This car already booked"
       ru: "Эту машину уже кто то арендовал"
     error.unauthorized.message:
       en: "Server request error. Restart the application, if the error persists, contact support (401)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (401)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повторится обратитесь в службу поддержки (401)"
     error.redirect.message:
       en: "Server request error. Restart the application, if the error persists, contact support (301)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (301)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повторится обратитесь в службу поддержки (301)"
     error.other.title:
       en: "Something went wrong"
       ru: "Что-то пошло не так"
