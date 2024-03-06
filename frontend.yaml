@@ -9850,6 +9850,16 @@ Sections:
       cs: No user is currently selected!
       en: No user is currently selected!
       ru: Не выбран пользователь!
+    cars.editor.EDIT:
+      cs: Editovat
+      en: Edit
+      ge: რედაქტირება
+      ru: Редактировать
+    cars.editor.DELETE:
+      cs: Odstranit
+      en: Delete
+      ge: წაშლა
+      ru: Удалить
     cars.models.defaultimage:
       en: Default photo
       ru: Фото по умолчанию
