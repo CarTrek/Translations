@@ -1222,6 +1222,11 @@ Sections:
     organization.editor.UserPromocodes:
       en: User with this promocodes will be added to organization
       ru: Помещать в организацию новых пользователей с промо-кодами
+    organization.editor.UseInCustomFilters:
+      en: Use in custom filters
+      ru: Использовать в кастомных фильтрах
+      cz: Použití ve vlastních filtrech
+      ge: გამოიყენეთ მორგებულ ფილტრებში
     zone.editor.removePhotoConfirm:
       en: Marker will be removed. Are you sure you want to continue?
       ru: Маркер будет удален. Вы уверены, что хотите продолжить?
@@ -1550,6 +1555,11 @@ Sections:
       en: from
       ge: დან
       ru: из
+    app.ORGANIZATIONS:
+      cs: Organizace
+      en: Organizations
+      ge: ორგანიზაციები
+      ru: Организации
     app.SEARCH:
       cs: hledání
       en: Search
@@ -4679,6 +4689,21 @@ Sections:
       en: Add comment
       ge: კომენტარების დამატება
       ru: Добавить комментарий
+    clients.editor.applychanges:
+      cs: použít změněno
+      en: Apply changes
+      ge: განაცხადი შეცვლილია
+      ru: Применить изменения
+    clients.editor.cancel:
+      cs: zrušení
+      en: Cancel
+      ge: გაუქმება
+      ru: Отменить
+    clients.editor.removeCommentConfirm:
+      cs: komentář bude smazán. Chceš pokračovat?
+      en: Comment will be deleted. Do you want to continue?
+      ge: კომენტარი წაიშლება. Გინდა გააგრძელო?
+      ru: Комментарий будет удален. Продолжить?
     clients.editor.commentMarkBad:
       cs: hodnocení se snížilo o -1
       en: Score dropped by 1
@@ -9825,6 +9850,16 @@ Sections:
       cs: No user is currently selected!
       en: No user is currently selected!
       ru: Не выбран пользователь!
+    cars.editor.EDIT:
+      cs: Editovat
+      en: Edit
+      ge: რედაქტირება
+      ru: Редактировать
+    cars.editor.DELETE:
+      cs: Odstranit
+      en: Delete
+      ge: წაშლა
+      ru: Удалить
     cars.models.defaultimage:
       en: Default photo
       ru: Фото по умолчанию

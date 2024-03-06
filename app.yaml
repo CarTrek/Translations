@@ -1,5 +1,11 @@
 Sections:
   App:
+    card-v2.fuel-level-unknown:
+      en: "Fuel level is unknown"
+      ru: "Уровень топлива неизвестен"
+    card-v2.charge-level-unknown:
+      en: "Battery level is unknown"
+      ru: "Уровень заряда неизвестен"  
     swap-battery.start-success:
       en: "Battery swapping started"
       ru: "Смена батареи инициирована успешно"
@@ -2326,17 +2332,17 @@ Sections:
       en: "The command failed because there is no connection. Please check your internet connection and try again."
       ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз."
     error.notfound.message:
-      en: "Server request error. Restart the application, if the error persists, contact support (404)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (404)"
+      en: "It seems like this car is just rented by someone"
+      ru: "Похоже, что эту машину только что арендовали"
     error.forbidden.message:
       en: "This car already booked"
       ru: "Эту машину уже кто то арендовал"
     error.unauthorized.message:
       en: "Server request error. Restart the application, if the error persists, contact support (401)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (401)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повторится обратитесь в службу поддержки (401)"
     error.redirect.message:
       en: "Server request error. Restart the application, if the error persists, contact support (301)"
-      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повториться обратитесь в службу поддержки (301)"
+      ru: "Ошибка запроса к серверу. Перезагрузите приложение, если ошибка повторится обратитесь в службу поддержки (301)"
     error.other.title:
       en: "Something went wrong"
       ru: "Что-то пошло не так"
