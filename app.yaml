@@ -1362,6 +1362,9 @@ Sections:
     signup.input-placeholder:
       en: "Type your e-mail here"
       ru: "Введите e-mail"
+    signup.age-title:
+      en: You are under 18 years old
+      ru: Вам меньше 18 лет
     agreement.terms.begin:
       en: I agree with
       ru: Я согласен с
