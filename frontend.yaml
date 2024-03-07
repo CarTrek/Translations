@@ -269,6 +269,12 @@ Sections:
     orders.RatePackSumShort:
       en: Cost
       ru: Цена
+    ratesmultiplier.PerMinuteOverrunMultiplier:
+      en: "Overrun multiplier (per minute)"
+      ru: "Коэфф. для перепробега на минутном"
+    ratesmultiplier.RatePackOverrunMultiplier:
+      en: "Overrun multiplier (rate pack)"
+      ru: "Коэфф. для перепробега на пакете"
     ratesmultiplier.OverrunMultiplier:
       en: Extra mileage multiplier
       ru: Коэффициент для перепробега
