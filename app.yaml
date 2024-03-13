@@ -1,5 +1,8 @@
 Sections:
   App:
+    payment-methods.payment-method-type:
+      en: "Payment system"
+      ru: "Платёжная система"
     card-v2.fuel-level-unknown:
       en: "Fuel level is unknown"
       ru: "Уровень топлива неизвестен"
