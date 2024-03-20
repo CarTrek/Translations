@@ -1,5 +1,7 @@
 Sections:
   App:
+    PaymentGatewaybepaidDisplayName:
+      en: "BePaid"
     payment-methods.payment-method-type:
       en: "Payment system"
       ru: "Платёжная система"
