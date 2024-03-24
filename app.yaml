@@ -1,5 +1,8 @@
 Sections:
   App:
+    rate-info-popover.details:
+      en: "More details..."
+      ru: "Подробнее..."
     PaymentGatewaybepaidDisplayName:
       en: "BePaid"
     payment-methods.payment-method-type:
