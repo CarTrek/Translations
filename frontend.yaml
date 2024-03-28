@@ -6594,11 +6594,15 @@ Sections:
     cars.editor.ConfirmClearState:
       en: Do you really want to clear the vehicle state?
       ru: Вы действительно хотите обнулить состояние ТС?
-    cars.editor.ConfirmChangeSim:
-      cs: Odeslat příkaz změny SIM?  K využití této funkce musí být zapnuta funkce příjmu SMS.
-      en: Do you want to sent command for SIM changing? SMS service should be turned on for this function.
-      ge: გავაგზავნოთ ბრძანება სიმ-ბარათის შეცვლაზე? ამ ფუნქციის აქტივაციისთვის საჭიროა sms -ის ფუნქციის გააქტიურება
-      ru: Послать команду сменить SIM? Для этой функции должна быть подключена услуга приема SMS сообщений.
+    cars.editor.ConfirmDisconnect:
+      en: Do you really want to break the connection with tracker?
+      ru: Вы действительно хотите разорвать соединение с трекером?
+    cars.editor.CONFIRMSTARTFILEUPLOAD:
+      en: Are you sure you want to upload the file to your device?
+      ru: Вы действительно хотите загрузить файл на устроство?
+    cars.editor.CONFIRMSTOPFILEUPLOAD:
+      en: Are you sure you want to stop uploading a file to your device?
+      ru: Вы действительно хотите остановить загрузку файла на устроство?
     cars.editor.ConfirmSwitchserver:
       cs: Změnit server(y) zařízení? K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Would you like to change server (s) hardware? SMS service should be turned on for this function.
