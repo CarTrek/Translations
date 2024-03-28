@@ -875,6 +875,9 @@ Sections:
     cars.editor.LOGICOPTIONS:
       en: Options
       ru: Опции
+    cars.editor.LOGICFILES:
+      en: Files
+      ru: Файлы
     cars.editor.LOGICVALUE:
       en: Value
       ru: Значение
@@ -902,6 +905,9 @@ Sections:
     cars.editor.HALMANUAL:
       en: Sensors that standardized for all types of equipment. The current state of these sensors can be obtained in scripts and options by calling Hal('SensorName').
       ru: Стандартизированые для всех видов оборудования датчики. Текущее состояние этих датчиков можно получать в скриптах и опциях вызовом Hal('ИмяДатчика').
+    cars.editor.HALFILES:
+      en: Firmwares and configuration files. Click on the file name to upload the file to your device.
+      ru: Файлы прошивок и конфигураций устройств. Нажмите на имя файла чтобы загрузить файл на устроство или остановить загрузку.
     cars.editor.HALMANUALALL:
       en: List of all possible sensors that this type of equipment can send. If the current value is not visible, then the equipment has never sent it. Which sensors and when to send to the server is determined by the hardware settings.
       ru: Список всех возможных датчиков которые может присылать этот тип оборудования. Если текущего значения не видно, значит оборудование его ни разу не присылало. Какие датчики и когда присылать на сервер определяется настройками оборудования.
