@@ -1,5 +1,11 @@
 Sections:
   App:
+    profile.admin-send-logs-button:
+      en: "Send"
+      ru: "Отправить"
+    profile.admin-send-logs:
+      en: "Send logs"
+      ru: "Отправить логи"
     rate-info-popover.details:
       en: "More details..."
       ru: "Подробнее..."
