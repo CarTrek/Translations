@@ -6731,6 +6731,9 @@ Sections:
     CarDeleted:
       en: Vehicle deleted
       ru: Транспортное средство удалено
+    OrderSwitchedToDriveModeAutomatically:
+      en: "Order switched to drive mode automatically"
+      ru: "Автопереключение в режим использования"
     OrderSwitchedToFreeRateFromPaidRate:
       en: "Order switched to free tariff from paid"
       ru: "Заказ переключился на бесплатный тариф с платного"
