@@ -621,6 +621,12 @@ Sections:
     EmailManualWriteOff:
       en: "We charged your account"
       ru: "Списание "
+    EmailIncomeReceipt:
+      en: "Income receipt"
+      ru: "Квитанция о приеме"
+    EmailRefundReceipt:
+      en: "Refund receipt"
+      ru: "Квитанция о возврате"
     EmailSubjectSpeedLimitExceeded:
       en: Speed limit violation
       ru: Вы превысили скорость
