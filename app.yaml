@@ -406,6 +406,9 @@ Sections:
     drawer.rides:
       en: "My rides"
       ru: "Мои поездки"
+    drawer.pushes:
+      en: "My messages"
+      ru: "Мои сообщения"
     drawer.promo-code:
       en: "Promo code"
       ru: "Промокод"
@@ -562,6 +565,12 @@ Sections:
     profile.rides-history:
       en: "My rides"
       ru: "Мои поездки"
+    profile.open-pushes-history:
+      en: "Show"
+      ru: "Посмотреть"
+    profile.pushes-history:
+      en: "My messages"
+      ru: "Мои сообщения"
     profile.profile-removed:
       en: "You profile has been removed"
       ru: "Ваш профиль удалён"
@@ -1256,6 +1265,15 @@ Sections:
     rides-history.header-history:
       en: "Trips history"
       ru: "Прошлые поездки"
+    pushes-history.no-pushes:
+      en: "You have no messages yet"
+      ru: "Нет сообщений"
+    pushes-history.load-more:
+      en: "Load more"
+      ru: 'Ещё'
+    pushes-history.screen-title:
+      en: "My messages"
+      ru: "Мои сообщения"
     booking-history.title:
       en: "My bookings"
       ru: "Мои брони"
