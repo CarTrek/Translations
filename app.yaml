@@ -361,6 +361,9 @@ Sections:
     drawer.menuItemRidesHistory:
       en: "My rides"
       ru: "Мои поездки"
+    drawer.menuItemPushesHistory:
+      en: "My messages"
+      ru: "Мои сообщения"
     drawer.menuItemBookingHistory:
       en: "My bookings"
       ru: "Мои брони"
