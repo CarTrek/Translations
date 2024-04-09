@@ -143,6 +143,9 @@ Sections:
     card-v2.button-start-engine:
       en: "Start engine"
       ru: "Завести"
+    card-v2.button-starting-engine:
+      en: "Starting"
+      ru: "Запускается"
     card-v2.button-stop-engine:
       en: "Stop engine"
       ru: "Заглушить"
