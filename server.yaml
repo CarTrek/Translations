@@ -6749,3 +6749,9 @@ Sections:
     LogOutUser:
       en: User is logged out
       ru: Пользователь разлогинен
+    SwitchInsuranceOn:
+      en: Insurance enabled
+      ru: Страховка включена
+    SwitchInsuranceOff:
+      en: Insurance disabled
+      ru: Страховка выключена 
