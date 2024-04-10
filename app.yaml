@@ -2372,6 +2372,9 @@ Sections:
     error.disconnect.message:
       en: "The command failed because there is no connection. Please check your internet connection and try again."
       ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз."
+    error.bad-gateway.message:
+      en: "The command failed because there is no connection. Please check your internet connection and try again (504)"
+      ru: "Не удалось выполнить команду, потому что нет связи. Пожалуйста, проверьте ваше подключение к интернету и попробуйте ещё раз (504)"
     error.notfound.message:
       en: "It seems like this car is just rented by someone"
       ru: "Похоже, что эту машину только что арендовали"
