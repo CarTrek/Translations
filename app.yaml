@@ -3620,3 +3620,6 @@ Sections:
     sign-contract.empty:
       en: "Signature is empty"
       ru: "Подпись пуста"
+    scooter-number-text:
+      en: "scooter number"
+      ru: "номер скутера"
