@@ -122,12 +122,6 @@ Sections:
     subscription.purchase-confirmation-title:
       en: "Purchase subscription"
       ru: "Покупка подписки"
-    signin.send-code-to-whatsapp:
-      en: "Send code to WhatsApp"
-      ru: "Отправить код в WhatsApp"
-    signin.send-sms-with-code:
-      en: "Send code via SMS"
-      ru: "Отправить код в SMS"
     card-v2.charge-level:
       en: "charge level"
       ru: "уровень заряда"
@@ -1403,6 +1397,15 @@ Sections:
     signin.without-auth:
       en: View available cars
       ru: Посмотреть доступные машины
+    signin.send-code-to-whatsapp:
+      en: "Send code to WhatsApp"
+      ru: "Отправить код в WhatsApp"
+    signin.send-sms-with-code:
+      en: "Send code via SMS"
+      ru: "Отправить код в SMS"
+    signin.puzzle-header-text:
+      en: 'Please enter digits in order from 1 to 9. Be careful - no mistakes are allowed.'
+      ru: 'Пожалуйста, введите цифры по порядку от 1 до 9. Будьте внимательны - нельзя ошибаться ни в одной цифре.'
     signup.screen-title:
       en: Registration
       ru: Регистрация
