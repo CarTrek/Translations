@@ -131,6 +131,12 @@ Sections:
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
+    ReportDuringRide:
+      en: "Problem reported"
+      ru: "Сообщение о проблеме"
+    ElectricScooterError:
+      en: "Electric scooter error"
+      ru: "Ошибка самоката"
     RecoveredFromFallingGround:
       en: "Recovered from falling ground"
       ru: "Снова стоит"
