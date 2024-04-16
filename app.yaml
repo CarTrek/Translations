@@ -415,6 +415,9 @@ Sections:
     drawer.pushes:
       en: "My messages"
       ru: "Мои сообщения"
+    drawer.bonuses-history:
+      en: "Bonuses history"
+      ru: "История бонусов"
     drawer.promo-code:
       en: "Promo code"
       ru: "Промокод"
