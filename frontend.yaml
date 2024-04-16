@@ -105,6 +105,9 @@ Sections:
     rates.RenewOnFinish:
       en: "Renew automatically after finish"
       ru: "Продлевать автоматически после окончания"
+    notifications.ReportDuringRide:
+      en: "Problem reported"
+      ru: "Сообщение о проблеме"
     notifications.ElectricScooterError:
       en: "Electric scooter error"
       ru: "Ошибка самоката"
