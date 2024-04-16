@@ -1,5 +1,8 @@
 Sections:
   App:
+    report-component.please-fill-comment:
+      en: "Please fill your comment"
+      ru: "Пожалуйста, заполните поле комментария"
     profile.admin-send-logs-button:
       en: "Send"
       ru: "Отправить"
