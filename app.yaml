@@ -556,7 +556,7 @@ Sections:
     profile.switch-language:
       en: "Switch language"
       ru: "Переключить язык"
-    profile.enter-romo-code:
+    profile.enter-promo-code:
       en: "Enter promo code"
       ru: "Ввести промо-код"
     profile.enter:
@@ -1283,6 +1283,17 @@ Sections:
     pushes-history.screen-title:
       en: "My messages"
       ru: "Мои сообщения"
+    bonuses-history.no-bonuses:
+      en: "You have no operations yet"
+      ru: "Нет операций"
+    bonuses-history.load-more:
+      en: "Load more"
+      ru: 'Ещё'
+    bonuses-history.screen-title:
+      en: "Bonuses history"
+      ru: "История операций"
+    bonuses-history-amount:
+      en: '{currency} {amount}'
     booking-history.title:
       en: "My bookings"
       ru: "Мои брони"
