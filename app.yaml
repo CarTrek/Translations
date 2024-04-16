@@ -340,6 +340,9 @@ Sections:
     drawer.menuItemPurchaseBonuses:
       en: "Purchase bonuses"
       ru: "Купить бонусы"
+    drawer.menuItemBonusesHistory:
+      en: "Bonuses history"
+      ru: "История бонусов"
     drawer.menuItemCatalog:
       en: "Select a car"
       ru: "Выбрать автомобиль"
