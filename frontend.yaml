@@ -5868,6 +5868,9 @@ Sections:
       en: VIN
       ge: VIN კოდი
       ru: VIN
+    cars.list.AlarmElectricScooterError:
+      en: "E-scooter error"
+      ru: "Ошибка электросамоката"
     cars.list.AlarmHoodOpened:
       cs: Kapota otevřená
       en: Hood opened
