@@ -5538,7 +5538,7 @@ Sections:
       ru: Экспортрировать таблицу в Excel
     cars.list.IdleTime:
       cs: Čas nečinnosti
-      en: Downtime
+      en: Idle time
       ge: მანქანის გაუმოძრავებლად დგომის პერიოდი
       ru: Время простоя
     cars.list.AlarmBatteryLow:
