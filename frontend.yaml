@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orders.Insurance:
+      en: "Insurance"
+      ru: "Страховка"
     ratesmultiplier.ChooseRateMultiplier:
       en: "Unlock price"
       ru: "Стоимость разблокировки"
