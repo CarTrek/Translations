@@ -1259,6 +1259,9 @@ Sections:
     ride-details.screen-title:
       en: "Ride details"
       ru: "Детализация поездки"
+    ride-details.ride-duration:
+      en: " Ride duration"
+      ru: "Длительность поездки"
     rides-history.no-rides:
       en: "You have no rides yet"
       ru: "Вы ещё не совершили ни одной поездки"
