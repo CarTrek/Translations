@@ -111,6 +111,9 @@ Sections:
     notifications.ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
+    notifications.WarningNoSuitablePerMinuteRateFound:
+      en: "⚠️ No per minute rate found for the order"
+      ru: "⚠️ Нет подходящего минутного тарифа для заказа"
     notifications.YoungUserRegistered:
       en: "Young user registered"
       ru: "Зарегистрировался молодой пользователь"
