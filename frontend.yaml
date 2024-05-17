@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    voucher.list.customerRegistrationDate:
+      en: "Customer registered"
+      ru: "Дата регистрации пользователя"
     orders.Insurance:
       en: "Insurance"
       ru: "Страховка"
