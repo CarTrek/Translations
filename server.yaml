@@ -2020,6 +2020,10 @@ Sections:
       en: 'Unexpected error.  Retry in a few minutes.'
       ru: Внутренняя ошибка сервера.
       uk: Внутрішня помилка сервера.
+    CarCommandResultDeviceError:
+      en: 'Internal hardware error'
+      ru: Внутренняя ошибка оборудования.
+      uk: Внутрішня помилка обладнання.
     CarCommandResultTimeoutError:
       cs: Vozidlo neodpovídá na požadavek, pravděpodobně vinou špatného spojení. Prosím, zkuste znovu později.
       ka: მანქანა არ რეაგირებს მოთხოვნაზე, შესაძლებელია ცუდი კავშირის გამო, სცადეთ მოგვიანებით.
