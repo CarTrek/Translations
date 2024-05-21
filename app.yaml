@@ -120,8 +120,8 @@ Sections:
       en: "Is the photo good enough? You can retake it if not."
       ru: "Фото удалось? Если нет, вы можете переснять его."
     appless.rent.support:
-      en: "👩🏼‍🔧 Support"
-      ru: "👩🏼‍🔧 Поддержка"
+      en: "👨🏻‍💻 Support"
+      ru: "👨🏻‍💻 Поддержка"
     subscription.purchase-confirmation-title:
       en: "Purchase subscription"
       ru: "Покупка подписки"
