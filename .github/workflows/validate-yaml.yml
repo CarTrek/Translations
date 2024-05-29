@@ -16,10 +16,10 @@ jobs:
         dotnet-version: '6.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ./YamlValidator/
 
     - name: Build the project
-      run: dotnet build --configuration Release
+      run: dotnet build ./YamlValidator/ --configuration Release
 
     - name: Run YAML Validator
       run: dotnet run --project ./YamlValidator/YamlValidator.csproj
