@@ -1773,8 +1773,8 @@ Sections:
         en: ''
         ru: ''
     purchase.bonuses.total:
-        en: {total} czk get.
-        ru: {total} czk получите.
+        en: {total}{currency} get.
+        ru: {total}{currency} получите.
     purchase.bonuses.buy-with-default-card:
         en: Pay with card {default-card-number}
         ru: Оплатить картой {default-card-number}
