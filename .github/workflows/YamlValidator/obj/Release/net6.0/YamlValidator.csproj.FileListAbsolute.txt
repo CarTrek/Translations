@@ -1,0 +1,17 @@
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlValidator.exe
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlValidator.deps.json
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlValidator.runtimeconfig.json
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlValidator.dll
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlValidator.pdb
+C:\wc\Translations\.github\workflows\YamlValidator\bin\Release\net6.0\YamlDotNet.dll
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.csproj.AssemblyReference.cache
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.AssemblyInfoInputs.cache
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.AssemblyInfo.cs
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.csproj.CoreCompileInputs.cache
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.csproj.CopyComplete
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.dll
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\refint\YamlValidator.dll
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.pdb
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\YamlValidator.genruntimeconfig.cache
+C:\wc\Translations\.github\workflows\YamlValidator\obj\Release\net6.0\ref\YamlValidator.dll
