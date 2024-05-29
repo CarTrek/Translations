@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    AutoRefund:
+      en: "Autorefund"
+      ru: "Автовозврат"
     orders.Canceled:
       en: "Canceled"
       ru: "Отменен"
