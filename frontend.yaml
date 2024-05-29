@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orders.Canceled:
+      en: "Canceled"
+      ru: "Отменен"
     voucher.list.customerRegistrationDate:
       en: "Customer registered"
       ru: "Дата регистрации пользователя"
