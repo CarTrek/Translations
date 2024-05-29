@@ -164,12 +164,6 @@ Sections:
     appless.finish-ride:
       en: "Finish the ride"
       ru: "Завершить аренду"
-    camera-permission-failed:
-      en: "No permission to access camera"
-      ru: "Нет разрешения для доступа к камере"
-    storage-permission-failed:
-      en: "No permission to access storage"
-      ru: "Нет разрешения для доступа к файлам"
     bluetooth.try-failed:
       ru: "Нет связи и выполнить через Bluetooth тоже не удалось: {message}"
       en: "No connection and Bluetooth failed too: {message}"
@@ -1259,9 +1253,6 @@ Sections:
     ride-details.screen-title:
       en: "Ride details"
       ru: "Детализация поездки"
-    ride-details.ride-duration:
-      en: " Ride duration"
-      ru: "Длительность поездки"
     rides-history.no-rides:
       en: "You have no rides yet"
       ru: "Вы ещё не совершили ни одной поездки"
@@ -1772,9 +1763,6 @@ Sections:
     purchase.bonuses.description3:
         en: ''
         ru: ''
-    purchase.bonuses.total:
-        en: {total}{currency} get.
-        ru: {total}{currency} получите.
     purchase.bonuses.buy-with-default-card:
         en: Pay with card {default-card-number}
         ru: Оплатить картой {default-card-number}
