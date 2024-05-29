@@ -10,15 +10,16 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up .NET Core
+      uses: actions/setup-dotnet@v3
       with:
-        python-version: '3.x'
+        dotnet-version: '6.0.x'
 
-    - name: Install yamllint
-      run: |
-        python -m pip install --upgrade pip
-        pip install yamllint
+    - name: Restore dependencies
+      run: dotnet restore
 
-    - name: Run yamllint
-      run: yamllint .
+    - name: Build the project
+      run: dotnet build --configuration Release
+
+    - name: Run YAML Validator
+      run: dotnet run --project ./YamlValidator/YamlValidator.csproj
