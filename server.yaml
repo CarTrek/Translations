@@ -131,6 +131,12 @@ Sections:
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
+    WarningNoSuitablePerMinuteRateFound:
+      en: "⚠️ No per minute rate found for the order"
+      ru: "⚠️ Нет подходящего минутного тарифа для заказа"
+    YoungUserRegistered:
+      en: "Young user registered"
+      ru: "Зарегистрировался молодой пользователь"
     ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
@@ -2014,6 +2020,10 @@ Sections:
       en: 'Unexpected error.  Retry in a few minutes.'
       ru: Внутренняя ошибка сервера.
       uk: Внутрішня помилка сервера.
+    CarCommandResultDeviceError:
+      en: 'Internal hardware error'
+      ru: Внутренняя ошибка оборудования.
+      uk: Внутрішня помилка обладнання.
     CarCommandResultTimeoutError:
       cs: Vozidlo neodpovídá na požadavek, pravděpodobně vinou špatného spojení. Prosím, zkuste znovu později.
       ka: მანქანა არ რეაგირებს მოთხოვნაზე, შესაძლებელია ცუდი კავშირის გამო, სცადეთ მოგვიანებით.

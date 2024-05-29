@@ -1,5 +1,20 @@
 Sections:
   AdminFrontend:
+    notifications.AutoRefund:
+      en: "Autorefund"
+      ru: "Автовозврат"
+    AutoRefund:
+      en: "Autorefund"
+      ru: "Автовозврат"
+    orders.Canceled:
+      en: "Canceled"
+      ru: "Отменен"
+    voucher.list.customerRegistrationDate:
+      en: "Customer registered"
+      ru: "Дата регистрации пользователя"
+    orders.Insurance:
+      en: "Insurance"
+      ru: "Страховка"
     ratesmultiplier.ChooseRateMultiplier:
       en: "Unlock price"
       ru: "Стоимость разблокировки"
@@ -108,6 +123,12 @@ Sections:
     notifications.ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
+    notifications.WarningNoSuitablePerMinuteRateFound:
+      en: "⚠️ No per minute rate found for the order"
+      ru: "⚠️ Нет подходящего минутного тарифа для заказа"
+    notifications.YoungUserRegistered:
+      en: "Young user registered"
+      ru: "Зарегистрировался молодой пользователь"
     notifications.ElectricScooterError:
       en: "Electric scooter error"
       ru: "Ошибка самоката"
@@ -5538,7 +5559,7 @@ Sections:
       ru: Экспортрировать таблицу в Excel
     cars.list.IdleTime:
       cs: Čas nečinnosti
-      en: Downtime
+      en: Idle time
       ge: მანქანის გაუმოძრავებლად დგომის პერიოდი
       ru: Время простоя
     cars.list.AlarmBatteryLow:
@@ -5868,6 +5889,9 @@ Sections:
       en: VIN
       ge: VIN კოდი
       ru: VIN
+    cars.list.AlarmElectricScooterError:
+      en: "E-scooter error"
+      ru: "Ошибка электросамоката"
     cars.list.AlarmHoodOpened:
       cs: Kapota otevřená
       en: Hood opened
