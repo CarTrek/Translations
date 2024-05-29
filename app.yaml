@@ -1763,6 +1763,9 @@ Sections:
     purchase.bonuses.description3:
         en: ''
         ru: ''
+    purchase.bonuses.total:
+        en: {total} czk get.
+        ru: {total} czk получите.
     purchase.bonuses.buy-with-default-card:
         en: Pay with card {default-card-number}
         ru: Оплатить картой {default-card-number}
