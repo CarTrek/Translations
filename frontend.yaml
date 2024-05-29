@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    notifications.AutoRefund:
+      en: "Autorefund"
+      ru: "Автовозврат"
     AutoRefund:
       en: "Autorefund"
       ru: "Автовозврат"
