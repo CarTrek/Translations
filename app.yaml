@@ -1728,6 +1728,9 @@ Sections:
       en: 'and start the rent mode'
       ru: 'и перевести в режим аренды'
       cs: 'a převést do režimu pronájmu'
+    purchase.bonuses.total:
+      en: '{total}{currency} get'
+      ru: '{total}{currency} получите'
     purchase.bonuses.title:
         en: Purchase bonuses
         ru: Покупка бонусов
