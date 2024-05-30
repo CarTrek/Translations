@@ -1731,6 +1731,9 @@ Sections:
     purchase.bonuses.total:
       en: '{total}{currency} get'
       ru: '{total}{currency} получите'
+    purchase.bonuses.price:
+      en: '{price}'
+      ru: '{price}'
     purchase.bonuses.title:
         en: Purchase bonuses
         ru: Покупка бонусов
