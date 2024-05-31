@@ -1,6 +1,9 @@
 Sections:
   Server:
-    DepositRequired:
+    FailedDepositWithdraw:
+      en: "Failed while trying to withdraw deposit amount"
+      ru: "Ошибка при попытке списать сумму залога"
+    FailedDepositRequired:
       en: "Deposit required. Amount: {AmountToWithdrawKops}. Total deposit amount: {WholeDepositAmountKops}. Already paid: {DepositAmountReminderKops}"
       ru: "Необходимо оплатить залог. Сумма: {AmountToWithdrawKops}. Полная сумма депозита:{WholeDepositAmountKops}. Уже уплачено: {DepositAmountReminderKops}"
     CustomerTelegramCommandNotFound:
