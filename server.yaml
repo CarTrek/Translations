@@ -7,8 +7,8 @@ Sections:
       en: "Failed while trying to withdraw deposit amount"
       ru: "Ошибка при попытке списать сумму залога"
     FailedDepositRequired:
-      en: "Deposit required. Total deposit amount: {CurrencySymbol}{WholeDepositAmountKops}, already paid: {CurrencySymbol}{DepositAmountReminderKops}. Press 'Yes' to pay {CurrencySymbol}{AmountToWithdrawKops}?"
-      ru: "Необходимо оплатить залог. Полная сумма депозита: {CurrencySymbol}{WholeDepositAmountKops}, уже оплачено: {DepositAmountReminderKops}. Нажмите 'Да' чтобы оплатить {CurrencySymbol}{AmountToWithdrawKops}."
+      en: "Deposit required. Total deposit amount: {CurrencySymbol}{WholeDepositAmount}, already paid: {CurrencySymbol}{DepositAmountReminder}. Press 'Yes' to pay {CurrencySymbol}{AmountToWithdraw}?"
+      ru: "Необходимо оплатить залог. Полная сумма депозита: {CurrencySymbol}{WholeDepositAmount}, уже оплачено: {CurrencySymbol}{DepositAmountReminder}. Нажмите 'Да' чтобы оплатить {CurrencySymbol}{AmountToWithdraw}."
     CustomerTelegramCommandNotFound:
       en: "You did something strange"
       ru: "Вы сделали что-то странное"
