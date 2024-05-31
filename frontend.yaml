@@ -1,5 +1,22 @@
 Sections:
   AdminFrontend:
+    organizations.DepositAmount:
+      en: Deposit amount
+      ru: Размер залога
+    organization.editor.DepositSetting:
+      en: Deposit
+      ru: Залог
+    clients.preHoldSettings.Always:
+      en: Withdraw for each order
+      ru: Списывать перед каждым заказом
+    clients.depositSettings.Never:
+      en: Never withdraw
+      ru: Не списывать никогда
+    clients.depositSettings.NotSet:
+      cs: Použijte globální nastavení
+      en: Use global setting
+      ge: შეჩერდეს თანხა გლობალური პარამეტრების მიხედვით
+      ru: Использовать глобальную настройку
     notifications.AutoRefund:
       en: "Autorefund"
       ru: "Автовозврат"
