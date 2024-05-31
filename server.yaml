@@ -1,5 +1,8 @@
 Sections:
   Server:
+    DepositRequired:
+      en: "Deposit required. Amount: {AmountToWithdrawKops}. Total deposit amount: {WholeDepositAmountKops}. Already paid: {DepositAmountReminderKops}"
+      ru: "Необходимо оплатить залог. Сумма: {AmountToWithdrawKops}. Полная сумма депозита:{WholeDepositAmountKops}. Уже уплачено: {DepositAmountReminderKops}"
     CustomerTelegramCommandNotFound:
       en: "You did something strange"
       ru: "Вы сделали что-то странное"
