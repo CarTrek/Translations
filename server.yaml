@@ -1,5 +1,8 @@
 Sections:
   Server:
+    Deposit:
+      en: "Deposit"
+      ru: "Залог"
     FailedDepositWithdraw:
       en: "Failed while trying to withdraw deposit amount"
       ru: "Ошибка при попытке списать сумму залога"
