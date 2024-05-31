@@ -6,7 +6,7 @@ Sections:
     organization.editor.DepositSetting:
       en: Deposit
       ru: Залог
-    clients.preHoldSettings.Always:
+    clients.depositSettings.Always:
       en: Withdraw for each order
       ru: Списывать перед каждым заказом
     clients.depositSettings.Never:
