@@ -323,8 +323,8 @@ Sections:
       en: "Options"
       ru: "Опции"
     card-v2.gallery-title:
-      en: "Body schema"
-      ru: "Схема кузова"
+      en: "Details"
+      ru: "Подробности"
     drawer.menuItemFaq:
       en: "FAQ"
       ru: "Помощь"
