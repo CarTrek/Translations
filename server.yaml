@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CutBillResultCannotCutThisBill:
+      en: "Cannot cut this bill"
+      ru: "Невозможнол разбить счет"
     Deposit:
       en: "Deposit"
       ru: "Залог"
