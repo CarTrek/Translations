@@ -6498,6 +6498,12 @@ Sections:
       en: l
       ge: ლ
       ru: л
+    cars.editor.Sat:
+      en: sat
+      ru: спут
+    cars.editor.Fixed:
+      en: manual
+      ru: ручные
     cars.editor.SPEED:
       cs: rychlost
       en: Speed
