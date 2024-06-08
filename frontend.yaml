@@ -7058,6 +7058,12 @@ Sections:
       en: Set to 100%
       ge: 100%-ზე დაყენება
       ru: Установить в 100%
+    cars.editor.UnfixCoordinates:
+      en: Return GNSS
+      ru: Включить GNSS
+    cars.editor.NotValid:
+      en: Not valid
+      ru: Не валидны
     cars.editor.SelectRate:
       cs: Zvolte tarif
       en: Please select rate
