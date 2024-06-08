@@ -6629,6 +6629,9 @@ Sections:
       en: Do you really want to set the fuel level  at 100%?
       ge: ნამდვილად გსურთ ელემენტის 100%-ზე დამუხტვა?
       ru: Вы действительно хотите установить уровень топлива в 100%?
+    cars.editor.ConfirmUnfixCoordinates:
+      en: Do you really want to return reading coordinates from satellites??
+      ru: Вы действительно хотите вернуть считывание координат со спутников?
     cars.editor.ConfirmReboot:
       cs: Skutečně si přejete restartovat zařízení vozidla? K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Do you really want to restart the car's equipment? SMS service should be turned on for this function.
