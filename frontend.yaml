@@ -6502,8 +6502,8 @@ Sections:
       en: sat
       ru: спут
     cars.editor.Fixed:
-      en: manual
-      ru: ручные
+      en: FIX
+      ru: РУЧ
     cars.editor.SPEED:
       cs: rychlost
       en: Speed
