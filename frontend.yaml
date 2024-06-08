@@ -7062,8 +7062,8 @@ Sections:
       ge: 100%-ზე დაყენება
       ru: Установить в 100%
     cars.editor.UnfixCoordinates:
-      en: Return GNSS
-      ru: Включить GNSS
+      en: Satellites On
+      ru: Включить спутники
     cars.editor.NotValid:
       en: Not valid
       ru: Не валидны
