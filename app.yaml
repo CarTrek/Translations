@@ -2447,14 +2447,14 @@ Sections:
       en: "Please describe here and press the ‘Submit’ button to share your thoughts with us"
       ru: "Пожалуйста, опишите здесь и нажмите кнопку «Отправить», чтобы поделиться с нами своими мыслями"
     selfie-quest.eye:
-      en: "Close your eyes for 5 seconds"
-      ru: "Закройте глаза на 5 секунд"
-    selfie-quest.month:
-      en: "Open your mouth for 5 seconds"
-      ru: "Откройте рот на 5 секунд"
+      en: "Close your eyes for at least 5 seconds"
+      ru: "Закройте глаза не меньше чем на 5 секунд"
+    selfie-quest.mouth:
+      en: "Open your mouth for at least 5 seconds"
+      ru: "Откройте рот не меньше чем на 5 секунд"
     selfie-quest.smile:
-      en: "Smile for 5 seconds"
-      ru: "Улыбнитесь на 5 секунд"
+      en: "Smile for at least 5 seconds"
+      ru: "Улыбнитесь не меньше чем на 5 секунд"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
