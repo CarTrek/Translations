@@ -2455,6 +2455,15 @@ Sections:
     selfie-quest.smile:
       en: "Smile for at least 5 seconds"
       ru: "Улыбнитесь не меньше чем на 5 секунд"
+    quest-one-task:
+      en: "by completing {taskCount} task, follow the instructions on the screen"
+      ru: "выполнив {taskCount} задание, следуйте инструкциям на экране"
+    quest-two-tasks:
+      en: "by completing {taskCount} tasks, follow the instructions on the screen"
+      ru: "выполнив {taskCount} задания, следуйте инструкциям на экране"
+    quest-five-tasks:
+      en: "by completing {taskCount} tasks, follow the instructions on the screen"
+      ru: "выполнив {taskCount} заданий, следуйте инструкциям на экране"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
