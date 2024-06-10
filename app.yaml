@@ -323,8 +323,8 @@ Sections:
       en: "Options"
       ru: "Опции"
     card-v2.gallery-title:
-      en: "Body schema"
-      ru: "Схема кузова"
+      en: "Details"
+      ru: "Подробности"
     drawer.menuItemFaq:
       en: "FAQ"
       ru: "Помощь"
@@ -1731,6 +1731,9 @@ Sections:
     purchase.bonuses.total:
       en: '{total}{currency} get'
       ru: '{total}{currency} получите'
+    purchase.bonuses.price:
+      en: '{price}'
+      ru: '{price}'
     purchase.bonuses.title:
         en: Purchase bonuses
         ru: Покупка бонусов
@@ -2444,14 +2447,23 @@ Sections:
       en: "Please describe here and press the ‘Submit’ button to share your thoughts with us"
       ru: "Пожалуйста, опишите здесь и нажмите кнопку «Отправить», чтобы поделиться с нами своими мыслями"
     selfie-quest.eye:
-      en: "Close your eyes for 5 seconds"
-      ru: "Закройте глаза на 5 секунд"
-    selfie-quest.month:
-      en: "Open your mouth for 5 seconds"
-      ru: "Откройте рот на 5 секунд"
+      en: "Close your eyes for at least 5 seconds"
+      ru: "Закройте глаза не меньше чем на 5 секунд"
+    selfie-quest.mouth:
+      en: "Open your mouth for at least 5 seconds"
+      ru: "Откройте рот не меньше чем на 5 секунд"
     selfie-quest.smile:
-      en: "Smile for 5 seconds"
-      ru: "Улыбнитесь на 5 секунд"
+      en: "Smile for at least 5 seconds"
+      ru: "Улыбнитесь не меньше чем на 5 секунд"
+    quest-one-task:
+      en: "by completing {taskCount} task, follow the instructions on the screen"
+      ru: "выполнив {taskCount} задание, следуйте инструкциям на экране"
+    quest-two-tasks:
+      en: "by completing {taskCount} tasks, follow the instructions on the screen"
+      ru: "выполнив {taskCount} задания, следуйте инструкциям на экране"
+    quest-five-tasks:
+      en: "by completing {taskCount} tasks, follow the instructions on the screen"
+      ru: "выполнив {taskCount} заданий, следуйте инструкциям на экране"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"

@@ -1,5 +1,17 @@
 Sections:
   Server:
+    CutBillResultCannotCutThisBill:
+      en: "Cannot cut this bill"
+      ru: "Невозможнол разбить счет"
+    Deposit:
+      en: "Deposit"
+      ru: "Залог"
+    FailedDepositWithdraw:
+      en: "Failed while trying to withdraw deposit amount"
+      ru: "Ошибка при попытке списать сумму залога"
+    FailedDepositRequired:
+      en: "Deposit required. Total deposit amount: {CurrencySymbol}{WholeDepositAmount}, already paid: {CurrencySymbol}{DepositAmountReminder}. Press 'Yes' to pay {CurrencySymbol}{AmountToWithdraw}?"
+      ru: "Необходимо оплатить залог. Полная сумма депозита: {CurrencySymbol}{WholeDepositAmount}, уже оплачено: {CurrencySymbol}{DepositAmountReminder}. Нажмите 'Да' чтобы оплатить {CurrencySymbol}{AmountToWithdraw}."
     CustomerTelegramCommandNotFound:
       en: "You did something strange"
       ru: "Вы сделали что-то странное"

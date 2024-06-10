@@ -1,5 +1,22 @@
 Sections:
   AdminFrontend:
+    organizations.DepositAmount:
+      en: Deposit amount
+      ru: Размер залога
+    organization.editor.DepositSetting:
+      en: Deposit
+      ru: Залог
+    clients.depositSettings.Always:
+      en: Withdraw for each order
+      ru: Списывать перед каждым заказом
+    clients.depositSettings.Never:
+      en: Never withdraw
+      ru: Не списывать никогда
+    clients.depositSettings.NotSet:
+      cs: Použijte globální nastavení
+      en: Use global setting
+      ge: შეჩერდეს თანხა გლობალური პარამეტრების მიხედვით
+      ru: Использовать глобальную настройку
     notifications.AutoRefund:
       en: "Autorefund"
       ru: "Автовозврат"
@@ -6481,6 +6498,12 @@ Sections:
       en: l
       ge: ლ
       ru: л
+    cars.editor.Sat:
+      en: sat
+      ru: спут
+    cars.editor.Fixed:
+      en: FIX
+      ru: РУЧ
     cars.editor.SPEED:
       cs: rychlost
       en: Speed
@@ -6606,6 +6629,9 @@ Sections:
       en: Do you really want to set the fuel level  at 100%?
       ge: ნამდვილად გსურთ ელემენტის 100%-ზე დამუხტვა?
       ru: Вы действительно хотите установить уровень топлива в 100%?
+    cars.editor.ConfirmUnfixCoordinates:
+      en: Do you really want to return reading coordinates from satellites??
+      ru: Вы действительно хотите вернуть считывание координат со спутников?
     cars.editor.ConfirmReboot:
       cs: Skutečně si přejete restartovat zařízení vozidla? K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Do you really want to restart the car's equipment? SMS service should be turned on for this function.
@@ -7035,6 +7061,12 @@ Sections:
       en: Set to 100%
       ge: 100%-ზე დაყენება
       ru: Установить в 100%
+    cars.editor.UnfixCoordinates:
+      en: Satellites On
+      ru: Включить спутники
+    cars.editor.NotValid:
+      en: Not valid
+      ru: Не валидны
     cars.editor.SelectRate:
       cs: Zvolte tarif
       en: Please select rate

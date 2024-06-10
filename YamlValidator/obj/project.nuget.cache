@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v25Rm79d2olyzgEDs+1gWC6NTCvAx/+SKUA7kv3a/qubitt9ffZwmDoKHFLzbXmT4Hx5BrMptdeHYTc38eQWyw==",
+  "success": true,
+  "projectFilePath": "C:\\wc\\Translations\\.github\\workflows\\YamlValidator\\YamlValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huawei\\.nuget\\packages\\yamldotnet\\15.1.4\\yamldotnet.15.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
