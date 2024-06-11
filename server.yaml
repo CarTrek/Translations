@@ -5268,6 +5268,9 @@ Sections:
       en: Reboot car hardware
       ru: Перезагружать оборудование автомобиля
       uk: Перезавантажити обладнання автомобіля
+    ChangeCarCoordinates:
+      en: Change vehicle coordinates (move marker)
+      ru: Менять координаты транспортного средства (двигать маркер на карте)
     RightReconfigureCar:
       cs: Změny nastavení vozidla
       ka: მანქანის კონფიგურაციის პარამეტრების  შეცვლა.
