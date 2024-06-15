@@ -559,6 +559,9 @@ Sections:
     profile.switch-language:
       en: "Switch language"
       ru: "Переключить язык"
+    profile.enter-romo-code:
+      en: "Enter promo code"
+      ru: "Ввести промо-код"
     profile.enter-promo-code:
       en: "Enter promo code"
       ru: "Ввести промо-код"
