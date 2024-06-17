@@ -320,8 +320,8 @@ Sections:
       en: "Buy tariff"
       ru: "Купить"
     card-v2.button-tech-set-fuel:
-      en: "Refueling"
-      ru: "Заправка"
+      en: "⛽️ Refueling"
+      ru: "⛽️ Заправка"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
