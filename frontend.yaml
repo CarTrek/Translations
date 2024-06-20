@@ -1389,8 +1389,8 @@ Sections:
       en: Active period
       ru: Период доступности
     organizations.HoldAmount:
-      en: "Hold amount, cents"
-      ru: "Размер холда, коп."
+      en: "Hold amount"
+      ru: "Размер холда"
     orders.viewer.CAREVENTS:
       en: Car events
       ru: Журнал авто
