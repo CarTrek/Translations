@@ -319,6 +319,9 @@ Sections:
     card-v2.button-buy-ticket:
       en: "Buy tariff"
       ru: "Купить"
+    card-v2.button-tech-set-fuel:
+      en: "⛽️ Refueling"
+      ru: "⛽️ Заправка"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
@@ -559,6 +562,9 @@ Sections:
     profile.switch-language:
       en: "Switch language"
       ru: "Переключить язык"
+    profile.enter-romo-code:
+      en: "Enter promo code"
+      ru: "Ввести промо-код"
     profile.enter-promo-code:
       en: "Enter promo code"
       ru: "Ввести промо-код"
@@ -3553,6 +3559,9 @@ Sections:
     gallery-ride-photo.button-done-uploading:
       en: 'Uploading...'
       ru: 'Загрузка...'
+    gallery-ride-photo.count-of-photo:
+      en: 'Make {countOfPhoto} more photo(s)'
+      ru: 'Сделайте еще {countOfPhoto} фото'
     gallery-ride-photo.image-button-close:
       en: "Close"
       ru: "Закрыть"
