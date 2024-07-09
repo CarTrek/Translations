@@ -319,6 +319,9 @@ Sections:
     card-v2.button-buy-ticket:
       en: "Buy tariff"
       ru: "Купить"
+    card-v2.button-tech-set-fuel:
+      en: "⛽️ Refueling"
+      ru: "⛽️ Заправка"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
@@ -559,6 +562,9 @@ Sections:
     profile.switch-language:
       en: "Switch language"
       ru: "Переключить язык"
+    profile.enter-romo-code:
+      en: "Enter promo code"
+      ru: "Ввести промо-код"
     profile.enter-promo-code:
       en: "Enter promo code"
       ru: "Ввести промо-код"
@@ -2455,6 +2461,9 @@ Sections:
     selfie-quest.smile:
       en: "Smile for at least 5 seconds"
       ru: "Улыбнитесь не меньше чем на 5 секунд"
+    selfie-quest.face-not-visible:
+      en: "Face not visible"
+      ru: "На фото не видно лицо"
     quest-one-task:
       en: "by completing {taskCount} task, follow the instructions on the screen"
       ru: "выполнив {taskCount} задание, следуйте инструкциям на экране"

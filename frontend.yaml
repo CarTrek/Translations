@@ -1389,8 +1389,8 @@ Sections:
       en: Active period
       ru: Период доступности
     organizations.HoldAmount:
-      en: Hold amount
-      ru: Размер холда
+      en: "Hold amount"
+      ru: "Размер холда"
     orders.viewer.CAREVENTS:
       en: Car events
       ru: Журнал авто
@@ -1914,6 +1914,11 @@ Sections:
       en: Phone number validation
       ge: ტელეფონის ნომერის შემოწმება
       ru: Проверка по номеру телефона
+    check.penaltypoints.title:
+      cs: Trestné body
+      en: Penalty points
+      ge: საჯარიმო ქულები
+      ru: Штрафные баллы
     check.success:
       cs: Úspěšně
       en: Succesful
