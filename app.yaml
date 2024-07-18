@@ -268,6 +268,45 @@ Sections:
     report-screen.sing-contract:
       en: "Sign the handover act here:"
       ru: "Подпишите акт приема-передачи здесь:"
+    card-v2.bulk-action-header:
+      en: "Doing bulk action with QR"
+      ru: "Массовые действия с помощью QR"
+    card-v2.bulk-action-title:
+      en: "Select action and scan QR`s"
+      ru: "Выберите действие и отсканируйте QR-коды"
+    card-v2.bulk-action-available:
+      en: "Scan QR to make available"
+      ru: "Отсканируйте QR, чтобы вывести в доступ"
+    card-v2.bulk-action-unavailable:
+      en: "Scan QR to make unavailable"
+      ru: "Отсканируйте QR, чтобы снять из доступа"
+    card-v2.bulk-action-lock:
+      en: "Scan QR to lock"
+      ru: "Сканируйте QR, чтобы закрыть"
+    card-v2.bulk-action-unlock:
+      en: "Scan QR to unlock"
+      ru: "Сканируйте QR, чтобы открыть"
+    card-v2.bulk-action-immobilize:
+      en: "Scan QR to immobilize"
+      ru: "Отсканируйте QR, чтобы заблокировать"
+    card-v2.bulk-action-mobilize:
+      en: "Scan QR to mobilize"
+      ru: "Отсканируйте QR, чтобы разблокировать"
+    card-v2.bulk-action-arm:
+      en: "Scan QR to arm"
+      ru: "Отсканируйте QR, чтобы поставить на охрану"
+    card-v2.bulk-action-disarm:
+      en: "Scan QR to disarm"
+      ru: "Отсканируйте QR, чтобы снять с охраны"
+    card-v2.bulk-action-finish:
+      en: "Scan QR to finish ride"
+      ru: "Отсканируйте QR, чтобы завершить поездку."
+    card-v2.bulk-action-unlock-battery:
+      en: "Scan QR to unlock battery"
+      ru: "Отсканируйте QR, чтобы разблокировать батарею"
+    card-v2.bulk-action-organizations:
+      en: "Scan QR to change organizations"
+      ru: "Отсканируйте QR-код, чтобы изменить организации"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
