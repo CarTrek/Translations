@@ -3691,6 +3691,12 @@ Sections:
     tech-vehicles-filter.low-fuel:
       en: "Low fuel /charge"
       ru: "Мало топлива / заряда"
+    tech-vehicles-filter.low-medium-fuel:
+      en: "Low-medium level / charge"
+      ru: "Малый уровень / заряда"
+    tech-vehicles-filter.medium-fuel:
+      en: "Medium level / charge"
+      ru: "Средний уровень / заряда"
     tech-vehicles-filter.full-fuel:
       en: "Full tank / charge"
       ru: "Полный бак / заряд"

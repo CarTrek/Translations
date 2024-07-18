@@ -95,6 +95,9 @@ Sections:
     RightExecSql:
       en: "Exec SQL queries"
       ru: "Выполнять SQL-запросы"
+    RightHardwareAdmin:
+      en: "Hardware drivers configuration"
+      ru: "Настраивать драйверы транспортных средств"
     ManageStorage:
       en: "Manage storage"
       ru: "Управление хранилищем"
