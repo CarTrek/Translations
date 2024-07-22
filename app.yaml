@@ -308,38 +308,38 @@ Sections:
       en: "Scan QR to change organizations"
       ru: "Отсканируйте QR-код, чтобы изменить организации"
     card-v2.bulk-action-available-success:
-      en: "{vehicleNumber} became available"
-      ru: "{vehicleNumber} стал доступен"
+      en: "{vehicle-number} became available"
+      ru: "{vehicle-number} стал доступен"
     card-v2.bulk-action-unavailable-success:
-      en: "{vehicleNumber} became unavailable"
-      ru: "{vehicleNumber} стал недоступен"
+      en: "{vehicle-number} became unavailable"
+      ru: "{vehicle-number} стал недоступен"
     card-v2.bulk-action-lock-success:
-      en: "{vehicleNumber} locked"
-      ru: "{vehicleNumber} заперт"
+      en: "{vehicle-number} locked"
+      ru: "{vehicle-number} заперт"
     card-v2.bulk-action-unlock-success:
-      en: "{vehicleNumber} unlocked"
-      ru: "{vehicleNumber} открыт"
+      en: "{vehicle-number} unlocked"
+      ru: "{vehicle-number} открыт"
     card-v2.bulk-action-immobilize-success:
-      en: "{vehicleNumber} immobilized"
-      ru: "{vehicleNumber} заблокирован"
+      en: "{vehicle-number} immobilized"
+      ru: "{vehicle-number} заблокирован"
     card-v2.bulk-action-mobilize-success:
-      en: "{vehicleNumber} mobilized"
-      ru: "{vehicleNumber} разблокирован"
+      en: "{vehicle-number} mobilized"
+      ru: "{vehicle-number} разблокирован"
     card-v2.bulk-action-arm-success:
-      en: "{vehicleNumber} armed"
-      ru: "{vehicleNumber} поставлен на охрану"
+      en: "{vehicle-number} armed"
+      ru: "{vehicle-number} поставлен на охрану"
     card-v2.bulk-action-disarm-success:
-      en: "{vehicleNumber} disarmed"
-      ru: "{vehicleNumber} снят с охраны"
+      en: "{vehicle-number} disarmed"
+      ru: "{vehicle-number} снят с охраны"
     card-v2.bulk-action-finish-success:
-      en: "{vehicleNumber} ride finished"
-      ru: "{vehicleNumber} поездка завершена"
+      en: "{vehicle-number} ride finished"
+      ru: "{vehicle-number} поездка завершена"
     card-v2.bulk-action-unlock-battery-success:
-      en: "{vehicleNumber} battery unlocked"
-      ru: "{vehicleNumber} батарея разблокирована"
+      en: "{vehicle-number} battery unlocked"
+      ru: "{vehicle-number} батарея разблокирована"
     card-v2.bulk-action-organizations-success:
-      en: "{vehicleNumber} organizations changed"
-      ru: "{vehicleNumber} организации изменены"
+      en: "{vehicle-number} organizations changed"
+      ru: "{vehicle-number} организации изменены"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
