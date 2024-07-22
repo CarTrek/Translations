@@ -308,38 +308,38 @@ Sections:
       en: "Scan QR to change organizations"
       ru: "Отсканируйте QR-код, чтобы изменить организации"
     card-v2.bulk-action-available-success:
-      en: "became available"
-      ru: "стал доступен"
+      en: "{vehicleNumber} became available"
+      ru: "{vehicleNumber} стал доступен"
     card-v2.bulk-action-unavailable-success:
-      en: "became unavailable"
-      ru: "стал недоступен"
+      en: "{vehicleNumber} became unavailable"
+      ru: "{vehicleNumber} стал недоступен"
     card-v2.bulk-action-lock-success:
-      en: "locked"
-      ru: "заперт"
+      en: "{vehicleNumber} locked"
+      ru: "{vehicleNumber} заперт"
     card-v2.bulk-action-unlock-success:
-      en: "unlocked"
-      ru: "открыт"
+      en: "{vehicleNumber} unlocked"
+      ru: "{vehicleNumber} открыт"
     card-v2.bulk-action-immobilize-success:
-      en: "immobilized"
-      ru: "заблокирован"
+      en: "{vehicleNumber} immobilized"
+      ru: "{vehicleNumber} заблокирован"
     card-v2.bulk-action-mobilize-success:
-      en: "mobilized"
-      ru: "разблокирован"
+      en: "{vehicleNumber} mobilized"
+      ru: "{vehicleNumber} разблокирован"
     card-v2.bulk-action-arm-success:
-      en: "armed"
-      ru: "поставлен на охрану"
+      en: "{vehicleNumber} armed"
+      ru: "{vehicleNumber} поставлен на охрану"
     card-v2.bulk-action-disarm-success:
-      en: "disarmed"
-      ru: "снят с охраны"
+      en: "{vehicleNumber} disarmed"
+      ru: "{vehicleNumber} снят с охраны"
     card-v2.bulk-action-finish-success:
-      en: "ride finished"
-      ru: "поездка завершена"
+      en: "{vehicleNumber} ride finished"
+      ru: "{vehicleNumber} поездка завершена"
     card-v2.bulk-action-unlock-battery-success:
-      en: "battery unlocked"
-      ru: "батарея разблокирована"
+      en: "{vehicleNumber} battery unlocked"
+      ru: "{vehicleNumber} батарея разблокирована"
     card-v2.bulk-action-organizations-success:
-      en: "organizations changed"
-      ru: "организации изменены"
+      en: "{vehicleNumber} organizations changed"
+      ru: "{vehicleNumber} организации изменены"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
