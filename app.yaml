@@ -1271,6 +1271,9 @@ Sections:
     rules-menu.helpUrl:
       en: Help
       ru: Помощь
+    rules-menu.insuranceConditions:
+      en: "Insurance conditions"
+      ru: "Условия страхования"
     rules-menu.ratesUrl:
       en: Tariffs
       ru: Тарифы
