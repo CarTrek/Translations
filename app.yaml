@@ -269,8 +269,8 @@ Sections:
       en: "Sign the handover act here:"
       ru: "Подпишите акт приема-передачи здесь:"
     card-v2.bulk-action-header:
-      en: "Doing bulk action with QR"
-      ru: "Массовые действия с помощью QR"
+      en: "QR bulk action"
+      ru: "Массовые действия с QR"
     card-v2.bulk-action-title:
       en: "Select action and scan QR`s"
       ru: "Выберите действие и отсканируйте QR-коды"
@@ -2506,6 +2506,9 @@ Sections:
     error.other.message:
       en: ""
       ru: ""
+    error.select-vehicle:
+      en: "Error select vehicle"
+      ru: "Ошибка выбора транспорта"
     app-rating.title:
       en: "Do you like our app?"
       ru: "Вам нравится наше приложение?"
