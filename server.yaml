@@ -4537,6 +4537,11 @@ Sections:
       ka: გადახდა უარყოფილია
       en: Payment is canceled
       ru: Невозможно совершить операцию с отмененым платежем
+    PaymentConfirmation:
+      cs: Potvrzení platby
+      ka: გადახდის დადასტურება
+      en: Payment confirmation
+      ru: Подтверждение платежа
     PaymentGateway:
       cs: vnitřní chyba platební brány
       ka: გადახდების სერვისის შიდა შეცდომა
