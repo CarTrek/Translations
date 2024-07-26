@@ -340,6 +340,15 @@ Sections:
     card-v2.bulk-action-organizations-success:
       en: "{vehicle-number} organizations changed"
       ru: "{vehicle-number} организации изменены"
+    card-v2.bulk-failed-actions-header:
+      en: "Failed actions"
+      ru: "Невыполненные действия"
+    card-v2.bulk-failed-actions-clear:
+      en: "Clear"
+      ru: "Очистить"
+    card-v2.bulk-failed-actions-close:
+      en: "Close"
+      ru: "Закрыть"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
