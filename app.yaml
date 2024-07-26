@@ -268,6 +268,78 @@ Sections:
     report-screen.sing-contract:
       en: "Sign the handover act here:"
       ru: "Подпишите акт приема-передачи здесь:"
+    card-v2.bulk-action-header:
+      en: "QR bulk action"
+      ru: "Массовые действия с QR"
+    card-v2.bulk-action-title:
+      en: "Select action and scan QR`s"
+      ru: "Выберите действие и отсканируйте QR-коды"
+    card-v2.bulk-action-available:
+      en: "Scan QR to make available"
+      ru: "Отсканируйте QR, чтобы вывести в доступ"
+    card-v2.bulk-action-unavailable:
+      en: "Scan QR to make unavailable"
+      ru: "Отсканируйте QR, чтобы снять из доступа"
+    card-v2.bulk-action-lock:
+      en: "Scan QR to lock"
+      ru: "Сканируйте QR, чтобы закрыть"
+    card-v2.bulk-action-unlock:
+      en: "Scan QR to unlock"
+      ru: "Сканируйте QR, чтобы открыть"
+    card-v2.bulk-action-immobilize:
+      en: "Scan QR to immobilize"
+      ru: "Отсканируйте QR, чтобы заблокировать"
+    card-v2.bulk-action-mobilize:
+      en: "Scan QR to mobilize"
+      ru: "Отсканируйте QR, чтобы разблокировать"
+    card-v2.bulk-action-arm:
+      en: "Scan QR to arm"
+      ru: "Отсканируйте QR, чтобы поставить на охрану"
+    card-v2.bulk-action-disarm:
+      en: "Scan QR to disarm"
+      ru: "Отсканируйте QR, чтобы снять с охраны"
+    card-v2.bulk-action-finish:
+      en: "Scan QR to finish ride"
+      ru: "Отсканируйте QR, чтобы завершить поездку"
+    card-v2.bulk-action-unlock-battery:
+      en: "Scan QR to unlock battery"
+      ru: "Отсканируйте QR, чтобы разблокировать батарею"
+    card-v2.bulk-action-organizations:
+      en: "Scan QR to change organizations"
+      ru: "Отсканируйте QR-код, чтобы изменить организации"
+    card-v2.bulk-action-available-success:
+      en: "{vehicle-number} became available"
+      ru: "{vehicle-number} стал доступен"
+    card-v2.bulk-action-unavailable-success:
+      en: "{vehicle-number} became unavailable"
+      ru: "{vehicle-number} стал недоступен"
+    card-v2.bulk-action-lock-success:
+      en: "{vehicle-number} locked"
+      ru: "{vehicle-number} заперт"
+    card-v2.bulk-action-unlock-success:
+      en: "{vehicle-number} unlocked"
+      ru: "{vehicle-number} открыт"
+    card-v2.bulk-action-immobilize-success:
+      en: "{vehicle-number} immobilized"
+      ru: "{vehicle-number} заблокирован"
+    card-v2.bulk-action-mobilize-success:
+      en: "{vehicle-number} mobilized"
+      ru: "{vehicle-number} разблокирован"
+    card-v2.bulk-action-arm-success:
+      en: "{vehicle-number} armed"
+      ru: "{vehicle-number} поставлен на охрану"
+    card-v2.bulk-action-disarm-success:
+      en: "{vehicle-number} disarmed"
+      ru: "{vehicle-number} снят с охраны"
+    card-v2.bulk-action-finish-success:
+      en: "{vehicle-number} ride finished"
+      ru: "{vehicle-number} поездка завершена"
+    card-v2.bulk-action-unlock-battery-success:
+      en: "{vehicle-number} battery unlocked"
+      ru: "{vehicle-number} батарея разблокирована"
+    card-v2.bulk-action-organizations-success:
+      en: "{vehicle-number} organizations changed"
+      ru: "{vehicle-number} организации изменены"
     card-v2.button-tech-order-ride:
       en: "▶️ Ride"
       ru: "▶️ Поездка"
@@ -319,6 +391,9 @@ Sections:
     card-v2.button-buy-ticket:
       en: "Buy tariff"
       ru: "Купить"
+    card-v2.button-tech-set-fuel:
+      en: "⛽️ Refueling"
+      ru: "⛽️ Заправка"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
@@ -559,6 +634,9 @@ Sections:
     profile.switch-language:
       en: "Switch language"
       ru: "Переключить язык"
+    profile.enter-romo-code:
+      en: "Enter promo code"
+      ru: "Ввести промо-код"
     profile.enter-promo-code:
       en: "Enter promo code"
       ru: "Ввести промо-код"
@@ -1193,6 +1271,9 @@ Sections:
     rules-menu.helpUrl:
       en: Help
       ru: Помощь
+    rules-menu.insuranceConditions:
+      en: "Insurance conditions"
+      ru: "Условия страхования"
     rules-menu.ratesUrl:
       en: Tariffs
       ru: Тарифы
@@ -2428,6 +2509,9 @@ Sections:
     error.other.message:
       en: ""
       ru: ""
+    error.select-vehicle:
+      en: "Error select vehicle"
+      ru: "Ошибка выбора транспорта"
     app-rating.title:
       en: "Do you like our app?"
       ru: "Вам нравится наше приложение?"
@@ -2455,6 +2539,9 @@ Sections:
     selfie-quest.smile:
       en: "Smile for at least 5 seconds"
       ru: "Улыбнитесь не меньше чем на 5 секунд"
+    selfie-quest.face-not-visible:
+      en: "Face not visible"
+      ru: "На фото не видно лицо"
     quest-one-task:
       en: "by completing {taskCount} task, follow the instructions on the screen"
       ru: "выполнив {taskCount} задание, следуйте инструкциям на экране"
@@ -3643,6 +3730,12 @@ Sections:
     tech-vehicles-filter.low-fuel:
       en: "Low fuel /charge"
       ru: "Мало топлива / заряда"
+    tech-vehicles-filter.low-medium-fuel:
+      en: "Low-medium level / charge"
+      ru: "Малый уровень / заряда"
+    tech-vehicles-filter.medium-fuel:
+      en: "Medium level / charge"
+      ru: "Средний уровень / заряда"
     tech-vehicles-filter.full-fuel:
       en: "Full tank / charge"
       ru: "Полный бак / заряд"
