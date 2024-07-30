@@ -1,5 +1,8 @@
 Sections:
   Server:
+    yoomoney.general_error:
+      en: "Payment declined"
+      ru: "Платеж отклонен"
     CutBillResultCannotCutThisBill:
       en: "Cannot cut this bill"
       ru: "Невозможнол разбить счет"
