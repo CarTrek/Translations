@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organization.editor.ScanQRRouteUrl:
+      en: "Scan QR Route"
+      ru: "URL при сканировании QR"
     organizations.DepositAmount:
       en: Deposit amount
       ru: Размер залога
