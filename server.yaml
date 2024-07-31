@@ -93,6 +93,8 @@ Sections:
     HoldingDepositDescription:
       en: "Holding the deposit"
       ru: "Предавторизация депозита"
+    PaymentGatewayraiffeisenDisplayName:
+      en: "Raiffeisen"
     PaymentGatewayjccpaymentsDisplayName:
       en: "JCC"
     PaymentGatewaystripeDisplayName:
