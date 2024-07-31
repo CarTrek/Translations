@@ -1,7 +1,7 @@
 Sections:
   Server:
     Yoomoney_general_decline:
-      en: "Please contact issuer bank"
+      en: "Operation declined. Please contact issuer bank"
       ru: "Операция отклонена. Обратитесь в банк, выпустивший карту"
     Yoomoney_insufficient_funds:
       en: "Insufficient funds"
