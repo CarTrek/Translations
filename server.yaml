@@ -1,7 +1,7 @@
 Sections:
   Server:
     Source:
-      en: "Source:
+      en: "Source"
       ru: "Источник"
     Yoomoney_3d_secure_failed:
       en: "3-D Secure authentication failed"
