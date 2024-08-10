@@ -1,5 +1,18 @@
 Sections:
   Server:
+    ProcessCanceledOrderInAppTitle:
+      en: "Your ride was refunded"
+      ru: "Оплата за поездку была возвращена"
+    ProcessCanceledOrderInAppMessage:
+      en: "It looks like something went wrong with your ride #{rideNumber} on {brandName} {modelName} at {regNumber}, so we've refunded you for that ride."
+      ru: "Похоже во время вашей поездки  №{rideNumber} на {brandName} {modelName} под номером {regNumber} что-то пошло не так, поэтому мы вернули вам оплату за эту поездку."
+    ProcessCanceledOrderInAppButton:
+      en: "Nice"
+      ru: "Отлично"
+    ProcessCanceledOrderInAppUrl:
+      en: ""
+    ProcessCanceledOrderInAppColor:
+      en: "000000"
     Source:
       en: "Source"
       ru: "Источник"
