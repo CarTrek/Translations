@@ -77,6 +77,9 @@ Sections:
     long-rental.car-model-hp:
       en: "{power} hp"
       ru: "{power} л.с."
+    long-rental.no-camera-permission:
+      en: "No camera permission"
+      ru: "Нет доступа к камере"
     swap-battery.qr-message:
       en: "Find the QR code on the station"
       ru: "Найдите QR-код на корпусе станции"

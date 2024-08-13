@@ -1,5 +1,57 @@
 Sections:
   Server:
+    ProcessCanceledOrderInAppTitle:
+      en: "Your ride was refunded"
+      ru: "Оплата за поездку была возвращена"
+    ProcessCanceledOrderInAppMessage:
+      en: "It looks like something went wrong with your ride #{rideNumber} on {brandName} {modelName} at {regNumber}, so we've refunded you for that ride."
+      ru: "Похоже во время вашей поездки  №{rideNumber} на {brandName} {modelName} под номером {regNumber} что-то пошло не так, поэтому мы вернули вам оплату за эту поездку."
+    ProcessCanceledOrderInAppButton:
+      en: "Nice"
+      ru: "Отлично"
+    ProcessCanceledOrderInAppUrl:
+      en: ""
+    ProcessCanceledOrderInAppColor:
+      en: "000000"
+    Source:
+      en: "Source"
+      ru: "Источник"
+    Yoomoney_3d_secure_failed:
+      en: "3-D Secure authentication failed"
+      ru: "Не пройдена аутентификация по 3-D Secure"
+    Yoomoney_call_issuer:
+      en: "The transaction was declined for unknown reasons. Please contact your card issuer."
+      ru: "Операция отклонена по неизвестным причинам. Обратитесь в банк, выпустивший карту"
+    Yoomoney_fraud_suspected:
+      en: "Payment blocked due to suspected fraud"
+      ru: "Платеж заблокирован из-за подозрения в мошенничестве"
+    Yoomoney_internal_timeout:
+      en: "Technical problems on the YUKassa side"
+      ru: " Технические неполадки на стороне ЮKassa"
+    Yoomoney_invalid_card_number:
+      en: "The card number is incorrect."
+      ru: "Неправильно указан номер карты"
+    Yoomoney_invalid_csc:
+      en: "Incorrect CVV2 code (CVC2, CID)"
+      ru: "Неправильно указан код CVV2 (CVC2, CID)"
+    Yoomoney_issuer_unavailable:
+      en: "The organization that issued the payment instrument is unavailable"
+      ru: "Организация, выпустившая платежное средство, недоступна"
+    Yoomoney_payment_method_limit_exceeded:
+      en: "The payment limit for this payment method or your store has been reached"
+      ru: "Исчерпан лимит платежей для данного платежного средства или вашего магазина"
+    Yoomoney_payment_method_restricted:
+      en: "Operations with this payment method are prohibited"
+      ru: "Запрещены операции данным платежным средством"
+    Yoomoney_general_decline:
+      en: "Operation declined. Please contact issuer bank"
+      ru: "Операция отклонена. Обратитесь в банк, выпустивший карту"
+    Yoomoney_insufficient_funds:
+      en: "Insufficient funds"
+      ru: "Недостаточно средств"
+    Yoomoney_general_error:
+      en: "Payment declined"
+      ru: "Платеж отклонен"
     CutBillResultCannotCutThisBill:
       en: "Cannot cut this bill"
       ru: "Невозможнол разбить счет"
@@ -57,6 +109,8 @@ Sections:
     HoldingDepositDescription:
       en: "Holding the deposit"
       ru: "Предавторизация депозита"
+    PaymentGatewayraiffeisenDisplayName:
+      en: "Raiffeisen"
     PaymentGatewayjccpaymentsDisplayName:
       en: "JCC"
     PaymentGatewaystripeDisplayName:
