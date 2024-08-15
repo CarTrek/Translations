@@ -2566,6 +2566,9 @@ Sections:
     quest-five-tasks:
       en: "by completing {taskCount} tasks, follow the instructions on the screen"
       ru: "выполнив {taskCount} заданий, следуйте инструкциям на экране"
+    wait-message:
+      en: "Processing"
+      ru: "Обработка"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
