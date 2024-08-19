@@ -3859,3 +3859,9 @@ Sections:
     customers.search-placeholder:
       en: "Name, email or phone number"
       ru: "Фамилия, email или телефон клиента"
+    customers.button-close:
+      en: "Close"
+      ru: "Закрыть"
+    customers.button-select:
+      en: "Select"
+      ru: "Выбрать"
