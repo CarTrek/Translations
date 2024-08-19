@@ -3845,14 +3845,14 @@ Sections:
       en: "Finish"
       ru: "Завершить"
     manager.finish-rental-question:
-      en: "Are you sure you want to complete your rental? \n\nAfter completing the rental, take photos of the bike"
-      ru: "Вы уверены, что хотите завершить вашу аренду? \n\nПосле завершения аренды сделайте фото велосипеда"
+      en: "Are you sure you want to complete rental?"
+      ru: "Вы уверены, что хотите завершить аренду?"
     manager.make-available-message:
-      en: "Make available?"
-      ru: "Вывести в доступ?"
+      en: "Are you sure you want to make this available?"
+      ru: "Вы уверены, что хотите сделать доступным?"
     manager.make-unavailable-message:
-      en: "Make unavailable?"
-      ru: "Снять из доступа?"
+      en: "Are you sure you want to make it unavailable?"
+      ru: "Вы уверены, что хотите снять из доступа?"
     customers.search-label:
       en: "Select customer:"
       ru: "Выберите клиента:"
