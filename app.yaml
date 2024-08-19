@@ -3788,14 +3788,56 @@ Sections:
       en: "Book"
       ru: "Забронировать"
     manager.button-order-inspect:
-        en: "Inspect"
-        ru: "Включить инспекцию"
+      en: "Inspect"
+      ru: "Включить инспекцию"
     manager.button-order-ride:
       en: "Ride"
       ru: "Поездка"
     manager.button-order-pause:
       en: "Pause"
       ru: "Пауза"
-    manager.button-order-ride-finish:
+    manager.button-order-finish-swap:
+      en: "Swap"
+      ru: "Сменить"
+    manager.button-order-finish:
       en: "Finish"
       ru: "Завершить"
+    manager.button-order-available:
+      en: "Make available"
+      ru: "Вывести в доступ"
+    manager.button-order-unavailable:
+      en: "Make unavailable"
+      ru: "Снять из доступа"
+    manager.button-comments:
+      en: "Comments"
+      ru: "Комментарии"
+    manager.button-support:
+      en: "Support"
+      ru: "Поддержка"
+    manager.button-success:
+      en: "Action processed successfully"
+      ru: "Действие обработано успешно"
+    manager.start-book-title:
+      en: "Book {car-name}"
+      ru: "Бронирование {car-name}"
+    manager.start-book-question:
+      en: "Do you really want to book {car-name}?"
+      ru: "Вы действительно хотите забронировать {car-name}?"
+    manager.park-title:
+       en: "Close the bike"
+       ru: "Закрыть велосипед"
+    manager.park-question:
+       en: "Do you really want to close the bike and put your rental to the parking mode?"
+       ru: "Вы действительно хотите закрыть велосипед и перевести вашу аренду в режим парковки?"
+    manager.finish-rental-title:
+       en: "Finish"
+       ru: "Завершить"
+    manager.finish-rental-question:
+       en: "Are you sure you want to complete your rental? \n\nAfter completing the rental, take photos of the bike."
+       ru: "Вы уверены, что хотите завершить вашу аренду? \n\nПосле завершения аренды сделайте фото велосипеда."
+    customers.search-label:
+      en: "Select customer:"
+      ru: "Выберите клиента:"
+    customers.search-placeholder:
+      en: "Name, email or phone number"
+      ru: "Фамилия, email или телефон клиента"
