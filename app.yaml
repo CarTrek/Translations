@@ -3847,10 +3847,10 @@ Sections:
     manager.finish-rental-question:
       en: "Are you sure you want to complete your rental? \n\nAfter completing the rental, take photos of the bike"
       ru: "Вы уверены, что хотите завершить вашу аренду? \n\nПосле завершения аренды сделайте фото велосипеда"
-    manager-make-available-message:
+    manager.make-available-message:
       en: "Make available?"
       ru: "Вывести в доступ?"
-    manager-make-unavailable-message:
+    manager.make-unavailable-message:
       en: "Make unavailable?"
       ru: "Снять из доступа?"
     customers.search-label:
