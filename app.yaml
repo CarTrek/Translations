@@ -62,6 +62,15 @@ Sections:
     long-rental.manage-rental.damage-report:
       en: "Take pictures of damage"
       ru: "Сфотографировать повреждения"
+    long-rental.manage-rental.start-engine:
+      en: "Start engine"
+      ru: "Завести"
+    long-rental.manage-rental.starting-engine:
+      en: "Starting"
+      ru: "Запускается"
+    long-rental.manage-rental.stop-engine:
+      en: "Stop engine"
+      ru: "Заглушить"
     long-rental.bottom-menu.catalogue:
       en: "Catalogue"
       ru: "Каталог"
