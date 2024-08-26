@@ -3874,3 +3874,18 @@ Sections:
     customers.button-select:
       en: "Select"
       ru: "Выбрать"
+    car-address.header-title:
+      en: "We didn't find the car"
+      ru: "Мы не нашли машину"
+    car-address.header-description:
+      en: "We were unable to automatically locate the moped using satellite navigation. Please provide an approximate address of the moped and any landmarks. You will help us and the next user. Thank you!"
+      ru: "Мы не смогли автоматически определить местоположение мопеда с помощью спутниковой навигации. Напишите, пожалуйста, примерный адрес, по которому находится мопед, и какие есть ориентиры. Вы поможете нам и следующему пользователю. Спасибо!"
+    car-address.address:
+      en: "Address - street, nearest house number"
+      ru: "Адрес - улица, номер ближайшего дома"
+    car-address.description:
+      en: "What landmarks are nearby? For example, a metro station, a pedestrian crossing, a store, etc"
+      ru: "Какие есть ориентиры рядом? Например, станция метро, пешеходный переход, магазин и т.п."
+    car-address.button:
+      en: "Continue"
+      ru: "Продолжить"
