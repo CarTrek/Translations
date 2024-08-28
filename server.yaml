@@ -1,5 +1,8 @@
 Sections:
   Server:
+    Cashback:
+      en: "Cashback for the ride {ride-number}"
+      ru: "Кэшбек за поездку № {ride-number}"
     ProcessCanceledOrderInAppTitle:
       en: "Your ride was refunded"
       ru: "Оплата за поездку была возвращена"
