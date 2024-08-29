@@ -925,6 +925,9 @@ Sections:
     rate-select.rate-cost-per-min:
       en: "{amount} {currency}/min"
       ru: "{amount} {currency}/мин"
+    rate-select.select-button:
+      en: 'Choose'
+      ru: 'Выбрать'
     card-v2.button-book-rate:
       en: "Book"
       ru: "Забронировать"
