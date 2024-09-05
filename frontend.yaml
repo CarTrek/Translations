@@ -938,11 +938,11 @@ Sections:
       en: Settings
       ru: Настройки
     cars.editor.LOGICHAL:
-      en: Sensors
-      ru: Датчики
+      en: Hal data
+      ru: Данные Hal
     cars.editor.LOGICRAW:
       en: Raw data
-      ru: Данные
+      ru: Данные Raw
     cars.editor.LOGICJAVASCRIPT:
       en: Script
       ru: Скрипт
