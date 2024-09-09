@@ -3730,6 +3730,12 @@ Sections:
     support-chat.title:
       en: "Support"
       ru: "Поддрежка"
+    tech-vehicles-filter.lessIdle:
+      en: "Idle < 12h"
+      ru: "Простой < 12 ч"
+    tech-vehicles-filter.moreIdle:
+      en: "Idle > 12h"
+      ru: "Простой > 12 ч"
     tech-vehicles-filter.car-model-filter:
       en: "Cars filter ❯"
       ru: "Фильтр по моделям ❯"
@@ -3778,12 +3784,6 @@ Sections:
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"
-    tech-vehicles-filter.idleMinuteLess:
-      en: "Idle less than 12h"
-      ru: "Простой менее 12 ч"
-    tech-vehicles-filter.idleMinuteMore:
-      en: "Idle more than 12h"
-      ru: "Простой более 12 ч"
     start-news.start:
       en: "Get started"
       ru: "Начать"
