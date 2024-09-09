@@ -3895,6 +3895,9 @@ Sections:
     car-address.description:
       en: "What landmarks are nearby? For example, a metro station, a pedestrian crossing, a store, etc"
       ru: "Какие есть ориентиры рядом? Например, станция метро, пешеходный переход, магазин и т.п."
-    car-address.button:
+    car-address.button-continue:
       en: "Continue"
       ru: "Продолжить"
+    car-address.button-close:
+      en: "Close"
+      ru: "Закрыть"
