@@ -3778,10 +3778,10 @@ Sections:
     tech-vehicles-filter.quantity:
       en: "Selected quantity:"
       ru: "Выбранное количество:"
-    tech-vehicles-filter:idleMinuteLess:
+    tech-vehicles-filter.idleMinuteLess:
       en: "Простой менее 12 ч"
       ru: "Idle less than 12h"
-    tech-vehicles-filter:idleMinuteMore:
+    tech-vehicles-filter.idleMinuteMore:
       en: "Простой более 12 ч"
       ru: "Idle more than 12h"
     start-news.start:
