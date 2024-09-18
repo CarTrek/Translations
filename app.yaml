@@ -3733,6 +3733,12 @@ Sections:
     support-chat.title:
       en: "Support"
       ru: "Поддрежка"
+    tech-vehicles-filter.idleMinuteLess:
+      en: "Idle more than 12h"
+      ru: "Простой более 12 ч"
+    tech-vehicles-filter.idleMinuteMore:
+      en: "Idle more than 24h"
+      ru: "Простой более 24 ч"
     tech-vehicles-filter.car-model-filter:
       en: "Cars filter ❯"
       ru: "Фильтр по моделям ❯"

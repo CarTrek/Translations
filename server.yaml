@@ -1,5 +1,17 @@
 Sections:
   Server:
+    RaiffeisenCardBindSuccessFooter:
+      en: "Thank you for using our service!"
+      ru: "Спасибо, что пользуетесь нашим сервисом!"
+    RaiffeisenCardBindSuccessButton:
+      en: "Close window"
+      ru: "Закрыть окно"
+    RaiffeisenCardBindSuccessMessage:
+      en: "Your card has been successfully binded to your account. You can now close this window."
+      ru: "Ваша карта успешно привязана к аккаунту. Теперь вы можете закрыть это окно."
+    RaiffeisenCardBindSuccessTitle:
+      en: "Card binded successfully!"
+      ru: "Карта успешно привязана!"
     Cashback:
       en: "Cashback for the ride {ride-number}"
       ru: "Кэшбек за поездку № {ride-number}"
