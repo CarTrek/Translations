@@ -1468,6 +1468,12 @@ Sections:
     payment-methods.done:
       en: "Done"
       ru: "Done"
+    payment-methods.removed:
+      en: "Card removed successfully"
+      ru: "Карта успешно удалена"
+    payment-methods.attached:
+      en: "Card attached successfully"
+      ru: "Карта успешно прикреплена"
     appless.rent.show-pin-title:
       en: 'How to open lock'
       ru: 'Как открыть замок'
