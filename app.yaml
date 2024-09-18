@@ -146,6 +146,9 @@ Sections:
     alert.back:
       en: "Back"
       ru: "Назад"
+    alert.continue:
+      en: "Continue"
+      ru: "Продолжить"
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
