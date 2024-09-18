@@ -3749,7 +3749,7 @@ Sections:
       en: "Idle more than 24h"
       ru: "Простой более 24 ч"
     tech-vehicles-filter.car-model-filter:
-      en: "Cars filter ❯"
+      en: "Models filter ❯"
       ru: "Фильтр по моделям ❯"
     tech-vehicles-filter.online:
       en: "Available for rent"
