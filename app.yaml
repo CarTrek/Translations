@@ -742,6 +742,9 @@ Sections:
     profile.email:
       en: "E-mail"
       ru: "E-mail"
+    profile.email-changed:
+      en: "E-mail changed successfully"
+      ru: "E-mail изменен успешно"
     profile.captcha-code:
       en: "Captcha code"
       ru: "Код с картинки"
