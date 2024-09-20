@@ -1474,6 +1474,9 @@ Sections:
     payment-methods.attached:
       en: "Card attached successfully"
       ru: "Карта успешно прикреплена"
+    payment-methods.you-must-choose-main:
+      en: "You must choose main card"
+      ru: "Вам необходимо выбрать основную карту"
     appless.rent.show-pin-title:
       en: 'How to open lock'
       ru: 'Как открыть замок'
