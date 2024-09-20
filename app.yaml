@@ -1423,6 +1423,9 @@ Sections:
     booking-history.load-more:
       en: "Load more"
       ru: 'Ещё'
+    booking-history.current-ride:
+      en: "Current ride"
+      ru: "Текущая поездка"
     booking-details.title:
       en: "My bookings"
       ru: "Мои брони"
