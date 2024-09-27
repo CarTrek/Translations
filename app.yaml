@@ -3673,6 +3673,18 @@ Sections:
     gallery-ride-photo.image-button-close:
       en: "Close"
       ru: "Закрыть"
+    find-car-gallery.button-close:
+      en: "Close"
+      ru: "Закрыть"
+    find-car-gallery.find-car:
+      en: "Find by photo"
+      ru: "Поиск по фото"
+    find-car-gallery.header-title:
+      en: "Find car by photo"
+      ru: "Найти машину по фото"
+    find-car-gallery.header-description:
+      en: "To quickly find a car, you can look at the photos taken by the previous driver and start your trip sooner"
+      ru: "Для быстрого поиска машины, можете посмотреть фотографии сделанные предыдущим водителем, и скорее начать свою поездку"
     marker.reg-number:
       en: "{reg-number} {fuel-level}%"
       ru: "{reg-number} {fuel-level}%"
