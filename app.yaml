@@ -146,6 +146,9 @@ Sections:
     alert.back:
       en: "Back"
       ru: "Назад"
+    alert.continue:
+      en: "Continue"
+      ru: "Продолжить"
     payment-page.title:
       en: "Add payment method"
       ru: "Добавьте способ оплаты"
@@ -742,6 +745,9 @@ Sections:
     profile.email:
       en: "E-mail"
       ru: "E-mail"
+    profile.email-changed:
+      en: "E-mail changed successfully"
+      ru: "E-mail изменен успешно"
     profile.captcha-code:
       en: "Captcha code"
       ru: "Код с картинки"
@@ -1417,6 +1423,9 @@ Sections:
     booking-history.load-more:
       en: "Load more"
       ru: 'Ещё'
+    booking-history.current-ride:
+      en: "Current ride"
+      ru: "Текущая поездка"
     booking-details.title:
       en: "My bookings"
       ru: "Мои брони"
@@ -1462,6 +1471,15 @@ Sections:
     payment-methods.done:
       en: "Done"
       ru: "Done"
+    payment-methods.removed:
+      en: "Card removed successfully"
+      ru: "Карта успешно удалена"
+    payment-methods.attached:
+      en: "Card attached successfully"
+      ru: "Карта успешно прикреплена"
+    payment-methods.you-must-choose-main:
+      en: "You must choose main card"
+      ru: "Вам необходимо выбрать основную карту"
     appless.rent.show-pin-title:
       en: 'How to open lock'
       ru: 'Как открыть замок'
@@ -3749,7 +3767,7 @@ Sections:
       en: "Idle more than 24h"
       ru: "Простой более 24 ч"
     tech-vehicles-filter.car-model-filter:
-      en: "Cars filter ❯"
+      en: "Models filter ❯"
       ru: "Фильтр по моделям ❯"
     tech-vehicles-filter.online:
       en: "Available for rent"
