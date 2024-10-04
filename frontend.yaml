@@ -143,6 +143,9 @@ Sections:
     notifications.ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
+    notifications.UserWithTheSameDeviceIdRegistered:
+      en: "Re-registration with the same device ID"
+      ru: "Повторная регистрация с тем же device ID"
     notifications.WarningNoSuitablePerMinuteRateFound:
       en: "⚠️ No per minute rate found for the order"
       ru: "⚠️ Нет подходящего минутного тарифа для заказа"
