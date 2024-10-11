@@ -3949,3 +3949,9 @@ Sections:
     garage.go-to-car:
       en: "Go to car"
       ru: "Перейти на карту"
+    garage.removed-car:
+      en: "The car has been removed from the Garage"
+      ru: "Машина удалена из Гаража"
+    garage.added-car:
+      en: "The car has been added to the Garage"
+      ru: "Машина добавлена в Гараж"
