@@ -3946,12 +3946,12 @@ Sections:
     garage.without-content:
       en: "It's easy to add your favorite cars and track their statuses"
       ru: "Легко добавлять понравившиеся машины и отслеживать их статусы"
-    garage.go-to-car:
-      en: "Go to car"
-      ru: "Перейти на карту"
     garage.removed-car:
       en: "The car has been removed from the Garage"
       ru: "Машина удалена из Гаража"
     garage.added-car:
       en: "The car has been added to the Garage"
       ru: "Машина добавлена в Гараж"
+    garage.go-to-car:
+      en: "View on map"
+      ru: "Посмотреть на карте"
