@@ -2602,6 +2602,9 @@ Sections:
     wait-message:
       en: "Processing"
       ru: "Обработка"
+    wait-success:
+      en: "Success!"
+      ru: "Успешно!"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"

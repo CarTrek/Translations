@@ -215,6 +215,12 @@ Sections:
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
+    UserWithTheSameDeviceIdRegistered:
+      en: "Re-registration with the same device ID"
+      ru: "Повторная регистрация с тем же device ID"
+    UserWithTheSameDeviceIdRegisteredDescription:
+      en: "Device ID: {DeviceId}; users: {UserIds}"
+      ru: "Device ID: {DeviceId}; пользователи: {UserIds}"
     WarningNoSuitablePerMinuteRateFound:
       en: "⚠️ No per minute rate found for the order"
       ru: "⚠️ Нет подходящего минутного тарифа для заказа"
