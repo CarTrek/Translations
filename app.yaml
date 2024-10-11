@@ -496,6 +496,9 @@ Sections:
     drawer.menuItemFreeRides:
       en: "Free rides"
       ru: "Free rides"
+    drawer.menuItemGarage:
+      en: "Garage"
+      ru: "Гараж"
     drawer.personal:
       en: "Personal"
       ru: "Личный"
@@ -3931,3 +3934,15 @@ Sections:
     car-address.button-close:
       en: "Close"
       ru: "Закрыть"
+    garage.title:
+      en: "Garage"
+      ru: "Гараж"
+    garage.km:
+      en: "km"
+      ru: "км"
+    garage.without-content:
+      en: "It's easy to add your favorite cars and track their statuses"
+      ru: "Легко добавлять понравившиеся машины и отслеживать их статусы"
+    garage.go-to-car:
+      en: "Go to car"
+      ru: "Перейти на карту"
