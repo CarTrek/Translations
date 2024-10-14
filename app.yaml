@@ -98,6 +98,18 @@ Sections:
     fueling-card.get-directions:
       en: "Get directions"
       ru: "Построить маршрут"
+    fueling-card.no-card:
+      en: "No linked fueling card"
+      ru: "Нет привязанных топливных карт"
+    fueling-card.pin:
+      en: "PIN"
+      ru: "Пин-код"
+    fueling-card.card-number:
+      en: "Fueling card number"
+      ru: "Номер топливной карты"
+    fueling-card.refuel-button:
+      en: "Set fuel to 100%"
+      ru: "Установить уровень топлива 100%"
     subscription.more-info-link:
       en: "More info..."
       ru: "Узнать больше..."
