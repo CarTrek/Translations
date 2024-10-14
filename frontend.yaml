@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.recalculate:
+      en: "Recalculate"
+      ru: "Пересчитать"
     organization.editor.ScanQRRouteUrl:
       en: "Scan QR Route"
       ru: "URL при сканировании QR"
