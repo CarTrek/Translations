@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightRefreshUserBalanceInDb:
+      en: "Reload user balance"
+      ru: "Обновить баланс пользователя"
+    RightRecalculateUserBalance:
+      en: "Recalculate user balance"
+      ru: "Пересчитать баланс пользователя"
     RaiffeisenCardBindSuccessFooter:
       en: "Thank you for using our service!"
       ru: "Спасибо, что пользуетесь нашим сервисом!"
