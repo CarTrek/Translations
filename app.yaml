@@ -508,6 +508,9 @@ Sections:
     drawer.menuItemFreeRides:
       en: "Free rides"
       ru: "Free rides"
+    drawer.menuItemGarage:
+      en: "Garage"
+      ru: "Гараж"
     drawer.personal:
       en: "Personal"
       ru: "Личный"
@@ -2611,6 +2614,9 @@ Sections:
     wait-message:
       en: "Processing"
       ru: "Обработка"
+    wait-success:
+      en: "Success!"
+      ru: "Успешно!"
     messengerbot.you-can:
       en: "You can:"
       ru: "Вы можете:"
@@ -3703,6 +3709,18 @@ Sections:
     gallery-ride-photo.image-button-close:
       en: "Close"
       ru: "Закрыть"
+    find-car-gallery.button-close:
+      en: "Close"
+      ru: "Закрыть"
+    find-car-gallery.find-car:
+      en: "Find by photo"
+      ru: "Поиск по фото"
+    find-car-gallery.header-title:
+      en: "Find car by photo"
+      ru: "Найти машину по фото"
+    find-car-gallery.header-description:
+      en: "To quickly find a car, you can look at the photos taken by the previous driver and start your trip sooner"
+      ru: "Для быстрого поиска машины, можете посмотреть фотографии сделанные предыдущим водителем, и скорее начать свою поездку"
     marker.reg-number:
       en: "{reg-number} {fuel-level}%"
       ru: "{reg-number} {fuel-level}%"
@@ -3931,3 +3949,21 @@ Sections:
     car-address.button-close:
       en: "Close"
       ru: "Закрыть"
+    garage.title:
+      en: "Garage"
+      ru: "Гараж"
+    garage.km:
+      en: "km"
+      ru: "км"
+    garage.without-content:
+      en: "It's easy to add your favorite cars and track their statuses"
+      ru: "Легко добавлять понравившиеся машины и отслеживать их статусы"
+    garage.removed-car:
+      en: "The car has been removed from the Garage"
+      ru: "Машина удалена из Гаража"
+    garage.added-car:
+      en: "The car has been added to the Garage"
+      ru: "Машина добавлена в Гараж"
+    garage.go-to-car:
+      en: "View on map"
+      ru: "Посмотреть на карте"
