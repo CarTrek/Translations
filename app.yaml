@@ -1901,9 +1901,9 @@ Sections:
       ru: Вы получите {bonuses} бонусов за {money} {currency}. Ваша скидка {discount-money} {currency}, что составляет {discount-percents}%
       cs: Získáte {bonuses} bonusy za {money} {currency}. Vaše sleva {discount-money} {currency}, což je {discount-percents}%
     purchase.bonuses.description2:
-      en: "🔹 Pay {money}{currency} and instantly get {bonuses}{currency}\n🔹 Enjoy an extra {discount-percents}% — {discount-money}{currency} added for free"
-      ru: "🔹 За {money}{currency} начисляется {bonuses}{currency}\n🔹 {discount-percents}% в подарок — это {discount-money}{currency} бесплатно"
-      cs: "🔹 Zaplaťte {money}{currency} a okamžitě získáte {bonuses}{currency}\n🔹 Získejte navíc {discount-percents}% — {discount-money}{currency} zdarma"
+      en: You will get {bonuses} bonuses for {money}{currency}. You will get {discount-percents}% ({discount-money}{currency}) for free
+      ru: Вы получите {bonuses} бонусов за {money}{currency}. Подарок составит {discount-percents}% ({discount-money}{currency})
+      cs: Získáte {bonuses} bonusy za {money}{currency}. Dárek bude {discount-percents}% ({discount-money}{currency})
     purchase.bonuses.description3:
       en: ''
       ru: ''
