@@ -10524,6 +10524,9 @@ Sections:
     pushjobs.edit.message:
       en: 'Message'
       ru: 'Сообщение'
+    pushjobs.edit.lastRideOrganizations:
+      en: 'Last ride organizations'
+      ru: 'Организации ТС из последней поездки'
     pushjobs.edit.start:
       en: 'Start'
       ru: 'Начать'
