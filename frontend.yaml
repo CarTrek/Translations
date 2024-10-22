@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.WithdrawFromCustomersCard:
+      en: "Withdraw customers"
+      ru: "Списывать с пользователей"
     clients.editor.recalculate:
       en: "Recalculate"
       ru: "Пересчитать"
