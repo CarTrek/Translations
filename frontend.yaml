@@ -572,7 +572,7 @@ Sections:
       en: 'Address'
       ru: 'Адрес'
     organization.editor.MaxActiveRentalsCount:
-      en: 'Max active rentals count user'
+      en: 'Max active rentals count per user'
       ru: 'Максимум активных аренд у пользователя'
     organization.editor.MaxRentedVehiclesCount:
       en: 'Max active rentals count per organization'
