@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedMaxRentalsCountPerOrganizationReached:
+      en: "Maximum active rentals count reached for the organization {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
+      ru: "Достигнуто максимальноге число активных аренд для организации {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
     RightRefreshUserBalanceInDb:
       en: "Reload user balance"
       ru: "Обновить баланс пользователя"
