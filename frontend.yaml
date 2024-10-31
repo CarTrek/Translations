@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    ratepacks.RidesLimit:
+      en: "Rides limit"
+      ru: "Кол-во поездок"
     organizations.WithdrawFromCustomersCard:
       en: "Withdraw customers"
       ru: "Списывать с пользователей"
