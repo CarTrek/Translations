@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.WithdrawFromCustomersCard:
+      en: "Withdraw customers"
+      ru: "Списывать с пользователей"
     clients.editor.recalculate:
       en: "Recalculate"
       ru: "Пересчитать"
@@ -569,8 +572,11 @@ Sections:
       en: 'Address'
       ru: 'Адрес'
     organization.editor.MaxActiveRentalsCount:
-      en: 'Max active rentals count'
-      ru: 'Максимум активных аренд'
+      en: 'Max active rentals count per user'
+      ru: 'Максимум активных аренд у пользователя'
+    organization.editor.MaxRentedVehiclesCount:
+      en: 'Max active rentals count per organization'
+      ru: 'Максимум активных аренд в организации'
     clients.editor.bonuses.Reason:
       en: Reason
       ru: Причина
@@ -10524,6 +10530,9 @@ Sections:
     pushjobs.edit.message:
       en: 'Message'
       ru: 'Сообщение'
+    pushjobs.edit.lastRideOrganizations:
+      en: 'Last ride organizations'
+      ru: 'Организации ТС из последней поездки'
     pushjobs.edit.start:
       en: 'Start'
       ru: 'Начать'
