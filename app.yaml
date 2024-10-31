@@ -3967,3 +3967,27 @@ Sections:
     garage.go-to-car:
       en: "View on map"
       ru: "Посмотреть на карте"
+    inspection.header-title:
+      en: "Known damages"
+      ru: "Известные повреждения"
+    inspection.take-photo-label:
+      en: "Your photos"
+      ru: "Ваши фото"
+    inspection.damage-info:
+      en: "Take a photo"
+      ru: "Сделать фото"
+    inspection.less:
+      en: "Less"
+      ru: "Меньше"
+    inspection.more:
+      en: "More"
+      ru: "Больше"
+    inspection.placeholder:
+      en: "Leave your comments here"
+      ru: "Впешите свои комментарии здесь"
+    inspection.support-label:
+      en: "Support"
+      ru: "Чат поддержки"
+    inspection.support-item-name:
+      en: "Contact us"
+      ru: "Связаться с нами"
