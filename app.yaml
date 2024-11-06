@@ -1868,10 +1868,10 @@ Sections:
       cs: 'a převést do režimu pronájmu'
     purchase.bonuses.total:
       en: '{total}{currency} get'
-      ru: '{total}{currency} получите'
+      ru: '{total}{currency} на счёт'
     purchase.bonuses.price:
-      en: '{price}'
-      ru: '{price}'
+      en: '{price}{currency} pay'
+      ru: '{price}{currency} к оплате'
     purchase.bonuses.title:
       en: Purchase bonuses
       ru: Покупка бонусов
@@ -1901,9 +1901,9 @@ Sections:
       ru: Вы получите {bonuses} бонусов за {money} {currency}. Ваша скидка {discount-money} {currency}, что составляет {discount-percents}%
       cs: Získáte {bonuses} bonusy za {money} {currency}. Vaše sleva {discount-money} {currency}, což je {discount-percents}%
     purchase.bonuses.description2:
-      en: You will get {bonuses} bonuses for {money} {currency}. You will get {discount-percents}% ({discount-money} {currency}) for free!
-      ru: Вы получите {bonuses} бонусов за {money} {currency}. Подарок составит {discount-percents}% ({discount-money} {currency})!
-      cs: Získáte {bonuses} bonusy za {money} {currency}. Dárek bude {discount-percents}% ({discount-money} {currency})!
+      en: You will get {bonuses} bonuses for {money}{currency}. You will get {discount-percents}% ({discount-money}{currency}) for free
+      ru: Вы получите {bonuses} бонусов за {money}{currency}. Подарок составит {discount-percents}% ({discount-money}{currency})
+      cs: Získáte {bonuses} bonusy za {money}{currency}. Dárek bude {discount-percents}% ({discount-money}{currency})
     purchase.bonuses.description3:
       en: ''
       ru: ''
@@ -3967,3 +3967,27 @@ Sections:
     garage.go-to-car:
       en: "View on map"
       ru: "Посмотреть на карте"
+    inspection.header-title:
+      en: "Known damages"
+      ru: "Известные повреждения"
+    inspection.take-photo-label:
+      en: "Your photos"
+      ru: "Ваши фото"
+    inspection.damage-info:
+      en: "Take a photo"
+      ru: "Сделать фото"
+    inspection.less:
+      en: "Less"
+      ru: "Меньше"
+    inspection.more:
+      en: "More"
+      ru: "Больше"
+    inspection.placeholder:
+      en: "Leave your comments here"
+      ru: "Впешите свои комментарии здесь"
+    inspection.support-label:
+      en: "Support"
+      ru: "Чат поддержки"
+    inspection.support-item-name:
+      en: "Contact us"
+      ru: "Связаться с нами"

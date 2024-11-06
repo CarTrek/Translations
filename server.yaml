@@ -1,5 +1,14 @@
 Sections:
   Server:
+    FailedMaxRentalsCountPerOrganizationReached:
+      en: "Maximum active rentals count reached for the organization {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
+      ru: "Достигнуто максимальноге число активных аренд для организации {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
+    RightRefreshUserBalanceInDb:
+      en: "Reload user balance"
+      ru: "Обновить баланс пользователя"
+    RightRecalculateUserBalance:
+      en: "Recalculate user balance"
+      ru: "Пересчитать баланс пользователя"
     RaiffeisenCardBindSuccessFooter:
       en: "Thank you for using our service!"
       ru: "Спасибо, что пользуетесь нашим сервисом!"
