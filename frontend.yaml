@@ -7355,6 +7355,9 @@ Sections:
       en: Image
       ge: გამოსახულება
       ru: Изображение
+    cars.classes.sortindex:
+      en: Sort index
+      ru: Индекс сортировки
     cars.map.WatchTrackParam:
       cs: Sledovat změnu parametrů vozidla
       en: Monitor changes of car parameters
