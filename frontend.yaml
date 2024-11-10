@@ -1682,6 +1682,9 @@ Sections:
       en: Sum&Substance
       ge: Sum&Substance
       ru: Sum&Substance
+    frontend.DownloadDocxRentalConfirmation:
+      en: "Download rent confirmation document"
+      ru: "Скачать подтверждение аренды"
     app.settingsGroups.SignIn:
       cs: přihlašování
       en: Sign in
