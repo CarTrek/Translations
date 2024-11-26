@@ -2556,11 +2556,11 @@ Sections:
       en: Models and brands
       ge: მოდელი და მარკა
       ru: Модели и марки
-    aside.nav.cars.classes:
+    aside.nav.cars.modelsclasses:
       cs: třídy vozů
-      en: Class of car
+      en: Class of model
       ge: ავტომობილის კლასი
-      ru: Классы авто
+      ru: Классы моделей
     aside.nav.cars.ALARMZONES:
       cs: v režimu upozrnění
       en: In alarm
@@ -7307,11 +7307,14 @@ Sections:
       en: Comma separated keywords
       ge: მძიმის შემდეგ სიტყვების რაოდენობა
       ru: Ключевые слова через запятую
-    cars.models.Class:
+    cars.models.ModelClass:
       cs: Třída
-      en: Class
+      en: Model class
       ge: კლასი
-      ru: Класс
+      ru: Класс модели
+    cars.models.SortIndex:
+      en: Model sort index
+      ru: Индекс сортировки модели
     cars.models.SeatsNumber:
       cs: Počet míst k sezení
       en: Amount of seats
@@ -7322,54 +7325,54 @@ Sections:
       en: 'Maximum daily cost of the order (in 0.01 of currency)'
       ge: 'მაქსიმალური დღიური ღირებულება ქირის თეთრებში'
       ru: 'Максимальная дневная стоимость заказа (в сотых валюты)'
-    cars.classes.list:
+    cars.modelsclasses.list:
       cs: Třídy automobilů
-      en: Car classes
+      en: Car models classes
       ge: ავტომობილის კლასი
-      ru: Классы автомобилей
-    cars.classes.addclass:
+      ru: Классы моделей автомобилей
+    cars.modelsclasses.addclass:
       cs: Přidat třídu
       en: Add class
       ge: კლასის დამატება
       ru: Добавить класс
-    cars.classes.displayname:
+    cars.modelsclasses.displayname:
       cs: Název
       en: Name
       ge: დასახელება
       ru: Название
-    cars.classes.organizations:
+    cars.modelsclasses.organizations:
       cs: Skupiny
       en: Organizations
       ge: ორგანიზაცია
       ru: Организации
-    cars.classes.zones:
+    cars.modelsclasses.zones:
       cs: Oblasti
       en: Zones
       ge: ზონები
       ru: Зоны
-    cars.classes.newclass:
+    cars.modelsclasses.newclass:
       cs: Nová třída automobilu
       en: New class of the car
       ge: მანქანის ახალი კლასი
-      ru: Новый класс автомобиля
-    cars.classes.editing:
+      ru: Новый класс модели
+    cars.modelsclasses.editing:
       cs: Editace
       en: Editing
       ge: რედაქტირება
       ru: Редактирование
-    cars.classes.classdata:
+    cars.modelsclasses.classdata:
       cs: Údaje třídy
       en: Class data
       ge: კლასის ინფორმაცია
       ru: Данные класса
-    cars.classes.img:
+    cars.modelsclasses.img:
       cs: Náhled
       en: Image
       ge: გამოსახულება
       ru: Изображение
-    cars.classes.sortindex:
-      en: Sort index
-      ru: Индекс сортировки
+    cars.modelsclasses.sortindex:
+      en: Class sort index
+      ru: Индекс сортировки класса
     cars.map.WatchTrackParam:
       cs: Sledovat změnu parametrů vozidla
       en: Monitor changes of car parameters
