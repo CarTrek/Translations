@@ -796,6 +796,9 @@ Sections:
     vehicle-filter.bottom:
       en: 'Cancel'
       ru: 'Отмена'
+    vehicle-filter.all-models:
+      en: 'All'
+      ru: 'Все'
     appless.scan-qr-code:
       en: 'Scan QR code'
       ru: 'Сканировать QR-код'
