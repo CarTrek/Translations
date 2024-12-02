@@ -1,5 +1,8 @@
 Sections:
   Server:
+    DomainSettingsLongRentHoursBeforeNewRent:
+      en: "Min. hours before a new long rent"
+      ru: "Мин. часов перед новой длительной арендой"
     FailedMaxRentalsCountPerOrganizationReached:
       en: "Maximum active rentals count reached for the organization {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
       ru: "Достигнуто максимальноге число активных аренд для организации {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
