@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    clients.editor.ForwardToTestInstance:
+      en: "Forward to Test Instance"
+      ru: "Перенаправить на тестовый сервер"
     ratepacks.RidesLimit:
       en: "Rides limit"
       ru: "Кол-во поездок"
