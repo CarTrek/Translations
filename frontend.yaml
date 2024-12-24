@@ -155,6 +155,9 @@ Sections:
     notifications.ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
+    notifications.NewReservation:
+      en: "New reservation"
+      ru: "Новая бронь"
     notifications.UserWithTheSameDeviceIdRegistered:
       en: "Re-registration with the same device ID"
       ru: "Повторная регистрация с тем же device ID"
