@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.ForwardUsersToTestInstance:
+      en: "Forward users to test server"
+      ru: "Перенаправлять пользователей на тест"
     clients.editor.ForwardToTestInstance:
       en: "Forward to Test Instance"
       ru: "Перенаправить на тестовый сервер"
