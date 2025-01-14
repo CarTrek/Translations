@@ -9994,6 +9994,18 @@ Sections:
     zones.TYPERENTENDFORBIDDEN:
       en: Rent end forbidden
       ru: Запрет окончания аренды
+    zones.SHOWFULLSCREENMSGTOUSER:
+      en: Показывать полноэкранное сообщение пользователю
+      ru: Show fullscreen message to user
+      cs: Zobrazit zprávu na celou obrazovku uživateli
+    zones.WHENBOOKINGINZONE:
+      en: При бронировании в зоне
+      ru: When booking in the zone
+      cs: Při rezervaci v zóně
+    zones.WHENENTERINGINZONE:
+      en: При въезде в зону
+      ru: When entering the zone
+      cs: Při vstupu do zóny
     rates.BIND:
       en: Binded
       ru: Подключено
