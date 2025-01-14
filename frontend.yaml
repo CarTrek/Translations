@@ -9998,14 +9998,17 @@ Sections:
       en: Show fullscreen message to user
       ru: Показывать полноэкранное сообщение пользователю
       cs: Zobrazit zprávu na celou obrazovku uživateli
+      ge: მომხმარებლისთვის სრულეკრანიანი შეტყობინების ჩვენება
     zones.WHENBOOKINGINZONE:
       en: When booking in the zone
       ru: При бронировании в зоне
       cs: Při rezervaci v zóně
+      ge: ზონაში დაჯავშნისას
     zones.WHENENTERINGINZONE:
       en: When entering the zone
       ru: При въезде в зону
       cs: Při vstupu do zóny
+      ge: ზონაში შესვლისას
     rates.BIND:
       en: Binded
       ru: Подключено
