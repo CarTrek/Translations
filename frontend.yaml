@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.RemoveCarFromOrganizationOnRentEnd:
+      en: "Remove car from organizations on rent end"
+      ru: "Убрать ТС из организаций по завершению аренды"
     organizations.ForwardUsersToTestInstance:
       en: "Forward users to test server"
       ru: "Перенаправлять пользователей на тест"
