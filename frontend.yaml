@@ -1132,6 +1132,15 @@ Sections:
     zones.open:
       en: 'Open...'
       ru: 'Открыть...'
+    zones.Title:
+      en: Title
+      ru: Заголовок
+    zones.Color:
+      en: Color
+      ru: Цвет
+    zones.Description:
+      en: Description
+      ru: Описание
     cars.map.address:
       en: Address
       ru: Адрес
