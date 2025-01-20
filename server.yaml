@@ -1,5 +1,8 @@
 Sections:
   Server:
+    OperationQueued:
+      en: "Task was added to queue"
+      ru: "Задача поставлена в очередь"
     DomainSettingsLongRentHoursBeforeNewRent:
       en: "Min. hours before a new long rent"
       ru: "Мин. часов перед новой длительной арендой"
