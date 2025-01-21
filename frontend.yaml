@@ -1,5 +1,14 @@
 Sections:
   AdminFrontend:
+    rates.RemoveCarFromOrganizationOnRentEnd:
+      en: "Remove car from organizations on rent end"
+      ru: "Убрать ТС из организаций по завершению аренды"
+    organizations.ForwardUsersToTestInstance:
+      en: "Forward users to test server"
+      ru: "Перенаправлять пользователей на тест"
+    clients.editor.ForwardToTestInstance:
+      en: "Forward to Test Instance"
+      ru: "Перенаправить на тестовый сервер"
     ratepacks.RidesLimit:
       en: "Rides limit"
       ru: "Кол-во поездок"
@@ -152,6 +161,9 @@ Sections:
     notifications.ReportDuringRide:
       en: "Problem reported"
       ru: "Сообщение о проблеме"
+    notifications.NewReservation:
+      en: "New reservation"
+      ru: "Новая бронь"
     notifications.UserWithTheSameDeviceIdRegistered:
       en: "Re-registration with the same device ID"
       ru: "Повторная регистрация с тем же device ID"
@@ -1123,6 +1135,15 @@ Sections:
     zones.open:
       en: 'Open...'
       ru: 'Открыть...'
+    zones.Title:
+      en: Title
+      ru: Заголовок
+    zones.Color:
+      en: Color
+      ru: Цвет
+    zones.Description:
+      en: Description
+      ru: Описание
     cars.map.address:
       en: Address
       ru: Адрес
@@ -6210,17 +6231,17 @@ Sections:
       ru: 'Инструкция: Команда применима только для оборудования Сигнал. У машины должен быть установлен правильный номер телефона! Выберите основной или дополнительный сервер который надо установить. После отсылки команды машине надо от 5 до 20 минут чтобы выйти на связь с новыми настройками. Не выполняйте две команды подряд сразу для одного трекера. Если машина работает с двумя серверами она потребляет двойной трафик. Кнопки поиска и подстрока в разделе быстрого перехода применяются только для перевода нескольких машин.'
     cars.editor.SIGNALVALUE:
       cs: >2
-        *!CNCT_RCS:89.208.152.55:8100:
-      en: '*!CNCT_RCS:89.208.152.55:8100:'
-      ge: '*!CNCT_RCS:89.208.152.55:8100:'
-      ru: '*!CNCT_RCS:89.208.152.55:8100:'
+        *!CNCT_RCS:89.208.152.59:8100:
+      en: '*!CNCT_RCS:89.208.152.59:8100:'
+      ge: '*!CNCT_RCS:89.208.152.59:8100:'
+      ru: '*!CNCT_RCS:89.208.152.59:8100:'
     cars.editor.SIGNALTITLE:
-      cs: Spojít se s konfigurátorem <b>*!CNCT_RCS:89.208.152.55:8100:IdentifikátorSeance</b> <br/> se obnoví na poslední firmware <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
-      en: Connect with configurator <b>*!CNCT_RCS:89.208.152.55:8100:SessionID</b> <br/> Update for the latest firmware <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
+      cs: Spojít se s konfigurátorem <b>*!CNCT_RCS:89.208.152.59:8100:IdentifikátorSeance</b> <br/> se obnoví na poslední firmware <b>*!CNCT_RFU:89.208.152.59:9500:LAST</b>
+      en: Connect with configurator <b>*!CNCT_RCS:89.208.152.59:8100:SessionID</b> <br/> Update for the latest firmware <b>*!CNCT_RFU:89.208.152.59:9500:LAST</b>
       ge: >-
         კონფიგურატორთან დაკავშირება
-        <b>*!CNCT_RCS:89.208.152.55:8100:სეანსის იდენტიფიქატორი</b> <br/> ბოლო კოფიგურაციაზე განახლება <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
-      ru: Соединится с конфигуратором <b>*!CNCT_RCS:89.208.152.55:8100:ИдентификаторСеанса</b> <br/> Обновится на последнюю прошивку <b>*!CNCT_RFU:89.208.152.55:9500:LAST</b>
+        <b>*!CNCT_RCS:89.208.152.59:8100:სეანსის იდენტიფიქატორი</b> <br/> ბოლო კოფიგურაციაზე განახლება <b>*!CNCT_RFU:89.208.152.59:9500:LAST</b>
+      ru: Соединится с конфигуратором <b>*!CNCT_RCS:89.208.152.59:8100:ИдентификаторСеанса</b> <br/> Обновится на последнюю прошивку <b>*!CNCT_RFU:89.208.152.59:9500:LAST</b>
     cars.editor.CUSTOMTITLE:
       cs: Napiště příkaz
       en: Send TCP command
@@ -9988,6 +10009,21 @@ Sections:
     zones.TYPERENTENDFORBIDDEN:
       en: Rent end forbidden
       ru: Запрет окончания аренды
+    zones.SHOWFULLSCREENMSGTOUSER:
+      en: Show fullscreen message to user
+      ru: Показывать полноэкранное сообщение пользователю
+      cs: Zobrazit zprávu na celou obrazovku uživateli
+      ge: მომხმარებლისთვის სრულეკრანიანი შეტყობინების ჩვენება
+    zones.WHENBOOKINGINZONE:
+      en: When booking in the zone
+      ru: При бронировании в зоне
+      cs: Při rezervaci v zóně
+      ge: ზონაში დაჯავშნისას
+    zones.WHENENTERINGINZONE:
+      en: When entering the zone
+      ru: При въезде в зону
+      cs: Při vstupu do zóny
+      ge: ზონაში შესვლისას
     rates.BIND:
       en: Binded
       ru: Подключено

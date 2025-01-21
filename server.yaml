@@ -1,5 +1,11 @@
 Sections:
   Server:
+    OperationQueued:
+      en: "Task was added to queue"
+      ru: "Задача поставлена в очередь"
+    DomainSettingsLongRentHoursBeforeNewRent:
+      en: "Min. hours before a new long rent"
+      ru: "Мин. часов перед новой длительной арендой"
     FailedMaxRentalsCountPerOrganizationReached:
       en: "Maximum active rentals count reached for the organization {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
       ru: "Достигнуто максимальноге число активных аренд для организации {OrganizationName}: {MaximumAllowedActiveRentalsCount}"
@@ -224,6 +230,9 @@ Sections:
     PaymentAlreadyInProcess:
       en: "Payment is currently processing, still didn't get an answer from payment gateway"
       ru: "Платёж обрабатывается, ещё не пришёл ответ от платёжного шлюза"
+    NewReservation:
+      en: "New reservation"
+      ru: "Новая бронь"
     UserWithTheSameDeviceIdRegistered:
       en: "Re-registration with the same device ID"
       ru: "Повторная регистрация с тем же device ID"
