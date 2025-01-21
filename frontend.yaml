@@ -9527,7 +9527,7 @@ Sections:
       ru: Тип маркера
     markers.editor.Name:
       cs: Název
-      en: Наименование
+      en: Name
       ge: დასახელება
       ru: Наименование
     markers.editor.Description:
@@ -9555,7 +9555,10 @@ Sections:
       en: automatic address
       ge: ავტომატური აღმოჩენა
       ru: автоматическое определение
-    markers.editor.loadPhotoDescription:
+    markers.editor.LoadMarkerIcon:
+      en: Load marker icon
+      ru: Загрузите иконку маркера
+    markers.editor.LoadPhotoDescription:
       cs: Odešlete foto místa
       en: Load location photos
       ge: ატვირთეთ ადგილმდებარეობის სურათი
