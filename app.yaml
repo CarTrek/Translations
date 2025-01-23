@@ -1965,7 +1965,7 @@ Sections:
       ru: Чтобы начать аренду, необходимо внести средства на счёт вашей учётной записи
     topup.subtitle.done:
       en: The payment was successful. Please tap OK button and proceed to car booking
-      ru: Оплата прошла успешно. Пожалуйста, нажмите кнопку ОК и перейдите к бронированию авбомобиля
+      ru: Оплата прошла успешно. Пожалуйста, нажмите кнопку ОК и перейдите к бронированию автомобиля
     topup.subtitle.failed:
       en: The payment was unsuccessful. Please try again later
       ru: Не удалось произвести оплату. Пожалуйста, попробуйте ещё раз позже
@@ -3994,3 +3994,6 @@ Sections:
     inspection.support-item-name:
       en: "Contact us"
       ru: "Связаться с нами"
+    custom-marker.link:
+      en: "Link"
+      ru: "Ссылка"
