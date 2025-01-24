@@ -9614,6 +9614,9 @@ Sections:
       en: Fuel station
       ge: დასატენი სადგური
       ru: Заправка
+    markers.editor.Links:
+      en: "Link"
+      ru: "Ссылка"
     settings.carsharing.Mode:
       cs: Práce údržby
       en: Maintenance works
