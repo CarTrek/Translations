@@ -3995,5 +3995,8 @@ Sections:
       en: "Contact us"
       ru: "Связаться с нами"
     custom-marker.link:
-      en: "More"
-      ru: "Подробнее"
+      en: "More..."
+      ru: "Подробнее..."
+    custom-marker.close:
+      en: "Close"
+      ru: "Закрыть"
