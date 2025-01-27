@@ -1409,11 +1409,12 @@ Sections:
     ActGSM:
       en: Act of writing off fuel
       ru: Акты списания ГСМ
+    CarTicketFinished:
+      en: "Package finished"
+      ru: "Абонемент закончился"
     ActivateCarTicket:
-      cs: Zakoupeno předplatné
-      ka: აბონემენტი შეძენილია
-      en: Package purchased
-      ru: Приобретен абонемент
+      en: "Package finished"
+      ru: "Абонемент закончился"
     ActivationEmailSubject:
       cs: Aktivujte uživatelský účet
       ka: მომხმარებლის ანგარიშის აქტივაცია
