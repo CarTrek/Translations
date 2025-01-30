@@ -430,6 +430,12 @@ Sections:
     card-v2.button-tech-set-fuel:
       en: "⛽️ Refueling"
       ru: "⛽️ Заправка"
+    card-v2.button-tech-start-engine:  
+      en: "🔥 Start"
+      ru: "🔥 Запуск"
+    card-v2.button-tech-stop-engine:
+      en: "⬛ Stop"
+      ru: "⬛ Заглушить"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
