@@ -3976,6 +3976,9 @@ Sections:
     garage.go-to-car:
       en: "View on map"
       ru: "Посмотреть на карте"
+    garage.not-geolocation:
+      en: "Geolocation not determined, distance calculation may be inaccurate"
+      ru: "Геолокация не определена, расчет расстояния может быть неточным"
     inspection.header-title:
       en: "Known damages"
       ru: "Известные повреждения"
