@@ -4926,9 +4926,9 @@ Sections:
     ResetZeroBookingsCounterForPaidOrdersDescription:
       ru: Cбрасывать счётчик бесплатных броней без учёта пробега если заказ был платный
       en: Reset the counter of free bookings without taking into account the mileage if the order was paid
-    MinimalOrderCostToResetZeroBookingsCounterDescription:
-      ru: Минимальная cтоимость заказа для сброса счетчика бесплатных броней
-      en: Minimum order value to reset free booking counter
+    MinimalOrderCostToResetZeroBookingsCounterInKopsDescription:
+      ru: Минимальная cтоимость заказа для сброса счетчика бесплатных броней, в копейках
+      en: Minimum order value to reset free booking counter, in penny
     ResourceNotFound:
       cs: Zdroj nenalezen
       ka: რესურსი ვერ მოიძებნა
