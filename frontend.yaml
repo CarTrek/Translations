@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.RemoveCarFromOrganizationOnRentEnd:
+      en: "Remove car from organizations on rent end"
+      ru: "Убрать ТС из организаций по завершению аренды"
     organizations.ForwardUsersToTestInstance:
       en: "Forward users to test server"
       ru: "Перенаправлять пользователей на тест"
@@ -9545,7 +9548,7 @@ Sections:
       ru: Тип маркера
     markers.editor.Name:
       cs: Název
-      en: Наименование
+      en: Name
       ge: დასახელება
       ru: Наименование
     markers.editor.Description:
@@ -9573,7 +9576,10 @@ Sections:
       en: automatic address
       ge: ავტომატური აღმოჩენა
       ru: автоматическое определение
-    markers.editor.loadPhotoDescription:
+    markers.editor.LoadMarkerIcon:
+      en: Load marker icon
+      ru: Загрузите иконку маркера
+    markers.editor.LoadPhotoDescription:
       cs: Odešlete foto místa
       en: Load location photos
       ge: ატვირთეთ ადგილმდებარეობის სურათი
@@ -9608,6 +9614,9 @@ Sections:
       en: Fuel station
       ge: დასატენი სადგური
       ru: Заправка
+    markers.editor.Links:
+      en: "Link"
+      ru: "Ссылка"
     settings.carsharing.Mode:
       cs: Práce údržby
       en: Maintenance works

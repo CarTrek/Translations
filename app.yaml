@@ -430,6 +430,12 @@ Sections:
     card-v2.button-tech-set-fuel:
       en: "⛽️ Refueling"
       ru: "⛽️ Заправка"
+    card-v2.button-tech-start-engine:  
+      en: "🔥 Start"
+      ru: "🔥 Запуск"
+    card-v2.button-tech-stop-engine:
+      en: "⬛ Stop"
+      ru: "⬛ Заглушить"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
@@ -1965,7 +1971,7 @@ Sections:
       ru: Чтобы начать аренду, необходимо внести средства на счёт вашей учётной записи
     topup.subtitle.done:
       en: The payment was successful. Please tap OK button and proceed to car booking
-      ru: Оплата прошла успешно. Пожалуйста, нажмите кнопку ОК и перейдите к бронированию авбомобиля
+      ru: Оплата прошла успешно. Пожалуйста, нажмите кнопку ОК и перейдите к бронированию автомобиля
     topup.subtitle.failed:
       en: The payment was unsuccessful. Please try again later
       ru: Не удалось произвести оплату. Пожалуйста, попробуйте ещё раз позже
@@ -3970,6 +3976,9 @@ Sections:
     garage.go-to-car:
       en: "View on map"
       ru: "Посмотреть на карте"
+    garage.not-geolocation:
+      en: "Geolocation not determined, distance calculation may be inaccurate"
+      ru: "Геолокация не определена, расчет расстояния может быть неточным"
     inspection.header-title:
       en: "Known damages"
       ru: "Известные повреждения"
@@ -3994,3 +4003,9 @@ Sections:
     inspection.support-item-name:
       en: "Contact us"
       ru: "Связаться с нами"
+    custom-marker.link:
+      en: "More..."
+      ru: "Подробнее..."
+    custom-marker.close:
+      en: "Close"
+      ru: "Закрыть"
