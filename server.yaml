@@ -4919,6 +4919,12 @@ Sections:
       cs: Resetovat na nulu počet nevyužitých rezervací po ukončení jízdy
       ka: '?'
       en: '?'
+    ResetZeroBookingsCounterForPaidOrdersDescription:
+      ru: Cбрасывать счётчик бесплатных броней без учёта пробега если заказ был платный
+      en: Reset the counter of free bookings without taking into account the mileage if the order was paid
+    MinimalOrderCostToResetZeroBookingsCounterDescription:
+      ru: Минимальная cтоимость заказа для сброса счетчика бесплатных броней
+      en: Minimum order value to reset free booking counter
     ResourceNotFound:
       cs: Zdroj nenalezen
       ka: რესურსი ვერ მოიძებნა
