@@ -4009,3 +4009,12 @@ Sections:
     custom-marker.close:
       en: "Close"
       ru: "Закрыть"
+    filter-additional-group.discount:
+      en: "Discount"
+      ru: "Скидки"
+    filter-additional-group.full-fuel-level:
+      en: "Full fuel level"
+      ru: "Полный бак"
+    filter-additional-group.low-fuel-level:
+      en: "Low fuel level"
+      ru: "Мало топлива"
