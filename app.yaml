@@ -1095,10 +1095,22 @@ Sections:
     after-ride-photos.top-inspection-description:
       en: 'Please inspect the car carefully. A fine will be issued for unrecorded damage and dirt in the cabin.'
       ru: 'Пожалуйста, внимательно осмотрите автомобиль. За незафиксированные повреждения и грязь в салоне будет выставлен штраф.'
-    after-ride-photos.timer-free-inspect:
+    after-ride-photos.timer-free-inspection:
       en: 'Free inspection: {timer}'
       ru: 'Бесплатный осмотр: {timer}'
-    after-ride-photos.timer-paid-inspect:
+    after-ride-photos.timer-paid-inspection:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
+    after-ride-photos.timer-free-park:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
+    after-ride-photos.timer-paid-park:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
+    after-ride-photos.timer-free-finishrent:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
+    after-ride-photos.timer-paid-finishrent:
       en: 'Paid inspection: {cost} {symbol}'
       ru: 'Платный осмотр: {cost} {symbol}'
     after-ride-photos.front:
@@ -3712,6 +3724,24 @@ Sections:
     gallery-ride-photo.image-button-close:
       en: "Close"
       ru: "Закрыть"
+    gallery-ride-photos.timer-free-inspection:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
+    gallery-ride-photos.timer-paid-inspection:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
+    gallery-ride-photos.timer-free-park:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
+    gallery-ride-photos.timer-paid-park:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
+    gallery-ride-photos.timer-free-finishrent:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
+    gallery-ride-photos.timer-paid-finishrent:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
     find-car-gallery.button-close:
       en: "Close"
       ru: "Закрыть"
