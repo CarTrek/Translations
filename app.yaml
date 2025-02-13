@@ -430,6 +430,12 @@ Sections:
     card-v2.button-tech-set-fuel:
       en: "⛽️ Refueling"
       ru: "⛽️ Заправка"
+    card-v2.button-tech-start-engine:  
+      en: "🔥 Start"
+      ru: "🔥 Запуск"
+    card-v2.button-tech-stop-engine:
+      en: "⬛ Stop"
+      ru: "⬛ Заглушить"
     card-v2.options-title:
       en: "Options"
       ru: "Опции"
@@ -4000,6 +4006,9 @@ Sections:
     garage.go-to-car:
       en: "View on map"
       ru: "Посмотреть на карте"
+    garage.not-geolocation:
+      en: "Geolocation not determined, distance calculation may be inaccurate"
+      ru: "Геолокация не определена, расчет расстояния может быть неточным"
     inspection.header-title:
       en: "Known damages"
       ru: "Известные повреждения"
@@ -4030,3 +4039,12 @@ Sections:
     custom-marker.close:
       en: "Close"
       ru: "Закрыть"
+    filter-additional-group.discount:
+      en: "Discount"
+      ru: "Скидки"
+    filter-additional-group.full-fuel-level:
+      en: "Full fuel level"
+      ru: "Полный бак"
+    filter-additional-group.low-fuel-level:
+      en: "Low fuel level"
+      ru: "Мало топлива"

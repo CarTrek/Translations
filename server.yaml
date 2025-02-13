@@ -1409,11 +1409,12 @@ Sections:
     ActGSM:
       en: Act of writing off fuel
       ru: Акты списания ГСМ
+    CarTicketFinished:
+      en: "Package finished"
+      ru: "Абонемент закончился"
     ActivateCarTicket:
-      cs: Zakoupeno předplatné
-      ka: აბონემენტი შეძენილია
-      en: Package purchased
-      ru: Приобретен абонемент
+      en: "Package finished"
+      ru: "Абонемент закончился"
     ActivationEmailSubject:
       cs: Aktivujte uživatelský účet
       ka: მომხმარებლის ანგარიშის აქტივაცია
@@ -4922,6 +4923,12 @@ Sections:
       cs: Resetovat na nulu počet nevyužitých rezervací po ukončení jízdy
       ka: '?'
       en: '?'
+    ResetZeroBookingsCounterForPaidOrdersDescription:
+      ru: Cбрасывать счётчик бесплатных броней без учёта пробега если заказ был платный
+      en: Reset the counter of free bookings without taking into account the mileage if the order was paid
+    MinimalOrderCostToResetZeroBookingsCounterInKopsDescription:
+      ru: Минимальная cтоимость заказа для сброса счетчика бесплатных броней, в копейках
+      en: Minimum order value to reset free booking counter, in penny
     ResourceNotFound:
       cs: Zdroj nenalezen
       ka: რესურსი ვერ მოიძებნა
