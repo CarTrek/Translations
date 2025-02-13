@@ -1328,6 +1328,9 @@ Sections:
     technician-vehicle-menu.screen-title:
       en: 'Scooter {vehicle-number}'
       ru: 'Самокат {vehicle-number}'
+    technician.toaster-success:
+      en: "Success!"
+      ru: "Успешно!"
     support.chat:
       en: Chat with support
       ru: Чат с поддержкой
