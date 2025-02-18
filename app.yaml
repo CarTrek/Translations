@@ -1110,6 +1110,9 @@ Sections:
     after-ride-photos.timer-paid-inspection:
       en: 'Paid inspection: {cost} {symbol}'
       ru: 'Платный осмотр: {cost} {symbol}'
+    after-ride-photos.timer-paid-inspect:
+      en: 'Paid inspection: {cost} {symbol}'
+      ru: 'Платный осмотр: {cost} {symbol}'
     after-ride-photos.timer-free-park:
       en: 'Free inspection: {timer}'
       ru: 'Бесплатный осмотр: {timer}'
