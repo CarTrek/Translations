@@ -1104,6 +1104,9 @@ Sections:
     after-ride-photos.timer-free-inspection:
       en: 'Free inspection: {timer}'
       ru: 'Бесплатный осмотр: {timer}'
+    after-ride-photos.timer-free-inspect:
+      en: 'Free inspection: {timer}'
+      ru: 'Бесплатный осмотр: {timer}'
     after-ride-photos.timer-paid-inspection:
       en: 'Paid inspection: {cost} {symbol}'
       ru: 'Платный осмотр: {cost} {symbol}'
