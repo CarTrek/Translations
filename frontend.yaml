@@ -10260,6 +10260,9 @@ Sections:
       ru: Машина без движения в режиме парковки
     notifications.CarWithoutMovementButOrderInInspectStage:
       ru: Машина без движения в режиме осмотра
+    notifications.CarWithoutMovementInZoneDuringNMinutes:
+      en: Car without movement in zone during N minutes
+      ru: Машина без движения в зоне в течении N минут
     aside.nav.refueling.brands:
       en: Refueling cards brands
       ru: Типы топливных карт
