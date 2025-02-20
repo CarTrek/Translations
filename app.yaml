@@ -430,7 +430,7 @@ Sections:
     card-v2.button-tech-set-fuel:
       en: "⛽️ Refueling"
       ru: "⛽️ Заправка"
-    card-v2.button-tech-start-engine:  
+    card-v2.button-tech-start-engine:
       en: "🔥 Start"
       ru: "🔥 Запуск"
     card-v2.button-tech-stop-engine:
@@ -4018,3 +4018,19 @@ Sections:
     filter-additional-group.low-fuel-level:
       en: "Low fuel level"
       ru: "Мало топлива"
+    mosId.button-login-id:
+      en: "Access with Mos ID"
+      ru: "Войти с Mos ID"
+    mosId.button-skip:
+      en: "Skip"
+      ru: "Пропустить"
+    mosId.button-close:
+      en: "Close"
+      ru: "Закрыть"
+    mosId.no-required-text:
+      en: "To use our mopeds in Moscow, you must log in through the Mos.ru portal. You can do this now or later. Soon, it will become mandatory"
+      ru: "Чтобы пользоваться нашими мопедами в Москве вы должны авторизоваться через портал Mos.ru. Вы можете сделать это сейчас, либо позже. Скоро это станет обязательным"
+    mosId.required-text:
+      en: "To use our mopeds in Moscow, you must log in through the Mos.ru portal. To continue the reservation of a moped, you need to enter with MOS ID"
+      ru: "Чтобы пользоваться нашими мопедами в Москве вы должны авторизоваться через портал Mos.ru. Чтобы продолжить бронирование мопеда вам необходимо войти с Mos ID"
+
