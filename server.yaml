@@ -2308,8 +2308,8 @@ Sections:
       en: We detect that your car is without movement for {0} minutes. Please check that all is ok
       ru: Ваша машина находится без движения уже {0} минут. Вы уверены, что все в порядке?
     CarWithoutMovementInZoneDuringNMinutes:
-      en: Car without movement in zone during N minutes
-      ru: Машина без движения в зоне в течении N минут
+      en: Car without movement in zone during {0} minutes
+      ru: Машина без движения в зоне в течении {0} минут
     UserFinishedRentOnSelectedRatePack:
       en: User has finished ride with rate pack
       ru: Пользователь завершил аренду с абонементом
