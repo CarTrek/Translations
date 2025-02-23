@@ -844,6 +844,9 @@ Sections:
     zones.DriveOutNotifications:
       en: Notify about drive out of the zone
       ru: Уведомлять о выезде из зоны
+    zones.CarDontMoveInZoneMoreThanNotifications:
+      en: Notify when the car is in the zone more than
+      ru: Уведомлять когда машина находтся в зоне более
     heatmap.ride-insight.stop-calculation:
       en: Stop
       ru: Остановить
