@@ -10264,8 +10264,8 @@ Sections:
     notifications.CarWithoutMovementButOrderInInspectStage:
       ru: Машина без движения в режиме осмотра
     notifications.CarWithoutMovementInZoneDuringNMinutes:
-      en: Car without movement in zone during {0} minutes
-      ru: Машина без движения в зоне в течении {0} минут
+      en: Car without movement in zone during several minutes
+      ru: Машина без движения в зоне в течении нескольких минут
     aside.nav.refueling.brands:
       en: Refueling cards brands
       ru: Типы топливных карт
