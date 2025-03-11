@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CarAlreadyBooked:
+      en: "Sorry, this car was already booked"
+      ru: "Извините, эта машина уже забронирована другим пользователем"
     OperationQueued:
       en: "Task was added to queue"
       ru: "Задача поставлена в очередь"
