@@ -4102,3 +4102,6 @@ Sections:
     long-main.not-found-message:
       en: 'Nothing was found by filters'
       ru: 'По фильтрам ничего не найдено'
+    long-main.price-per-day-min-max:
+      en: 'from {amount} {currency}/day '
+      ru: 'от {amount} {currency} в день '
