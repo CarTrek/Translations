@@ -2180,6 +2180,21 @@ Sections:
     catalog.not-found-message:
       en: 'Nothing was found by filters'
       ru: 'По фильтрам ничего не найдено'
+    catalog.message-box-confirm:
+      en: "Confirm"
+      ru: "Подтвердить"
+    catalog.message-box-cancel:
+      en: "Cancel"
+      ru: "Отменить"
+    catalog.message-box-title-delivery:
+      en: "Deliver your car?"
+      ru: "Доставить ваш автомобиль?"
+    catalog.message-box-message-delivery:
+      en: "Choose the address and we will deliver and collect your car"
+      ru: "Выберите адрес, и мы доставим и заберем ваш автомобиль"
+    catalog.message-box-self-delivery:
+      en: "Car will be waiting for you at Motor city Dubai"
+      ru: "Автомобиль будет ждать вас в Motor city Dubai"
     long-filter.title:
       en: 'Filter'
       ru: 'Фильтр'
@@ -4112,5 +4127,17 @@ Sections:
       en: 'Nothing was found by filters'
       ru: 'По фильтрам ничего не найдено'
     long-main.price-per-day-min-max:
-      en: 'from {amount} {currency}/day '
-      ru: 'от {amount} {currency} в день '
+      en: 'from {amount} {currency}/day'
+      ru: 'от {amount} {currency} в день'
+    additional-agreement.header:
+      en: 'Additional services'
+      ru: 'Дополнительные сервисы'
+    additional-agreement.confirm:
+      en: 'Confirm'
+      ru: 'Подтвердить'
+    protection.header:
+      en: 'Protection'
+      ru: 'Покрытие'
+    protection.confirm:
+      en: 'Confirm'
+      ru: 'Подтвердить'
