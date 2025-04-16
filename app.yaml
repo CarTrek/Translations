@@ -3643,6 +3643,15 @@ Sections:
     time.button-confirm:
       en: "Confirm"
       ru: "Подтвердить"
+    time.start:
+      en: "Start"
+      ru: "Начало"
+    time.end:
+      en: "End"
+      ru: "Окончание"
+    time.days:
+      en: "Days:"
+      ru: "Дней:"
     gallery-ride-photo.take-other:
       en: "Take more photos if you want"
       ru: "Сделайте ещё фото при необходимости"
