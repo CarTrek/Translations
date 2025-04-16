@@ -844,6 +844,9 @@ Sections:
     zones.DriveOutNotifications:
       en: Notify about drive out of the zone
       ru: Уведомлять о выезде из зоны
+    zones.CarDontMoveInZoneMoreThanNotifications:
+      en: Notify when a car is idle in the zone more than
+      ru: Уведомлять когда машина без движения в зоне более
     heatmap.ride-insight.stop-calculation:
       en: Stop
       ru: Остановить
@@ -10261,8 +10264,8 @@ Sections:
     notifications.CarWithoutMovementButOrderInInspectStage:
       ru: Машина без движения в режиме осмотра
     notifications.CarWithoutMovementInZoneDuringNMinutes:
-      en: Car without movement in zone during N minutes
-      ru: Машина без движения в зоне в течении N минут
+      en: Car without movement in zone during several minutes
+      ru: Машина без движения в зоне в течении нескольких минут
     aside.nav.refueling.brands:
       en: Refueling cards brands
       ru: Типы топливных карт

@@ -1,5 +1,8 @@
 Sections:
   Server:
+    CarAlreadyBooked:
+      en: "Sorry, this car was already booked"
+      ru: "Извините, эта машина уже забронирована другим пользователем"
     OperationQueued:
       en: "Task was added to queue"
       ru: "Задача поставлена в очередь"
@@ -2197,6 +2200,9 @@ Sections:
       en: Car model
       ru: Модель автомобиля
       uk: Модель автомобіля
+    FailedNewBookingsAreDisabled:
+      en: "We are undergoing technical work, please try to start the rental again in 3 minutes"
+      ru: "У нас технические работы, попробуйте начать аренду ещё раз через 3 минуты"
     CarModelCreated:
       en: Car model created
       ru: Создана модель машины
@@ -2308,8 +2314,8 @@ Sections:
       en: We detect that your car is without movement for {0} minutes. Please check that all is ok
       ru: Ваша машина находится без движения уже {0} минут. Вы уверены, что все в порядке?
     CarWithoutMovementInZoneDuringNMinutes:
-      en: Car without movement in zone during N minutes
-      ru: Машина без движения в зоне в течении N минут
+      en: "Car {regNumber} without movement for {idleMinutes} min. in zone '{zoneName}'"
+      ru: "Автомобиль {regNumber} без движения {idleMinutes} мин. в зоне '{zoneName}'"
     UserFinishedRentOnSelectedRatePack:
       en: User has finished ride with rate pack
       ru: Пользователь завершил аренду с абонементом
