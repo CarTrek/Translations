@@ -83,6 +83,12 @@ Sections:
     long-rental.bottom-menu.menu:
       en: "Menu"
       ru: "Меню"
+    long-rental.bottom-menu.home:
+      en: "Home"
+      ru: "Домой"
+    long-rental.bottom-menu.rentals:
+      en: "Rentals"
+      ru: "Аренда"
     long-rental.car-model-hp:
       en: "{power} hp"
       ru: "{power} л.с."
@@ -4072,4 +4078,27 @@ Sections:
     mosId.required-text:
       en: "To use our mopeds in Moscow, you must log in through the Mos.ru portal. To continue the reservation of a moped, you need to enter with MOS ID"
       ru: "Чтобы пользоваться нашими мопедами в Москве вы должны авторизоваться через портал Mos.ru. Чтобы продолжить бронирование мопеда вам необходимо войти с Mos ID"
-
+    long-main.start:
+      en: "Start your journey"
+      ru: "Начните свое путешествие"
+    long-main.book-car:
+      en: "Book a car"
+      ru: "Забронировать автомобиль"
+    long-main.discovery-name:
+      en: "Our vehicles"
+      ru: "Наши автомобили"
+    long-main.photos:
+      en: "Photos"
+      ru: "Фото"
+    long-main.seats:
+      en: "seats"
+      ru: "сиденья"
+    long-main.more:
+      en: "More info"
+      ru: "Узнать больше"
+    long-main.not-found:
+      en: "Not found"
+      ru: "Не найдено"
+    long-main.not-found-message:
+      en: 'Nothing was found by filters'
+      ru: 'По фильтрам ничего не найдено'
