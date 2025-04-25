@@ -1977,6 +1977,9 @@ Sections:
     notifications.NewUser:
       en: 'New user'
       ru: 'Новый пользователь'
+    notifications.FuelingCardPinRequested:
+      en: "Fueling started"
+      ru: "Запрошен ПИН ТК"
     notifications.CarIllegalOpen:
       cs: vniknutí do vozidla
       en: Car opening

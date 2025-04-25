@@ -2171,6 +2171,9 @@ Sections:
       ka: ძარის სახურავი ღიაა
       en: Hood is open
       ru: Открыт капот
+    FuelingCardPinRequested:
+      en: "Fueling started"
+      ru: "Запрошен ПИН ТК"
     CarIllegalOpen:
       cs: Vniknutí do vozidla
       ka: მანქანის არასანქცირებული გახსნა.
