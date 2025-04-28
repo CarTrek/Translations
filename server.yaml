@@ -6909,3 +6909,21 @@ Sections:
     SwitchInsuranceOff:
       en: Insurance disabled
       ru: Страховка выключена 
+    RightsGroupOrderOptions:
+      cs: Možnosti objednávky
+      ka: შეკვეთის ოფციები
+      en: Order Options
+      ru: Опции заказа
+      uk: Опції замовлення
+    RightViewOrderOptions:
+      cs: Zobrazení možností objednávky
+      ka: შეკვეთის ოფციების ნახვა
+      en: View Order Options
+      ru: Просмотр опций заказа
+      uk: Перегляд опцій замовлення
+    RightEditOrderOptions:
+      cs: Úprava možností objednávky
+      ka: შეკვეთის ოფციების რედაქტირება
+      en: Edit Order Options
+      ru: Редактирование опций заказа
+      uk: Редагування опцій замовлення
