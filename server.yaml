@@ -2174,6 +2174,9 @@ Sections:
     FuelingCardPinRequested:
       en: "Fueling started"
       ru: "Запрошен ПИН ТК"
+    FuelingCardPinRequestedDescription:
+      en: "Card #: {CardNumber}; PIN: {PIN}; Fuel volume: {FuelVolume} l"
+      ru: "№ карты: {CardNumber}; ПИН: {PIN}; Объём топлива: {FuelVolume} л"
     CarIllegalOpen:
       cs: Vniknutí do vozidla
       ka: მანქანის არასანქცირებული გახსნა.
