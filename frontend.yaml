@@ -10563,6 +10563,51 @@ Sections:
     pushjobs.table.start:
       en: 'Start'
       ru: 'Начать'
+    orderOptions.name:
+      en: 'Name'
+      ru: 'Название'
+    orderOptions.shortDescription:
+      en: 'Short Description'
+      ru: 'Краткое описание'
+    orderOptions.longDescription:
+      en: 'Long Description'
+      ru: 'Полное описание'
+    orderOptions.price:
+      en: 'Price'
+      ru: 'Цена'
+    orderOptions.priceType:
+      en: 'Price Type'
+      ru: 'Тип цены'
+    orderOptions.priceType.per_day:
+      en: 'Per Day'
+      ru: 'За день'
+    orderOptions.priceType.per_km:
+      en: 'Per km'
+      ru: 'За км'
+    orderOptions.priceType.fixed:
+      en: 'Fixed'
+      ru: 'Фиксированная'
+    orderOptions.priceType.ratepack:
+      en: 'Rate'
+      ru: 'Тариф'
+    orderOptions.ratePack.name:
+      en: 'Rate Name'
+      ru: 'Название тарифа'
+    orderOptions.sortOrder:
+      en: 'Sort Order'
+      ru: 'Порядок сортировки'
+    orderOptions.type:
+      en: 'Option Type'
+      ru: 'Тип опции'
+    orderOptions.edit.header.edit:
+      en: 'Edit Order Option'
+      ru: 'Редактирование опции заказа'
+    orderOptions.choose.ratepack:
+      en: 'Choose Rate'
+      ru: 'Выбрать тариф'
+    aside.nav.OrderOptions:
+      en: 'Orders options'
+      ru: 'Опции заказов'
     smart.table.itemsPerPageLabel:
       en: 'Items per page'
       ru: 'Элементов на странице'
@@ -11433,48 +11478,3 @@ Sections:
     rent.PRERENT:
       cs: Budete mít INSPECT_MINUTES minut zadarmo na prohlídku vozidla
       en: Please evaluate the condition of the car.
-    orderOptions.name:
-      en: 'Name'
-      ru: 'Название'
-    orderOptions.shortDescription:
-      en: 'Short Description'
-      ru: 'Краткое описание'
-    orderOptions.longDescription:
-      en: 'Long Description'
-      ru: 'Полное описание'
-    orderOptions.price:
-      en: 'Price'
-      ru: 'Цена'
-    orderOptions.priceType:
-      en: 'Price Type'
-      ru: 'Тип цены'
-    orderOptions.priceType.per_day:
-      en: 'Per Day'
-      ru: 'За день'
-    orderOptions.priceType.per_km:
-      en: 'Per km'
-      ru: 'За км'
-    orderOptions.priceType.fixed:
-      en: 'Fixed'
-      ru: 'Фиксированная'
-    orderOptions.priceType.ratepack:
-      en: 'Rate'
-      ru: 'Тариф'
-    orderOptions.ratePack.name:
-      en: 'Rate Name'
-      ru: 'Название тарифа'
-    orderOptions.sortOrder:
-      en: 'Sort Order'
-      ru: 'Порядок сортировки'
-    orderOptions.type:
-      en: 'Option Type'
-      ru: 'Тип опции'
-    orderOptions.edit.header.edit:
-      en: 'Edit Order Option'
-      ru: 'Редактирование опции заказа'
-    orderOptions.choose.ratepack:
-      en: 'Choose Rate'
-      ru: 'Выбрать тариф'
-    aside.nav.OrderOptions:
-      en: 'Orders options'
-      ru: 'Опции заказов'
