@@ -10605,9 +10605,6 @@ Sections:
     orderOptions.choose.ratepack:
       en: 'Choose Rate'
       ru: 'Выбрать тариф'
-    dic.orderoptions.HEADER:
-      en: 'Orders options'
-      ru: 'Опции заказов'
     aside.nav.OrderOptions:
       en: 'Orders options'
       ru: 'Опции заказов'
