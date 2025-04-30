@@ -868,6 +868,12 @@ Sections:
     card-v2.button-unlock-lock:
       en: 'Unlock'
       ru: 'Открыть'
+    card-v2.till:
+      en: 'till'
+      ru: 'до'
+    card-v2.end-rent:
+      en: 'End your rent'
+      ru: 'Завершить аренду'
     language-name-fr:
       en: Français
     language-name-ru:
@@ -2579,8 +2585,8 @@ Sections:
       en: 'Mileage'
       ru: 'Пробег'
     confirm-extend.per-extra-km:
-      en: '{{currencySymbol}} {{amount}} per extra km'
-      ru: '{{amount}} {{currencySymbol}} за каждый доп. км'
+      en: '{currencySymbol} {amount} per extra km'
+      ru: '{amount} {currencySymbol} за каждый доп. км'
     confirm-extend.total-header:
       en: 'Details of the rent'
       ru: 'Подробности аренды'
