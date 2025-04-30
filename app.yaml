@@ -2555,6 +2555,44 @@ Sections:
     confirm-pay.promo-code:
       en: 'Promo code'
       ru: 'Промо-код'
+    confirm-extend.header:
+      en: 'Confirmation'
+    confirm-extend.from:
+      en: 'From'
+      ru: 'C'
+    confirm-extend.till:
+      en: 'till'
+      ru: 'до'
+    confirm-extend.param-header:
+      en: 'Included'
+      ru: 'Включено'
+    confirm-extend.param-protection:
+      en: 'Insurance'
+      ru: 'Страхование'
+    confirm-extend.param-protection-extend:
+      en: 'Change'
+      ru: 'Изменения'
+    confirm-extend.param-protection-extend-category:
+      en: 'Same category'
+      ru: 'Та же категория'
+    confirm-extend.param-mile:
+      en: 'Mileage'
+      ru: 'Пробег'
+    confirm-extend.per-extra-km:
+      en: '{{currencySymbol}} {{amount}} per extra km'
+      ru: '{{amount}} {{currencySymbol}} за каждый доп. км'
+    confirm-extend.total-header:
+      en: 'Details of the rent'
+      ru: 'Подробности аренды'
+    confirm-extend.total-info-text:
+      en: 'Car rental'
+      ru: 'Аренда авто'
+    confirm-extend.bonuses:
+      en: 'Bonuses'
+      ru: 'Бонусы'
+    confirm-extend.pay-button:
+      en: "Pay {amount} {currencySymbol}"
+      ru: "Оплатить {amount} {currencySymbol}"
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
