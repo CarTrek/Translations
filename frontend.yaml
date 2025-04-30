@@ -9005,6 +9005,11 @@ Sections:
       en: Park time
       ge: პარკირების დრო
       ru: Время парковки
+    orders.TOTALTIME:
+      cs: сelková doba objednávky
+      en: Total order time
+      ge: შეკვეთის საერთო დრო
+      ru: Полное время аренды
     orders.TOTALCOST:
       cs: Cena
       en: Total cost
