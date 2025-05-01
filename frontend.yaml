@@ -10586,6 +10586,9 @@ Sections:
     orderOptions.priceType.per_day:
       en: 'Per Day'
       ru: 'За день'
+    orderOptions.edit.header.add:
+      en: 'Add Order Option'
+      ru: 'Добавление опции заказа'
     orderOptions.priceType.per_km:
       en: 'Per km'
       ru: 'За км'
