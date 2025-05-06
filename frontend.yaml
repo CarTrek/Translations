@@ -634,6 +634,9 @@ Sections:
     zone.speedMode.NotSetted:
       en: Not setted
       ru: Не установлено
+    zones.AskExtraPhotosCount:
+      en: "Extra photos on rent finish"
+      ru: "Доп. фото при завершении заказа:"
     zones.SpeedMode:
       en: Speed mode
       ru: Режим скорости
