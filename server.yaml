@@ -2235,7 +2235,7 @@ Sections:
     CarMoveWithHandBrakeOn:
       cs: Vozidlo se pohybuje se zapnutou ruční brzdou
       ka: ავტომანქანა გადაადგილდება ამოწეული ხელის მუხრუჭით
-      en: Car moving with hand break on
+      en: "The car is moving with the handbrake on"
       ru: Машина движется со включенным ручником
       uk: Машина рухається зі включеним ручником
     CarPenalty:
