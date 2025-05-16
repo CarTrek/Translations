@@ -10571,6 +10571,12 @@ Sections:
     pushjobs.table.start:
       en: 'Start'
       ru: 'Начать'
+    orderOptions.edit.tabs.main:
+      en: 'Main'
+      ru: 'Основное'
+    orderOptions.edit.tabs.carModels:
+      en: 'Car Models'
+      ru: 'Модели машин'
     orderOptions.name:
       en: 'Name'
       ru: 'Название'
