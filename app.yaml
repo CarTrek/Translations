@@ -976,6 +976,9 @@ Sections:
     card-v2.current-rate:
       en: current rate
       ru: текущий тариф
+    card-v2.route:
+      en: Route
+      ru: Маршрут
     card-v2.finish-booking-title:
       en: Cancel booking
       ru: Отмена бронирования
