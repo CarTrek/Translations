@@ -634,6 +634,9 @@ Sections:
     zone.speedMode.NotSetted:
       en: Not setted
       ru: Не установлено
+    zones.AskExtraPhotosCount:
+      en: "Extra photos on rent finish"
+      ru: "Доп. фото при завершении заказа:"
     zones.SpeedMode:
       en: Speed mode
       ru: Режим скорости
@@ -1977,6 +1980,9 @@ Sections:
     notifications.NewUser:
       en: 'New user'
       ru: 'Новый пользователь'
+    notifications.FuelingCardPinRequested:
+      en: "Fueling started"
+      ru: "Запрошен ПИН ТК"
     notifications.CarIllegalOpen:
       cs: vniknutí do vozidla
       en: Car opening
@@ -9002,6 +9008,11 @@ Sections:
       en: Park time
       ge: პარკირების დრო
       ru: Время парковки
+    orders.TOTALTIME:
+      cs: сelková doba objednávky
+      en: Total order time
+      ge: შეკვეთის საერთო დრო
+      ru: Полное время аренды
     orders.TOTALCOST:
       cs: Cena
       en: Total cost
@@ -10560,6 +10571,60 @@ Sections:
     pushjobs.table.start:
       en: 'Start'
       ru: 'Начать'
+    orderOptions.edit.tabs.main:
+      en: 'Main'
+      ru: 'Основное'
+    orderOptions.edit.tabs.carModels:
+      en: 'Car Models'
+      ru: 'Модели машин'
+    orderOptions.name:
+      en: 'Name'
+      ru: 'Название'
+    orderOptions.shortDescription:
+      en: 'Short Description'
+      ru: 'Краткое описание'
+    orderOptions.longDescription:
+      en: 'Long Description'
+      ru: 'Полное описание'
+    orderOptions.price:
+      en: 'Price'
+      ru: 'Цена'
+    orderOptions.priceType:
+      en: 'Price Type'
+      ru: 'Тип цены'
+    orderOptions.priceType.per_day:
+      en: 'Per Day'
+      ru: 'За день'
+    orderOptions.edit.header.add:
+      en: 'Add Order Option'
+      ru: 'Добавление опции заказа'
+    orderOptions.priceType.per_km:
+      en: 'Per km'
+      ru: 'За км'
+    orderOptions.priceType.fixed:
+      en: 'Fixed'
+      ru: 'Фиксированная'
+    orderOptions.priceType.ratepack:
+      en: 'Rate'
+      ru: 'Тариф'
+    orderOptions.ratePack.name:
+      en: 'Rate Name'
+      ru: 'Название тарифа'
+    orderOptions.sortOrder:
+      en: 'Sort Order'
+      ru: 'Порядок сортировки'
+    orderOptions.type:
+      en: 'Option Type'
+      ru: 'Тип опции'
+    orderOptions.edit.header.edit:
+      en: 'Edit Order Option'
+      ru: 'Редактирование опции заказа'
+    orderOptions.choose.ratepack:
+      en: 'Choose Rate'
+      ru: 'Выбрать тариф'
+    aside.nav.OrderOptions:
+      en: 'Orders options'
+      ru: 'Опции заказов'
     smart.table.itemsPerPageLabel:
       en: 'Items per page'
       ru: 'Элементов на странице'

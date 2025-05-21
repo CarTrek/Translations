@@ -83,6 +83,12 @@ Sections:
     long-rental.bottom-menu.menu:
       en: "Menu"
       ru: "Меню"
+    long-rental.bottom-menu.home:
+      en: "Home"
+      ru: "Домой"
+    long-rental.bottom-menu.rentals:
+      en: "Rentals"
+      ru: "Аренда"
     long-rental.car-model-hp:
       en: "{power} hp"
       ru: "{power} л.с."
@@ -862,6 +868,12 @@ Sections:
     card-v2.button-unlock-lock:
       en: 'Unlock'
       ru: 'Открыть'
+    card-v2.till:
+      en: 'till'
+      ru: 'до'
+    card-v2.end-rent:
+      en: 'End your rent'
+      ru: 'Завершить аренду'
     language-name-fr:
       en: Français
     language-name-ru:
@@ -2177,6 +2189,21 @@ Sections:
     catalog.not-found-message:
       en: 'Nothing was found by filters'
       ru: 'По фильтрам ничего не найдено'
+    catalog.message-box-confirm:
+      en: "Confirm"
+      ru: "Подтвердить"
+    catalog.message-box-cancel:
+      en: "Cancel"
+      ru: "Отменить"
+    catalog.message-box-title-delivery:
+      en: "Deliver your car?"
+      ru: "Доставить ваш автомобиль?"
+    catalog.message-box-message-delivery:
+      en: "Choose the address and we will deliver and collect your car"
+      ru: "Выберите адрес, и мы доставим и заберем ваш автомобиль"
+    catalog.message-box-self-delivery:
+      en: "Car will be waiting for you at Motor city Dubai"
+      ru: "Автомобиль будет ждать вас в Motor city Dubai"
     long-filter.title:
       en: 'Filter'
       ru: 'Фильтр'
@@ -2537,6 +2564,44 @@ Sections:
     confirm-pay.promo-code:
       en: 'Promo code'
       ru: 'Промо-код'
+    confirm-extend.header:
+      en: 'Confirmation'
+    confirm-extend.from:
+      en: 'From'
+      ru: 'C'
+    confirm-extend.till:
+      en: 'till'
+      ru: 'до'
+    confirm-extend.param-header:
+      en: 'Included'
+      ru: 'Включено'
+    confirm-extend.param-protection:
+      en: 'Insurance'
+      ru: 'Страхование'
+    confirm-extend.param-protection-extend:
+      en: 'Change'
+      ru: 'Изменения'
+    confirm-extend.param-protection-extend-category:
+      en: 'Same category'
+      ru: 'Та же категория'
+    confirm-extend.param-mile:
+      en: 'Mileage'
+      ru: 'Пробег'
+    confirm-extend.per-extra-km:
+      en: '{currencySymbol} {amount} per extra km'
+      ru: '{amount} {currencySymbol} за каждый доп. км'
+    confirm-extend.total-header:
+      en: 'Details of the rent'
+      ru: 'Подробности аренды'
+    confirm-extend.total-info-text:
+      en: 'Car rental'
+      ru: 'Аренда авто'
+    confirm-extend.bonuses:
+      en: 'Bonuses'
+      ru: 'Бонусы'
+    confirm-extend.pay-button:
+      en: "Pay {amount} {currencySymbol}"
+      ru: "Оплатить {amount} {currencySymbol}"
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
@@ -3640,6 +3705,15 @@ Sections:
     time.button-confirm:
       en: "Confirm"
       ru: "Подтвердить"
+    time.start:
+      en: "Start"
+      ru: "Начало"
+    time.end:
+      en: "End"
+      ru: "Окончание"
+    time.days:
+      en: "Days:"
+      ru: "Дней:"
     gallery-ride-photo.take-other:
       en: "Take more photos if you want"
       ru: "Сделайте ещё фото при необходимости"
@@ -4075,4 +4149,42 @@ Sections:
     mosId.required-text:
       en: "To use our mopeds in Moscow, you must log in through the Mos.ru portal. To continue the reservation of a moped, you need to enter with MOS ID"
       ru: "Чтобы пользоваться нашими мопедами в Москве вы должны авторизоваться через портал Mos.ru. Чтобы продолжить бронирование мопеда вам необходимо войти с Mos ID"
-
+    long-main.start:
+      en: "Start your journey"
+      ru: "Начните свое путешествие"
+    long-main.book-car:
+      en: "Book a car"
+      ru: "Забронировать автомобиль"
+    long-main.discovery-name:
+      en: "Our vehicles"
+      ru: "Наши автомобили"
+    long-main.photos:
+      en: "Photos"
+      ru: "Фото"
+    long-main.seats:
+      en: "seats"
+      ru: "сиденья"
+    long-main.more:
+      en: "More info"
+      ru: "Узнать больше"
+    long-main.not-found:
+      en: "Not found"
+      ru: "Не найдено"
+    long-main.not-found-message:
+      en: 'Nothing was found by filters'
+      ru: 'По фильтрам ничего не найдено'
+    long-main.price-per-day-min-max:
+      en: 'from {amount} {currency}/day'
+      ru: 'от {amount} {currency} в день'
+    additional-agreement.header:
+      en: 'Additional services'
+      ru: 'Дополнительные сервисы'
+    additional-agreement.confirm:
+      en: 'Confirm'
+      ru: 'Подтвердить'
+    protection.header:
+      en: 'Protection'
+      ru: 'Покрытие'
+    protection.confirm:
+      en: 'Confirm'
+      ru: 'Подтвердить'
