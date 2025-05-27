@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orderevents.ServerAlias:
+      en: "Server"
+      ru: "Сервер"
     rates.RemoveCarFromOrganizationOnRentEnd:
       en: "Remove car from organizations on rent end"
       ru: "Убрать ТС из организаций по завершению аренды"
