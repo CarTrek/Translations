@@ -20,7 +20,7 @@ Sections:
       ru: "Списывать с пользователей"
     organizations.WriteOffPenaltiesFromClients:
       en: "Write off penalties from clients"
-      ru: "Списывать штрафы с пользователей"
+      ru: "Списывать штрафы с клиентов"
     clients.editor.recalculate:
       en: "Recalculate"
       ru: "Пересчитать"
