@@ -2697,6 +2697,9 @@ Sections:
     selfie-quest.smile:
       en: "Smile for 5 seconds"
       ru: "Улыбнитесь на 5 секунд"
+    selfie-quest.no-smile:
+      en: "Don`t smile for 5 seconds"
+      ru: "Не улыбайтесь 5 секунд"
     selfie-quest.face-not-visible:
       en: "Face not visible"
       ru: "Не видно лицо"
