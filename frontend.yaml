@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.MaxRenewalsCount:
+      en: "Max"
+      ru: "Макс."
     orderevents.ServerAlias:
       en: "Server"
       ru: "Сервер"
