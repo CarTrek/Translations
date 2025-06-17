@@ -2090,9 +2090,6 @@ Sections:
       en: Please close the car roof
       ru: Закройте крышу автомобиля
       uk: Закрийте дах автомобіля
-    CarCommandResultErrorCheckWindows:
-      en: Please close the car windows
-      ru: Закройте окна автомобиля
     CarCommandResultErrorRRDoorIsOpened:
       cs: Zadní pravé dveře nejsou zavřené
       ka: უკანა მარჯვენა კარი არ არის ჩაკეტილი.
@@ -6939,3 +6936,28 @@ Sections:
       en: Edit Order Options
       ru: Редактирование опций заказа
       uk: Редагування опцій замовлення
+    CreateOrUpdateReserveEnumOkReserveCreatedOrUpdatedSuccess:
+      ru: "Бронирование успешно создано или обновлено"
+      en: "The reservation was created or updated succesfully"
+    CreateOrUpdateReserveEnumCarModelNotFound:
+      ru: "Указанная модель не найдена в системе"
+      en: "Car model not found"
+    CreateOrUpdateReserveEnumDateStartMustBeLessThanDateEnd:
+      ru: "Дата начала аренды должна быть раньше даты окончания"
+      en: "Start date must be before end date"
+    CreateOrUpdateReserveEnumNoAvailableRatePacksForCarModel:
+      ru: "Нет доступных тарифов для выбранной модели автомобиля"
+      en: "No available rate packs for the selected car model"
+    CreateOrUpdateReserveEnumNoSuitableRatePacksForSelectedPeriod:
+      ru: "Нет подходящих тарифов для выбранного периода аренды"
+      en: "No suitable rate packs for the selected rental period"
+    CreateOrUpdateReserveEnumNoAvailableCars:
+      ru: "Нет доступных автомобилей для выбранного периода"
+      en: "No available cars for the selected period"
+    CreateOrUpdateReserveEnumFailedToDeletePreviousUnpaidReserves:
+      ru: "Не удалось удалить предыдущие неоплаченные бронирования"
+      en: "Failed to delete previous unpaid reservations"
+    CreateOrUpdateReserveEnumErrorProcessingRequest:
+      ru: "Произошла ошибка при обработке запроса"
+      en: "An error occurred while processing the request"
+
