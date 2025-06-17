@@ -1080,12 +1080,24 @@ Sections:
     RentEndPhotosBonuses:
       en: 'Bonuses applied for rent end photos. Number of photos: {{photosCount}}'
       ru: 'Бонусы, начисленные за приложенные фотографии в конце аренды. Кол-во фото: {{photosCount}}'
+    Seconds:
+      en: sec
+      ru: сек.
+    Minutes:
+      en: min
+      ru: мин.
     Hours:
       en: h
       ru: ч.
+    Hours2:
+      en: h
+      ru: час.
     Days:
       en: d
       ru: д.
+    Days2:
+      en: d
+      ru: дн.
     Weeks:
       en: w
       ru: нед.
@@ -2223,7 +2235,7 @@ Sections:
     CarMoveWithHandBrakeOn:
       cs: Vozidlo se pohybuje se zapnutou ruční brzdou
       ka: ავტომანქანა გადაადგილდება ამოწეული ხელის მუხრუჭით
-      en: Car moving with hand break on
+      en: "The car is moving with the handbrake on"
       ru: Машина движется со включенным ручником
       uk: Машина рухається зі включеним ручником
     CarPenalty:
