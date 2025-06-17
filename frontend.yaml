@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    ratepacks.editor.CustomDescription:
+      en: "Description"
+      ru: "Описание"
     rates.MaxRenewalsCount:
       en: "Max"
       ru: "Макс."
