@@ -2471,6 +2471,9 @@ Sections:
     change-booking.cancel-inapp-button:
       en: 'New booking'
       ru: 'Новое бронирование'
+    confirm-pay.header:
+      en: 'Confirm and Pay'
+      ru: 'Подтверждение и оплата'
     confirm-pay.title:
       en: 'Confirmation'
       ru: 'Подтверждение'
@@ -2496,8 +2499,11 @@ Sections:
       en: 'Prepayment'
       ru: 'Предоплата'
     confirm-pay.per-km:
-      en: 'per km.'
-      ru: '/км.'
+      en: 'per km'
+      ru: '/км'
+    confirm-pay.per-extra-km:
+      en: 'per extra km'
+      ru: 'за каждый доп. км'
     confirm-pay.messagebox-title:
       en: 'Successfully paid'
       ru: 'Заказ успешно оплачен'
@@ -2546,6 +2552,12 @@ Sections:
     confirm-pay.button-promo:
       en: 'Activate promo code'
       ru: 'Активировать промокод'
+    confirm-pay.button-additional:
+      en: 'Additional services'
+      ru: 'Дополнительные сервисы'
+    confirm-pay.button-protection:
+      en: 'Insurance services'
+      ru: 'Страховые услуги'
     confirm-pay.button-rental-agreement:
       en: 'Rental agreement'
       ru: 'Договор аренды'
@@ -4185,3 +4197,6 @@ Sections:
     protection.confirm:
       en: 'Confirm'
       ru: 'Подтвердить'
+    protection.per-day:
+      en: '{amount} {currency}/day'
+      ru: '{amount} {currency} /день'
