@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RateChoose:
+      en: "Prerent withdrawal"
+      ru: "Списание за начало аренды"
     CarAlreadyBooked:
       en: "Sorry, this car was already booked"
       ru: "Извините, эта машина уже забронирована другим пользователем"
