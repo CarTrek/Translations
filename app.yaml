@@ -1588,7 +1588,7 @@ Sections:
     signin.phonenumber-button:
       en: Sign in
       ru: Вход
-    signin.email-button:
+    signin.emailcode-button:
       en: "Next"
       ru: "Далее"
     signin.puzzle-button:
@@ -2193,8 +2193,8 @@ Sections:
       en: '{amount} {currency}/day'
       ru: '{amount} {currency}/день'
     catalog.price-total:
-      en: 'total {amount} {currency}'
-      ru: 'всего {amount} {currency}'
+      en: '(total {amount} {currency})'
+      ru: '(всего {amount} {currency})'
     catalog.not-found:
       en: 'Not found'
       ru: 'Не найдено'
