@@ -1555,6 +1555,9 @@ Sections:
     signin.wrong-phone-number:
       en: '{phone-number} is not your number?'
       ru: 'Ваш номер не {phone-number}?'
+    signin.wrong-email:
+      en: "Change {email}"
+      ru: "Сменить {email}"
     signin.resend-code:
       en: Resend code
       ru: Выслать код повторно
@@ -1585,6 +1588,9 @@ Sections:
     signin.phonenumber-button:
       en: Sign in
       ru: Вход
+    signin.email-button:
+      en: "Next"
+      ru: "Далее"
     signin.puzzle-button:
       en: "Next"
       ru: "Далее"
@@ -2184,8 +2190,11 @@ Sections:
       en: 'No cars to rent'
       ru: 'Нет машин для аренды'
     catalog.price:
-      en: 'from {amount} {currency} per day'
-      ru: 'от {amount} {currency} в день'
+      en: '{amount} {currency}/day'
+      ru: '{amount} {currency}/день'
+    catalog.price-total:
+      en: 'total {amount} {currency}'
+      ru: 'всего {amount} {currency}'
     catalog.not-found:
       en: 'Not found'
       ru: 'Не найдено'
@@ -4207,5 +4216,5 @@ Sections:
       en: 'Confirm'
       ru: 'Подтвердить'
     protection.per-day:
-      en: '{amount} {currency}/day'
-      ru: '{amount} {currency} /день'
+      en: '+{amount} {currency}/day'
+      ru: '+{amount} {currency}/день'
