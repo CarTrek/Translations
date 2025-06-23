@@ -1591,6 +1591,9 @@ Sections:
     signin.emailcode-button:
       en: "Next"
       ru: "Далее"
+    signin.email-button:
+      en: "Next"
+      ru: "Далее"
     signin.puzzle-button:
       en: "Next"
       ru: "Далее"
