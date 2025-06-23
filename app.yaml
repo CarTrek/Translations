@@ -1624,6 +1624,15 @@ Sections:
     signin.puzzle-header-text:
       en: 'Please enter digits in order from 1 to 9. Be careful - no mistakes are allowed.'
       ru: 'Пожалуйста, введите цифры по порядку от 1 до 9. Будьте внимательны - нельзя ошибаться ни в одной цифре.'
+    signin.agreement-text:
+      en: "By sending your phone number you agree with our General Terms and Conditions and Privacy Policy"
+      ru: "Отправляя свой номер телефона, вы соглашаетесь с нашими Общими положениями и условиями и Политикой конфиденциальности"
+    signin.general-agreement:
+      en: "General Terms and Conditions"
+      ru: "Общие положения и условия"
+    signin.privacy-agreement:
+      en: "Privacy Policy"
+      ru: "Политика конфиденциальности"
     signup.screen-title:
       en: Registration
       ru: Регистрация
