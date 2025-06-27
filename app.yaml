@@ -1556,8 +1556,8 @@ Sections:
       en: '{phone-number} is not your number?'
       ru: 'Ваш номер не {phone-number}?'
     signin.wrong-email:
-      en: "Change {email}"
-      ru: "Сменить {email}"
+      en: "Change {email}?"
+      ru: "Сменить {email}?"
     signin.resend-code:
       en: Resend code
       ru: Выслать код повторно
@@ -1604,14 +1604,35 @@ Sections:
       en: Next
       ru: Далее
     signin.phonenumber-header-text:
-      en: To start please enter your phone number
-      ru: Чтобы начать, введите ваш номер телефона
+      en: "To start please enter your phone number"
+      ru: "Чтобы начать, введите ваш номер телефона"
     signin.captcha-header-text:
-      en: Please enter the text from the captcha
-      ru: Пожалуйста, введите текст с картинки
+      en: "Please enter the text from the captcha"
+      ru: "Пожалуйста, введите текст с картинки"
     signin.smscode-header-text:
-      en: We sent a text message with a code to phone number {phone-number}. Please enter the code
-      ru: Мы отправили SMS c кодом на телефон {phone-number}. Пожалуйста, введите этот код
+      en: "We sent a text message with a code to phone number {phone-number}. Please enter the code"
+      ru: "Мы отправили SMS c кодом на телефон {phone-number}. Пожалуйста, введите этот код"
+    signin.email-header-text:
+      en: "Enter your e-mail to receive a verification code"
+      ru: "Введите свой адрес электронной почты, чтобы получить код подтверждения"
+    signin.emailcode-header-text:
+      en: "Enter the verification code we sent to {email}"
+      ru: "Введите код подтверждения, который мы отправили на {email}"
+    signin.phonenumber-verification:
+      en: "Phone verification"
+      ru: "Подверждение телефона"
+    signin.captcha-verification:
+      en: "Captcha verification"
+      ru: "Проверка капчи"
+    signin.smscode-verification:
+      en: "Phone verification"
+      ru: "Подверждение телефона"
+    signin.email-verification:
+      en: "E-mail verification"
+      ru: "Подверждение электронной почты"
+    signin.emailcode-verification:
+      en: "E-mail verification"
+      ru: "Подверждение электронной почты"
     signin.without-auth:
       en: View available cars
       ru: Посмотреть доступные машины
