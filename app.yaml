@@ -1620,19 +1620,19 @@ Sections:
       ru: "Введите код подтверждения, который мы отправили на {email}"
     signin.phonenumber-verification:
       en: "Phone verification"
-      ru: "Подверждение телефона"
+      ru: "Подтверждение телефона"
     signin.captcha-verification:
       en: "Captcha verification"
       ru: "Проверка капчи"
     signin.smscode-verification:
       en: "Phone verification"
-      ru: "Подверждение телефона"
+      ru: "Подтверждение телефона"
     signin.email-verification:
       en: "E-mail verification"
-      ru: "Подверждение электронной почты"
+      ru: "Подтверждение электронной почты"
     signin.emailcode-verification:
       en: "E-mail verification"
-      ru: "Подверждение электронной почты"
+      ru: "Подтверждение электронной почты"
     signin.without-auth:
       en: View available cars
       ru: Посмотреть доступные машины
@@ -1810,7 +1810,7 @@ Sections:
       ru: 'ИЗМЕНИТЬ'
     radar.confirm:
       en: 'CONFIRM'
-      ru: 'ПОДВЕРДИТЬ'
+      ru: 'ПОДТВЕРДИТЬ'
     radar.apply:
       en: 'APPLY'
       ru: 'ПРИМЕНИТЬ'
