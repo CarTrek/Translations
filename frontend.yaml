@@ -4048,7 +4048,7 @@ Sections:
       ru: Страна
     payments.cards.PROVIDER:
       cs: Platební brána
-      en: Gateaway
+      en: Gateway
       ge: პროვაიდერი
       ru: Шлюз
     payments.cards.CREATE_DATE:
