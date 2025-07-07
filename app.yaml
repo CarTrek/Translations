@@ -4242,6 +4242,9 @@ Sections:
     additional-agreement.confirm:
       en: 'Confirm'
       ru: 'Подтвердить'
+    additional-agreement.price:
+      en: '+{amount} {currency}'
+      ru: '+{amount} {currency}'
     protection.header:
       en: 'Protection'
       ru: 'Покрытие'
