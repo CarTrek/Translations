@@ -1,5 +1,71 @@
 Sections:
   Server:
+    PromoCodeRequired:
+      cs: Je vyžadován promo kód
+      ka: საჭიროა პრომო კოდი
+      en: Promo code required
+      ru: Требуется промокод
+      uk: Потрібен промокод
+    RequiredFieldsEmpty:
+      cs: Povinná pole nejsou vyplněna
+      ka: სავალდებულო ველები ცარიელია
+      en: Required fields are empty
+      ru: Обязательные поля не заполнены
+      uk: Обов'язкові поля не заповнені
+    InvalidPhoneNumber:
+      cs: Neplatný formát telefonního čísla
+      ka: ტელეფონის ნომრის არასწორი ფორმატი
+      en: Invalid phone number format
+      ru: Неверный формат номера телефона
+      uk: Невірний формат номера телефону
+    PhoneNumberAlreadyTaken:
+      cs: Telefonní číslo je již používáno
+      ka: ტელეფონის ნომერი უკვე გამოყენებულია
+      en: Phone number is already in use
+      ru: Номер телефона уже используется
+      uk: Номер телефону вже використовується
+    PhoneNumberPersonalDataCleared:
+      cs: Osobní údaje pro toto telefonní číslo byly vymazány
+      ka: ამ ტელეფონის ნომრის პერსონალური მონაცემები გასუფთავებულია
+      en: Personal data for this phone number has been cleared
+      ru: Персональные данные для этого номера телефона были удалены
+      uk: Персональні дані для цього номера телефону були видалені
+    EmailAlreadyExists:
+      cs: Email již existuje
+      ka: ელფოსტა უკვე არსებობს
+      en: Email already exists
+      ru: Email уже существует
+      uk: Email вже існує
+    DocumentsRequired:
+      cs: Jsou vyžadovány dokumenty
+      ka: საჭიროა დოკუმენტების ატვირთვა
+      en: Documents are required
+      ru: Требуется загрузка документов
+      uk: Потрібне завантаження документів
+    ValidationError:
+      cs: Chyba ověření
+      ka: ვალიდაციის შეცდომა
+      en: Validation error
+      ru: Ошибка валидации
+      uk: Помилка валідації
+    InvalidCode:
+      cs: Neplatný kód
+      ka: არასწორი კოდი
+      en: Invalid code
+      ru: Неверный код
+      uk: Невірний код
+    CodeExpired:
+      cs: Platnost kódu vypršela
+      ka: კოდს ვადა გაუვიდა
+      en: Code expired
+      ru: Срок действия кода истек
+      uk: Термін дії коду минув
+    CodeEmpty:
+      cs: Kód nesmí být prázdný
+      ka: კოდის ველი ცარიელია
+      en: Code cannot be empty
+      ru: Поле для кода не может быть пустым
+      uk: Поле для коду не може бути порожнім
     RateChoose:
       en: "Prerent withdrawal"
       ru: "За начало аренды"
