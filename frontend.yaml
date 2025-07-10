@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reserves.edit.order-options:
+      en: Order Options
+      ru: Опции заказа
     ratepacks.editor.CustomDescription:
       en: "Description"
       ru: "Описание"
