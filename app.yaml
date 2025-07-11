@@ -2519,6 +2519,12 @@ Sections:
     change-booking.cancel-inapp-button:
       en: 'New booking'
       ru: 'Новое бронирование'
+    change-booking.proceed:
+      en: 'Proceed'
+      ru: 'Продолжить'
+    change-booking.proceed-message:
+      en: 'Please upload your documents to complete the delivery process'
+      ru: 'Пожалуйста, загрузите ваши документы для завершения процесса доставки'
     confirm-pay.header:
       en: 'Confirm and Pay'
       ru: 'Подтверждение и оплата'
@@ -4236,6 +4242,12 @@ Sections:
     long-main.price-per-day-min-max:
       en: 'from {amount} {currency}/day'
       ru: 'от {amount} {currency} в день'
+    long-main.booking:
+      en: 'Confirm your booking'
+      ru: 'Подтвердите свое бронирование'
+    long-main.booking-details:
+      en: 'Booking details'
+      ru: 'Детали бронирования'
     additional-agreement.header:
       en: 'Additional services'
       ru: 'Дополнительные сервисы'
