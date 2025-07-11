@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reserves.edit.order-options:
+      en: Order Options
+      ru: Опции заказа
     ratepacks.editor.CustomDescription:
       en: "Description"
       ru: "Описание"
@@ -10289,6 +10292,9 @@ Sections:
     notifications.CarWithoutMovementInZoneDuringNMinutes:
       en: Car without movement in zone during several minutes
       ru: Машина без движения в зоне в течении нескольких минут
+    aside.nav.reserves.UNPAID:
+      en: 'Unpaid'
+      ru: 'Неоплаченные'
     aside.nav.refueling.brands:
       en: Refueling cards brands
       ru: Типы топливных карт
