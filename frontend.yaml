@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    organizations.AllowCreditToAdministratorCard:
+      en: "Allow payment to admin card"
+      ru: "Выплачивать процент на карту админа"
     reserves.edit.order-options:
       en: Order Options
       ru: Опции заказа
