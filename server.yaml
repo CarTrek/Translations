@@ -1,5 +1,32 @@
 Sections:
   Server:
+    RepeatingRatepackTotalCost:
+      en: "Total: {amount}"
+      ru: "Полная стоимость: {amount}"
+    RepeatingRatepackPeriodPaymentNameWeek:
+      en: "Weekly payment: {amount}"
+      ru: "Еженедельный платёж: {amount}"
+    RepeatingRatepackPeriodPaymentNameMonth:
+      en: "Monthly payment: {amount}"
+      ru: "Ежемесячный платёж: {amount}"
+    RepeatingRatepackPeriodPaymentNameDay:
+      en: "Daily payment: {amount}"
+      ru: "Ежедневный платёж: {amount}"
+    RepeatingRatepackPeriodPaymentName:
+      en: "Payment every {period}: {amount}"
+      ru: "Платёж каждые {period}: {amount}"
+    RepeatingRatepackIncludedMileageWeek:
+      en: "Included {km-included}km/week, {price-per-km}/km extra"
+      ru: "Включено {km-included}км/неделя, {price-per-km}/км доп."
+    RepeatingRatepackIncludedMileageMonth:
+      en: "Included {km-included}km/month, {price-per-km}/km extra"
+      ru: "Включено {km-included}км/мес., {price-per-km}/км доп."
+    RepeatingRatepackIncludedMileageDay:
+      en: "Included {km-included}km/month, {price-per-km}/km extra"
+      ru: "Включено {km-included}км/мес., {price-per-km}/км доп."
+    RepeatingRatepackIncludedMileage:
+      en: "Included {km-included}km/{period}, {price-per-km}/km extra"
+      ru: "Включено {km-included}км/{period}, {price-per-km}/км доп."
     PromoCodeRequired:
       cs: Je vyžadován promo kód
       ka: საჭიროა პრომო კოდი
