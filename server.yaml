@@ -1,5 +1,8 @@
 Sections:
   Server:
+    FailedRatePackDoesNotAllowToFinish:
+      en: "Finish of the rent is not allowed on this tariff"
+      ru: "Завершить аренду на этом тарифе нельзя"
     RepeatingRatepackTotalCost:
       en: "Total: {amount}"
       ru: "Полная стоимость: {amount}"
