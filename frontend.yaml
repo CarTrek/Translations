@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.DoNotAllowFinishRent:
+      en: "Do not allow finish ride"
+      ru: "Не давать завершить поездку"
     organizations.AllowCreditToAdministratorCard:
       en: "Allow payment to admin card"
       ru: "Выплачивать процент на карту админа"
