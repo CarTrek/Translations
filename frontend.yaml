@@ -2392,7 +2392,7 @@ Sections:
       ru: Активные
     aside.nav.cartasks.DEFFERED:
       cs: odložené
-      en: Transported
+      en: Postponed
       ge: გადატანილები
       ru: Перенесенные
     aside.nav.cartasks.CANCELED:
