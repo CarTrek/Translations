@@ -2525,6 +2525,21 @@ Sections:
     change-booking.proceed-message:
       en: 'Please upload your documents to complete the delivery process'
       ru: 'Пожалуйста, загрузите ваши документы для завершения процесса доставки'
+    change-booking.general-title:
+      en: 'General information'
+      ru: 'Общая информация'
+    change-booking.general-info-car-location:
+      en: "The car's location appears 3 minutes before your rental starts"
+      ru: "Местоположение автомобиля будет доступно за 3 минуты до начала аренды"
+    change-booking.general-info-fuel:
+      en: "Fuel isn’t included; please return the car with the same fuel level as when you received it"
+      ru: "Топливо не включено; пожалуйста, верните автомобиль с тем же уровнем топлива, с которым вы его получили"
+    change-booking.general-info-parking:
+      en: "Parking fees are not included"
+      ru: "Парковка оплачивается отдельно"
+    change-booking.general-info-smoking:
+      en: "Smoking in the car is strictly prohibited"
+      ru: "Курение в автомобиле строго запрещено"
     confirm-pay.header:
       en: 'Confirm and Pay'
       ru: 'Подтверждение и оплата'
