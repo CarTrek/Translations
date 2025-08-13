@@ -89,6 +89,9 @@ Sections:
     long-rental.bottom-menu.rentals:
       en: "Rentals"
       ru: "Аренда"
+    long-rental.bottom-menu.logIn:
+      en: "Log in"
+      ru: "Вход"
     long-rental.car-model-hp:
       en: "{power} hp"
       ru: "{power} л.с."
