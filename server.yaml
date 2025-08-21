@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightFinishLongTermRecurrentRent:
+      en: "Finish long term recurrent rental"
+      ru: "Завершать аренды на длительном рекуррентном тарифе"
     FailedRatePackDoesNotAllowToFinish:
       en: "Finish of the rent is not allowed on this tariff"
       ru: "Завершить аренду на этом тарифе нельзя"
