@@ -1645,6 +1645,9 @@ Sections:
     signin.send-code-to-whatsapp:
       en: "Send code to WhatsApp"
       ru: "Отправить код в WhatsApp"
+    signin.send-code-to-smsctelegram:
+      en: "Send to Telegram"
+      ru: "Отправить код в Telegram"
     signin.send-sms-with-code:
       en: "Send code via SMS"
       ru: "Отправить код в SMS"
