@@ -4158,6 +4158,9 @@ Sections:
     car-address.button-continue:
       en: "Continue"
       ru: "Продолжить"
+    car-address.button-select:
+      en: "Select"
+      ru: "Выбрать"
     car-address.button-close:
       en: "Close"
       ru: "Закрыть"
