@@ -3789,6 +3789,9 @@ Sections:
     search-car.close:
       en: "Close"
       ru: "Закрыть"
+    search-car.title:
+      en: "Search car"
+      ru: "Поиск машины"
     bottom-sheet.reset:
       en: "reset"
       ru: "сбросить"
