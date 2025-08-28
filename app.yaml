@@ -1657,6 +1657,9 @@ Sections:
     signin.privacy-agreement:
       en: "Privacy Policy"
       ru: "Политика конфиденциальности"
+    signin.tg-bot-button:
+      en: "Log in with Telegram"
+      ru: "Войти через Telegram"
     signup.screen-title:
       en: Registration
       ru: Регистрация
