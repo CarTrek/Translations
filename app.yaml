@@ -1663,6 +1663,9 @@ Sections:
     signin.privacy-agreement:
       en: "Privacy Policy"
       ru: "Политика конфиденциальности"
+    signin.tg-bot-button:
+      en: "Log in with Telegram"
+      ru: "Войти через Telegram"
     signup.screen-title:
       en: Registration
       ru: Регистрация
@@ -3786,6 +3789,9 @@ Sections:
     search-car.close:
       en: "Close"
       ru: "Закрыть"
+    search-car.title:
+      en: "Search car"
+      ru: "Поиск машины"
     bottom-sheet.reset:
       en: "reset"
       ru: "сбросить"
