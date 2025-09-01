@@ -4302,3 +4302,9 @@ Sections:
     protection.per-day:
       en: '+{amount} {currency}/day'
       ru: '+{amount} {currency}/день'
+    sumsub.on-error-message:
+      en: 'There was an error in the document upload service. Please contact support'
+      ru: 'Произошла ошибка при загрузке документов. Обратитесь в службу поддержки'
+    sumsub.on-error-support-button:
+      en: 'Support'
+      ru: 'Поддержка'
