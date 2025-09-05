@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    orders.viewer.forcefinish:
+      en: "Force finish"
+      ru: "Завершить принудительно"
     rates.DoNotAllowFinishRent:
       en: "Do not allow finish ride"
       ru: "Не давать завершить поездку"
