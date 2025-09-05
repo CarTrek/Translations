@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightForceFinishRent:
+      en: "Force finish rent"
+      ru: "Завершать аренду принудительно"
     RightFinishLongTermRecurrentRent:
       en: "Finish long term recurrent rental"
       ru: "Завершать аренды на длительном рекуррентном тарифе"
