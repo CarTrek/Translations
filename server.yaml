@@ -6539,7 +6539,7 @@ Sections:
     UnlockAndDriveCarResultFailedCarHasNoOrderNow:
       cs: Vozidlo nyní není pronajmuto
       ka: ამჟამად მანქანა არ არის დაქირავებული.
-      en: The car is rented now
+      en: The car is not rented now
       ru: Автомобиль в данный момент не арендован.
       uk: Автомобіль в даний момент не орендований.
     UnlockAndDriveCarResultFailedCarIsInRentStateAlready:
