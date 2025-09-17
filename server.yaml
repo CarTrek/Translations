@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightForceFinishRent:
+      en: "Force finish rent"
+      ru: "Завершать аренду принудительно"
     RightFinishLongTermRecurrentRent:
       en: "Finish long term recurrent rental"
       ru: "Завершать аренды на длительном рекуррентном тарифе"
@@ -500,6 +503,12 @@ Sections:
     PurchaseSubscription:
       en: "Subscription purchased"
       ru: "Покупка подписки"
+    CancelSubscription:
+      en: "Subscription canceled"
+      ru: "Подписка завершена"
+    RenewSubscription:
+      en: "Renew subscription"
+      ru: "Продление подписки"
     PurchaseSubscriptionEnumFailedUnavailableSubscription:
       en: "This subscription is unavailable for you"
       ru: "Эта подписка для вас недоступна"
@@ -6536,7 +6545,7 @@ Sections:
     UnlockAndDriveCarResultFailedCarHasNoOrderNow:
       cs: Vozidlo nyní není pronajmuto
       ka: ამჟამად მანქანა არ არის დაქირავებული.
-      en: The car is rented now
+      en: The car is not rented now
       ru: Автомобиль в данный момент не арендован.
       uk: Автомобіль в даний момент не орендований.
     UnlockAndDriveCarResultFailedCarIsInRentStateAlready:

@@ -3792,6 +3792,9 @@ Sections:
     search-car.title:
       en: "Search car"
       ru: "Поиск машины"
+    search-car.min:
+      en: "min"
+      ru: "мин"
     bottom-sheet.reset:
       en: "reset"
       ru: "сбросить"
