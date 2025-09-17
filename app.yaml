@@ -4320,3 +4320,6 @@ Sections:
     contract-changes.current-contract:
       en: 'Current contract'
       ru: 'Актуальный договор'
+    contract-changes.summary-header:
+      en: 'What`s new:'
+      ru: 'Вкратце что нового:'
