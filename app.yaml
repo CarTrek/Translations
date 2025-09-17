@@ -4308,3 +4308,12 @@ Sections:
     sumsub.on-error-support-button:
       en: 'Support'
       ru: 'Поддержка'
+    contract-changes.accept-button:
+      en: 'Accept'
+      ru: 'Принять'
+    contract-changes.header:
+      en: 'Changes in the contract:'
+      ru: 'В договоре изменения:'
+    contract-changes.current-contract:
+      en: 'Current contract'
+      ru: 'Актуальный договор'
