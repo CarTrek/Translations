@@ -320,6 +320,9 @@ Sections:
     aside.nav.caroffReasons:
       en: Car off reasons
       ru: Причины снятия машин с доступа
+    aside.nav.contracts:
+      en: Contracts
+      ru: Договоры
     clients.editor.penalties.Reason:
       en: Withdraw reason
       ru: Причина списания

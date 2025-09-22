@@ -446,6 +446,9 @@ Sections:
     RightManageCarOffReasons:
       en: Manage car off reasons
       ru: Редактирование причин снятия машин с сервиса
+    RightManageContracts:
+      en: Manage contracts
+      ru: Редактирование договоров
     BindCardSuccessInappImageUrl:
       en: ""
     BindCardFailInappImageUrl:
