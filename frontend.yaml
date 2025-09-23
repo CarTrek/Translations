@@ -317,6 +317,9 @@ Sections:
     caroff.reasons.list:
       en: Car off reasons
       ru: Причины снятия машин с доступа
+    contracts.list:
+      en: Договоры
+      ru: Contracts
     aside.nav.caroffReasons:
       en: Car off reasons
       ru: Причины снятия машин с доступа
