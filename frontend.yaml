@@ -637,6 +637,12 @@ Sections:
     contracts.add:
       en: Add contract
       ru: Добавить договор
+    contracts.new:
+      en: New contract
+      ru: Новый договор
+    contracts.edit:
+      en: Edit contract
+      ru: Редактировать договор
     aside.nav.bonuses.reasons:
       en: Bonuses. Reasons
       ru: Бонусы. Причины
@@ -955,6 +961,21 @@ Sections:
     clients.editor.Gender:
       en: Gender
       ru: Пол
+    contracts.CreationDate:
+      en: Creation Date
+      ru: Дата создания      
+    contracts.VersionNumber:
+      en: Version number
+      ru: Номер версии    
+    contracts.Changes:
+      en: Changes
+      ru: Название    
+    contracts.Title:
+      en: Title
+      ru: Описание изменений    
+    contracts.IsActive:
+      en: Active
+      ru: Активный  
     rates.DoNotPayForRefuelingTime:
       en: Do not enroll for refueling time
       ru: Не начислять бонусы за время заправки
