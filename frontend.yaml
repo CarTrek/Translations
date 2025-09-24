@@ -961,6 +961,9 @@ Sections:
     clients.editor.Gender:
       en: Gender
       ru: Пол
+    contracts.list:
+      en: Contracts
+      ru: Договоры
     contracts.CreationDate:
       en: Creation Date
       ru: Дата создания      
