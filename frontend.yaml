@@ -972,10 +972,10 @@ Sections:
       ru: Номер версии    
     contracts.Changes:
       en: Changes
-      ru: Название    
+      ru: Описание изменений   
     contracts.Title:
       en: Title
-      ru: Описание изменений    
+      ru: Название  
     contracts.IsActive:
       en: Active
       ru: Активный  
