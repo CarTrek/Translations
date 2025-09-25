@@ -979,6 +979,12 @@ Sections:
     contracts.IsActive:
       en: Active
       ru: Активный  
+    contracts.Yes:
+      en: Yes
+      ru: Да 
+    contracts.No:
+      en: No
+      ru: Нет  
     rates.DoNotPayForRefuelingTime:
       en: Do not enroll for refueling time
       ru: Не начислять бонусы за время заправки
