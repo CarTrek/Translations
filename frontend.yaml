@@ -985,6 +985,9 @@ Sections:
     contracts.No:
       en: No
       ru: Нет  
+    contracts.Filename:
+      en: Contract filename
+      ru: Файл договора  
     rates.DoNotPayForRefuelingTime:
       en: Do not enroll for refueling time
       ru: Не начислять бонусы за время заправки
