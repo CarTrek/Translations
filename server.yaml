@@ -7074,4 +7074,10 @@ Sections:
     CreateOrUpdateReserveEnumErrorProcessingRequest:
       ru: "Произошла ошибка при обработке запроса"
       en: "An error occurred while processing the request"
-
+    VersionShort:
+      ru: Вер.
+      en: Ver.
+    VersionFrom:
+      ru: от
+      en: of
+    
