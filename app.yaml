@@ -2674,6 +2674,18 @@ Sections:
     confirm-extend.param-protection-extend-category:
       en: 'Same category'
       ru: 'Та же категория'
+    confirm-extend.param-additional:
+      en: 'Additional: '
+      ru: 'Дополнительные: '
+    confirm-extend.fuel:
+      en: 'Fuel'
+      ru: 'Топливо'
+    confirm-extend.fuel-included:
+      en: 'Included'
+      ru: 'Включено'
+    confirm-extend.fuel-not-included:
+      en: 'Not included'
+      ru: 'Не включено'
     confirm-extend.param-mile:
       en: 'Mileage'
       ru: 'Пробег'
