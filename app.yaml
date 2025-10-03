@@ -2675,8 +2675,8 @@ Sections:
       en: 'Same category'
       ru: 'Та же категория'
     confirm-extend.param-additional:
-      en: 'Additional: '
-      ru: 'Дополнительные: '
+      en: 'Additional'
+      ru: 'Дополнительные'
     confirm-extend.fuel:
       en: 'Fuel'
       ru: 'Топливо'
@@ -2704,6 +2704,15 @@ Sections:
     confirm-extend.pay-button:
       en: "Pay {amount} {currencySymbol}"
       ru: "Оплатить {amount} {currencySymbol}"
+    confirm-extend.messagebox-title:
+      en: 'Your rent extension is confirmed'
+      ru: 'Продление вашей аренды подтверждено'
+    confirm-extend.messagebox-message:
+      en: 'You extend your rent until:'
+      ru: 'Вы продлеваете аренду до:'
+    confirm-extend.messagebox-button:
+      en: 'Continue:'
+      ru: 'Продолжить:'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
