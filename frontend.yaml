@@ -10823,6 +10823,66 @@ Sections:
     reserves.edit.status.canceled:
       en: 'Canceled'
       ru: 'Отменен'
+    sql-editor.ai-assistant:
+      en: AI Assistant
+      ru: AI Ассистент
+    sql-editor.describe-query:
+      en: Describe what you want to query
+      ru: Опишите, что вы хотите запросить
+    sql-editor.query-placeholder:
+      en: e.g., Show me all cars that are currently available for rent
+      ru: например, Покажите мне все автомобили, которые сейчас доступны для аренды
+    sql-editor.generate-sql:
+      en: Generate SQL
+      ru: Сгенерировать SQL
+    sql-editor.sql-editor:
+      en: SQL Editor
+      ru: SQL Редактор
+    sql-editor.execute-query:
+      en: Execute Query
+      ru: Выполнить запрос
+    sql-editor.export-csv:
+      en: Export CSV
+      ru: Экспорт CSV
+    sql-editor.export-excel:
+      en: Export Excel
+      ru: Экспорт Excel
+    sql-editor.clear-all:
+      en: Clear All
+      ru: Очистить всё
+    sql-editor.query-results:
+      en: Query Results
+      ru: Результаты запроса
+    sql-editor.rows:
+      en: rows
+      ru: строк
+    sql-editor.please-enter-query:
+      en: Please enter SQL query
+      ru: Пожалуйста, введите SQL запрос
+    sql-editor.excel-downloaded:
+      en: Excel file downloaded successfully
+      ru: Excel файл успешно скачан
+    sql-editor.csv-downloaded:
+      en: CSV file downloaded successfully
+      ru: CSV файл успешно скачан
+    sql-editor.query-executed:
+      en: Query executed successfully
+      ru: Запрос выполнен успешно
+    sql-editor.query-error:
+      en: An error occurred while executing the query
+      ru: Произошла ошибка при выполнении запроса
+    sql-editor.please-enter-prompt:
+      en: Please enter a prompt for AI generation
+      ru: Пожалуйста, введите запрос для генерации AI
+    sql-editor.sql-generated:
+      en: SQL generated successfully
+      ru: SQL сгенерирован успешно
+    sql-editor.generation-error:
+      en: An error occurred while generating SQL
+      ru: Произошла ошибка при генерации SQL
+    sql-editor.no-data-export:
+      en: No data to export
+      ru: Нет данных для экспорта
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
