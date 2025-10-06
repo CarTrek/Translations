@@ -2710,9 +2710,9 @@ Sections:
     confirm-extend.messagebox-message:
       en: 'You extend your rent until:'
       ru: 'Вы продлеваете аренду до:'
-    confirm-extend.messagebox-button:
-      en: 'Continue:'
-      ru: 'Продолжить:'
+    confirm-extend.button-continue:
+      en: 'Continue'
+      ru: 'Продолжить'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
