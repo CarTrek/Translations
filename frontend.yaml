@@ -10883,6 +10883,12 @@ Sections:
     sql-editor.no-data-export:
       en: No data to export
       ru: Нет данных для экспорта
+    aside.nav.sql-editor:
+      en: AI Data Analytics
+      ru: AI Анализ данных
+    reports.sql-editor.header:
+      en: AI Reports
+      ru: AI Анализ данных
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
