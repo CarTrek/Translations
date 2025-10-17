@@ -2713,6 +2713,9 @@ Sections:
     confirm-extend.button-continue:
       en: 'Continue'
       ru: 'Продолжить'
+    confirm-extend.not-available:
+      en: 'No available dates for extension'
+      ru: 'Сейчас нет свободных дат для продления аренды'
     start-news.btnSkip.title:
       cs: Přeskočit
       en: Skip
