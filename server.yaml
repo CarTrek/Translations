@@ -5827,6 +5827,9 @@ Sections:
       en: Browse customer scans documents
       ru: Просмотр сканов документов клиентов
       uk: Перегляд сканів документів клієнтів
+    RightAddCustomers:
+      en: "Add customers"
+      ru: "Добавлять клиентов"
     RightViewCustomersList:
       cs: prohlížení seznamu zákazníků
       ka: მომხმარებელთა ჩამონათვალის ნახვა
