@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reserves.edit.description:
+      en: Description
+      ru: Описание
     orders.viewer.forcefinish:
       en: "Force finish"
       ru: "Завершить принудительно"
