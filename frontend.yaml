@@ -6,6 +6,9 @@ Sections:
     orders.viewer.forcefinish:
       en: "Force finish"
       ru: "Завершить принудительно"
+    rates.Highlight:
+      en: "Highlight in the app"
+      ru: "Выделить в приложении"
     rates.DoNotAllowFinishRent:
       en: "Do not allow finish ride"
       ru: "Не давать завершить поездку"
