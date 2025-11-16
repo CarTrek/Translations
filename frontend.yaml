@@ -10895,6 +10895,93 @@ Sections:
     reports.sql-editor.header:
       en: AI Reports
       ru: AI Анализ данных
+    sql-editor.no-data-returned:
+      en: Query executed successfully, but no data was returned
+      ru: Запрос выполнен успешно, но данные не были возвращены
+    sql-editor.auto-execute-query:
+      en: Automatically execute SQL query after generation
+      ru: Автоматически выполнять SQL запрос после генерации
+    sql-editor.start-working-title:
+      en: Start working with SQL queries
+      ru: Начните работу с SQL запросами
+    sql-editor.start-working-description:
+      en: Describe what you want to get, and AI will generate an SQL query for you
+      ru: Опишите, что вы хотите получить, и AI сгенерирует SQL запрос для вас
+    sql-editor.describe-query-hint:
+      en: Describe what query you need in natural language
+      ru: Опишите, какой запрос вам нужен на естественном языке
+    sql-editor.generating:
+      en: Generating...
+      ru: Генерация...
+    sql-editor.executing-query:
+      en: Executing query...
+      ru: Выполнение запроса...
+    sql-editor.executing:
+      en: Executing...
+      ru: Выполнение...
+    sql-editor.clear:
+      en: Clear
+      ru: Очистить
+    sql-editor.show-sql-editor:
+      en: Show SQL editor
+      ru: Показать SQL редактор
+    sql-editor.hide-sql-editor:
+      en: Hide SQL editor
+      ru: Скрыть SQL редактор
+    sql-editor.copy-results:
+      en: Copy results
+      ru: Копировать результаты
+    sql-editor.copy-column:
+      en: Copy column
+      ru: Копировать колонку
+    sql-editor.copy-error:
+      en: Copy error
+      ru: Копировать ошибку
+    sql-editor.copy-sql:
+      en: Copy SQL
+      ru: Копировать SQL
+    sql-editor.format-sql:
+      en: Format SQL
+      ru: Форматировать SQL
+    sql-editor.clear-sql:
+      en: Clear SQL
+      ru: Очистить SQL
+    sql-editor.records-found:
+      en: Records found
+      ru: Найдено записей
+    sql-editor.sql-copied:
+      en: SQL copied to clipboard
+      ru: SQL скопирован в буфер обмена
+    sql-editor.error-copied:
+      en: Error copied to clipboard
+      ru: Ошибка скопирована в буфер обмена
+    sql-editor.results-copied:
+      en: Results copied to clipboard
+      ru: Результаты скопированы в буфер обмена
+    sql-editor.column-copied:
+      en: Column copied
+      ru: Колонка скопирована
+    sql-editor.sql-formatted:
+      en: SQL formatted
+      ru: SQL отформатирован
+    sql-editor.generation-timeout:
+      en: SQL generation timeout
+      ru: Таймаут генерации SQL
+    sql-editor.sql-placeholder-text:
+      en: SQL query will appear here after generation
+      ru: SQL запрос появится здесь после генерации
+    sql-editor.sql-placeholder-hint:
+      en: You can edit it manually
+      ru: Вы можете редактировать его вручную
+    sql-editor.processing-large-result:
+      en: Processing large result set...
+      ru: Обработка большого результата...
+    sql-editor.large-result-warning:
+      en: "Large result set: {total} rows found. Displaying first {displayed} rows. Use export to get all data."
+      ru: "Большой результат: найдено {total} строк. Отображаются первые {displayed} строк. Используйте экспорт для получения всех данных."
+    sql-editor.displaying-first:
+      en: displaying first
+      ru: отображаются первые
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
