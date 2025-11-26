@@ -1,5 +1,8 @@
 Sections:
   Server:
+    PhoneNumberCountryBanned:
+      en: "This country code is temporary blocked due to spam. Please use a local phone number"
+      ru: "Код страны вашего номера заблокирован из-за спама. Пожалуйста, используйте местный номер телефона"
     RightForceFinishRent:
       en: "Force finish rent"
       ru: "Завершать аренду принудительно"
