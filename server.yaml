@@ -1,5 +1,8 @@
 Sections:
   Server:
+    ContractSignedPushMessage:
+      en: "You signed version #{versionNumber} of the Contract"
+      ru: "Вы подписали версию Договора №{versionNumber}"
     PhoneNumberCountryBanned:
       en: "This country code is temporary blocked due to spam. Please use a local phone number"
       ru: "Код страны вашего номера заблокирован из-за спама. Пожалуйста, используйте местный номер телефона"
