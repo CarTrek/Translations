@@ -257,6 +257,8 @@ Sections:
       en: "Raiffeisen"
     PaymentGatewayjccpaymentsDisplayName:
       en: "JCC"
+     PaymentGatewayjccnewpaymentsDisplayName:
+      en: "JCCNew"
     PaymentGatewaystripeDisplayName:
       en: "Stripe"
     PaymentGatewayyoomoneyDisplayName:
