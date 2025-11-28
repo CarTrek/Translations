@@ -1253,6 +1253,9 @@ Sections:
     map.wide-button.drive-from-park:
       en: Open the car
       ru: Открыть автомобиль
+    map.wide-button.contact-support:
+      en: "Contact support"
+      ru: "Связаться с поддержкой"
     map.disable-insurance-title:
       en: "Turn off insurance"
       ru: "Отключить страховку"
@@ -2654,6 +2657,12 @@ Sections:
     confirm-pay.promo-code:
       en: 'Promo code'
       ru: 'Промо-код'
+    confirm-pay.cancel-inapp-title:
+      en: 'Booking error'
+      ru: 'Ошибка бронирования'
+    confirm-pay.cancel-inapp-button:
+      en: 'Select a new car'
+      ru: 'Новое бронирование'
     confirm-extend.header:
       en: 'Confirmation'
     confirm-extend.from:
@@ -4002,6 +4011,9 @@ Sections:
     card-long.blink:
       en: "blink"
       ru: "моргать"
+    card-long.need-document:
+      en: "Your document could not be verified. Please contact support for details"
+      ru: "Ваши документы не были верифицированы. Пожалуйста, свяжитесь с поддержкой для уточнения деталей"
     technical-comments.internal-messages:
       en: "Internal messages"
       ru: "Внутренние сообщения"
