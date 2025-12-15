@@ -28,6 +28,8 @@ Sections:
       ru: "Смена батареи инициирована успешно"
     PaymentGatewaySelector.jccpayments:
       en: "JCC Payments"
+    PaymentGatewaySelector.jccnewpayments:
+      en: "JCC New Payments"
     PaymentGatewaySelector.omise:
       en: "Open Payments"
     PaymentGatewaySelector.stripe:

@@ -1099,6 +1099,9 @@ Sections:
     zones.AlwaysAvaliable:
       en: Always available
       ru: Всегда доступна
+    zones.AskTakePhotoOfParkTicket:
+      en: Ask take photo of park ticket
+      ru: Требовать делать фото парковочного билета
     orderevents.RATEDESCRIPTION:
       en: Rate description
       ru: Комментарий к тарифу
