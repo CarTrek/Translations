@@ -6,7 +6,7 @@ Sections:
     EmailVerifyCodeInvalidEmailFormat:
       en: "Invalid email format: {email}"
       ru: "Некорректный емейл: {email}"
-    EmailCodeVerifyTooManyAttemtsTryLater:
+    EmailCodeVerifyTooManyAttemptsTryLater:
       en: "You exceeded maximum attemts count ({maxAttempts}). Try later after {tryAfterMinutes} minutes."
       ru: "Вы превысили максимальное число попыток ({maxAttempts}). Попробуйте ещё раз через {tryAfterMinutes} минут."
     EmailSendTokenTooManyAttemtsTryLater:
