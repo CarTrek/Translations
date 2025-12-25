@@ -1258,6 +1258,9 @@ Sections:
     map.wide-button.contact-support:
       en: "Contact support"
       ru: "Связаться с поддержкой"
+    map.wide-button.proceed:
+      en: "Proceed"
+      ru: "Продолжить"
     map.disable-insurance-title:
       en: "Turn off insurance"
       ru: "Отключить страховку"
@@ -4014,6 +4017,9 @@ Sections:
       en: "blink"
       ru: "моргать"
     card-long.need-document:
+      en: "To complete your verification, please resubmit your documents"
+      ru: "Для завершения верификации, пожалуйста, повторно загрузите документы"
+    card-long.security-validation:
       en: "Your document could not be verified. Please contact support for details"
       ru: "Ваши документы не были верифицированы. Пожалуйста, свяжитесь с поддержкой для уточнения деталей"
     technical-comments.internal-messages:
@@ -4361,3 +4367,6 @@ Sections:
     contract-changes.summary-header:
       en: 'What`s new:'
       ru: 'Вкратце что нового:'
+    vc-wa.book-car:
+      en: 'Book a car'
+      ru: 'Забронировать автомобиль'
