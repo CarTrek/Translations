@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    reserves.scheduler.show-past-unpaid:
+      en: Show Past Unpaid
+      ru: Показывать прошлые неоплаченные
     reserves.edit.description:
       en: Description
       ru: Описание
