@@ -3983,6 +3983,9 @@ Sections:
     find-car-gallery.header-description:
       en: "To quickly find a car, you can look at the photos taken by the previous driver and start your trip sooner"
       ru: "Для быстрого поиска машины, можете посмотреть фотографии сделанные предыдущим водителем, и скорее начать свою поездку"
+    find-car-gallery.no-photos:
+      en: "Photos to help locate the car are not available"
+      ru: "Фотографии, помогающие найти автомобиль, отсутствуют"
     marker.reg-number:
       en: "{reg-number} {fuel-level}%"
       ru: "{reg-number} {fuel-level}%"
