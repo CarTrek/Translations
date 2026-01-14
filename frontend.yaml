@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    cars.models.DisplayDiscount:
+      en: Always display discount
+      ru: Всегда отображать скидку
     reserves.scheduler.show-past-unpaid:
       en: Show Past Unpaid
       ru: Показывать прошлые неоплаченные
