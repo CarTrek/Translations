@@ -444,6 +444,9 @@ Sections:
     card-v2.button-tech-set-fuel:
       en: "⛽️ Refueling"
       ru: "⛽️ Заправка"
+    card-v2.find-car:
+      en: "🎞️ Find by photo"
+      ru: "🎞️ Поиск по фото"
     card-v2.button-tech-start-engine:
       en: "🔥 Start"
       ru: "🔥 Запуск"
