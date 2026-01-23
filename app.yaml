@@ -4323,3 +4323,18 @@ Sections:
     contract-changes.summary-header:
       en: 'What`s new:'
       ru: 'Вкратце что нового:'
+    parking-ticket.dialog-header:
+      en: 'Take a photo of the parking ticket'
+      ru: 'Сфотографируйте парковочный талон'
+    parking-ticket.dialog-text:
+      en: 'Please make sure the photo is clear, the barcode if fully captured, and is clearly visible. We will show this photo to the next owner of this vehicle.'
+      ru: 'Пожалуйста убедитесь что фотография чёткая, штрихкод полностью попал в кадр и хорошо виден. Мы покажем эту фотографию следующему пользователю этого автомобиля.'
+    parking-ticket.take-photo-button:
+      en: 'Take photo'
+      ru: 'Сфотографировать'
+    parking-ticket.retake-photo-button:
+      en: 'Re-take photo'
+      ru: 'Переснять'
+    parking-ticket.submit-button:
+      en: 'Submit'
+      ru: 'Продолжить'
