@@ -1,8 +1,20 @@
 Sections:
   AdminFrontend:
+    cars.models.DisplayDiscount:
+      en: Always display discount
+      ru: Всегда отображать скидку
+    reserves.scheduler.show-past-unpaid:
+      en: Show Past Unpaid
+      ru: Показывать прошлые неоплаченные
+    reserves.edit.description:
+      en: Description
+      ru: Описание
     orders.viewer.forcefinish:
       en: "Force finish"
       ru: "Завершить принудительно"
+    rates.Highlight:
+      en: "Highlight in the app"
+      ru: "Выделить в приложении"
     rates.DoNotAllowFinishRent:
       en: "Do not allow finish ride"
       ru: "Не давать завершить поездку"
@@ -317,9 +329,15 @@ Sections:
     caroff.reasons.list:
       en: Car off reasons
       ru: Причины снятия машин с доступа
+    contracts.list:
+      en: Договоры
+      ru: Contracts
     aside.nav.caroffReasons:
       en: Car off reasons
       ru: Причины снятия машин с доступа
+    aside.nav.contracts:
+      en: Contracts
+      ru: Договоры
     clients.editor.penalties.Reason:
       en: Withdraw reason
       ru: Причина списания
@@ -628,6 +646,15 @@ Sections:
     bonuses.reasons.add:
       en: Add reason
       ru: Добавить причину
+    contracts.add:
+      en: Add contract
+      ru: Добавить договор
+    contracts.new:
+      en: New contract
+      ru: Новый договор
+    contracts.edit:
+      en: Edit contract
+      ru: Редактировать договор
     aside.nav.bonuses.reasons:
       en: Bonuses. Reasons
       ru: Бонусы. Причины
@@ -946,6 +973,33 @@ Sections:
     clients.editor.Gender:
       en: Gender
       ru: Пол
+    contracts.list:
+      en: Contracts
+      ru: Договоры
+    contracts.CreationDate:
+      en: Creation Date
+      ru: Дата создания      
+    contracts.VersionNumber:
+      en: Version number
+      ru: Номер версии    
+    contracts.Changes:
+      en: Changes
+      ru: Описание изменений   
+    contracts.Title:
+      en: Title
+      ru: Название  
+    contracts.IsActive:
+      en: Active
+      ru: Активный  
+    contracts.Yes:
+      en: Yes
+      ru: Да 
+    contracts.No:
+      en: No
+      ru: Нет  
+    contracts.Filename:
+      en: Contract filename
+      ru: Файл договора  
     rates.DoNotPayForRefuelingTime:
       en: Do not enroll for refueling time
       ru: Не начислять бонусы за время заправки
@@ -1051,6 +1105,9 @@ Sections:
     zones.AlwaysAvaliable:
       en: Always available
       ru: Всегда доступна
+    zones.AskTakePhotoOfParkTicket:
+      en: Ask take photo of park ticket
+      ru: Требовать делать фото парковочного билета
     orderevents.RATEDESCRIPTION:
       en: Rate description
       ru: Комментарий к тарифу
@@ -1204,6 +1261,9 @@ Sections:
     rates.StickToOrderButFilterByHours:
       en: but consider time
       ru: но учитывать время
+    clients.editor.Contract:
+      en: Contract
+      ru: Договор
     clients.editor.Corporate:
       en: Corporate
       ru: Корпоративные
@@ -10778,6 +10838,159 @@ Sections:
     reserves.edit.status.canceled:
       en: 'Canceled'
       ru: 'Отменен'
+    sql-editor.ai-assistant:
+      en: AI Assistant
+      ru: AI Ассистент
+    sql-editor.describe-query:
+      en: Describe what you want to query
+      ru: Опишите, что вы хотите запросить
+    sql-editor.query-placeholder:
+      en: e.g., Show me all cars that are currently available for rent
+      ru: например, Покажите мне все автомобили, которые сейчас доступны для аренды
+    sql-editor.generate-sql:
+      en: Generate SQL
+      ru: Сгенерировать SQL
+    sql-editor.sql-editor:
+      en: SQL Editor
+      ru: SQL Редактор
+    sql-editor.execute-query:
+      en: Execute Query
+      ru: Выполнить запрос
+    sql-editor.export-csv:
+      en: Export CSV
+      ru: Экспорт CSV
+    sql-editor.export-excel:
+      en: Export Excel
+      ru: Экспорт Excel
+    sql-editor.clear-all:
+      en: Clear All
+      ru: Очистить всё
+    sql-editor.query-results:
+      en: Query Results
+      ru: Результаты запроса
+    sql-editor.rows:
+      en: rows
+      ru: строк
+    sql-editor.please-enter-query:
+      en: Please enter SQL query
+      ru: Пожалуйста, введите SQL запрос
+    sql-editor.excel-downloaded:
+      en: Excel file downloaded successfully
+      ru: Excel файл успешно скачан
+    sql-editor.csv-downloaded:
+      en: CSV file downloaded successfully
+      ru: CSV файл успешно скачан
+    sql-editor.query-executed:
+      en: Query executed successfully
+      ru: Запрос выполнен успешно
+    sql-editor.query-error:
+      en: An error occurred while executing the query
+      ru: Произошла ошибка при выполнении запроса
+    sql-editor.please-enter-prompt:
+      en: Please enter a prompt for AI generation
+      ru: Пожалуйста, введите запрос для генерации AI
+    sql-editor.sql-generated:
+      en: SQL generated successfully
+      ru: SQL сгенерирован успешно
+    sql-editor.generation-error:
+      en: An error occurred while generating SQL
+      ru: Произошла ошибка при генерации SQL
+    sql-editor.no-data-export:
+      en: No data to export
+      ru: Нет данных для экспорта
+    aside.nav.sql-editor:
+      en: AI Data Analytics
+      ru: AI Анализ данных
+    reports.sql-editor.header:
+      en: AI Reports
+      ru: AI Анализ данных
+    sql-editor.no-data-returned:
+      en: Query executed successfully, but no data was returned
+      ru: Запрос выполнен успешно, но данные не были возвращены
+    sql-editor.auto-execute-query:
+      en: Automatically execute SQL query after generation
+      ru: Автоматически выполнять SQL запрос после генерации
+    sql-editor.start-working-title:
+      en: Start working with SQL queries
+      ru: Начните работу с SQL запросами
+    sql-editor.start-working-description:
+      en: Describe what you want to get, and AI will generate an SQL query for you
+      ru: Опишите, что вы хотите получить, и AI сгенерирует SQL запрос для вас
+    sql-editor.describe-query-hint:
+      en: Describe what query you need in natural language
+      ru: Опишите, какой запрос вам нужен на естественном языке
+    sql-editor.generating:
+      en: Generating...
+      ru: Генерация...
+    sql-editor.executing-query:
+      en: Executing query...
+      ru: Выполнение запроса...
+    sql-editor.executing:
+      en: Executing...
+      ru: Выполнение...
+    sql-editor.clear:
+      en: Clear
+      ru: Очистить
+    sql-editor.show-sql-editor:
+      en: Show SQL editor
+      ru: Показать SQL редактор
+    sql-editor.hide-sql-editor:
+      en: Hide SQL editor
+      ru: Скрыть SQL редактор
+    sql-editor.copy-results:
+      en: Copy results
+      ru: Копировать результаты
+    sql-editor.copy-column:
+      en: Copy column
+      ru: Копировать колонку
+    sql-editor.copy-error:
+      en: Copy error
+      ru: Копировать ошибку
+    sql-editor.copy-sql:
+      en: Copy SQL
+      ru: Копировать SQL
+    sql-editor.format-sql:
+      en: Format SQL
+      ru: Форматировать SQL
+    sql-editor.clear-sql:
+      en: Clear SQL
+      ru: Очистить SQL
+    sql-editor.records-found:
+      en: Records found
+      ru: Найдено записей
+    sql-editor.sql-copied:
+      en: SQL copied to clipboard
+      ru: SQL скопирован в буфер обмена
+    sql-editor.error-copied:
+      en: Error copied to clipboard
+      ru: Ошибка скопирована в буфер обмена
+    sql-editor.results-copied:
+      en: Results copied to clipboard
+      ru: Результаты скопированы в буфер обмена
+    sql-editor.column-copied:
+      en: Column copied
+      ru: Колонка скопирована
+    sql-editor.sql-formatted:
+      en: SQL formatted
+      ru: SQL отформатирован
+    sql-editor.generation-timeout:
+      en: SQL generation timeout
+      ru: Таймаут генерации SQL
+    sql-editor.sql-placeholder-text:
+      en: SQL query will appear here after generation
+      ru: SQL запрос появится здесь после генерации
+    sql-editor.sql-placeholder-hint:
+      en: You can edit it manually
+      ru: Вы можете редактировать его вручную
+    sql-editor.processing-large-result:
+      en: Processing large result set...
+      ru: Обработка большого результата...
+    sql-editor.large-result-warning:
+      en: "Large result set: {total} rows found. Displaying first {displayed} rows. Use export to get all data."
+      ru: "Большой результат: найдено {total} строк. Отображаются первые {displayed} строк. Используйте экспорт для получения всех данных."
+    sql-editor.displaying-first:
+      en: displaying first
+      ru: отображаются первые
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
