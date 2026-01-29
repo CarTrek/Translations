@@ -1677,6 +1677,12 @@ Sections:
     signin.tg-bot-button:
       en: "Log in with Telegram"
       ru: "Войти через Telegram"
+    signin.id-ctms-auth:
+      en: "Log in via Messenger"
+      ru: "Авторизоваться через мессенджер"
+    signin.enter-phone-number:
+      en: "Enter phone number"
+      ru: "Ввести номер телефона"
     signup.screen-title:
       en: Registration
       ru: Регистрация
