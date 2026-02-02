@@ -1102,6 +1102,9 @@ Sections:
     rates.editor.RateInfoUrl:
       en: Rate info url
       ru: Ссылка на описание тарифа
+    rates.editor.RateCardLinks:
+      en: Rate card links
+      ru: Списки рассылок
     zones.AlwaysAvaliable:
       en: Always available
       ru: Всегда доступна
