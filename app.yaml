@@ -4212,6 +4212,9 @@ Sections:
       en: "Select"
       ru: "Выбрать"
     car-address.header-title:
+      en: "We didn't find the moped"
+      ru: "Мы не нашли мопед"
+    car-address.header-title-text:
       en: "Where did you leave the car?"
       ru: "Где вы оставили машину?"
     car-address.header-description:
