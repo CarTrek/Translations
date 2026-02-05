@@ -4218,8 +4218,8 @@ Sections:
       en: "Where did you leave the car?"
       ru: "Где вы оставили машину?"
     car-address.header-description:
-      en: "Please move the pin on the map or enter an address. Incorrect parking may result in a fine"
-      ru: "Передвиньте метку на карте или введите адрес. Неправильная парковка может привести к штрафу"
+      en: "Please move the pin on the map. Incorrect parking may result in a fine"
+      ru: "Передвиньте метку на карте. Неправильная парковка может привести к штрафу"
     car-address.address:
       en: "Address - street, nearest house number"
       ru: "Адрес - улица, номер ближайшего дома"
