@@ -4379,6 +4379,9 @@ Sections:
     parking-ticket.dialog-header:
       en: 'Take a photo of the parking ticket'
       ru: 'Сфотографируйте парковочный талон'
+    parking-ticket.preview-header:
+      en: 'Parking ticket'
+      ru: 'Парковочный талон'
     parking-ticket.dialog-text:
       en: 'Please make sure the photo is clear, the barcode if fully captured, and is clearly visible. We will show this photo to the next owner of this vehicle.'
       ru: 'Пожалуйста убедитесь что фотография чёткая, штрихкод полностью попал в кадр и хорошо виден. Мы покажем эту фотографию следующему пользователю этого автомобиля.'
@@ -4391,6 +4394,9 @@ Sections:
     parking-ticket.submit-button:
       en: 'Submit'
       ru: 'Продолжить'
+    parking-ticket.close-button:
+      en: 'Close'
+      ru: 'Закрыть'
     parking-ticket.badge:
       en: 'Park ticket'
       ru: 'Парковка'
