@@ -1677,6 +1677,12 @@ Sections:
     signin.tg-bot-button:
       en: "Log in with Telegram"
       ru: "Войти через Telegram"
+    signin.id-ctms-auth:
+      en: "Log in via Messenger"
+      ru: "Авторизоваться через мессенджер"
+    signin.enter-phone-number:
+      en: "Enter phone number"
+      ru: "Ввести номер телефона"
     signup.screen-title:
       en: Registration
       ru: Регистрация
@@ -4208,12 +4214,12 @@ Sections:
     car-address.header-title:
       en: "We didn't find the moped"
       ru: "Мы не нашли мопед"
+    car-address.header-title-text:
+      en: "Where did you leave the car?"
+      ru: "Где вы оставили машину?"
     car-address.header-description:
-      en: "We were unable to automatically locate the moped using satellite navigation. Please provide an approximate address of the moped and any landmarks. You will help us and the next user. Thank you!"
-      ru: "Мы не смогли автоматически определить местоположение мопеда с помощью спутниковой навигации. Напишите, пожалуйста, примерный адрес, по которому находится мопед, и какие есть ориентиры. Вы поможете нам и следующему пользователю. Спасибо!"
-    car-address.header-description-with-map:
-      en: "We were unable to automatically locate the moped using satellite navigation. Please provide an approximate address of the moped and any landmarks. Click on the map to select the exact location. You will help us and the next user. Thank you!"
-      ru: "Мы не смогли автоматически определить местоположение мопеда с помощью спутниковой навигации. Напишите, пожалуйста, примерный адрес, по которому находится мопед, и какие есть ориентиры. Нажмите на карту чтобы указать точное местоположение. Вы поможете нам и следующему пользователю. Спасибо!"
+      en: "Please move the pin on the map. Incorrect parking may result in a fine"
+      ru: "Передвиньте метку на карте. Неправильная парковка может привести к штрафу"
     car-address.address:
       en: "Address - street, nearest house number"
       ru: "Адрес - улица, номер ближайшего дома"
@@ -4223,6 +4229,9 @@ Sections:
     car-address.button-continue:
       en: "Continue"
       ru: "Продолжить"
+    car-address.button-confirm:
+      en: "Confirm"
+      ru: "Подтвердить"
     car-address.button-select:
       en: "Select"
       ru: "Выбрать"
