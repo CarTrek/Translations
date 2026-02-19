@@ -439,6 +439,9 @@ Sections:
     HoursShort:
       en: "hr."
       ru: "час."
+    DaysShort:
+      en: "d."
+      ru: "дн." 
     OkEngineStarted:
       en: "Engine started"
       ru: "Двигатель запущен"
