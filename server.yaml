@@ -265,6 +265,9 @@ Sections:
     RatePackSumShort:
       en: Cost
       ru: Цена
+    Discounts:
+      en: Discounts
+      ru: Скидки
     RatePackShort:
       en: "PPT"
       ru: "ПТ"
