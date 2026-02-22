@@ -1448,7 +1448,7 @@ Sections:
       ru: 'Тарифные опции: слагаемое режима парковки'
     RateModifiersNames:
       en: 'Rate modifiers'
-      ru: 'Скидки'
+      ru: 'Тарифные опции'
     AdditionMCDrive:
       en: 'Marketing campaign addition coefficient'
       ru: 'Маркетинговая кампания: слагаемое режима аренды'
