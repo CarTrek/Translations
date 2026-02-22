@@ -262,6 +262,9 @@ Sections:
     OverrunShort:
       en: "OR"
       ru: "ПП"
+    RatePackSumShort:
+      en: Cost
+      ru: Цена
     RatePackShort:
       en: "PPT"
       ru: "ПТ"
