@@ -4238,6 +4238,15 @@ Sections:
     car-address.button-close:
       en: "Close"
       ru: "Закрыть"
+    car-address-input.header-title-text:
+      en: "Address search"
+      ru: "Поиск адреса"
+    car-address-input.header-description:
+      en: "Please enter city, street, nearest house number"
+      ru: "Введите город, улицу, номер ближайшего дома"
+    car-address-input.button-close:
+      en: "Close"
+      ru: "Закрыть"
     garage.title:
       en: "Garage"
       ru: "Гараж"
