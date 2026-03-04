@@ -4244,6 +4244,9 @@ Sections:
     car-address-input.header-description:
       en: "Please enter city, street, nearest house number"
       ru: "Введите город, улицу, номер ближайшего дома"
+    car-address-input.input-placeholder:
+      en: "Search"
+      ru: "Поиск"
     car-address-input.button-close:
       en: "Close"
       ru: "Закрыть"
