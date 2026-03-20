@@ -292,6 +292,21 @@ Sections:
     CustomerMaxAuthPrompt:
       en: "I dont know you. Please share your phone number. <b>Tap the 'Share my phone number' button</b>; If you send your phone number as a text message, we will not be able to authorize you. Then if you are already registered in our service, I will send you your current rentals. You will be able to open, to close the car and to finish your rides."
       ru: "Я вас не узнал. Пришлите пожалуйста ваш номер телефона. <b>Нажмите кнопку 'Отправить мой номер телефона'</b>; если пришлёте номер телефона текстом в сообщении, мы не сможем вас авторизовать. После этого если вы уже зарегистрированы в нашем сервисе, я пришлю вам ваши аренды. Вы сможете открывать и закрывать двери машины, а также завершить аренду."
+    CustomerMaxCarNotFound:
+      en: "Car with number \"{carNumber}\" not found. Please check the number and try again."
+      ru: "Машина с номером \"{carNumber}\" не найдена. Проверьте номер и попробуйте снова."
+    CustomerMaxCarBookedSuccess:
+      en: "Car {carNumber} successfully booked! You can now manage your ride using the buttons."
+      ru: "Машина {carNumber} успешно забронирована! Теперь вы можете управлять арендой через кнопки."
+    CustomerMaxCarBookingFailed:
+      en: "Failed to book car {carNumber}. {error}"
+      ru: "Не удалось забронировать машину {carNumber}. {error}"
+    CustomerMaxBookingErrorTryLater:
+      en: "Please try again later."
+      ru: "Попробуйте позже."   
+    CustomerMaxBookingError:
+      en: "An error occurred while booking. Please try again later."
+      ru: "Произошла ошибка при бронировании. Пожалуйста, попробуйте позже."  
     OverrunShort:
       en: "OR"
       ru: "ПП"
