@@ -1,6 +1,4 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+# AGENTS.md
 
 ## Project Overview
 
@@ -77,7 +75,7 @@ Follow this pipeline strictly:
    ```
    Output: `./tmp/<file>/en/1.yaml, 2.yaml, ...`
 
-3. **Translate** each chunk (Claude Code does this directly):
+3. **Translate** each chunk (LLM does this directly):
    - Read each chunk file from `./tmp/<file>/en/`
    - Translate all values from `en` to the target language
    - **MUST preserve**: YAML structure, keys, variables (`{var}`, `%N$type`), HTML tags, quoting style

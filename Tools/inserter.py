@@ -43,13 +43,19 @@ def insert_translations(source_path: str, target_path: str):
     yaml.allow_duplicate_keys = True
     yaml.width = 4096
 
-    # Load target file
-    with open(target_path, "r", encoding="utf-8") as f:
-        target_data = yaml.load(f)
-
-    if "Sections" not in target_data:
-        print(f"ERROR: No 'Sections' key found in {target_path}", file=sys.stderr)
-        sys.exit(1)
+    # Load target file or create empty structure
+    if os.path.exists(target_path):
+        with open(target_path, "r", encoding="utf-8") as f:
+            target_data = yaml.load(f)
+        if "Sections" not in target_data:
+            print(f"ERROR: No 'Sections' key found in {target_path}", file=sys.stderr)
+            sys.exit(1)
+        mode = "merge"
+    else:
+        from ruamel.yaml.comments import CommentedMap
+        target_data = CommentedMap()
+        target_data["Sections"] = CommentedMap()
+        mode = "create"
 
     # Load source chunks
     chunks = load_chunks(source_path)
@@ -62,16 +68,28 @@ def insert_translations(source_path: str, target_path: str):
         for section_name, keys in chunk["Sections"].items():
             if keys is None:
                 continue
+
+            # Create section if it doesn't exist in target
             if section_name not in target_data["Sections"]:
-                print(f"WARN: Section '{section_name}' not found in target, skipping", file=sys.stderr)
-                continue
+                if mode == "merge":
+                    print(f"WARN: Section '{section_name}' not found in target, skipping", file=sys.stderr)
+                    continue
+                from ruamel.yaml.comments import CommentedMap
+                target_data["Sections"][section_name] = CommentedMap()
+
             target_section = target_data["Sections"][section_name]
             for key_name, langs in keys.items():
                 if langs is None or not isinstance(langs, dict):
                     continue
+
+                # Create key if it doesn't exist in target
                 if key_name not in target_section:
-                    print(f"WARN: Key '{section_name}.{key_name}' not found in target, skipping", file=sys.stderr)
-                    continue
+                    if mode == "merge":
+                        print(f"WARN: Key '{section_name}.{key_name}' not found in target, skipping", file=sys.stderr)
+                        continue
+                    from ruamel.yaml.comments import CommentedMap
+                    target_section[key_name] = CommentedMap()
+
                 target_langs = target_section[key_name]
                 for lang, value in langs.items():
                     target_langs[lang] = value
@@ -81,7 +99,8 @@ def insert_translations(source_path: str, target_path: str):
     with open(target_path, "w", encoding="utf-8") as f:
         yaml.dump(target_data, f)
 
-    print(f"Inserted {inserted} translations into {target_path}")
+    action = "Created" if mode == "create" else "Inserted"
+    print(f"{action} {inserted} translations → {target_path}")
 
 
 if __name__ == "__main__":
@@ -91,9 +110,5 @@ if __name__ == "__main__":
 
     source = sys.argv[1]
     target = sys.argv[2]
-
-    if not os.path.exists(target):
-        print(f"ERROR: Target file not found: {target}", file=sys.stderr)
-        sys.exit(1)
 
     insert_translations(source, target)
