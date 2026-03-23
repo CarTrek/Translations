@@ -1,5 +1,65 @@
 Sections:
   AdminFrontend:
+    aside.nav.clientAuth:
+      en: 'Client Authorization'
+      ru: 'Авторизация клиента'
+    clientAuth.title:
+      en: 'Client Authorization'
+      ru: 'Авторизация клиента'
+    clientAuth.phoneNumber:
+      en: 'Client Phone Number'
+      ru: 'Номер телефона клиента'
+    clientAuth.addPhone:
+      en: 'Add Phone'
+      ru: 'Добавить телефон'
+    clientAuth.removePhone:
+      en: 'Remove'
+      ru: 'Удалить'
+    clientAuth.activePhones:
+      en: 'Active Phones'
+      ru: 'Активные телефоны'
+    clientAuth.history:
+      en: 'History'
+      ru: 'История'
+    clientAuth.operator:
+      en: 'Operator'
+      ru: 'Оператор'
+    clientAuth.phone:
+      en: 'Phone'
+      ru: 'Телефон'
+    clientAuth.customerName:
+      en: 'Customer'
+      ru: 'Клиент'
+    clientAuth.dateTime:
+      en: 'Date/Time'
+      ru: 'Дата/Время'
+    clientAuth.action:
+      en: 'Action'
+      ru: 'Действие'
+    clientAuth.phoneAdded:
+      en: 'Phone added successfully'
+      ru: 'Телефон успешно добавлен'
+    clientAuth.phoneRemoved:
+      en: 'Phone removed successfully'
+      ru: 'Телефон успешно удалён'
+    clientAuth.customerNotFound:
+      en: 'Customer not found'
+      ru: 'Клиент не найден'
+    clientAuth.error:
+      en: 'Error'
+      ru: 'Ошибка'
+    clientAuth.phoneRequired:
+      en: 'Phone number is required'
+      ru: 'Введите номер телефона'
+    clientAuth.added:
+      en: 'Added'
+      ru: 'Добавлен'
+    clientAuth.removed:
+      en: 'Removed'
+      ru: 'Удалён'
+    clientAuth.reAdd:
+      en: 'Add again'
+      ru: 'Добавить повторно'
     cars.models.DisplayDiscount:
       en: Always display discount
       ru: Всегда отображать скидку
