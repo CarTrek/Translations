@@ -48,6 +48,144 @@ Sections:
     clientAuth.error:
       en: 'Error'
       ru: 'Ошибка'
+    aside.nav.SYSTEM_ADMIN:
+      en: 'System Admin'
+      ru: 'Системные'
+    hardware.control.TITLE:
+      en: 'IoT Connectivity'
+      ru: 'Подключение IoT'
+    hardware.control.LOADING:
+      en: 'Loading...'
+      ru: 'Загрузка...'
+    hardware.control.LOAD_ERROR:
+      en: 'Failed to load data'
+      ru: 'Ошибка загрузки данных'
+    hardware.control.ACTION_ERROR:
+      en: 'Action failed'
+      ru: 'Ошибка выполнения'
+    hardware.control.MODULE:
+      en: 'Module'
+      ru: 'Модуль'
+    hardware.control.DETACHED:
+      en: 'Detached connection!'
+      ru: 'Отключённое соединение!'
+    hardware.control.KILL:
+      en: 'Kill module'
+      ru: 'Завершить модуль'
+    hardware.control.RECREATE:
+      en: 'Recreate connection'
+      ru: 'Пересоздать соединение'
+    hardware.control.STOP_CONN:
+      en: 'Stop connection'
+      ru: 'Остановить соединение'
+    hardware.control.CONNECTED:
+      en: 'Connected vehicles:'
+      ru: 'Подключено транспортных средств:'
+    hardware.control.START_LISTEN:
+      en: 'Start listen'
+      ru: 'Начать прослушивание'
+    hardware.control.STOP_LISTEN:
+      en: 'Stop listen'
+      ru: 'Остановить прослушивание'
+    hardware.control.START_LOGGER:
+      en: 'Start logger'
+      ru: 'Запустить логгер'
+    hardware.control.STOP_LOGGER:
+      en: 'Stop logger'
+      ru: 'Остановить логгер'
+    hardware.control.ENABLED:
+      en: 'Enabled'
+      ru: 'Включён'
+    hardware.control.DISABLED:
+      en: 'Disabled'
+      ru: 'Отключён'
+    cache.control.TITLE:
+      en: 'Cache Control'
+      ru: 'Управление кешем'
+    cache.control.SELECT:
+      en: 'Select cache'
+      ru: 'Выберите кеш'
+    cache.control.RESET_BTN:
+      en: 'Reset Cache'
+      ru: 'Сбросить Кеш'
+    cache.control.RESETTING:
+      en: 'Resetting...'
+      ru: 'Сброс...'
+    cache.control.SUCCESS:
+      en: 'successfully reset'
+      ru: 'успешно сброшен'
+    cache.control.ACCESS_DENIED:
+      en: 'Access denied'
+      ru: 'Доступ запрещён'
+    cache.control.ERROR:
+      en: 'Error'
+      ru: 'Ошибка'
+    cache.control.NOT_SELECTED:
+      en: '— Not selected —'
+      ru: '— Не выбрано —'
+    cache.control.ALL:
+      en: 'All caches'
+      ru: 'Все кеши'
+    cache.control.CARS:
+      en: 'Cars'
+      ru: 'Машины'
+    cache.control.CAR_MODELS:
+      en: 'Car models'
+      ru: 'Модели машин'
+    cache.control.CAR_MODEL_CLASSES:
+      en: 'Model classes'
+      ru: 'Классы моделей'
+    cache.control.CAR_BRANDS:
+      en: 'Car brands'
+      ru: 'Бренды машин'
+    cache.control.CAR_OPTIONS:
+      en: 'Car options'
+      ru: 'Опции машин'
+    cache.control.CAR_OFF_REASONS:
+      en: 'Car off reasons'
+      ru: 'Причины отключения'
+    cache.control.CAR_MARKERS:
+      en: 'Car markers'
+      ru: 'Маркеры машин'
+    cache.control.API_CARS:
+      en: 'API cars data'
+      ru: 'API данные машин'
+    cache.control.PER_MINUTE_RATES:
+      en: 'Per-minute rates'
+      ru: 'Поминутные тарифы'
+    cache.control.RATE_PACKS:
+      en: 'Rate packs'
+      ru: 'Пакеты тарифов'
+    cache.control.RATE_MULTIPLIERS:
+      en: 'Rate multipliers'
+      ru: 'Мультипликаторы тарифов'
+    cache.control.ORDERS:
+      en: 'Orders'
+      ru: 'Заказы'
+    cache.control.RESERVES:
+      en: 'Reserves'
+      ru: 'Бронирования'
+    cache.control.USERS:
+      en: 'Users'
+      ru: 'Пользователи'
+    cache.control.ORGANIZATIONS:
+      en: 'Organizations'
+      ru: 'Организации'
+    cache.control.ZONES:
+      en: 'Zones'
+      ru: 'Зоны'
+    cache.control.ALARMS:
+      en: 'Alarms'
+      ru: 'Алармы'
+    cache.control.TAGS:
+      en: 'Tags'
+      ru: 'Теги'
+    cache.control.BONUS_REASONS:
+      en: 'Bonus addition reasons'
+      ru: 'Причины начисления бонусов'
+    cache.control.WITHDRAWAL_REASONS:
+      en: 'Withdrawal reasons'
+      ru: 'Причины списаний'
     clientAuth.phoneRequired:
       en: 'Phone number is required'
       ru: 'Введите номер телефона'
