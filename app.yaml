@@ -3842,6 +3842,9 @@ Sections:
     search-car.min:
       en: "min"
       ru: "мин"
+    search-car.empty-title:
+      en: "There are no available cars yet"
+      ru: "Доступных машин пока нет"
     bottom-sheet.reset:
       en: "reset"
       ru: "сбросить"
