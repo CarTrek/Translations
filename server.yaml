@@ -1,5 +1,11 @@
 Sections:
   Server:
+    RightsGroupClientAuth:
+      en: Client Authorization
+      ru: Авторизация клиентов
+    RightRequestClientAuthCode:
+      en: Request client auth code
+      ru: Запрос кода авторизации клиента
     EmailCodeVerifyFailedWrongEmailCode:
       en: "You provided a wrong code"
       ru: "Вы ввели неправильный код"
