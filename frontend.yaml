@@ -6979,6 +6979,15 @@ Sections:
     cars.editor.ConfirmUnfixCoordinates:
       en: Do you really want to return reading coordinates from satellites??
       ru: Вы действительно хотите вернуть считывание координат со спутников?
+    cars.editor.LocateWifi:
+      en: Request WiFi location
+      ru: Запросить WiFi координаты
+    cars.editor.FixWifiCoordinates:
+      en: Fix WiFi coordinates as vehicle position
+      ru: Зафиксировать WiFi координаты как позицию ТС
+    cars.editor.ConfirmFixWifiCoordinates:
+      en: Do you really want to fix the current WiFi coordinates as the vehicle position?
+      ru: Вы действительно хотите зафиксировать текущие WiFi координаты как позицию автомобиля?
     cars.editor.ConfirmReboot:
       cs: Skutečně si přejete restartovat zařízení vozidla? K využití této funkce musí být zapnuta funkce příjmu SMS.
       en: Do you really want to restart the car's equipment? SMS service should be turned on for this function.
