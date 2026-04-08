@@ -2684,6 +2684,9 @@ Sections:
       en: Command was sent
       ru: Команда отправлена
       uk: Команду відправлено
+    FixCoordinatesGloballyDisabled:
+      en: Fixing coordinates is globally disabled
+      ru: Запрещено фиксировать координаты глобально
     TakeSelfieSetting:
       ru: Настройки селфи
       en: Selfie settings
