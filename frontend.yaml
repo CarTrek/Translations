@@ -11207,6 +11207,21 @@ Sections:
     sql-editor.displaying-first:
       en: displaying first
       ru: отображаются первые
+    files.History:
+      en: History
+      ru: История
+    files.SavedAt:
+      en: Saved at
+      ru: Дата изменения
+    files.Editor:
+      en: Editor
+      ru: Редактор
+    files.NoHistory:
+      en: No history yet
+      ru: История пока пуста
+    files.ShowDiff:
+      en: Show diff
+      ru: Показать различия
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
