@@ -1333,6 +1333,15 @@ Sections:
     aside.nav.EditableFiles:
       en: Configs
       ru: Конфигурации
+    editableFiles.list.Title:
+      en: Title
+      ru: Название
+    editableFiles.list.File:
+      en: File
+      ru: Файл
+    editableFiles.list.Path:
+      en: Path
+      ru: Путь
     news.editor.removePhotoConfirm:
       en: Image will be removed. Are you sure you want to continue?
       ru: Изображение будет удалено. Вы уверены, что хотите продолжить?
