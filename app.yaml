@@ -4424,3 +4424,6 @@ Sections:
     parking-ticket.badge:
       en: 'Park ticket'
       ru: 'Парковка'
+    realtime-photo-upload.retry-failed:
+      en: 'Unable to load all photos. Please check your network and try again.'
+      ru: 'Не удалось загрузить все фотографии. Проверьте сеть и повторите попытку.'
