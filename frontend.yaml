@@ -11231,6 +11231,9 @@ Sections:
     files.ShowDiff:
       en: Show diff
       ru: Показать различия
+    files.Download:
+      en: Download
+      ru: Скачать
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
