@@ -1,5 +1,47 @@
 Sections:
   AdminFrontend:
+    aside.nav.BANS:
+      en: 'Login bans'
+      ru: 'Баны при входе'
+    ban.TITLE:
+      en: 'Login bans'
+      ru: 'Баны при входе'
+    ban.IP:
+      en: 'IP'
+      ru: 'IP'
+    ban.SESSION:
+      en: 'Session'
+      ru: 'Сессия'
+    ban.ROUTE:
+      en: 'Route'
+      ru: 'Маршрут'
+    ban.PHONE:
+      en: 'Phone'
+      ru: 'Телефон'
+    ban.DEVICE:
+      en: 'Device'
+      ru: 'Устройство'
+    ban.STRIKES:
+      en: 'Strikes'
+      ru: 'Страйки'
+    ban.BANNED_AT:
+      en: 'Banned at'
+      ru: 'Забанен'
+    ban.BANNED_UNTIL:
+      en: 'Banned until'
+      ru: 'Забанен до'
+    ban.CLEAR_ALL:
+      en: 'Clear all bans'
+      ru: 'Снять все баны'
+    ban.CLEAR_ALL_CONFIRM:
+      en: 'Are you sure you want to remove all bans?'
+      ru: 'Вы уверены, что хотите снять все баны?'
+    ban.REMOVE_CONFIRM:
+      en: 'Remove ban for this user?'
+      ru: 'Снять бан для этого пользователя?'
+    ban.EMPTY:
+      en: 'No active bans'
+      ru: 'Нет активных банов'
     aside.nav.clientAuth:
       en: 'Client Authorization'
       ru: 'Авторизация клиента'
