@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightRemoveBan:
+      en: 'Remove ban'
+      ru: 'Снятие бана'
     RightsGroupClientAuth:
       en: Client Authorization
       ru: Авторизация клиентов
