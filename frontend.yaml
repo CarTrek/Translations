@@ -1,5 +1,17 @@
 Sections:
   AdminFrontend:
+    cars.editor.BookingLockHeld:
+      en: 'Car is locked by {{user}} ({{phone}})'
+      ru: 'Машина заблокирована пользователем {{user}} ({{phone}})'
+    cars.editor.BookingLockHeldUnknown:
+      en: 'Car is locked (no user info)'
+      ru: 'Машина заблокирована (без данных о пользователе)'
+    cars.editor.BreakBookingLock:
+      en: 'Break lock'
+      ru: 'Снять блокировку'
+    cars.editor.BreakBookingLockConfirm:
+      en: 'Really break the booking lock for this car?'
+      ru: 'Действительно снять блокировку бронирования для этой машины?'
     aside.nav.BANS:
       en: 'Login bans'
       ru: 'Баны при входе'
