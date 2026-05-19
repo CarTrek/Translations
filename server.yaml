@@ -1,5 +1,8 @@
 Sections:
   Server:
+    RightBreakCarBookingLock:
+      en: 'Break car booking lock'
+      ru: 'Снятие блокировки бронирования машины'
     RightRemoveBan:
       en: 'Remove ban'
       ru: 'Снятие бана'
