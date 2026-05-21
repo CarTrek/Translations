@@ -1,0 +1,5557 @@
+Sections:
+  AdminFrontend:
+    cars.editor.BookingLockHeld:
+      de: 'Fahrzeug ist gesperrt durch {{user}} ({{phone}})'
+    cars.editor.BookingLockHeldUnknown:
+      de: 'Fahrzeug ist gesperrt (keine Benutzerinformationen)'
+    cars.editor.BreakBookingLock:
+      de: 'Sperre aufheben'
+    cars.editor.BreakBookingLockConfirm:
+      de: 'Buchungssperre für dieses Fahrzeug wirklich aufheben?'
+    aside.nav.BANS:
+      de: 'Login-Sperren'
+    ban.TITLE:
+      de: 'Login-Sperren'
+    ban.IP:
+      de: 'IP'
+    ban.SESSION:
+      de: 'Sitzung'
+    ban.ROUTE:
+      de: 'Route'
+    ban.PHONE:
+      de: 'Telefon'
+    ban.DEVICE:
+      de: 'Gerät'
+    ban.STRIKES:
+      de: 'Verstöße'
+    ban.BANNED_AT:
+      de: 'Gesperrt am'
+    ban.BANNED_UNTIL:
+      de: 'Gesperrt bis'
+    ban.CLEAR_ALL:
+      de: 'Alle Sperren aufheben'
+    ban.CLEAR_ALL_CONFIRM:
+      de: 'Sind Sie sicher, dass Sie alle Sperren entfernen möchten?'
+    ban.REMOVE_CONFIRM:
+      de: 'Sperre für diesen Benutzer entfernen?'
+    ban.EMPTY:
+      de: 'Keine aktiven Sperren'
+    aside.nav.clientAuth:
+      de: 'Kundenautorisierung'
+    clientAuth.title:
+      de: 'Kundenautorisierung'
+    clientAuth.phoneNumber:
+      de: 'Telefonnummer des Kunden'
+    clientAuth.addPhone:
+      de: 'Telefon hinzufügen'
+    clientAuth.removePhone:
+      de: 'Entfernen'
+    clientAuth.activePhones:
+      de: 'Aktive Telefone'
+    clientAuth.history:
+      de: 'Verlauf'
+    clientAuth.operator:
+      de: 'Operator'
+    clientAuth.phone:
+      de: 'Telefon'
+    clientAuth.customerName:
+      de: 'Kunde'
+    clientAuth.dateTime:
+      de: 'Datum/Uhrzeit'
+    clientAuth.action:
+      de: 'Aktion'
+    clientAuth.phoneAdded:
+      de: 'Telefon erfolgreich hinzugefügt'
+    clientAuth.phoneRemoved:
+      de: 'Telefon erfolgreich entfernt'
+    clientAuth.customerNotFound:
+      de: 'Kunde nicht gefunden'
+    clientAuth.error:
+      de: 'Fehler'
+    aside.nav.SYSTEM_ADMIN:
+      de: 'System-Administration'
+    hardware.control.TITLE:
+      de: 'IoT-Konnektivität'
+    hardware.control.LOADING:
+      de: 'Wird geladen...'
+    hardware.control.LOAD_ERROR:
+      de: 'Daten konnten nicht geladen werden'
+    hardware.control.ACTION_ERROR:
+      de: 'Aktion fehlgeschlagen'
+    hardware.control.MODULE:
+      de: 'Modul'
+    hardware.control.DETACHED:
+      de: 'Verbindung getrennt!'
+    hardware.control.KILL:
+      de: 'Modul beenden'
+    hardware.control.RECREATE:
+      de: 'Verbindung neu erstellen'
+    hardware.control.STOP_CONN:
+      de: 'Verbindung stoppen'
+    hardware.control.CONNECTED:
+      de: 'Verbundene Fahrzeuge:'
+    hardware.control.START_LISTEN:
+      de: 'Mithören starten'
+    hardware.control.STOP_LISTEN:
+      de: 'Mithören stoppen'
+    hardware.control.START_LOGGER:
+      de: 'Logger starten'
+    hardware.control.STOP_LOGGER:
+      de: 'Logger stoppen'
+    hardware.control.ENABLED:
+      de: 'Aktiviert'
+    hardware.control.DISABLED:
+      de: 'Deaktiviert'
+    cache.control.TITLE:
+      de: 'Cache-Verwaltung'
+    cache.control.SELECT:
+      de: 'Cache auswählen'
+    cache.control.RESET_BTN:
+      de: 'Cache zurücksetzen'
+    cache.control.RESETTING:
+      de: 'Wird zurückgesetzt...'
+    cache.control.SUCCESS:
+      de: 'erfolgreich zurückgesetzt'
+    cache.control.ACCESS_DENIED:
+      de: 'Zugriff verweigert'
+    cache.control.ERROR:
+      de: 'Fehler'
+    cache.control.NOT_SELECTED:
+      de: '— Nicht ausgewählt —'
+    cache.control.ALL:
+      de: 'Alle Caches'
+    cache.control.CARS:
+      de: 'Fahrzeuge'
+    cache.control.CAR_MODELS:
+      de: 'Fahrzeugmodelle'
+    cache.control.CAR_MODEL_CLASSES:
+      de: 'Modellklassen'
+    cache.control.CAR_BRANDS:
+      de: 'Fahrzeugmarken'
+    cache.control.CAR_OPTIONS:
+      de: 'Fahrzeugoptionen'
+    cache.control.CAR_OFF_REASONS:
+      de: 'Gründe für Fahrzeugabschaltung'
+    cache.control.CAR_MARKERS:
+      de: 'Fahrzeugmarker'
+    cache.control.API_CARS:
+      de: 'API-Fahrzeugdaten'
+    cache.control.PER_MINUTE_RATES:
+      de: 'Minutentarife'
+    cache.control.RATE_PACKS:
+      de: 'Tarifpakete'
+    cache.control.RATE_MULTIPLIERS:
+      de: 'Tarifmultiplikatoren'
+    cache.control.ORDERS:
+      de: 'Bestellungen'
+    cache.control.RESERVES:
+      de: 'Reservierungen'
+    cache.control.USERS:
+      de: 'Benutzer'
+    cache.control.ORGANIZATIONS:
+      de: 'Organisationen'
+    cache.control.ZONES:
+      de: 'Zonen'
+    cache.control.ALARMS:
+      de: 'Alarme'
+    cache.control.TAGS:
+      de: 'Tags'
+    cache.control.BONUS_REASONS:
+      de: 'Gründe für Bonusgutschrift'
+    cache.control.WITHDRAWAL_REASONS:
+      de: 'Abbuchungsgründe'
+    clientAuth.phoneRequired:
+      de: 'Telefonnummer ist erforderlich'
+    clientAuth.added:
+      de: 'Hinzugefügt'
+    clientAuth.removed:
+      de: 'Entfernt'
+    clientAuth.reAdd:
+      de: 'Erneut hinzufügen'
+    cars.models.DisplayDiscount:
+      de: Rabatt immer anzeigen
+    reserves.scheduler.show-past-unpaid:
+      de: Vergangene unbezahlte anzeigen
+    reserves.edit.description:
+      de: Beschreibung
+    orders.viewer.forcefinish:
+      de: "Erzwungenes Beenden"
+    rates.Highlight:
+      de: "In der App hervorheben"
+    rates.DoNotAllowFinishRent:
+      de: "Beenden der Fahrt nicht erlauben"
+    organizations.AllowCreditToAdministratorCard:
+      de: "Zahlung auf Admin-Karte erlauben"
+    reserves.edit.order-options:
+      de: Bestelloptionen
+    ratepacks.editor.CustomDescription:
+      de: "Beschreibung"
+    rates.MaxRenewalsCount:
+      de: "Max."
+    orderevents.ServerAlias:
+      de: "Server"
+    rates.RemoveCarFromOrganizationOnRentEnd:
+      de: "Fahrzeug aus Organisationen bei Mietende entfernen"
+    organizations.ForwardUsersToTestInstance:
+      de: "Benutzer an Testserver weiterleiten"
+    clients.editor.ForwardToTestInstance:
+      de: "An Testinstanz weiterleiten"
+    ratepacks.RidesLimit:
+      de: "Fahrtenlimit"
+    organizations.WithdrawFromCustomersCard:
+      de: "Von Kunden abbuchen"
+    organizations.WriteOffPenaltiesFromClients:
+      de: "Strafen von Kunden abbuchen"
+    clients.editor.recalculate:
+      de: "Neu berechnen"
+    organization.editor.ScanQRRouteUrl:
+      de: "QR-Code-Route scannen"
+    organizations.DepositAmount:
+      de: Kautionsbetrag
+    organization.editor.DepositSetting:
+      de: Kaution
+    clients.depositSettings.Always:
+      de: Für jede Bestellung abbuchen
+    clients.depositSettings.Never:
+      de: Niemals abbuchen
+    clients.depositSettings.NotSet:
+      de: Globale Einstellung verwenden
+    notifications.AutoRefund:
+      de: "Automatische Rückerstattung"
+    AutoRefund:
+      de: "Automatische Rückerstattung"
+    orders.Canceled:
+      de: "Storniert"
+    voucher.list.customerRegistrationDate:
+      de: "Kunde registriert"
+    orders.Insurance:
+      de: "Versicherung"
+    ratesmultiplier.ChooseRateMultiplier:
+      de: "Entsperrpreis"
+    cars.editor.TariffModifiers:
+      de: "⚖️ Tarifmodifikatoren"
+    aside.nav.cars.LOWWASHINGFLUID:
+      de: "Keine Scheibenwaschanlage"
+    cars.list.LowWasherFluid:
+      de: "Scheibenwaschanlage"
+    cars.list.LowWasherFluidFalse:
+      de: ""
+    cars.list.LowWasherFluidTrue:
+      de: "Scheibenwaschanlage"
+    organizations.TrackUsers:
+      de: "Benutzer verfolgen"
+    cars.editor.RatesDecisionPath.Rates:
+      de: "🕒 Minutentarife"
+    cars.editor.RatesDecisionPath.RatePacks:
+      de: "📅 Vorausbezahlte Tarife"
+    cars.editor.RatesDecisionPath:
+      de: "Welche Tarife verfügbar sind und warum"
+    cars.list.FeedComments:
+      de: "Feed"
+    clients.editor.UserType:
+      de: "Kundentyp"
+    organizations.InspectActivationPeriod:
+      de: "Parkperiode (Min.)"
+    organizations.parkingInspectActivationModes.AfterXMinutes:
+      de: "Bei Parken länger als X Min."
+    organizations.parkingInspectActivationModes.Never:
+      de: "Niemals"
+    organizations.editor.ParkingInspectActivationMode:
+      de: "Inspektionsmodus nach Parken"
+    common.export:
+      de: "Exportieren"
+    cars.models.options:
+      de: "Zusatzoptionen"
+    organizations.editor.InspectActivationMode:
+      de: "Inspektionsmodus nach Buchung"
+    organizations.inspectActivationModes.Always:
+      de: "Immer vor Buchung"
+    organizations.inspectActivationModes.Never:
+      de: "Niemals vor Buchung"
+    cars.options.list:
+      de: "Optionsliste"
+    aside.nav.cars.options:
+      de: "Fahrzeugoptionen"
+    rates.RemoveDriverFromOrganizationsOnRentEnd:
+      de: "Fahrer aus Organisationen entfernen"
+    rates.MoveDriverToOrganizationsOnRentEnd:
+      de: "Fahrer in Organisationen verschieben"
+    rates.editor.AfterRentLogic:
+      de: "Logik nach Miete"
+    organizations.ShowCarsToNotLoggedIn:
+      de: "Fahrzeuge nicht angemeldeten Benutzern anzeigen"
+    cars.brands.new:
+      de: "Erstellen"
+    cars.brands.general:
+      de: "Allgemein"
+    cars.brands.editing:
+      de: "Bearbeiten"
+    cars.brands.displayname:
+      de: "Name"
+    cars.brands.add:
+      de: "Hinzufügen"
+    cars.brands.list:
+      de: "Markenliste"
+    aside.nav.cars.brands:
+      de: "Marken"
+    rates.RenewOnFinish:
+      de: "Nach Beendigung automatisch verlängern"
+    notifications.ReportDuringRide:
+      de: "Problem gemeldet"
+    notifications.NewReservation:
+      de: "Neue Reservierung"
+    notifications.UserWithTheSameDeviceIdRegistered:
+      de: "Erneute Registrierung mit gleicher Geräte-ID"
+    notifications.WarningNoSuitablePerMinuteRateFound:
+      de: "⚠️ Kein Minutentarif für die Bestellung gefunden"
+    notifications.YoungUserRegistered:
+      de: "Junger Benutzer registriert"
+    notifications.ElectricScooterError:
+      de: "Fehler am Elektroroller"
+    notifications.RecoveredFromFallingGround:
+      de: "Vom Boden aufgerichtet"
+    notifications.IllegalMoving:
+      de: "Unerlaubte Bewegung"
+    notifications.FallingGround:
+      de: "Auf dem Boden liegend"
+    cars.models.carbodytype:
+      de: "Karosserietyp"
+    cars.bodyTypes.NotSet:
+      de: "(Nicht festgelegt)"
+    cars.bodyTypes.Hatchback:
+      de: "Schrägheck"
+    cars.bodyTypes.Sedan:
+      de: "Limousine"
+    cars.bodyTypes.SUV:
+      de: "SUV"
+    cars.bodyTypes.Coupe:
+      de: "Coupé"
+    cars.bodyTypes.Cabriolet:
+      de: "Cabriolet"
+    cars.bodyTypes.Pickup:
+      de: "Pickup"
+    translations-editor.load-more:
+      de: "Mehr laden..."
+    aside.nav.Translations:
+      de: "Übersetzungen"
+    translations-editor.switch-show-only-empty-strings:
+      de: "Nur leere Zeichenfolgen anzeigen"
+    translations-editor.switch-show-only-overridden-strings:
+      de: "Nur überschriebene Zeichenfolgen anzeigen"
+    translations-editor.switch-show-only-not-overridden-strings:
+      de: "Nur nicht überschriebene Zeichenfolgen anzeigen"
+    translations-editor.search-text:
+      de: "Suchen..."
+    rates.NotifyOperatorsOnRentStart:
+      de: 'Der Benutzer hat die Miete mit einem Abonnement gestartet'
+    notifications.OrderSwitchedToDriveModeAutomatically:
+      de: "Bestellung automatisch in den Fahrmodus geschaltet"
+    notifications.OrderSwitchedToFreeRateFromPaidRate:
+      de: "Bestellung von kostenpflichtigem auf kostenlosen Tarif gewechselt"
+    notifications.UserStartedRentOnSelectedRatePack:
+      de: 'Benutzer hat Miete mit ausgewähltem Tarifpaket gestartet'
+    reports.BatteryChangeReport:
+      de: "Batteriewechselbericht"
+    reports.DatesDiffTooLargeError:
+      de: "Datumsunterschied darf nicht mehr als {days} Tage betragen"
+    car.models.zones-organizaitons-any-zone:
+      de: "Beliebige Zone in beliebiger Organisation"
+    car.models.zones-organizaitons:
+      de: "Organisationen der Zonen, in denen das Modell fahren und parken kann"
+    cars.models.organizaitons:
+      de: "Organisationen"
+    notifications.RentStart:
+      de: Miete gestartet
+    notifications.RentEnd:
+      de: Miete beendet
+    common.reset:
+      de: Zurücksetzen
+    cars.models.notifyOperatorsAboutRideStart:
+      de: Operatoren über Mietbeginn benachrichtigen
+    cars.models.notifyOperatorsAboutRideFinish:
+      de: Operatoren über Mietende benachrichtigen
+    cars.models.deactivateCarAfterRideFinish:
+      de: Fahrzeug nach Mietende mit Grund deaktivieren
+    cars.models.moveCarToOrganizationAfterRideFinish:
+      de: Fahrzeug nach Mietende in Organisation verschieben
+    organizations.HoldRidesUntilCount:
+      de: "Halten, wenn Fahrtenanzahl geringer ist"
+    clients.editor.LastKnownUserLocation:
+      de: "Standort"
+    cars.list.OffReason:
+      de: Abschaltungsgrund
+    cars.list.NoOffReason:
+      de: Kein Grund
+    cars.editor.SetOff:
+      de: Abschalten
+    caroff.reasons.list:
+      de: Gründe für Fahrzeugabschaltung
+    contracts.list:
+      de: Verträge
+    aside.nav.caroffReasons:
+      de: Gründe für Fahrzeugabschaltung
+    aside.nav.contracts:
+      de: Verträge
+    clients.editor.penalties.Reason:
+      de: Abbuchungsgrund
+    orders.RunWithCurrentRate:
+      de: "Mit dem Tarif starten"
+    aside.nav.AnalyticReports:
+      de: Analytische Berichte
+    clients.editor.MonthIncome:
+      de: Monatseinkommen
+    clients.editor.DeviceName:
+      de: Gerätename
+    clients.editor.OSVersion:
+      de: OS-Version
+    cars.list.BluetoothDeviceKey:
+      de: "Bluetooth-Geräteschlüssel"
+    cars.list.BluetoothDeviceId:
+      de: "Bluetooth-Geräte-ID"
+    cars.editor.BluetoothDeviceType:
+      de: "Bluetooth-Gerätetyp"
+    cars.editor.BLUETOOTH:
+      de: Bluetooth
+    aside.NAV.Timezone:
+      de: Zeitzone
+    carpenalty.PaymentStatusPaid:
+      de: Bezahlt
+    carpenalty.PaymentStatusPaymentSentViaApi:
+      de: Zahlung gesendet
+    carpenalty.PaymentStatusNotPaid:
+      de: Nicht bezahlt
+    orders.OverrunShort:
+      de: Überschreitung
+    orders.RatePackSumShort:
+      de: Kosten
+    ratesmultiplier.PerMinuteOverrunMultiplier:
+      de: "Überschreitungsmultiplikator (pro Minute)"
+    ratesmultiplier.RatePackOverrunMultiplier:
+      de: "Überschreitungsmultiplikator (Tarifpaket)"
+    ratesmultiplier.OverrunMultiplier:
+      de: Multiplikator für Mehrkilometer
+    rates.AvailableForCorporateOrganizations:
+      de: Verfügbar für alle Firmenorganisationen
+    tags.ShowOnSideMenu:
+      de: Liste im Seitenmenü anzeigen
+    organization.editor.BrandingAppCss:
+      de: 'Stylesheet (CSS)'
+    organization.editor.BrandingPrimaryColor:
+      de: 'Primärfarbe'
+    organization.editor.BrandingSecondaryColor:
+      de: 'Sekundärfarbe'
+    organization.editor.BrandingSite:
+      de: 'Website (z.B. Landingpage)'
+    organization.editor.BrandingTab:
+      de: Branding
+    clients.editor.billingcode.Failed:
+      de: Unbekannter Fehler
+    clients.editor.billingcode.FailedOrdersWasNotFound:
+      de: Bestellung mit dieser Nummer wurde nicht gefunden
+    aside.nav.clients.DOCUMENTSNEEDVALIDATION:
+      de: "Dokumente prüfen"
+    aside.nav.clients.DELETIONREQUEST:
+      de: Löschung angefordert
+    aside.nav.clients.DeletionRequested:
+      de: Löschung angefordert
+    clients.list.RemovalRequestTime:
+      de: Zeitpunkt der Löschanforderung
+    rates.RememberIdleTimeOnOrderStart:
+      de: Leerlaufzeit bei Bestellbeginn merken
+    withdrawal.editor.PaidDescription:
+      de: Zahlungsauftragsdetails
+    withdrawal.editor.PaidDescriptionTitle:
+      de: Rückzahlung der Abbuchung
+    clients.editor.SetPaid:
+      de: Als bezahlt markieren
+    penalties.comment:
+      de: Kommentar
+    penalties.selectOrder:
+      de: Bestellung...
+    cars.documents.addimage:
+      de: Dokumentname (z.B. Versicherung)
+    clients.editor.WithdrawReasonRequired:
+      de: Sie müssen einen Abbuchungsgrund auswählen
+    rates.CardsBins:
+      de: Karten-BINs-Beschränkung (kommagetrennt)
+    reasons.currency:
+      de: Währungssymbol
+    car.editor.documents:
+      de: Dokumente
+    reasons.SendPush:
+      de: Push senden
+    reasons.SendSms:
+      de: SMS senden
+    reasons.SendPushOrSms:
+      de: Push oder SMS senden
+    reasons.SendEmail:
+      de: E-Mail senden
+    reason.editor.NotificationText:
+      de: Benachrichtigungstext
+    clients.editor.BonusReasonRequired:
+      de: Sie müssen einen Bonusgrund auswählen
+    withdrawals.editReason:
+      de: Grund bearbeiten
+    withdrawals.newReason:
+      de: Neuer Grund
+    organizations.PaymentGateway:
+      de: Zahlungsgateway
+    aside.nav.withdrawals.reasons:
+      de: Abbuchungen. Gründe
+    withdrawals.reasons.list:
+      de: Liste der Abbuchungsgründe
+    reserves.edit.attention-message:
+      de: Letzte Fehlermeldung
+    aside.nav.reserves.ATTENTIONREQUIRED:
+      de: Aufmerksamkeit erforderlich
+    cars.models.gallery:
+      de: Galerie
+    clients.editor.penalties.OrderStartZones:
+      de: Startzonen der Bestellung
+    notifications.UserUnderSupervisionLoggedIn:
+      de: "Ein überwachter Benutzer hat sich angemeldet"
+    notifications.UserDeviceChanged:
+      de: "Gerät des Benutzers geändert"
+    notifications.UserBlockedDueToDeviceChanged:
+      de: "Benutzer wegen Gerätewechsel gesperrt"
+    notifications.EmptyOrders:
+      de: Ablehnungsquote überschritten
+    notifications.PuzzleFailed:
+      de: Fehler beim Nüchternheitstest
+    notifications.PuzzleFailedMaxCount:
+      de: Nüchternheitstest fehlgeschlagen
+    cars.list.RefusalRate:
+      de: Ablehnungsquote
+    clients.editor.ActiveCardNumber:
+      de: Aktive Kartennummer
+    inapp.editor.clearusersConfirm:
+      de: Möchten Sie die Benutzerliste wirklich löschen?
+    inapp.parameters.RemoveUsers:
+      de: Löschen
+    clients.editor.PassportValidDate:
+      de: 'Gültigkeitsdatum des Reisepasses'
+    clients.editor.DriversLicenceValidDate:
+      de: 'Gültigkeitsdatum des Führerscheins'
+    map.filters.download:
+      de: 'Herunterladen...'
+    heatmap.app-start.min-opacity:
+      de: 'Deckkraft der Punkte'
+    heatmap.app-start.order-title:
+      de: 'App-Start mit einer Fahrt abgeschlossen'
+    heatmap.app-start.has-order:
+      de: 'Hatte Fahrt'
+    heatmap.app-start.has-no-order:
+      de: 'Hatte keine Fahrt'
+    heatmap.app-start.yes:
+      de: 'Ja'
+    heatmap.app-start.no:
+      de: 'Nein'
+    heatmap.app-start.distance-from:
+      de: 'Von'
+    heatmap.app-start.km:
+      de: 'km'
+    heatmap.app-start.distance-to:
+      de: 'bis'
+    heatmap.app-start.distance-to-nearest-car:
+      de: 'Entfernung zum nächsten Fahrzeug oder Roller'
+    heatmap.app-start.time:
+      de: 'Zeit, zu der die App gestartet wurde'
+    heatmap.app-start.from:
+      de: 'Von'
+    heatmap.app-start.to:
+      de: 'bis'
+    carmodel.markers.small:
+      de: 'Klein'
+    carmodel.markers.large:
+      de: 'Groß'
+    carmodel.markers.smallDiscount:
+      de: 'Klein mit Rabatt'
+    carmodel.markers.largeDiscount:
+      de: 'Groß mit Rabatt'
+    carmodel.markers.notSelected:
+      de: 'Nicht ausgewählt'
+    carmodel.markers.selected:
+      de: 'Ausgewählt'
+    carmodel.markers.rented:
+      de: 'Gemietet'
+    carmodel.markers.rentedAndSelected:
+      de: 'Gemietet und ausgewählt'
+    heatmap.header.app-starts:
+      de: 'Karte der App-Starts'
+    heatmap.app-start.period:
+      de: 'Analysezeitraum'
+    cars.list.LastWashTime:
+      de: Letzte Reinigungszeit
+    inapp.ShowUrl:
+      de: URL
+    cars.map.Address:
+      de: 'Adresse'
+    organization.editor.MaxActiveRentalsCount:
+      de: 'Maximale aktive Mietanzahl pro Benutzer'
+    organization.editor.MaxRentedVehiclesCount:
+      de: 'Maximale aktive Mietanzahl pro Organisation'
+    clients.editor.bonuses.Reason:
+      de: Grund
+    rates.LeaveOnOrderFinish:
+      de: 'Tarifpaket bei Mietende nicht beenden'
+    rates.isLongRent:
+      de: 'Verfügbar für Langzeitmiete'
+    bonuses.reasons.add:
+      de: Grund hinzufügen
+    contracts.add:
+      de: Vertrag hinzufügen
+    contracts.new:
+      de: Neuer Vertrag
+    contracts.edit:
+      de: Vertrag bearbeiten
+    aside.nav.bonuses.reasons:
+      de: Boni. Gründe
+    bonuses.reasons.list:
+      de: Bonusgründe
+    bonuses.newReason:
+      de: Neuer Grund
+    bonuses.editReason:
+      de: Grund bearbeiten
+    orders.ParkShort:
+      de: P
+    orders.DriveShort:
+      de: D
+    zone.speedMode.Sport:
+      de: Hoch
+    zone.speedMode.Normal:
+      de: Mittel
+    zone.speedMode.Eco:
+      de: Niedrig
+    zone.speedMode.NotSetted:
+      de: Nicht festgelegt
+    zones.AskExtraPhotosCount:
+      de: "Zusätzliche Fotos bei Mietende"
+    zones.SpeedMode:
+      de: Geschwindigkeitsmodus
+    ratepacks.ActiveOrdersLimit:
+      de: Anzahl aktiver Bestellungen
+    inapp.parameters.Clean:
+      de: Liste der gesehenen Einträge bereinigen
+    inapp.editor.TotalClicked:
+      de: Angeklickt
+    inapp.editor.TotalViewed:
+      de: Angesehen
+    inapp.editor.TotalAffected:
+      de: Insgesamt betroffene Benutzer
+    inapp.usersnotfound:
+      de: Nicht gefunden
+    inapp.usersloaded:
+      de: Benutzer geladen
+    inapp.editor.viewState.Initiated:
+      de: Wurde nicht gesendet
+    inapp.editor.viewState.Sent:
+      de: Gesendet
+    inapp.editor.viewState.Viewed:
+      de: Angesehen
+    inapp.editor.viewState.Clicked:
+      de: Angeklickt
+    inapp.editor.ViewState:
+      de: Status
+    inapp.editor.Users:
+      de: Benutzer
+    inapp.parameters.PhonesList:
+      de: Liste der Benutzertelefone
+    inapp.parameters.EmailsList:
+      de: Liste der Benutzer-E-Mails
+    inapp.parameters.IdsList:
+      de: Liste der Benutzer-IDs
+    inapp.LastRideFrom:
+      de: Datum der letzten Fahrt von
+    inapp.LastRideTo:
+      de: Datum der letzten Fahrt bis
+    inapp.DaysSinceFirstRide:
+      de: Tage seit der ersten Fahrt
+    inapp.ActivationDateFrom:
+      de: Benutzeraktivierungsdatum von
+    inapp.ActivationDateTo:
+      de: Benutzeraktivierungsdatum bis
+    inapp.BonusesFrom:
+      de: Bonussumme von
+    inapp.BonusesTo:
+      de: Bonussumme bis
+    inapp.RidesCountFrom:
+      de: Fahrtenanzahl von
+    inapp.RidesCountTo:
+      de: Fahrtenanzahl bis
+    inapp.RidesSumFromInCops:
+      de: Gesamtbetrag der Fahrten von
+    inapp.RidesSumToInCops:
+      de: Gesamtbetrag der Fahrten bis
+    inapp.AgeTo:
+      de: Alter bis
+    inapp.AgeFrom:
+      de: Alter von
+    inapp.editor.Parameters:
+      de: Parameter
+    inapp.ButtonText:
+      de: Schaltflächentext
+    inapp.BackgroundColor:
+      de: Hintergrundfarbe
+    inapp.Enabled:
+      de: Aktiviert
+    inapp.editor.dl.Profile:
+      de: Profil
+    inapp.editor.dl.Certificates:
+      de: Zertifikate
+    inapp.editor.dl.RidesHistory:
+      de: Fahrtenverlauf
+    inapp.editor.dl.BankCards:
+      de: Bankkarten
+    inapp.editor.dl.CarMap:
+      de: Fahrzeugkarte
+    inapp.editor.dl.ShowURL:
+      de: URL anzeigen
+    inapp.editor.dl.PurchaseBonuses:
+      de: Bildschirm für Bonuskauf
+    inapp.DeepLink:
+      de: Deep Link
+    aside.nav.inapp:
+      de: In-App
+    advertisment.inapp.list.header:
+      de: In-App-Nachrichten
+    aside.nav.clients.WithBankCards:
+      de: Mit Bankkarten
+    ratesmultiplier.RatePackMultiplier:
+      de: Tarifpaket-Multiplikator
+    cars.models.fuelType:
+      de: Kraftstofftyp
+    cars.list.OfflineTime:
+      de: Offline-Zeit
+    payments.canceled:
+      de: Stornierte Zahlungen
+    users.typeToSearchPlaceholder:
+      de: Tippen Sie zum Suchen...
+    users.selectUser:
+      de: Benutzer auswählen
+    system.users.clear:
+      de: Rechte löschen
+    system.users.chooseAll:
+      de: Alle auswählen
+    system.users.copy:
+      de: Vom Benutzer kopieren
+    system.users.showEnabled:
+      de: Aktivierte anzeigen
+    heatmap.selected-item:
+      de: Ausgewähltes Element
+    heatmap.ride-insight.reset:
+      de: Heatmap zurücksetzen
+    heat-map.rides-insight.popup.id:
+      de: ID
+    heat-map.rides-insight.popup.latNumber:
+      de: Lat-Index
+    heat-map.rides-insight.popup.lonNumber:
+      de: Lon-Index
+    min:
+      de: 'Min.'
+    heat-map.rides-insight.popup.rentalsCount:
+      de: Fahrtenanzahl
+    heat-map.rides-insight.popup.avgMinutesBeforeOrder:
+      de: Durchschnittlicher Leerlauf vor Bestellung
+    heat-map.rides-insight.popup.medMinutesBeforeOrder:
+      de: Median des Leerlaufs vor Bestellung
+    heat-map.rides-insight.popup.avgCostInKops:
+      de: Durchschnittliche Fahrtkosten
+    heat-map.rides-insight.popup.medCostInKops:
+      de: Median der Fahrtkosten
+    heat-map.rides-insight.popup.avgRentMinutes:
+      de: Durchschnittliche Fahrtdauer
+    heat-map.rides-insight.popup.medRentMinutes:
+      de: Median der Fahrtdauer
+    heatmap.ride-insight.show-idle-time:
+      de: Leerlaufzeit
+    zones.DriveOutNotifications:
+      de: Benachrichtigung beim Verlassen der Zone
+    zones.CarDontMoveInZoneMoreThanNotifications:
+      de: Benachrichtigung, wenn ein Fahrzeug länger in der Zone steht als
+    heatmap.ride-insight.stop-calculation:
+      de: Stopp
+    heatmap.ride-insight.what-to-show:
+      de: Was mit der Heatmap angezeigt werden soll
+    heatmap.ride-insight.show-cost:
+      de: Geld
+    heatmap.ride-insight.show-time:
+      de: Dauer
+    heatmap.ride-insight.show-rides:
+      de: Fahrtenanzahl
+    heatmap.ride-insight.redraw:
+      de: Heatmap aktualisieren
+    heatmap.ride-insight.day-of-week:
+      de: Wochentag
+    heatmap.ride-insight.part-of-the-day:
+      de: Tageszeit
+    heatmap.ride-insight.night:
+      de: 'Nacht (00:00-05:59)'
+    heatmap.ride-insight.morning:
+      de: 'Morgen (06:00-11:59)'
+    heatmap.ride-insight.afternoon:
+      de: 'Nachmittag (12:00-17:59)'
+    heatmap.ride-insight.evening:
+      de: 'Abend (18:00-23:59)'
+    heatmap.display-params:
+      de: Anzeigeparameter
+    heatmap.ride-insight.calculate:
+      de: Datenvorbereitung starten
+    heatmap.ride-insight.lat-parts:
+      de: Anzahl nach Y
+    heatmap.ride-insight.lon-parts:
+      de: Anzahl nach X
+    heatmap.ride-insight.top-left:
+      de: Oben links
+    heatmap.ride-insight.bottom-right:
+      de: Unten rechts
+    heatmap.analisys-params:
+      de: Analyseparameter
+    heatmap.header.rides-insight:
+      de: Fahrtenanalyse
+    aside.nav.HEATMAP:
+      de: Heatmap
+    clients.editor.Gender.Female:
+      de: Weiblich
+    clients.editor.Gender.Male:
+      de: Männlich
+    clients.editor.Gender:
+      de: Geschlecht
+    contracts.CreationDate:
+      de: Erstellungsdatum
+    contracts.VersionNumber:
+      de: Versionsnummer
+    contracts.Changes:
+      de: Änderungen
+    contracts.Title:
+      de: Titel
+    contracts.IsActive:
+      de: Aktiv
+    contracts.Yes:
+      de: Ja
+    contracts.No:
+      de: Nein
+    contracts.Filename:
+      de: Vertragsdateiname
+    rates.DoNotPayForRefuelingTime:
+      de: Tankzeit nicht anrechnen
+    refueling.editor.WillNotPayForRefuelingTime:
+      de: Boni für die Tankzeit werden nicht angerechnet
+    voucher.organizationsToAdd:
+      de: Hinzuzufügende Organisationen
+    voucher.organizationsToRemove:
+      de: Zu entfernende Organisationen
+    cars.editor.UNLOCKBATTERY:
+      de: Batterie entsperren
+    cars.editor.RENEWCODES:
+      de: Zugangscodes erneuern
+    cars.editor.UnlockCase:
+      de: Helmkoffer entsperren
+    cars.editor.LOGIC:
+      de: Logik
+    cars.editor.LOGICCOMMAND:
+      de: Befehl
+    cars.editor.LOGICOPTION:
+      de: Option
+    cars.editor.LOGICCOMMANDS:
+      de: Befehle
+    cars.editor.LOGICOPTIONS:
+      de: Optionen
+    cars.editor.LOGICFILES:
+      de: Dateien
+    cars.editor.LOGICVALUE:
+      de: Wert
+    cars.editor.LOGICACTION:
+      de: Aktionen
+    cars.editor.LOGICSETTINGS:
+      de: Einstellungen
+    cars.editor.LOGICHAL:
+      de: HAL-Daten
+    cars.editor.LOGICRAW:
+      de: Rohdaten
+    cars.editor.LOGICJAVASCRIPT:
+      de: Skript
+    cars.editor.COMMANDSMANUAL:
+      de: Gerätebefehle. TCP - Befehl über GPRS/LTE senden. SMS - Befehl per SMS an die eingerichtete Telefonnummer senden
+    cars.editor.OPTIONSMANUAL:
+      de: Optionen - spezielle Einstellungen, die das Verhalten des Fahrzeugs im System bestimmen. Optionen interpretieren die Zustände von Sensoren oder Rohdaten in Fahrzeugzustände wie Zündung, Türstatus, Batterieladung, Kraftstoffstand usw. Mithilfe der Optionen können Sie auch periodische Skripte erstellen, die verfügbaren Funktionen des Fahrzeugs bestimmen, Datenquellen festlegen (z.B. Kilometerstand von CAN oder GPS nehmen), das Verhalten von Algorithmen (z.B. ob die Motorhaube geprüft werden soll) und die Filterung von SMS-Nachrichten.
+    cars.editor.HALMANUAL:
+      de: Sensoren, die für alle Gerätetypen standardisiert sind. Der aktuelle Zustand dieser Sensoren kann in Skripten und Optionen durch Aufruf von Hal('SensorName') abgerufen werden.
+    cars.editor.HALFILES:
+      de: Firmware und Konfigurationsdateien. Klicken Sie auf den Dateinamen, um die Datei auf Ihr Gerät hochzuladen.
+    cars.editor.HALMANUALALL:
+      de: Liste aller möglichen Sensoren, die dieser Gerätetyp senden kann. Wenn der aktuelle Wert nicht sichtbar ist, hat das Gerät ihn noch nie gesendet. Welche Sensoren und wann sie an den Server gesendet werden, wird durch die Hardware-Einstellungen bestimmt.
+    cars.editor.RAWMANUAL:
+      de: Rohdaten von Sensoren, die von Geräten gesendet werden. Die Namen der Sensoren hängen vom Gerätetyp und vom gewählten Protokoll zur Datenübertragung an den Server ab. Der aktuelle Zustand der Rohdaten kann in Skripten und Optionen durch Aufruf von Raw('SensorName') abgerufen werden.
+    cars.editor.JSMANUAL:
+      de: Ein Skript, das die Logik der Arbeit mit diesem Fahrzeug implementiert. Das Skript wird basierend auf den angegebenen Optionen und Befehlen für die ausgewählte Logik erstellt. Sie können Optionen und Befehle in der Datei hardware.json bearbeiten.
+    tecTracker.OfflineCustomerManual:
+      de: 'Algorithmus zur Notverriegelung der Türen mit Motorblockierung bei Fahrzeugen mit TEK-Terminals <br>a) Öffnen Sie die Fahrertür und lassen Sie sie offen, während alle anderen Türen, Motorhaube und Kofferraum geschlossen sein müssen <br>b) Schalten Sie die Zündung ein <br>c) Drücken Sie unmittelbar nach dem Einschalten der Zündung 5 Mal das Bremspedal bei eingeschalteter Zündung: <br>- Drücken mit einer Pause von etwa 1 Sekunde <br>- Halten Sie das Pedal etwa 1 Sekunde lang gedrückt <br>d) Die Blinkleuchten blinken 1 Mal <br>e) Schalten Sie die Zündung aus <br>f) Steigen Sie aus dem Fahrzeug und schließen Sie die Tür <br>g) 10 Sekunden nach dem Schließen der Tür wird die Zentralverriegelung des Fahrzeugs verriegelt, die Blinker blinken, die Motorblockierung schaltet sich ein, der Türverriegelungsvorgang wird abgebrochen.'
+    refueling.editor.FuelPaidByCustomer:
+      de: 'Tarif wurde als "Kraftstoff vom Kunden bezahlt" markiert'
+    rates.FuelMustBePaidByCustomer:
+      de: Kraftstoff vom Kunden bezahlt
+    rates.RentDurationFrom:
+      de: Mietdauer von
+    rates.RentDurationTo:
+      de: Mietdauer bis
+    clients.editor.notification.None:
+      de: Deaktiviert
+    ratepacks.editor.RateInfoUrl:
+      de: Tarifpaket-Info-URL
+    rates.editor.RateInfoUrl:
+      de: Tarif-Info-URL
+    rates.editor.RateCardLinks:
+      de: Links zur Tarifkarte
+    rates.editor.Name:
+      de: Name
+    rates.editor.Url:
+      de: URL
+    zones.AlwaysAvaliable:
+      de: Immer verfügbar
+    zones.AskTakePhotoOfParkTicket:
+      de: Foto vom Parkschein anfordern
+    orderevents.RATEDESCRIPTION:
+      de: Tarifbeschreibung
+    voucher.status.outdated:
+      de: Veraltet
+    voucher.list.validtill:
+      de: Gültig bis
+    aside.nav.vouchers.OUTDATED:
+      de: Veraltet
+    app.erroroccured:
+      de: Fehler
+    aside.nav.EditableFiles:
+      de: Konfigurationen
+    editableFiles.list.Title:
+      de: Titel
+    editableFiles.list.File:
+      de: Datei
+    editableFiles.list.Path:
+      de: Pfad
+    news.editor.removePhotoConfirm:
+      de: Bild wird entfernt. Möchten Sie wirklich fortfahren?
+    aside.nav.news:
+      de: Neuigkeiten
+    news.Title:
+      de: Titel
+    news.Description:
+      de: Beschreibung
+    news.PublishStartDate:
+      de: Veröffentlichungsbeginn
+    news.PublishEndDate:
+      de: Veröffentlichungsende
+    news.Published:
+      de: Veröffentlicht
+    news.SortOrder:
+      de: Sortierreihenfolge
+    organization.editor.BonusesWithdrawalPercent:
+      de: 'Bonusabbuchungs-%'
+    organization.editor.MassTakeOffRatePacks:
+      de: Tarifpakete - entfernen
+    organization.editor.MassTakeOffRates:
+      de: Tarife - entfernen
+    organization.editor.MassTakeOffZones:
+      de: Zonen - entfernen
+    organization.editor.MassTakeOffCustomers:
+      de: Kunden - entfernen
+    organization.editor.MassTakeOffVehicles:
+      de: Fahrzeuge - entfernen
+    organization.editor.MassAssignRatePacks:
+      de: Tarifpakete - zuweisen
+    organization.editor.MassAssignRates:
+      de: Tarife - zuweisen
+    organization.editor.MassAssignZones:
+      de: Zonen - zuweisen
+    organization.editor.MassAssignCustomers:
+      de: Kunden - zuweisen
+    organization.editor.MassAssignCustomersEmail:
+      de: E-Mail
+    organization.editor.MassAssignCustomersPhone:
+      de: Telefonnummer
+    organization.editor.MassAssignAll:
+      de: Alle
+    organization.editor.MassAssignID:
+      de: ID
+    organization.editor.MassAssignVehiclesVIN:
+      de: VIN
+    organization.editor.MassAssignVehiclesRegNumber:
+      de: Kennzeichen
+    organization.editor.MassAssignVehicles:
+      de: Fahrzeuge - zuweisen
+    organization.editor.MassAssign:
+      de: Massenzuweisung
+    zone.editor.EntriesExits:
+      de: Ein-/Ausfahrten
+    zones.Zone:
+      de: Zone
+    zones.Order:
+      de: Bestellung
+    zones.EventType:
+      de: Ereignistyp
+    zones.EventDateTime:
+      de: Ereignisdatum
+    zones.open:
+      de: 'Öffnen...'
+    zones.Title:
+      de: Titel
+    zones.Color:
+      de: Farbe
+    zones.Description:
+      de: Beschreibung
+    cars.map.address:
+      de: Adresse
+    cars.map.coords:
+      de: Koordinaten
+    organizations.ContractNumber:
+      de: Vertragsnummer
+    organizations.TaxId2:
+      de: Steuer-ID 2
+    organizations.TaxId1:
+      de: Steuer-ID 1
+    cars.map.NoColorForOrganization:
+      de: Keine Farbe für Organisation
+    common.and:
+      de: und
+    orders.CarModel:
+      de: Fahrzeugmodell
+    rates.StickToOrderButFilterByZones:
+      de: aber Zonen berücksichtigen
+    rates.StickToOrderButFilterByHours:
+      de: aber Zeit berücksichtigen
+    clients.editor.Contract:
+      de: Vertrag
+    clients.editor.Corporate:
+      de: Geschäftlich
+    clients.editor.Common:
+      de: Kunde
+    clients.editor.Technicals:
+      de: Technisch
+    ratepacks.ViolationsLimit:
+      de: Verstoßlimit
+    clients.editor.ViolationsCount:
+      de: Anzahl der Verstöße
+    orderevents.ClientIpAddress:
+      de: Kunden-IP
+    rates.FreeBookTime:
+      de: Kostenlose Buchung
+    rates.AllowedDebt:
+      de: Schulden erlauben
+    rates.Perks:
+      de: Vorteile
+    voucher.list.samenumber:
+      de: Gleiche Nummer für alle
+    rates.editor.OtherTab:
+      de: 'Sonstiges'
+    rates.editor.PopupUrlToShowOnBook:
+      de: 'URL bei Buchung anzeigen'
+    rates.editor.PopupUrlToShowOnStart:
+      de: 'URL bei Start anzeigen'
+    clients.editor.KBM:
+      de: SF-Klasse
+    rates.KBMLimit:
+      de: SF-Klassen-Limit
+    notifications.ZoneDriveIn:
+      de: Einfahrt in Zone
+    notifications.ZoneDriveOut:
+      de: Ausfahrt aus Zone
+    notifications.EngineSpeedTooHigh:
+      de: Motordrehzahl zu hoch
+    notifications.CheckSelfieNotPassed:
+      de: Selfie nicht erkannt
+    clients.editor.InternalRefund:
+      de: Interne Rückerstattung
+    cars.editor.LeavePackage:
+      de: Paket hinterlassen
+    notifications.HugeDebt:
+      de: Hohe Schulden
+    cars.models.AlwaysAskForSelfie:
+      de: 'Immer um Selfie bitten'
+    clients.list.ID:
+      de: Benutzer-ID
+    clients.takeSelfieSettings.Never:
+      de: Niemals
+    clients.takeSelfieSettings.Always:
+      de: Immer
+    ratemultipliers.nothingSelected:
+      de: Nichts ausgewählt
+    clients.takeSelfieSettings.NotSetted:
+      de: Globale Einstellungen verwenden
+    organizations.NotSetted:
+      de: Nicht festgelegt
+    organizations.MAPCOLOR:
+      de: Fahrzeugfarbe auf der Karte
+    cartasktypes.months:
+      de: Monate
+    cartasktypes.weeks:
+      de: Wochen
+    cartasktypes.days:
+      de: Tage
+    cartasktypes.hours:
+      de: Stunden
+    notify.markers.fuelLevel:
+      de: Kraftstoff-/Ladestand
+    notify.markers.rentState:
+      de: Mietstatus
+    notify.markers.color:
+      de: Markerfarbe
+    cars.map.NoOrganizations:
+      de: Keine Organisationen zugewiesen
+    order.Repair:
+      de: Als gelöst markieren
+    orders.CreateTaskCarBody:
+      de: 'Aufgabe erstellen: Karosserie beschädigt'
+    cars.editor.CONFIRMCREATETASK:
+      de: Möchten Sie wirklich eine Aufgabe erstellen?
+    orders.ProcessedIncluded:
+      de: Verarbeitete einschließen
+    organizations.Technical:
+      de: Technisch
+    cartasktypes.AddToOrganization:
+      de: Zu Organisationen hinzufügen
+    cartasktypes.RemoveFromOrganization:
+      de: Aus Organisationen entfernen
+    organization.editor.UserPromocodesPlaceholder:
+      de: z.B. AAAA;BBBBB;CCCCC
+    organization.editor.UserPromocodes:
+      de: Benutzer mit diesen Promocodes werden der Organisation hinzugefügt
+    organization.editor.UseInCustomFilters:
+      de: In benutzerdefinierten Filtern verwenden
+    zone.editor.removePhotoConfirm:
+      de: Marker wird entfernt. Möchten Sie wirklich fortfahren?
+    zones.editor.removeMarker:
+      de: Marker entfernen
+    rates.RideModeDurationFrom:
+      de: Fahrtmodus-Dauer von
+    rates.RideModeDurationTo:
+      de: Fahrtmodus-Dauer bis
+    rates.MinutesShort:
+      de: m
+    rates.HoursShort:
+      de: h
+    rates.DaysShort:
+      de: T
+    orders.viewer.ORDERPROTOCOLEVENTS:
+      de: Protokollereignisse
+    clients.editor.UserLang:
+      de: Benutzersprache
+    clients.editor.AppVersion:
+      de: App-Version
+    rates.MoveToOrganizationOnRentEnd:
+      de: Fahrzeug bei Mietende in Organisationen verschieben
+    rates.NotifyOperatorsOnRentEnd:
+      de: Operatoren benachrichtigen, wenn Benutzer seine Miete beendet
+    ratemultipliers.selectNone:
+      de: Nichts auswählen
+    ratemultipliers.selectAll:
+      de: Alle auswählen
+    ratemultipliers.NothingSelected:
+      de: Nichts ausgewählt
+    organizations.Requisites:
+      de: Geschäftsdaten
+    orders.SimpleMode:
+      de: Einfacher Modus
+    orders.ExtendedMode:
+      de: Erweiterter Modus
+    clients.editor.penalties.CallbackInProgress:
+      de: Antwort des Zahlungsgateways wurde noch nicht empfangen
+    clients.editor.ApplyPenaltyConfirm:
+      de: Möchten Sie wirklich vom Kunden abbuchen?
+    clients.editor.FromBonuses:
+      de: Mit Boni
+    clients.editor.FromCard:
+      de: Von Karte
+    rates.NoneOfRatesOptions:
+      de: Keiner der vorhandenen
+    rates.DoNotApplyRatesMultipliers:
+      de: Tarifmultiplikatoren nicht anwenden
+    rates.DoNotApplyMarketingCampaigns:
+      de: Marketingkampagnen nicht anwenden
+    clients.editor.CANCELPENALTY:
+      de: Rückerstattung vornehmen
+    clients.editor.CancelBillConfirm:
+      de: Möchten Sie diese Rechnung wirklich stornieren?
+    clients.editor.penalties.CANCELUSER:
+      de: Wer hat storniert
+    clients.editor.CancelBills:
+      de: Rechnungen stornieren
+    aside.nav.cars.REMOVED:
+      de: Gelöscht
+    clients.editor.SelectAll:
+      de: Alle auswählen
+    clients.list.BONUSES:
+      de: Boni
+    clients.editor.BONUSES:
+      de: Boni
+    zones.Activeperiod:
+      de: Aktiver Zeitraum
+    organizations.HoldAmount:
+      de: "Reservierungsbetrag"
+    orders.viewer.CAREVENTS:
+      de: Fahrzeugereignisse
+    orders.viewer.CLIENTEVENTS:
+      de: Kundenereignisse
+    payments.unpaid:
+      de: Unbezahlt
+    clients.editor.TOTALUNPAIDSUM:
+      de: Gesamt unbezahlt
+    clients.editor.penalties.CashBalanceBefore:
+      de: Barguthaben vorher
+    clients.editor.penalties.PAYMENTDATE:
+      de: Zahlungsdatum
+    clients.editor.penalties.AMOUNTFROMCASH:
+      de: Vom Barguthaben
+    clients.editor.penalties.ERROR:
+      de: Zahlungsfehler
+    orders.Discounts:
+      de: Rabatte
+    notifications.UserFinishedRentOnSelectedRatePack:
+      de: Benutzer hat die Miete mit ausgewähltem Abonnement beendet
+    notifications.CarSpeedLimitExceededInZone:
+      de: Geschwindigkeitsüberschreitung in Zone
+    rates.FUELLIMIT:
+      de: Kraftstoffstandlimit
+    rates.EXPLIMIT:
+      de: Fahrpraxis-Limit (Jahre)
+    rates.SortOrder:
+      de: Sortierreihenfolge
+    orders.viewer.client:
+      de: Kunde
+    clients.editor.ChargeBills:
+      de: Rechnungen einziehen
+    clients.editor.TABUNPAID:
+      de: Unbezahlt
+    orders.viewer.car:
+      de: Fahrzeug
+    zones.NOTIFICATIONS_TYPEDriveIn:
+      de: Benachrichtigung beim Einfahren in die Zone
+    zones.CarSpeedLimit:
+      de: Schwellenwert für Geschwindigkeitsalarm
+    cars.editor.forceCommand:
+      de: Befehl erzwingen
+    cars.editor.DefaultLogic:
+      de: Standard
+    orders.SendReport:
+      de: Bestellbericht an Benutzer senden
+    stat.cars.removed:
+      de: Entfernt
+    aside.nav.cars.Removed:
+      de: Entfernt
+    orders.ORDERNUMBER:
+      de: Bestellnummer
+    cars.list.FuelingCardType:
+      de: Tankkartentyp
+    clients.editor.SignUpChat:
+      de: Registrierungs-Chat
+    organizations.CorporateAdmin:
+      de: Admin
+    organizations.ActivePeriod:
+      de: Erlaubte Tage
+    app.YOUTELL:
+      de: Youtell
+    app.CARTREK:
+      de: CarTrek
+    app.GENERICERROR:
+      de: Etwas ist schief gelaufen. Bitte versuchen Sie es erneut
+    app.REMOVECONFIRM:
+      de: Möchten Sie '{{objectName}}' wirklich löschen?
+    app.CANCELCONFIRM:
+      de: Möchten Sie diesen Bericht wirklich abbrechen?
+    app.REMOVEREPORTCONFIRM:
+      de: Möchten Sie diesen Bericht wirklich löschen?
+    app.yes:
+      de: ja
+    app.no:
+      de: nein
+    app.close:
+      de: Schließen
+    app.RowsToLoad:
+      de: Anzahl der Datensätze
+    app.addTag:
+      de: Neues Tag hinzufügen
+    app.NOTSET:
+      de: (Nicht festgelegt)
+    app.FROM:
+      de: von
+    app.TO:
+      de: bis
+    app.APPLY:
+      de: Anwenden
+    app.CLEAR:
+      de: Löschen
+    app.CHECK:
+      de: Validierung
+    app.RETRYCHECK:
+      de: Sum&Substance-Validierung wiederholen
+    app.STARTCHECK:
+      de: Sum&Substance-Validierung starten
+    app.PAGE:
+      de: Seite
+    app.OF:
+      de: von
+    app.ORGANIZATIONS:
+      de: Organisationen
+    app.SEARCH:
+      de: Suchen
+    app.settingsGroups.NOTSORTED:
+      de: Nicht sortiert
+    app.settingsGroups.BILLING:
+      de: Abrechnung
+    app.settingsGroups.BONUSES:
+      de: Boni
+    app.settingsGroups.AUTOMOBILE:
+      de: Fahrzeug
+    app.settingsGroups.REGISTRATION:
+      de: Registrierung
+    app.settingsGroups.NOTIFICATIONS:
+      de: Benachrichtigungen
+    aside.nav.clients.Chats:
+      de: Registrierung
+    app.settingsGroups.SUM&SUBSTANCE:
+      de: Sum&Substance
+    frontend.DownloadDocxRentalConfirmation:
+      de: "Mietbestätigungsdokument herunterladen"
+    app.settingsGroups.SignIn:
+      de: Anmelden
+    app.DOWNLOADACT:
+      de: Abnahmeprotokoll herunterladen
+    app.DOWNLOADCONTRACT:
+      de: Beitrittsvertrag herunterladen
+    check.wantedList:
+      de: Bestenliste
+    check.debtorList:
+      de: Schuldner
+    check.addComment:
+      de: Zum Verlauf hinzufügen
+    check.saveConfirm:
+      de: Daten werden gespeichert. Möchten Sie fortfahren?
+    check.refreshAll:
+      de: Alle aktualisieren
+    check.title:
+      de: "Dokumentenvalidierung von {{clientName}}"
+    check.process:
+      de: Validierung anfordern
+    check.refresh:
+      de: Aktualisieren
+    check.loading:
+      de: wird geladen...
+    check.start:
+      de: Start
+    check.gibdd.decisionsNot:
+      de: Keine Verordnungen
+    check.gibdd.decisions:
+      de: Verordnungen
+    check.gibdd.title:
+      de: Führerscheinvalidierung
+    check.gibdd.bdate:
+      de: Geburtsdatum
+    check.gibdd.date:
+      de: Ausstellungsdatum
+    check.gibdd.srok:
+      de: Gültigkeitsdauer
+    check.gibdd.cat:
+      de: Fahrzeugkategorie
+    check.gibdd.wanted:
+      de: Das Dokument ist ungültig und wird gesucht
+    check.gibdd.ddate:
+      de: Datum der Verordnung
+    check.gibdd.dbplace:
+      de: Geburtsort des Täters
+    check.gibdd.dsrok:
+      de: Dauer des Führerscheinentzugs
+    check.gibdd.dcomment:
+      de: Kommentar
+    check.gibdd.months:
+      de: Monat
+    check.gibdd.dreg_name:
+      de: Registriert
+    check.gibdd.not:
+      de: keine Daten
+    check.fms.title:
+      de: FMS. Validierung des ungültigen Passes
+    check.black.title:
+      de: Carsharing-Schwarze-Liste
+    check.black.success:
+      de: Keine Verstöße gefunden
+    check.fss.title:
+      de: FSSP-Datenbank
+    check.fss.noresults:
+      de: Keine Ergebnisse für Ihre Anfrage gefunden
+    check.fss.more:
+      de: Details...
+    check.gsm.title:
+      de: Mobiltelefon-Validierung
+    check.ffs.title:
+      de: Passvalidierungsdienst
+    check.folter.title:
+      de: Folter
+    check.folter.success:
+      de: Keine Verstöße gefunden
+    check.folter.finded:
+      de: Gefundene Einträge
+    check.drivecrm.title:
+      de: Autovermietung in Minsk. Schuldnerliste.
+    check.drivecrm.noresults:
+      de: Keine Ergebnisse für Ihre Anfrage gefunden
+    check.drivecrm.finded:
+      de: Gefundene Einträge
+    check.blist.title:
+      de: bli.st
+    check.blist.noresults:
+      de: Keine Ergebnisse für Ihre Anfrage gefunden
+    check.blist.finded:
+      de: Gefundene Einträge
+    check.mvdby.title:
+      de: Geschwindigkeitsüberschreitung in Belarus
+    check.namesake.title:
+      de: Übereinstimmung gefunden
+    check.idx.title:
+      de: IDX-Dienstvalidierung
+    check.idx.passportCheck:
+      de: Passvalidierung
+    check.idx.phoneCheck:
+      de: Telefonnummern-Validierung
+    check.penaltypoints.title:
+      de: Strafpunkte
+    check.success:
+      de: Erfolgreich
+    check.unSuccessfull:
+      de: Erfolglos
+    notifications.NewUser:
+      de: 'Neuer Benutzer'
+    notifications.FuelingCardPinRequested:
+      de: "Tankvorgang gestartet"
+    notifications.CarIllegalOpen:
+      de: Fahrzeugöffnung
+    notifications.CustomerIsDebtor:
+      de: Kundensaldo ist negativ
+    notifications.CarTheft:
+      de: Fahrzeugdiebstahl
+    ratesmultiplier.EnabledByDefault:
+      de: 'Standardmäßig aktiviert (für neue Benutzer)'
+    notifications.CarEvacuation:
+      de: Fahrzeugabschleppung
+    notifications.CarStale:
+      de: Bewegungslos
+    notifications.CarDriveZoneOut:
+      de: Außerhalb der Fahrzone
+    notifications.CarRentZoneOut:
+      de: Miete wurde außerhalb des erlaubten Bereichs beendet
+    clients.chats.ID:
+      de: Chat-ID
+    clients.chats.Phone:
+      de: Telefonnummer
+    clients.chats.UserId:
+      de: Benutzer-ID
+    clients.editor.SelectAction:
+      de: Aktion auswählen
+    clients.editor.Execute:
+      de: Ausführen
+    notifications.CarRentZoneAlert:
+      de: Miete wurde in der Alarmzone beendet
+    notifications.CustomerRentStart:
+      de: Kunde hat eine Miete gestartet
+    notifications.CarLowBattery:
+      de: Niedrige Fahrzeugbatterie
+    notifications.alarms:
+      de: Alarme
+    notifications.noAlarms:
+      de: Keine Alarme
+    notifications.alarmsClean:
+      de: Alarme bestätigen
+    notifications.alarmClearing:
+      de: Alarmverarbeitung
+    notifications.alarmClean:
+      de: Alarm bestätigen
+    notifications.forAll:
+      de: Für alle
+    notifications.forMe:
+      de: Nur für mich
+    notifications.loadMore:
+      de: Mehr laden...
+    notifications.cars:
+      de: Fahrzeuge
+    notifications.noCars:
+      de: Keine Fahrzeuge
+    notifications.zones:
+      de: Zonen
+    notifications.noZones:
+      de: Keine Zonen
+    notifications.customers:
+      de: Kunden
+    notifications.noCustomers:
+      de: Keine Kunden
+    notifications.AdminLogin:
+      de: Admin-Anmeldung
+    notifications.FuelLevelDecreased:
+      de: Kraftstoffablass
+    notifications.FuelLevelIncreased:
+      de: Tankvorgang
+    notifications.CarMoveWithHandBrakeOn:
+      de: Bewegung mit angezogener Handbremse
+    notifications.CarSpeedLimitExceeded:
+      de: Geschwindigkeitsüberschreitung
+    notifications.CarIsOffline:
+      de: Fahrzeug ist offline
+    notifications.TroubleReport:
+      de: Ergebnis der Fahrzeuginspektion
+    notifications.CarHoodOpened:
+      de: Motorhaube geöffnet
+    confirm.ACTIONCONFIRMATION:
+      de: Aktionsbestätigung
+    confirm.NOTIFICATION:
+      de: Benachrichtigung
+    confirm.YES:
+      de: Ja
+    confirm.CANCEL:
+      de: Abbrechen
+    confirm.SEND:
+      de: Befehl senden!
+    confirm.NEXT:
+      de: Weiter
+    confirm.PREVIOUS:
+      de: Zurück
+    confirm.CLOSE:
+      de: Schließen
+    confirm.SUBSTRING:
+      de: Teilzeichenfolge in Tracker-ID suchen
+    confirm.FIRST:
+      de: Zum Anfang
+    confirm.SEARCHGROUP:
+      de: Schnellwechsel zwischen Trackern
+    confirm.OK:
+      de: OK
+    confirm.saveAndContinue:
+      de: Speichern und fortfahren
+    header.navbar.PROFILE:
+      de: Profil
+    header.navbar.LOGOUT:
+      de: Abmelden
+    header.navbar.TIMEZONE:
+      de: Zeitzone
+    header.navbar.GMT:
+      de: GMT
+    header.navbar.NOTIFICATION:
+      de: Benachrichtigungen
+    aside.nav.RATESMULTIPLIERS:
+      de: Tarifoptionen
+    aside.nav.WORKSPACE:
+      de: Arbeitsbereich
+    aside.nav.Version:
+      de: Server-Version
+    aside.nav.reports:
+      de: Berichte
+    aside.nav.partners:
+      de: Partner
+    aside.nav.campaigns:
+      de: Kampagnen
+    aside.nav.Marketing:
+      de: Marketing
+    aside.nav.Advertisment:
+      de: Werbung
+    aside.nav.Tags:
+      de: Tags
+    aside.nav.Vouchers:
+      de: Zertifikate
+    aside.nav.Payments:
+      de: Zahlungen
+    aside.nav.FromCards:
+      de: Kartentransaktionen
+    aside.nav.Withdrawals:
+      de: Abbuchungen
+    aside.nav.CanceledWithdrawals:
+      de: Storniert
+    aside.nav.Bonuses:
+      de: Bonusgutschriften
+    aside.nav.CARS:
+      de: Fahrzeuge
+    aside.nav.CarTaskTypes:
+      de: Aufgabentypen
+    aside.nav.MAP:
+      de: Karte
+    aside.nav.CARTASKS:
+      de: Aufgaben
+    aside.nav.cartasks.CALENDAR:
+      de: Kalender
+    aside.nav.cartasks.NOTASSIGNED:
+      de: Nicht zugewiesen
+    aside.nav.cartasks.ACTIVE:
+      de: Aktiv
+    aside.nav.cartasks.DEFFERED:
+      de: Verschoben
+    aside.nav.cartasks.CANCELED:
+      de: Storniert
+    aside.nav.cartasks.DONE:
+      de: Erledigt
+    aside.nav.cartasks.OWN:
+      de: Persönlich
+    aside.nav.cartasks.ARCHIVE:
+      de: Archiv
+    aside.nav.cartasks.DEFECTLISTTITLE:
+      de: Fahrzeuge mit Problemen
+    aside.nav.cartasks.DEFECTLIST:
+      de: Fahrzeuge
+    aside.nav.cartasks.defectlist:
+      de: Mängel
+    aside.nav.cartasks.defectlisttitle:
+      de: Fahrzeugmängel
+    aside.nav.cartasks.ALL:
+      de: Alle
+    aside.nav.CarDefectTypes:
+      de: Mängeltypen
+    aside.nav.NEWMAP:
+      de: Karte v2
+    aside.nav.RATES:
+      de: Minutentarife
+    aside.nav.RatePacks:
+      de: Vorausbezahlte Tarife
+    aside.nav.ZONES:
+      de: Zonen
+    aside.nav.CLIENTS:
+      de: Kunden
+    aside.nav.ORDERS:
+      de: Bestellungen
+    aside.nav.SYSTEM:
+      de: System
+    aside.nav.USERS:
+      de: Benutzer
+    aside.nav.ORGANIZATIONS:
+      de: Organisationen
+    aside.nav.STATISTICS:
+      de: Statistiken
+    aside.nav.CHANGELOG:
+      de: Änderungsprotokoll
+    aside.nav.SYSTEMLOG:
+      de: Systemprotokoll
+    aside.nav.LOCKS:
+      de: Sperren bearbeiten
+    aside.nav.SETTINGS:
+      de: Einstellungen
+    aside.nav.REFUELING:
+      de: Tankvorgänge
+    aside.nav.RESERVES:
+      de: Buchungen
+    aside.nav.MARKERS:
+      de: Marker
+    aside.nav.vouchers.ALL:
+      de: Alle
+    aside.nav.vouchers.WAITING:
+      de: Aktiv
+    aside.nav.vouchers.USED:
+      de: Nicht bezahlt
+    aside.nav.cars.ALL:
+      de: Alle
+    aside.nav.cars.UNREGISTERED:
+      de: Nicht registriert
+    aside.nav.cars.OUTOFDRIVEZONE:
+      de: Außerhalb der Fahrzone
+    aside.nav.cars.OUTOFPARKZONE:
+      de: Außerhalb der Parkzone
+    aside.nav.cars.OUTOFFUEL:
+      de: Wenig Kraftstoff
+    aside.nav.cars.WITHORDER:
+      de: In Miete
+    aside.nav.cars.OFFLINE:
+      de: Offline
+    aside.nav.cars.AVAILABLE:
+      de: Verfügbar
+    aside.nav.cars.NOTLOCKED:
+      de: Nicht gesperrt
+    aside.nav.cars.FAULTY:
+      de: Mit Mängeln
+    aside.nav.cars.INACTIVE:
+      de: Inaktiv
+    aside.nav.cars.LOWVOLTAGE:
+      de: Batterieentladung
+    aside.nav.cars.models:
+      de: Modelle und Marken
+    aside.nav.cars.modelsclasses:
+      de: Modellklasse
+    aside.nav.cars.ALARMZONES:
+      de: Im Alarmzustand
+    aside.nav.carpenalties.TITLE:
+      de: Strafen
+    aside.nav.carpenalties.NOTDEFINED:
+      de: Nicht erkannt
+    aside.nav.carpenalties.NOTPAID:
+      de: Nicht bezahlt
+    aside.nav.carpenalties.ARCHIVE:
+      de: Archiv
+    aside.nav.dicts.dictionaries:
+      de: Wörterbücher
+    aside.nav.refueling.UNPROCESSED:
+      de: Unverarbeitet
+    aside.nav.refueling.WAITPAPERCHECK:
+      de: Auf Papierprüfung warten
+    aside.nav.refueling.BONUSNOTAPPLIED:
+      de: Ohne Boni
+    aside.nav.refueling.EXPIRED:
+      de: Abgelaufen
+    aside.nav.refueling.ARCHIVE:
+      de: Archiv
+    aside.nav.refueling.ALL:
+      de: Alle
+    aside.nav.reserves.CALENDAR:
+      de: Kalender
+    aside.nav.reserves.ACTIVE:
+      de: Aktiv
+    aside.nav.reserves.ARCHIVE:
+      de: Archiv
+    aside.nav.reserves.NEW:
+      de: Neu
+    aside.nav.reserves.WAITCAR:
+      de: Auf Fahrzeug warten
+    aside.nav.reserves.WAITDRIVER:
+      de: Warten - Fahrer
+    aside.nav.reserves.READYDELIVERY:
+      de: Lieferbereit
+    aside.nav.reserves.INDELIVERY:
+      de: In Lieferung
+    aside.nav.reserves.DONE:
+      de: Erledigt
+    aside.nav.reserves.CANCELED:
+      de: Storniert
+    aside.nav.clients.chat:
+      de: Chats
+    aside.nav.clients.ALL:
+      de: Alle
+    aside.nav.clients.AWAITVALIDATION:
+      de: Auf Validierung warten
+    aside.nav.clients.HASACTIVEORDER:
+      de: Mit Bestellung
+    aside.nav.clients.DEBTORSWITHORDERS:
+      de: Schuldner mit Bestellung
+    aside.nav.clients.DEBTORS:
+      de: Schuldner
+    aside.nav.clients.BLOCKED:
+      de: Gesperrt
+    aside.nav.clients.DebtorsWithOrders:
+      de: Schuldner mit Bestellungen
+    aside.nav.clients.POTENTIAL:
+      de: Nicht abgeschlossen
+    aside.nav.clients.PARTNER:
+      de: Vom Partner
+    aside.nav.clients.VALIDATED:
+      de: Validiert
+    aside.nav.clients.WOBANKCARDS:
+      de: Keine Bankkarten
+    aside.nav.orders.all:
+      de: Alle
+    aside.nav.orders.active:
+      de: Aktiv
+    aside.nav.orders.book:
+      de: Reservierung
+    aside.nav.orders.inspect:
+      de: Inspektion
+    aside.nav.orders.park:
+      de: Parken
+    aside.nav.orders.drive:
+      de: Unterwegs
+    aside.nav.changelog.users:
+      de: Benutzer
+    aside.nav.Cards:
+      de: Karten
+    aside.nav.ProblemCards:
+      de: Verdächtige Karten
+    aside.nav.RemovedCards:
+      de: Entfernte Karten
+    aside.nav.DoubledCards:
+      de: Doppelte Karten
+    aside.nav.TICKETS:
+      de: Pakete
+    aside.nav.cartickets.all:
+      de: alle
+    aside.nav.cartickets.active:
+      de: Alle
+    aside.nav.CONDITIONS:
+      de: Zustand
+    aside.nav.inspects:
+      de: Inspektionen
+    aside.nav.mailing:
+      de: Mailings
+    aside.READINESS:
+      de: Projektbereitschaft
+    youtell.linkNotFound:
+      de: Kunde nicht gefunden
+    youtell.linkPlaceHolder:
+      de: Bitte geben Sie den Nachnamen des Kunden für die Verknüpfung ein
+    youtell.link:
+      de: Verknüpfen
+    youtell.unlink:
+      de: Verknüpfung aufheben
+    youtell.unlinkConfirm:
+      de: Möchten Sie die Verknüpfung des Kunden {{displayName}} mit Youtell wirklich aufheben?
+    youtell.alreadyLinked:
+      de: Kunde {{displayName}} ist bereits mit Youtell verknüpft. Wenn Sie fortfahren, wird der Youtell-Account des Kunden verknüpft. Möchten Sie fortfahren?
+    carpenalty.ImportDateTime:
+      de: Importdatum und -uhrzeit
+    carpenalty.OrderNumber:
+      de: Ticketnummer
+    carpenalty.DismissAllPenalties:
+      de: Alle Strafen ins Archiv
+    carpenalty.NotifyDismissAll:
+      de: Strafen werden ins Archiv verschoben. Fortfahren?
+    carpenalty.Car:
+      de: Fahrzeug
+    carpenalty.ViolationDateTime:
+      de: Datum und Uhrzeit des Verstoßes
+    carpenalty.NotificationStatus:
+      de: Benachrichtigungsstatus
+    carpenalty.IssuanceDateTime:
+      de: Ticketdatum
+    carpenalty.from:
+      de: von
+    carpenalty.Article:
+      de: Verstoßartikel
+    carpenalty.Amount:
+      de: Strafbetrag
+    carpenalty.Podrazdelenie:
+      de: Abteilung
+    carpenalty.to:
+      de: bis
+    carpenalty.setCar:
+      de: Angeben
+    carpenalty.Withdraw:
+      de: Abbuchen
+    carpenalty.setCarTitle:
+      de: Geben Sie das Fahrzeug entsprechend der Nummer der Fahrzeugzulassungsbescheinigung (FZB) an
+    carpenalty.carPlaceholder:
+      de: Bitte geben Sie Kennzeichen und Modell des Fahrzeugs ein...
+    carpenalty.setCarConfirm:
+      de: Fahrzeug <b>{{car}}</b> erhält die FZB-Nummer '<b>{{carCdi}}</b>'. Strafbeträge werden neu berechnet. Möchten Sie fortfahren?
+    carpenalty.setCustomerConfirm:
+      de: Kunde <b>{{customer}}</b> wird als Täter identifiziert, danach erhält er eine Benachrichtigung über die Strafe und den Betrag, der von seiner Karte abgebucht wird. Möchten Sie fortfahren?
+    carpenalty.Customer:
+      de: Täter
+    carpenalty.setViolationDateTime:
+      de: Zeitpunkt des Verstoßes festlegen
+    carpenalty.setTimeTitle:
+      de: Datum und Uhrzeit des Verstoßes
+    carpenalty.CarCdi:
+      de: FZB-Nummer
+    carpenalty.PenaltyOrderNumber:
+      de: Verordnungsnummer
+    carpenalty.CarRegNumber:
+      de: Kennzeichen
+    carpenalty.setCustomerDescription:
+      de: 'Um einen Kunden zuzuweisen, der einen Verkehrsverstoß begangen hat, wählen Sie eine der folgenden Aktionen:'
+    carpenalty.setCustomer:
+      de: Täter identifizieren
+    carpenalty.selectCustomerManual:
+      de: 'Kunden manuell auswählen, indem Sie die ersten Buchstaben des Nachnamens eingeben:'
+    carpenalty.selectCustomerFromOrder:
+      de: 'oder die nächste Bestellung zum Zeitpunkt des Verstoßes angeben:'
+    carpenalty.setCustomerTitle:
+      de: Bitte geben Sie die Kunden an, die gegen die Fahrregeln verstoßen haben
+    carpenalty.customerPlaceholder:
+      de: Bitte geben Sie den Nachnamen des Kunden ein
+    carpenalty.customerISNotSet:
+      de: Kunde ist nicht angegeben
+    carpenalty.customerNotified:
+      de: Kunde benachrichtigt
+    carpenalty.customerWaitWithdraw:
+      de: Erwartete Abbuchung von Geldmitteln
+    carpenalty.withdrawCancel:
+      de: stornieren
+    carpenalty.cancelWithdrawConfirm:
+      de: Abbuchung vom Konto wird storniert. Möchten Sie fortfahren?
+    carpenalty.notifyConfirm:
+      de: Kunde wird über die Strafe benachrichtigt, danach werden Strafbetrag und Provision abgebucht. Möchten Sie fortfahren?
+    carpenalty.customerNotNotified:
+      de: Kunde ist nicht benachrichtigt
+    carpenalty.notify:
+      de: benachrichtigen
+    carpenalty.withDrawCanceled:
+      de: Storniert
+    carpenalty.withdraw:
+      de: jetzt abbuchen
+    carpenalty.IsPaid:
+      de: Bei Verkehrspolizei bezahlt
+    carpenalty.IsPaidTrue:
+      de: bezahlt
+    carpenalty.IsPaidFalse:
+      de: nicht bezahlt
+    carpenalty.Comment:
+      de: Kommentar
+    carpenalty.withdrawConfirm:
+      de: Vom Kunden <b>{{customer}}</b> wird eine Strafe in Höhe von <b>{{sum}} {{currency}}</b> abgebucht. Möchten Sie fortfahren?
+    carpenalty.setTimeDescription:
+      de: Bitte geben Sie das genaue Datum und die Uhrzeit des Verstoßes von der Website <a class='text-info' target='_blank' href='http://www.gibdd.ru/check/fines/'>Überprüfung unbezahlter Strafen</a> an.
+    carpenalty.setTimeWithoutOrderConfirm:
+      de: Für den ausgewählten Zeitpunkt wurden keine Bestellungen gefunden. Sie können den Täter manuell in der Liste der unbezahlten Strafen identifizieren. Möchten Sie fortfahren?
+    carpenalty.setTimeWithOrderConfirm:
+      de: "Für den ausgewählten Zeitpunkt wurde die Fahrzeugmiete durch den Kunden ermittelt: <a class='text-info' href='#/modal/customer?id={{customerId}}' target='_blank'>{{customer}}</a>. Die Bestellung fand statt von <b>{{startDateTime | amUtc | amLocal | amDateFormat: 'LLL'}}</b> bis <b>{{endDateTime | amUtc | amLocal | amDateFormat: 'LLL'}}</b>. Der angegebene Kunde wird als Täter identifiziert. Möchten Sie fortfahren?"
+    carpenalty.notifyDismiss:
+      de: Strafe wird ins Archiv verschoben. Möchten Sie fortfahren?
+    carpenalty.dismissTooltip:
+      de: Strafe ins Archiv verschieben
+    advertisment.campaign.NEW:
+      de: Neue Werbekampagne
+    advertisment.campaign.EDIT:
+      de: Bearbeitung der Werbekampagne
+    advertisment.campaign.Partner:
+      de: Partner
+    advertisment.campaign.NAME:
+      de: Name
+    advertisment.campaign.ID:
+      de: ID
+    advertisment.campaign.ADD:
+      de: Hinzufügen
+    advertisment.campaign.list.header:
+      de: Werbekampagnen
+    advertisment.partner.NEW:
+      de: Neuer Partner
+    advertisment.partner.EDIT:
+      de: Bearbeitung des Partners
+    advertisment.partner.ADD:
+      de: Hinzufügen
+    advertisment.partner.NAME:
+      de: Name
+    advertisment.partner.ID:
+      de: ID
+    advertisment.news.list.header:
+      de: Neuigkeiten
+    advertisment.partner.list.header:
+      de: Partner
+    advertisment.mailing.header:
+      de: Mailings
+    advertisment.mailing.ADD:
+      de: Mailing hinzufügen
+    advertisment.mailing.autoupdate:
+      de: Automatisches Aktualisieren
+    advertisment.mailing.table.header:
+      de: Kopfzeile
+    advertisment.mailing.table.status:
+      de: Status
+    advertisment.mailing.table.details:
+      de: Details
+    advertisment.mailing.table.state:
+      de: Zustand
+    advertisment.mailing.table.management:
+      de: Verwaltung
+    advertisment.mailing.table.left:
+      de: Verbleibend
+    advertisment.mailing.status.waiting:
+      de: Wartend
+    advertisment.mailing.status.running:
+      de: Läuft
+    advertisment.mailing.status.stopped:
+      de: Gestoppt
+    advertisment.mailing.status.completed:
+      de: Abgeschlossen
+    advertisment.mailing.status.paused:
+      de: Pausiert
+    advertisment.mailing.status.stop:
+      de: stopp
+    advertisment.mailing.control.stop:
+      de: Stopp
+    advertisment.mailing.control.delete:
+      de: Löschen
+    advertisment.mailing.editor.message.message:
+      de: Nachricht
+    advertisment.mailing.editor.message.title:
+      de: Titel
+    advertisment.mailing.editor.message.text:
+      de: Text
+    advertisment.mailing.editor.message.selectedUsers:
+      de: Ausgewählte Benutzer
+    advertisment.mailing.editor.message.interval:
+      de: Intervall
+    advertisment.mailing.editor.message.mailingPeriod:
+      de: Mailing-Zeitraum
+    advertisment.mailing.editor.message.beginTo:
+      de: Beginn bis
+    advertisment.mailing.editor.message.endTo:
+      de: Ende bis
+    advertisment.mailing.editor.message.autorun:
+      de: Automatischer Start
+    advertisment.mailing.editor.table.headers.status:
+      de: Status
+    advertisment.mailing.editor.table.headers.ride:
+      de: Fahrt
+    advertisment.mailing.editor.table.headers.balance:
+      de: Saldo
+    advertisment.mailing.editor.table.headers.organizations:
+      de: Organisationen
+    advertisment.mailing.editor.table.headers.fullName:
+      de: Vollständiger Name
+    advertisment.mailing.editor.table.headers.email:
+      de: E-Mail
+    advertisment.mailing.editor.newMailing:
+      de: Neues Mailing
+    advertisment.mailing.editor.USERS:
+      de: Benutzer
+    advertisment.mailing.editor.DATA:
+      de: Nachricht
+    advertisment.mailing.editor.selectAllUsers:
+      de: Alle Benutzer auswählen
+    advertisment.mailing.editor.filterByUsers:
+      de: Nach Benutzern filtern
+    advertisment.mailing.editor.filters:
+      de: Filter
+    advertisment.mailing.editor.customers:
+      de: Kunden
+    advertisment.mailing.editor.filter.stats.notChosen:
+      de: Nicht ausgewählt
+    advertisment.mailing.editor.filter.stats.blocked:
+      de: Gesperrt
+    advertisment.mailing.editor.filter.stats.notBlocked:
+      de: Nicht gesperrt
+    advertisment.mailing.editor.filter.stats.success:
+      de: Erfolgreich
+    advertisment.mailing.editor.filter.stats.notSuccess:
+      de: Nicht erfolgreich
+    advertisment.mailing.editor.filter.createDateFilter:
+      de: Erstellungsdatum und -zeit
+    advertisment.mailing.editor.filter.filterByDateOfBirth:
+      de: Geburtsdatum
+    advertisment.mailing.editor.filter.drivingExperienceFilter:
+      de: Filter nach Fahrpraxis
+    advertisment.mailing.editor.filter.filterBySearch:
+      de: Suche
+    advertisment.mailing.editor.filter.filterByTags:
+      de: Tags
+    advertisment.mailing.editor.filter.addFilter:
+      de: Filter hinzufügen
+    advertisment.mailing.editor.filter.numberOfTrips.title:
+      de: Anzahl der Fahrten
+    advertisment.mailing.editor.filter.numberOfTrips.options.notChosen:
+      de: Nicht ausgewählt
+    advertisment.mailing.editor.filter.numberOfTrips.options.equalBy:
+      de: Gleich
+    advertisment.mailing.editor.filter.numberOfTrips.options.maxBy:
+      de: Maximal
+    advertisment.mailing.editor.filter.numberOfTrips.options.minBy:
+      de: Minimal
+    advertisment.mailing.editor.filter.balance.title:
+      de: Saldo
+    advertisment.mailing.editor.filter.balance.options.notChosen:
+      de: Nicht ausgewählt
+    advertisment.mailing.editor.filter.balance.options.equalBy:
+      de: Gleich
+    advertisment.mailing.editor.filter.balance.options.maxBy:
+      de: Maximal
+    advertisment.mailing.editor.filter.balance.options.minBy:
+      de: Minimal
+    advertisment.mailing.editor.filter.organizations.selectAll:
+      de: Alle Organisationen auswählen
+    advertisment.mailing.editor.filter.organizations.selectCustomes:
+      de: Organisationen auswählen
+    advertisment.mailing.NOTFOUND:
+      de: Der Dienst ist derzeit nicht verfügbar
+    tags.NEWTAG:
+      de: Neues Tag hinzufügen
+    tags.NAME:
+      de: Name
+    tags.COMMENT:
+      de: Kommentar
+    tags.USAGE:
+      de: Tag bezieht sich auf
+    tags.USAGE_CARS:
+      de: Fahrzeuge
+    tags.USAGE_CUSTOMERS:
+      de: Kunden
+    tags.USAGE_ZONES:
+      de: Zonen
+    tags.USAGE_CAR_PENALTY:
+      de: Strafen
+    tags.USAGE_ALL:
+      de: Gesamt
+    tags.COLOR:
+      de: Farbe
+    tags.EDITTAG:
+      de: Tag bearbeiten
+    tags.list.USAGE_Car:
+      de: Fahrzeuge
+    tags.list.USAGE_Customer:
+      de: Kunden
+    tags.list.USAGE_Zone:
+      de: Zonen
+    tags.list.USAGE_CarPenalty:
+      de: Strafen
+    tags.list.USAGE_None:
+      de: Deaktiviert
+    tags.list.HEADER:
+      de: Tags
+    tags.list.add:
+      de: Hinzufügen
+    tags.list.name:
+      de: Name
+    tags.list.comment:
+      de: Kommentar
+    tags.list.usage:
+      de: Sichtbarkeit
+    workspace.collapsedName.graph:
+      de: Diagramm
+    workspace.collapsedName.statistics:
+      de: Statistik
+    workspace.list.time:
+      de: Zeit
+    workspace.list.carsUnregistered:
+      de: Fahrzeuge nicht registriert
+    workspace.list.carsOutOfDriveZone:
+      de: Fahrzeuge außerhalb der Fahrzone
+    workspace.list.carsOutOfParkZone:
+      de: Fahrzeuge außerhalb der Parkzone
+    workspace.list.carsWithOrder:
+      de: Fahrzeuge mit Bestellung
+    workspace.list.carsOutOfFuel:
+      de: Fahrzeuge ohne Kraftstoff
+    workspace.list.carsOffline:
+      de: Fahrzeuge offline
+    workspace.list.carsRegistered:
+      de: Fahrzeuge registriert
+    workspace.list.carsAvailable:
+      de: Fahrzeuge verfügbar
+    workspace.list.carsNotLocked:
+      de: Fahrzeuge nicht gesperrt
+    workspace.list.carsLowVoltage:
+      de: Fahrzeuge mit niedriger Spannung
+    workspace.list.carsDangerVoltage:
+      de: Fahrzeuge mit kritischer Spannung
+    workspace.list.carsFault:
+      de: Fahrzeuge mit Mängeln
+    workspace.list.carsAlarmzones:
+      de: Fahrzeuge in Alarmzonen
+    workspace.list.carsInactive:
+      de: Fahrzeuge inaktiv
+    workspace.list.customersTotal:
+      de: Kunden gesamt
+    workspace.list.customersAwaitingValidation:
+      de: Kunden warten auf Validierung
+    workspace.list.customersHasActiveOrder:
+      de: Kunden mit aktiver Bestellung
+    workspace.list.customersDebtors:
+      de: Kunden Schuldner
+    workspace.list.customersDebtorsWithOrders:
+      de: Kunden Schuldner mit Bestellungen
+    workspace.list.customersBlocked:
+      de: Kunden gesperrt
+    workspace.list.customersIncomplete:
+      de: Kunden unvollständig
+    workspace.list.customersValidated:
+      de: Kunden validiert
+    workspace.list.customersWOBankCards:
+      de: Kunden ohne Bankkarten
+    workspace.list.ordersTotal:
+      de: Bestellungen gesamt
+    workspace.list.ordersActive:
+      de: Bestellungen aktiv
+    workspace.list.ordersBook:
+      de: Bestellungen Reservierung
+    workspace.list.ordersPark:
+      de: Bestellungen Parken
+    workspace.list.ordersDrive:
+      de: Bestellungen Fahrt
+    workspace.list.ordersInspect:
+      de: Bestellungen Inspektion
+    workspace.list.refuelingUnprocessed:
+      de: Tankvorgänge unverarbeitet
+    workspace.list.refuelingWaitpapercheck:
+      de: Tankvorgänge auf Papierprüfung warten
+    workspace.list.refuelingBonusnotapplied:
+      de: Tankvorgänge ohne Bonus
+    workspace.list.refuelingExpired:
+      de: Tankvorgänge abgelaufen
+    workspace.list.vouchersNotused:
+      de: Gutscheine nicht verwendet
+    workspace.list.vouchersNotpaid:
+      de: Gutscheine nicht bezahlt
+    workspace.list.cartasksTotal:
+      de: Fahrzeugaufgaben gesamt
+    workspace.list.cartasksNotassigned:
+      de: Fahrzeugaufgaben nicht zugewiesen
+    workspace.list.cartasksAssigned:
+      de: Fahrzeugaufgaben zugewiesen
+    workspace.list.cartasksCanceled:
+      de: Fahrzeugaufgaben storniert
+    workspace.list.cartasksDeffered:
+      de: Fahrzeugaufgaben verschoben
+    workspace.list.cartasksFault:
+      de: Fahrzeugaufgaben mit Mängeln
+    workspace.list.carticketsTotal:
+      de: Fahrzeugtickets gesamt
+    workspace.list.carticketsActive:
+      de: Fahrzeugtickets aktiv
+    workspace.list.carpenaltiesNotdefined:
+      de: Fahrzeugstrafen nicht definiert
+    workspace.list.carpenaltiesNotpaid:
+      de: Fahrzeugstrafen nicht bezahlt
+    voucher.status.active:
+      de: Aktiv
+    voucher.status.canceled:
+      de: Storniert
+    voucher.status.used:
+      de: Verwendet
+    voucher.status.paid:
+      de: Bezahlt
+    voucher.list.group:
+      de: 'Gruppe'
+    voucher.list.maxNumberOfActivations:
+      de: 'Maximale Anzahl der Aktivierungen'
+    voucher.list.cancelConfirm:
+      de: Ausgewählte Gutscheine werden storniert. Wenn Sie bezahlte Gutscheine ausgewählt haben, wird das Häkchen "Bezahlt" entfernt. Möchten Sie fortfahren?
+    voucher.list.paidConfirm:
+      de: Ausgewählte Gutscheine werden als bezahlt markiert. Möchten Sie fortfahren?
+    voucher.list.HEADER:
+      de: Gutscheine
+    voucher.list.add:
+      de: Gutschein hinzufügen
+    voucher.list.agent:
+      de: Partner (der die Gutscheine erhält)
+    voucher.list.agentPlaceholder:
+      de: Bitte Partner nach Namen suchen oder neuen angeben
+    voucher.list.quantity:
+      de: Anzahl der Gutscheine
+    voucher.list.price:
+      de: Kosten pro Gutschein
+    voucher.list.bonuses:
+      de: Boni pro Gutschein
+    voucher.list.description:
+      de: Beschreibung
+    voucher.list.addConfirm:
+      de: 'Neue Gutscheine werden erstellt: {{quantity}} Stück für {{agent.displayName}}. Möchten Sie fortfahren?'
+    voucher.list.creationdate:
+      de: Erstellungsdatum und -uhrzeit
+    voucher.list.creator:
+      de: Ersteller
+    voucher.list.code:
+      de: Code
+    voucher.list.agentName:
+      de: Partnername
+    voucher.list.agentPrice:
+      de: Kosten für Partner
+    voucher.list.status:
+      de: Status
+    voucher.list.customerWhoUsed:
+      de: Wer verwendet hat
+    voucher.list.selectAll:
+      de: Auswahl/Abwahl aller Einträge
+    voucher.list.select:
+      de: Auswählen/Abwählen
+    voucher.list.selectCount:
+      de: 'Ausgewählt: '
+    voucher.list.selectIn:
+      de: Stk.
+    voucher.list.selectPrice:
+      de: 'Im Gesamtbetrag: '
+    voucher.list.actions:
+      de: Aktionen
+    voucher.list.changeDescription:
+      de: Beschreibung ändern
+    voucher.list.cancel:
+      de: Stornieren
+    voucher.list.pay:
+      de: Bezahlt
+    payments.unsuccessful:
+      de: Erfolglose Abbuchung
+    payments.Car:
+      de: Fahrzeug
+    payments.Customer:
+      de: Kunde
+    payments.PhoneNumber:
+      de: Telefonnummer
+    payments.Order:
+      de: Bestellung
+    payments.fromcards.Title:
+      de: Kartentransaktionen
+    payments.withdrawals.Title:
+      de: Abbuchungen
+    payments.bonuses.Title:
+      de: Boni
+    payments.cards.CARD:
+      de: Karte
+    payments.cards.Title:
+      de: Bankkarten
+    payments.cards.ProblemTitle:
+      de: Verdächtige Karten
+    payments.cards.RemovedTitle:
+      de: Entfernte Karten
+    payments.cards.DoubledTitle:
+      de: Doppelte Karten
+    payments.cards.PAYSYSTEM:
+      de: Zahlungssystem
+    payments.cards.CARD_NUMBER:
+      de: Nummer
+    payments.cards.EXPIRES:
+      de: Läuft ab
+    payments.cards.CARDHOLDER:
+      de: Inhaber
+    payments.cards.CUSTOMER:
+      de: Kunde
+    payments.cards.BANKNAME:
+      de: Bank
+    payments.cards.COUNTRY:
+      de: Land
+    payments.cards.PROVIDER:
+      de: Gateway
+    payments.cards.CREATE_DATE:
+      de: Erstellungsdatum
+    payments.cards.LASTPAYMENTDATE:
+      de: Letzte Zahlung
+    payments.cards.REMOVECARD:
+      de: Karte wurde gelöscht
+    payments.cards.RESTORECARD:
+      de: Karte wurde wiederhergestellt
+    payments.cards.Default:
+      de: Aktive Karte
+    payments.cards.MakeDefault:
+      de: Als aktiv auswählen
+    reserves.calendar.HEADER:
+      de: Kalender der Fahrzeugreservierungen
+    reserves.calendar.Add:
+      de: Eintrag hinzufügen
+    reserves.calendar.Today:
+      de: Heute
+    reserves.calendar.Day:
+      de: Tag
+    reserves.calendar.Week:
+      de: Woche
+    reserves.calendar.Month:
+      de: Monat
+    reserves.editor.New:
+      de: Reservierung hinzufügen
+    reserves.editor.Edit:
+      de: Reservierung bearbeiten
+    reserves.editor.Car:
+      de: Gemietetes Fahrzeug
+    reserves.editor.carPlaceholder:
+      de: Bitte Kennzeichen eingeben
+    reserves.editor.DateTimeFrom:
+      de: Datum und Uhrzeit des Mietbeginns
+    reserves.editor.DateTimeTo:
+      de: Datum und Uhrzeit des Mietendes
+    reserves.editor.AllDay:
+      de: Ganztägig
+    reserves.editor.Description:
+      de: Beschreibung
+    reserves.editor.Customer:
+      de: Kunde (optional)
+    reserves.editor.customerPlaceholder:
+      de: Bitte Nachnamen, E-Mail und Telefonnummer eingeben...
+    reserves.list.HEADER:
+      de: Reservierungen
+    reserves.list.add:
+      de: Hinzufügen
+    reserves.list.CreationDateTime:
+      de: Erstellungsdatum und -uhrzeit
+    reserves.list.CreatorName:
+      de: Wer hat erstellt
+    reserves.list.Car:
+      de: Fahrzeug
+    reserves.list.DateTimeFrom:
+      de: Startdatum und -uhrzeit
+    reserves.list.DateTimeTo:
+      de: Ablaufdatum und -uhrzeit
+    reserves.list.Customer:
+      de: Kunde
+    reserves.list.exportToXlsx:
+      de: Nach Excel exportieren...
+    reserves.list.selectDateTimeInterval:
+      de: Bitte Datumsbereich für Export auswählen
+    reserves.list.intervalStart:
+      de: Beginn des Intervalls
+    reserves.list.intervalStop:
+      de: Ende des Intervalls
+    reserves.list.DATEFILTER:
+      de: Nach Mietdatum filtern
+    refueling.camefrom.email:
+      de: E-Mail
+    refueling.camefrom.other:
+      de: Andere
+    refueling.camefrom.others:
+      de: Andere
+    refueling.camefrom.messenger:
+      de: Messenger
+    refueling.camefrom.whatsapp:
+      de: WhatsApp
+    refueling.camefrom.telegram:
+      de: Telegram
+    refueling.camefrom.facebook:
+      de: Facebook
+    refueling.camefrom.viber:
+      de: Viber
+    refueling.camefrom.skype:
+      de: Skype
+    refueling.camefrom.weechat:
+      de: WeChat
+    refueling.camefrom.line:
+      de: Line
+    refueling.camefrom.slack:
+      de: Slack
+    refueling.editor.ActualFueled:
+      de: 'Vom Sensor gemessen:'
+    refueling.editor.fuel:
+      de: Kraftstoff
+    refueling.editor.removePhoto:
+      de: Beleg löschen
+    refueling.editor.removePhotoConfirm:
+      de: Beleg wird gelöscht. Möchten Sie fortfahren?
+    refueling.editor.New:
+      de: Neuer Tankvorgang
+    refueling.editor.Edit:
+      de: Tankvorgang bearbeiten
+    refueling.editor.CameFrom:
+      de: Beleg eingegangen über
+    refueling.editor.ChekPhotos:
+      de: Foto des Belegs
+    refueling.editor.RefuelingData:
+      de: Tankvorgangsinformationen
+    refueling.editor.СameFromDescription:
+      de: Beschreibung
+    refueling.editor.CameFromDescription:
+      de: Beschreibung
+    refueling.editor.loadNewChekPhoto:
+      de: Klicken, um neues Beleg-Foto hochzuladen
+    refueling.editor.CheckPhotosConfirmed:
+      de: Belegfotos sind bestätigt
+    refueling.editor.RefuelingDate:
+      de: Belegdatum
+    refueling.editor.RefuelingDateTime:
+      de: Datum und Uhrzeit des Tankvorgangs
+    refueling.editor.RefuelingTime:
+      de: Belegzeit
+    refueling.editor.RefuelingTimeH:
+      de: Std.
+    refueling.editor.RefuelingTimeM:
+      de: Min.
+    refueling.editor.loadPhotoDescription:
+      de: Bitte laden Sie Fotos der Belege hoch und geben Sie Datum und Uhrzeit des Tankvorgangs an
+    refueling.editor.Amount:
+      de: Getankt
+    refueling.editor.AmountMeasure:
+      de: l.
+    refueling.editor.Customer:
+      de: Kunde
+    refueling.editor.customerPlaceholder:
+      de: Bitte Nachnamen, E-Mail und Telefonnummer eingeben...
+    refueling.editor.PaperCheckConfirmed:
+      de: Papierbelege erhalten
+    refueling.editor.orderPlaceholder:
+      de: Beginnen Sie mit der Eingabe des Kennzeichens
+    refueling.editor.Order:
+      de: Bestellung
+    refueling.editor.Cost:
+      de: Kosten
+    refueling.editor.notEnd:
+      de: Nicht abgeschlossen
+    refueling.editor.BonusNotEnrolled:
+      de: Bonus wird nicht angerechnet
+    refueling.editor.BonusEnrolled:
+      de: Angerechnet
+    refueling.editor.ByCreditCard:
+      de: Mit Tankkarte bezahlt
+    refueling.list.HEADER:
+      de: Tankvorgänge
+    refueling.list.add:
+      de: Hinzufügen
+    refueling.list.addCheck:
+      de: Beleg hinzufügen
+    refueling.list.DATETIME:
+      de: Tankdatum
+    refueling.list.CAMEFROM:
+      de: Beleg eingegangen über
+    refueling.list.CHECKATTACHED:
+      de: Angehängter Beleg
+    refueling.list.AMOUNT:
+      de: Menge
+    refueling.list.CUSTOMER:
+      de: Kunde
+    refueling.list.COST:
+      de: Preis
+    refueling.list.DATEFILTER:
+      de: Nach Tankdatum filtern
+    access.signin.SIGNIN:
+      de: Bitte anmelden, um fortzufahren
+    access.signin.PASSWORD:
+      de: Passwort
+    access.signin.LOG_IN:
+      de: Anmelden
+    access.signin.LOGIN:
+      de: Login-Name
+    access.404.TOAPP:
+      de: Zur App zurückkehren
+    access.404.SIGNIN:
+      de: Anmelden
+    clients.list.DATEFILTER:
+      de: Nach Erstellungsdatum filtern
+    clients.list.ExportXlsx:
+      de: Nach Excel exportieren
+    clients.list.Charge:
+      de: Alle Schulden abbuchen
+    clients.list.CustomerIsUnderSupervision:
+      de: Kunde ist zur Kontrolle markiert
+    clients.list.CustomerIsDebtor:
+      de: Kundensaldo ist negativ, aber der Kunde nutzt das Fahrzeug weiterhin
+    clients.list.Car:
+      de: Fahrzeug
+    clients.list.PromoCode:
+      de: Promocode
+    clients.list.FriendsPromoCode:
+      de: Promocode von Freunden
+    clients.list.ReferalsCount:
+      de: Empfehlungen
+    clients.list.CLIENTS:
+      de: Kunden
+    clients.list.CHECK:
+      de: Dokumentenvalidierung
+    clients.list.NAME:
+      de: Name
+    clients.list.EMAIL:
+      de: E-Mail
+    clients.list.COMMENT:
+      de: Beschreibung
+    clients.list.STATUS:
+      de: Status
+    clients.list.PHONE:
+      de: Telefonnummer
+    clients.list.BLK:
+      de: Sperren
+    clients.list.APRV:
+      de: Genehmigen
+    clients.list.ADM:
+      de: Unsere
+    clients.list.FREE:
+      de: Kostenlos
+    clients.list.BALANCE:
+      de: Saldo
+    clients.list.DEBTDATE:
+      de: Schuldendatum
+    clients.list.SEARCH:
+      de: Suchen...
+    clients.list.CREATIONDATE:
+      de: Erstellungsdatum
+    clients.list.Add:
+      de: Kunde hinzufügen...
+    clients.list.Run24:
+      de: Kilometerstand 24 Std.
+    clients.list.TotalRun:
+      de: Gesamtkilometerstand
+    clients.list.km:
+      de: km
+    clients.list.SumNSubStatus.Title:
+      de: Sum&Sub-Status
+    clients.list.SumNSubStatus.Unknown:
+      de: Unbekannt
+    clients.list.SumNSubStatus.Processing:
+      de: In Bearbeitung
+    clients.list.SumNSubStatus.Success:
+      de: Genehmigt
+    clients.list.SumNSubStatus.Fail:
+      de: Nicht genehmigt
+    clients.list.SumNSubStatus.PendingForImages:
+      de: Wartend
+    clients.list.Blocking:
+      de: Sperrkontrolle
+    clients.list.Approving:
+      de: Genehmigt
+    clients.list.SendEmail:
+      de: Möchten Sie eine E-Mail senden?
+    clients.list.IdxStatus.Title:
+      de: IDX-Status
+    clients.list.IdxStatus.None:
+      de: Unbekannt
+    clients.list.IdxStatus.PassportAndPhone:
+      de: Personalausweis und Telefonnummer wurden erfolgreich geprüft
+    clients.list.IdxStatus.Passport:
+      de: Personalausweis wurde erfolgreich geprüft
+    clients.list.IdxStatus.Phone:
+      de: Telefonnummer wurde erfolgreich geprüft
+    clients.editor.AndroidAdvertisingId:
+      de: Android-ID
+    clients.editor.AppleIdfa:
+      de: Apple IDFA
+    clients.editor.ClientHasDuplicates:
+      de: Kunde ist ein potenzielles Duplikat
+    clients.editor.UserHasOrderNow:
+      de: Benutzer hat aktuell eine aktive Bestellung
+    clients.editor.RatesMultipliers:
+      de: Tarifoption
+    clients.editor.PreHoldSetting:
+      de: Kautionsreservierung
+    clients.editor.EmailNotVerified:
+      de: E-Mail nicht verifiziert
+    clients.editor.VerificationCodeExpires:
+      de: Verifizierungscode läuft ab
+    clients.editor.ResendVerificationCode:
+      de: erneut senden
+    clients.editor.PromoCode:
+      de: Promocode
+    clients.editor.PromoCodeValue:
+      de: Boni für Promocode
+    clients.editor.Comments:
+      de: Kommentare
+    clients.editor.commentEmpty:
+      de: 'Sie haben keine Kommentare zum Kunden hinterlassen. Vergessen Sie nicht, den Kunden beim Schreiben des Kommentars zu bewerten:'
+    clients.editor.commentAddToList:
+      de: Nachricht zu den Kommentaren hinzufügen
+    clients.editor.commentPlaceholder:
+      de: Bitte geben Sie den Kommentar ein und drücken Sie die Schaltfläche "Kommentar hinzufügen".
+    clients.editor.search:
+      de: suchen
+    clients.editor.addcomment:
+      de: Kommentar hinzufügen
+    clients.editor.applychanges:
+      de: Änderungen anwenden
+    clients.editor.cancel:
+      de: Abbrechen
+    clients.editor.removeCommentConfirm:
+      de: Kommentar wird gelöscht. Möchten Sie fortfahren?
+    clients.editor.commentMarkBad:
+      de: Bewertung um 1 verringert
+    clients.editor.commentMarkGood:
+      de: Bewertung um 1 erhöht
+    clients.editor.commentMarkNormal:
+      de: Bewertung ändert sich nicht
+    clients.editor.rating:
+      de: Bewertung
+    clients.editor.DateMask:
+      de: TT.MM.JJJJ
+    clients.editor.CHAT:
+      de: Chat
+    clients.editor.NotYoutellClient:
+      de: Kunde ist nicht mit Youtell verbunden. Bitte den Chat öffnen, um die Kunden zu verknüpfen.
+    clients.editor.TAKENDATE:
+      de: Aufnahmedatum
+    clients.editor.GoToChat:
+      de: Zum Chat
+    clients.editor.EVENTS:
+      de: Register
+    clients.editor.PaymentReason:
+      de: Abbuchungsgrund
+    clients.editor.BonusReason:
+      de: Grund für Bonusgutschrift
+    clients.editor.BankCard:
+      de: Bankkarte
+    clients.editor.WithInsurance:
+      de: Mit Versicherung
+    clients.editor.UnderSupervision:
+      de: Unter Kontrolle
+    clients.editor.MakeZeroBalance:
+      de: Schulden bezahlen
+    clients.editor.PassportNumber:
+      de: Pass-Serie und -Nummer
+    clients.editor.PassportDate:
+      de: Ausstellungsdatum des Passes
+    clients.editor.PassportIssued:
+      de: Pass ausgestellt von
+    clients.editor.DriversLicenceNumber:
+      de: Führerschein-Serie und -Nummer
+    clients.editor.DriversLicenceDate:
+      de: Ausstellungsdatum des Führerscheins
+    clients.editor.DriverSince:
+      de: Beginn der Fahrpraxis
+    clients.editor.HomeAddress:
+      de: Registrierungsadresse
+    clients.editor.BirthDate:
+      de: Geburtsdatum
+    clients.editor.Upload:
+      de: Hochladen
+    clients.editor.NewCustomer:
+      de: Neuer Kunde
+    clients.editor.Password:
+      de: Passwort
+    clients.editor.PasswordPlaceholder:
+      de: Bitte ausfüllen, wenn Sie ändern möchten
+    clients.editor.CLIENTSCARD:
+      de: Kunde
+    clients.editor.SURNAME:
+      de: Nachname
+    clients.editor.NAME:
+      de: Name
+    clients.editor.PATRONYMIC:
+      de: Vatersname
+    clients.editor.BALANCE:
+      de: Saldo
+    clients.editor.ID:
+      de: ID
+    clients.editor.TABMAIN:
+      de: Daten
+    clients.editor.TABDOCUMENTS:
+      de: Dokumente
+    clients.editor.TAKEDATE:
+      de: Aufnahmedatum
+    clients.editor.CANTDISPLAY:
+      de: Konnte nicht ermittelt werden
+    clients.editor.VALIDATION:
+      de: In Validierung
+    clients.editor.ACCEPTED:
+      de: Akzeptiert
+    clients.editor.Accept:
+      de: Akzeptieren
+    clients.editor.Decline:
+      de: Ablehnen
+    clients.editor.NotAccepted:
+      de: Nicht akzeptiert
+    clients.editor.TABORDERS:
+      de: Fahrten
+    clients.editor.TABPAYMENTS:
+      de: Kartenzahlungen
+    clients.editor.TABPENALTIES:
+      de: Abbuchungen
+    clients.editor.ISAPPROVED:
+      de: Kunde wurde von Sicherheit genehmigt
+    clients.editor.BLOCKED:
+      de: Gesperrt
+    clients.editor.ORGANIZATIONS:
+      de: Organisationen
+    clients.editor.COMMONCUSTOMER:
+      de: Nicht Mitglied einer Organisation
+    clients.editor.ALLOWFREERIDE:
+      de: Kann ohne Zahlung fahren
+    clients.editor.BILLTHECUSTOMER:
+      de: Abbuchen
+    clients.editor.APPLYPENALTY:
+      de: Abbuchen
+    clients.editor.ADDBONUS:
+      de: Gutschreiben
+    reports.Initiator:
+      de: Initiator
+    clients.editor.BONUSESADDED:
+      de: Der Betrag wurde dem Bonuskonto gutgeschrieben
+    clients.editor.TABBONUSES:
+      de: Boni
+    clients.editor.PAYMENTREFUNDREQUES:
+      de: Rückerstattungsanforderung gesendet
+    clients.editor.CHECK:
+      de: Prüfen
+    clients.editor.payments.DATETIME:
+      de: Datum und Uhrzeit
+    clients.editor.payments.TRANSACTION:
+      de: Transaktionsnummer
+    clients.editor.payments.SUM:
+      de: Betrag
+    clients.editor.payments.TYPE:
+      de: Typ
+    clients.editor.payments.REFUND:
+      de: Rückerstattung
+    clients.editor.billingcode.BonusesBilled:
+      de: Abbuchung vom Bonuskonto
+    clients.editor.billingcode.BankCardBilled:
+      de: Wird von der Bankkarte abgebucht
+    clients.editor.billingcode.CashBalanceBilled:
+      de: Wird vom Saldo abgebucht
+    clients.editor.billingcode.FailedAmountMustBeAPositiveNumber:
+      de: Vorgang fehlgeschlagen - Abbuchungsbetrag muss größer als 0 sein
+    clients.editor.penalties.DeclinedByPaymentSystem:
+      de: Vom Zahlungssystem abgelehnt. Abbuchung von der Karte fehlgeschlagen.
+    clients.editor.penalties.BalanceBefore:
+      de: Saldo vorher
+    clients.editor.penalties.BalanceAfter:
+      de: Saldo nachher
+    clients.editor.penalties.DATETIME:
+      de: Datum und Uhrzeit
+    clients.editor.penalties.AMOUNTFROMCARD:
+      de: Angeforderter Betrag
+    clients.editor.penalties.AMOUNTFROMBONUSES:
+      de: Abgebuchte Boni
+    clients.editor.penalties.DESCRIPTION:
+      de: Kommentar
+    clients.editor.penalties.TRANSACTION:
+      de: Transaktion
+    clients.editor.penalties.WHOAPPLIED:
+      de: Wer hat angewendet
+    clients.editor.penalties.TOTALAMOUNT:
+      de: Gesamtbetrag
+    clients.editor.penalties.ERRORMESSAGE:
+      de: Fehlermeldung
+    clients.editor.bonuses.DATETIME:
+      de: Datum und Uhrzeit
+    clients.editor.bonuses.AMOUNT:
+      de: Betrag
+    clients.editor.holding.BALANCE:
+      de: Reservierter Saldo
+    clients.editor.holding.CONFIRM:
+      de: Bestätigen
+    clients.editor.holding.HOLD:
+      de: Reservieren
+    clients.editor.holding.CANCEL:
+      de: Abbrechen
+    clients.editor.holding.CLOSE:
+      de: Schließen
+    clients.editor.holding.HOLDSUCCESS:
+      de: Erfolgreich reserviert
+    clients.editor.holding.CONFIRMSUCCESS:
+      de: Erfolgreich vom Reservierungskonto abgebucht
+    clients.editor.holding.CANCELSUCCESS:
+      de: Zahlung erfolgreich storniert
+    clients.editor.holding.CLOSESUCCESS:
+      de: Zahlung erfolgreich abgeschlossen
+    clients.editor.holding.PAYMENTTYPE0:
+      de: Aufladung
+    clients.editor.holding.PAYMENTTYPE1:
+      de: Rückerstattung
+    clients.editor.holding.PAYMENTTYPE2:
+      de: Reservierung
+    clients.editor.holding.PAYMENTTYPE3:
+      de: Zahlungsbestätigung
+    clients.editor.holding.PAYMENTTYPE4:
+      de: Abbrechen
+    clients.editor.SUM:
+      de: Betrag
+    clients.editor.FailedUserHasNoBankCard:
+      de: Der Kunde hat keine Kartendaten angegeben
+    clients.editor.ChargeUsersDebt:
+      de: Schulden bezahlen
+    clients.editor.CHARGEDEBT:
+      de: Zu zahlender Betrag
+    clients.editor.CHARGE:
+      de: Bezahlen
+    clients.orders.ORDERS:
+      de: Bestellungen
+    clients.preHoldSettings.NotSetted:
+      de: Globale Einstellung verwenden
+    clients.preHoldSettings.Always:
+      de: Vor jeder Bestellung reservieren
+    clients.preHoldSettings.Never:
+      de: Niemals reservieren
+    potentialClients.list.EMAIL:
+      de: E-Mail
+    potentialClients.list.PHONENUMBER:
+      de: Telefonnummer
+    potentialClients.list.CREATIONDATE:
+      de: Erstellungsdatum
+    potentialClients.list.LASTUPDATEDATE:
+      de: Zuletzt aktualisiert
+    potentialClients.list.FIRSTNAME:
+      de: Name
+    potentialClients.list.PATRONYMIC:
+      de: Vatersname
+    potentialClients.list.LASTNAME:
+      de: Nachname
+    system.users.EVENTS:
+      de: Ereignisprotokoll
+    system.users.PhoneNumber:
+      de: Telefonnummer
+    system.users.USERS:
+      de: Benutzer
+    system.users.NAME:
+      de: Name
+    system.users.SURNAME:
+      de: Nachname
+    system.users.PATRONYMIC:
+      de: Vatersname
+    system.users.LOGIN:
+      de: Login
+    system.users.EMAIL:
+      de: E-Mail
+    system.users.RIGHTS:
+      de: Rechte
+    system.users.BLOCKED:
+      de: Gesperrt
+    system.users.ADMIN:
+      de: Alles erlaubt
+    system.users.PASSWORD:
+      de: Passwort
+    system.users.ADDUSER:
+      de: Benutzer hinzufügen
+    system.users.USEREDIT:
+      de: Benutzer bearbeiten
+    system.users.NEWUSER:
+      de: Neuer Benutzer
+    system.users.BLK:
+      de: Sperren
+    system.users.ADM:
+      de: Admin
+    system.users.DRV:
+      de: Fahrer
+    system.users.DRIVE:
+      de: Fahrer
+    system.users.USERDATA:
+      de: Benutzerdaten
+    system.users.ALARMS:
+      de: Alarmbenachrichtigungen
+    system.users.notify.telegram:
+      de: "Per Telegram benachrichtigen"
+    system.users.notify.web:
+      de: Per Web-Oberfläche benachrichtigen
+    system.users.notify.email:
+      de: Per E-Mail benachrichtigen
+    system.users.notify.sms:
+      de: Per SMS benachrichtigen
+    system.users.notify.allTelegram:
+      de: "Telegram"
+    system.users.notify.allWeb:
+      de: Per Web-Oberfläche benachrichtigen (Auswahl/Abwahl)
+    system.users.notify.allEmail:
+      de: Per E-Mail benachrichtigen (Auswahl/Abwahl)
+    system.users.notify.allSms:
+      de: Per SMS benachrichtigen (Auswahl/Abwahl)
+    system.users.IPLIST:
+      de: IP-Liste
+    grid.ACTIONCONFIRMATION:
+      de: Bestätigte Aktionen
+    grid.YES:
+      de: Ja
+    grid.CANCEL:
+      de: Abbrechen
+    grid.REMOVECONFIRM:
+      de: Möchten Sie wirklich löschen
+    grid.ERROR:
+      de: Fehler
+    grid.CONNECTIONERROR:
+      de: Serververbindungsfehler
+    grid.OK:
+      de: OK
+    gsm.PHONENOTVALID:
+      de: Telefonnummer ist ungültig!
+    gsm.ICCDNOTVALID:
+      de: ICCD-Formatfehler!
+    gsm.LOADING:
+      de: Informationen werden angefordert...
+    gsm.ONLINE:
+      de: Von Basisstation sichtbar
+    gsm.OFFLINE:
+      de: Von Basisstation nicht gefunden
+    gsm.NOTFOUND:
+      de: Karte nicht gefunden
+    gsm.NOTACTIVATED:
+      de: Karte ist nicht aktiviert
+    gsm.WRONGICCID:
+      de: 'Falsche ICCID, die korrekte ist: '
+    gsm.WRONGPHONE:
+      de: 'Falsche Telefonnummer, die korrekte ist: '
+    gsm.DATALIMITREACHED:
+      de: Limit erreicht!
+    gsm.DATAUSED:
+      de: 'Verwendet '
+    gsm.BALANCE:
+      de: Saldo
+    gsm.NODATA:
+      de: Keine Informationen
+    cars.list.FuelingCardNumber:
+      de: Tankkartennummer
+    cars.list.FuelingCardPIN:
+      de: PIN der Tankkarte
+    cars.list.ExportXlsx:
+      de: Tabelle in Excel exportieren
+    cars.list.IdleTime:
+      de: Leerlaufzeit
+    cars.list.AlarmBatteryLow:
+      de: Batterieentladung
+    cars.list.AlarmFinishedInZone:
+      de: Bestellung ist abgeschlossen
+    cars.list.AlarmHijack:
+      de: Fahrzeugdiebstahl
+    cars.list.AlarmTamper:
+      de: Öffnung
+    cars.list.AlarmTow:
+      de: Abschleppung
+    cars.list.Alarm:
+      de: Alarm
+    cars.list.AlarmStale:
+      de: Ohne Bewegung
+    cars.list.CreationDate:
+      de: Erstellungsdatum
+    cars.list.Reserve:
+      de: Miete
+    cars.list.Zone:
+      de: Zone
+    cars.list.Customer:
+      de: Kunde
+    cars.list.ResetCarAlarm:
+      de: Fahrzeugwarnung zurücksetzen
+    cars.list.ZONES:
+      de: Zonen
+    cars.list.Voltage:
+      de: Spannung
+    cars.list.CARS:
+      de: Fahrzeuge
+    cars.list.DATEFILTER:
+      de: Nach Datum filtern
+    cars.list.ADDCAR:
+      de: Fahrzeug hinzufügen
+    cars.list.NEWCAR:
+      de: Neues Fahrzeug
+    cars.list.CAREDITING:
+      de: Fahrzeug bearbeiten
+    cars.list.CAR:
+      de: Fahrzeug
+    cars.list.BRAND:
+      de: Marke
+    cars.list.MODEL:
+      de: Modell
+    cars.list.REGNUMBER:
+      de: Kennzeichen
+    cars.list.OWNER:
+      de: Eigentümer
+    cars.list.TRACKERID:
+      de: Tracker-ID
+    cars.list.PHONE1:
+      de: Telefon 1
+    cars.list.PHONE2:
+      de: Telefon 2
+    cars.list.PHONE:
+      de: Telefonnummer
+    cars.list.ICCID:
+      de: ICCID
+    cars.list.IMSI:
+      de: IMSI
+    cars.list.SIMINFO:
+      de: Informationen
+    cars.list.SIM1:
+      de: SIM-Karte 1
+    cars.list.SIM2:
+      de: SIM-Karte 2
+    cars.list.BLUETOOTH:
+      de: Bluetooth installiert
+    cars.list.COLOR:
+      de: Farbe
+    cars.list.COMMENT:
+      de: Kommentar
+    cars.list.ACT:
+      de: Verfügbar
+    cars.list.ACTIVE:
+      de: Für Kunden verfügbar
+    cars.list.IDENTIFIER:
+      de: Kennung
+    cars.list.IsOnline:
+      de: Online
+    cars.list.EngineSpeed:
+      de: Motordrehzahl
+    cars.list.Fuel:
+      de: Kraftstoff
+    cars.list.FuelConsumption:
+      de: Kraftstoffverbrauch
+    cars.list.GSMLevel:
+      de: GSM
+    cars.list.GPSLevel:
+      de: GPS
+    cars.list.IsEngineStarted:
+      de: Motor
+    cars.list.IsIgnitionTurnedOn:
+      de: Zündung
+    cars.list.IsDoorsClosed:
+      de: Türen
+    cars.list.IsLocked:
+      de: Sperre
+    cars.list.Lat:
+      de: Breitengrad
+    cars.list.Lon:
+      de: Längengrad
+    cars.list.Altitude:
+      de: Höhe
+    cars.list.Mileage:
+      de: Kilometerstand
+    cars.list.Azimuth:
+      de: Azimut
+    cars.list.Speed:
+      de: Geschwindigkeit
+    cars.list.Uptime:
+      de: Betriebszeit
+    cars.list.Immobilized:
+      de: Immobilisiert
+    cars.list.ImmoOn:
+      de: Blockiert
+    cars.list.NoPhone:
+      de: Das Fahrzeug hat keine Telefonnummer. Der Systembetrieb kann fehlerhaft sein! Geben Sie die Telefonnummer in der Fahrzeugkarte ein. Die Telefonnummer kann von der Diagnosekarte des Fahrzeugs oder dem persönlichen Konto des GSM-Anbieters über ICCID bezogen werden
+    cars.list.Comments:
+      de: Kommentare
+    cars.list.ClearUnregisteredDisconnected:
+      de: Aus der Liste der nicht registrierten Fahrzeuge ohne Verbindung entfernen
+    cars.list.CDI:
+      de: CDI-Nummer
+    cars.list.NotAvailableDescription:
+      de: Das Fahrzeug ist nicht verfügbar oder in Partnermiete
+    cars.list.NotAvailable:
+      de: Belegt
+    cars.list.VIN:
+      de: VIN
+    cars.list.AlarmElectricScooterError:
+      de: "Elektroroller-Fehler"
+    cars.list.AlarmHoodOpened:
+      de: Motorhaube geöffnet
+    cars.editor.Run:
+      de: Kilometerstand
+    cars.editor.Discount:
+      de: Fahrzeug mit Rabatt
+    cars.editor.CONFIRMREPAIR:
+      de: Möchten Sie den Mangel als behoben markieren?
+    cars.editor.TROUBLES:
+      de: Mängel
+    cars.editor.On:
+      de: An
+    cars.editor.Off:
+      de: Aus
+    cars.editor.HandBrake:
+      de: Handbremse
+    cars.editor.HandBrakeOn:
+      de: Handbremse angezogen
+    cars.editor.HandBrakeOff:
+      de: Handbremse gelöst
+    cars.editor.LowWasherFluid:
+      de: Niedriger Scheibenwischerflüssigkeitsstand
+    cars.editor.Log:
+      de: IoT-Protokoll
+    cars.editor.HwmLog:
+      de: Protokoll
+    cars.editor.Last:
+      de: Letzte
+    cars.editor.AllDays:
+      de: Alle Tage
+    cars.editor.ServerLog:
+      de: Serverprotokoll
+    cars.editor.Arming:
+      de: Türen mit Verriegelung
+    cars.editor.Light:
+      de: Scheinwerfer
+    cars.editor.LightsOn:
+      de: Scheinwerfer an
+    cars.editor.LightsOff:
+      de: Scheinwerfer aus
+    cars.editor.makeandmodel:
+      de: Marke und Modell
+    cars.editor.CUSTOMER:
+      de: Kunde
+    cars.editor.CARDATA:
+      de: Fahrzeug
+    cars.editor.EQUIPMENT:
+      de: Ausrüstung
+    cars.editor.CONTROL:
+      de: Steuerung
+    cars.editor.VOLTAGE:
+      de: Spannung
+    cars.editor.LOCK:
+      de: Verriegeln
+    cars.editor.DOORS:
+      de: Türen
+    cars.editor.RepayDebt:
+      de: Schulden begleichen
+    cars.editor.ONLINESTATE:
+      de: Online
+    cars.editor.ISONLINE:
+      de: Online
+    cars.editor.ISOFFLINE:
+      de: Offline
+    cars.editor.NOPHONE:
+      de: Keine Telefonnummer!
+    cars.editor.SELECTSERVER:
+      de: Server auswählen
+    cars.editor.CLOSE:
+      de: Schließen
+    cars.editor.UNLOCK:
+      de: Öffnen
+    cars.editor.SETMODE:
+      de: Modus festlegen
+    cars.editor.SYSTEMCOMMANDS:
+      de: Verfügbare Funktionen
+    cars.editor.ERRORS:
+      de: Fehler
+    cars.editor.ALARMS:
+      de: Alarme
+    cars.editor.FIRMWARE:
+      de: Firmware
+    cars.editor.HARDWARE:
+      de: Hardware
+    cars.editor.LASTIP:
+      de: letzte IP
+    cars.editor.IMEISUBST:
+      de: Andere IMEI ist online
+    cars.editor.IMSI:
+      de: Telefonberechtigung nach IMSI prüfen
+    cars.editor.REBOOT:
+      de: Neustart
+    cars.editor.REBOOTGNSS:
+      de: GPS neu starten
+    cars.editor.SWITCHSERVER:
+      de: Server wechseln
+    cars.editor.CONFIGURE:
+      de: Konfigurieren
+    cars.editor.CHANGESIM:
+      de: Aktuelle SIM-Karte wechseln
+    cars.editor.COMMAND:
+      de: Befehl senden
+    cars.editor.SMSCOMMAND:
+      de: SMS-Befehl senden
+    cars.editor.DISCONNECT:
+      de: Verbindung ablehnen
+    cars.editor.CLEARSTATE:
+      de: Fahrzeugzustand löschen
+    cars.editor.SERVERIP:
+      de: Wählen Sie den primären oder sekundären Server zur Einrichtung aus.
+    cars.editor.SERVERTITLE:
+      de: 'Anleitung: Der Befehl ist nur für Signal-Geräte anwendbar. Das Fahrzeug muss eine korrekte Telefonnummer haben! Wählen Sie den primären oder sekundären Server zur Einrichtung aus. Nach dem Senden des Befehls benötigt das Gerät 5 bis 20 Minuten, um die neuen Einstellungen anzuwenden. Führen Sie nicht 2 Befehle für einen Tracker gleichzeitig aus. Wenn der Tracker mit zwei Servern arbeitet, verbraucht er doppelten Traffic. Such-Schaltflächen und Teilzeichenfolgen im Schnellwechsel-Bereich werden zum Übertragen mehrerer Fahrzeuge verwendet.'
+    cars.editor.SIGNALVALUE:
+      de: '*!CNCT_RCS:89.208.152.59:8100:'
+    cars.editor.SIGNALTITLE:
+      de: Mit Konfigurator verbinden <b>*!CNCT_RCS:89.208.152.59:8100:SessionID</b> <br/> Update für die neueste Firmware <b>*!CNCT_RFU:89.208.152.59:9500:LAST</b>
+    cars.editor.CUSTOMTITLE:
+      de: TCP-Befehl senden
+    cars.editor.RENT:
+      de: Miete
+    cars.editor.INSPECT:
+      de: Inspektion
+    cars.editor.PARK:
+      de: Parken
+    cars.editor.BATTERYLEVEL:
+      de: Batterie
+    cars.editor.BLOCKCHARGER:
+      de: Ladegerät blockieren
+    cars.editor.UNBLOCKCHARGER:
+      de: Ladegerät entsperren
+    cars.editor.FINISHRENT:
+      de: Miete beenden
+    cars.editor.REFRESH:
+      de: Neu laden
+    cars.editor.STATE:
+      de: Zustand
+    cars.editor.UNKNOWN:
+      de: Unbekannt
+    cars.editor.RENTS:
+      de: Mieten
+    cars.editor.TRACKS:
+      de: Routen auf Karte
+    cars.editor.COMMANDSLOG:
+      de: Befehlsprotokoll
+    cars.editor.FROM:
+      de: Von
+    cars.editor.TO:
+      de: Bis
+    cars.editor.LOCKED:
+      de: Verriegelt
+    cars.editor.UNLOCKED:
+      de: Entriegelt
+    cars.editor.CLOSED:
+      de: Geschlossen
+    cars.editor.OPENED:
+      de: Geöffnet
+    cars.editor.IsDriversDoorOpened:
+      de: Fahrertür
+    cars.editor.IsPassengerDoorOpened:
+      de: Beifahrertür
+    cars.editor.IsFrontLeftDoorOpened:
+      de: Vorne links
+    cars.editor.IsFrontRightDoorOpened:
+      de: Vorne rechts
+    cars.editor.IsRearLeftDoorOpened:
+      de: Hinten links
+    cars.editor.IsRearRightDoorOpened:
+      de: Hinten rechts
+    cars.editor.IsTrunkOpened:
+      de: Kofferraum
+    cars.editor.IsHoodOpened:
+      de: Motorhaube
+    cars.editor.IsDriversBeltInserted:
+      de: Fahrergurt
+    cars.editor.IsPassengerBeltInserted:
+      de: Beifahrergurt
+    cars.editor.IsFrontLeftBeltInserted:
+      de: Vorne links Gurt
+    cars.editor.IsFrontRightBeltInserted:
+      de: Vorne rechts Gurt
+    cars.editor.IsRearLeftBeltInserted:
+      de: Hinten links Gurt
+    cars.editor.IsRearRightBeltInserted:
+      de: Hinten rechts Gurt
+    cars.editor.IsDriversWindowOpened:
+      de: Fahrerfenster
+    cars.editor.IsPassengerWindowOpened:
+      de: Beifahrerfenster
+    cars.editor.IsFrontLeftWindowOpened:
+      de: Vorne links Fenster
+    cars.editor.IsFrontRightWindowOpened:
+      de: Vorne rechts Fenster
+    cars.editor.IsRearLeftWindowOpened:
+      de: Hinten links Fenster
+    cars.editor.IsRearRightWindowOpened:
+      de: Hinten rechts Fenster
+    cars.editor.IsRearCentralBeltInserted:
+      de: Mittelgurt
+    cars.editor.TyrePressure:
+      de: Niedriger Reifendruck
+    cars.editor.CHARGING:
+      de: Wird geladen
+    cars.editor.CHARGERNOTBLOCKED:
+      de: Laden entsperrt
+    cars.editor.CHARGERINSERTED:
+      de: Ladegerät eingesteckt
+    cars.editor.RENTSTATE:
+      de: Miete
+    cars.editor.AVAILABLE:
+      de: Verfügbar
+    cars.editor.TRACKERMODEL:
+      de: Tracker-Modell
+    cars.editor.TRACKERPASSWORD:
+      de: Tracker-Passwort
+    cars.editor.HORN:
+      de: Blinken
+    cars.editor.ARM:
+      de: Schließen und blockieren
+    cars.editor.DISARM:
+      de: Öffnen und entsperren
+    cars.editor.ORGANIZATIONS:
+      de: Organisationen
+    cars.editor.COMMONCAR:
+      de: Öffentliches Fahrzeug
+    cars.editor.ORDERING:
+      de: Bestellung
+    cars.editor.SelectOrganization:
+      de: Organisation auswählen
+    cars.editor.BOOKED:
+      de: Fahrzeug ist reserviert
+    cars.editor.RENTSTARTDATETIME:
+      de: Mietbeginn
+    cars.editor.RENTDURATION:
+      de: Dauer
+    cars.editor.TELEMETRY:
+      de: Telemetrie
+    cars.editor.FUELLEVEL:
+      de: Kraftstoffstand
+    cars.editor.L100KM:
+      de: l/100 km
+    cars.editor.L:
+      de: l
+    cars.editor.Sat:
+      de: Sat
+    cars.editor.Fixed:
+      de: FIX
+    cars.editor.SPEED:
+      de: Geschwindigkeit
+    cars.editor.KMH:
+      de: km/h
+    cars.editor.ENGINESPEED:
+      de: Motordrehzahl
+    cars.editor.RPM:
+      de: U/min
+    cars.editor.ALTITIDE:
+      de: Höhe
+    cars.editor.M:
+      de: m
+    cars.editor.GSMLEVEL:
+      de: GSM-Pegel
+    cars.editor.GSMCARD:
+      de: Tankkarte
+    cars.editor.GSMCARDPIN:
+      de: PIN-Code
+    cars.editor.STS:
+      de: FZB
+    cars.editor.MILEAGE:
+      de: Kilometerstand
+    cars.editor.KM:
+      de: km
+    cars.editor.ENGINESTARTED:
+      de: Motor gestartet
+    cars.editor.MIN:
+      de: Min.
+    cars.editor.sec:
+      de: Sek.
+    cars.editor.UPTIME:
+      de: Zeit online
+    cars.editor.CONFIRMRENTFINISH:
+      de: Möchten Sie die Miete wirklich beenden?
+    cars.editor.Equipment:
+      de: Ausrüstung
+    cars.editor.TakeFromModel:
+      de: Vom Modell übernehmen
+    cars.editor.RESERVES:
+      de: Reservierung
+    cars.editor.Immobilize:
+      de: Blockieren
+    cars.editor.Mobilize:
+      de: Entsperren
+    cars.editor.ConfirmImmobilize:
+      de: Möchten Sie das Fahrzeug wirklich blockieren?
+    cars.editor.ConfirmMobilize:
+      de: Möchten Sie das Fahrzeug wirklich entsperren?
+    cars.editor.ConfirmOneHundredFuelLevel:
+      de: Möchten Sie den Kraftstoffstand wirklich auf 100% setzen?
+    cars.editor.ConfirmUnfixCoordinates:
+      de: Möchten Sie wirklich zur Koordinatenermittlung von Satelliten zurückkehren?
+    cars.editor.LocateWifi:
+      de: WiFi-Standort anfordern
+    cars.editor.FixWifiCoordinates:
+      de: WiFi-Koordinaten als Fahrzeugposition festlegen
+    cars.editor.ConfirmFixWifiCoordinates:
+      de: Möchten Sie die aktuellen WiFi-Koordinaten wirklich als Fahrzeugposition festlegen?
+    cars.editor.ConfirmReboot:
+      de: Möchten Sie die Fahrzeugausrüstung wirklich neu starten? Für diese Funktion muss der SMS-Dienst aktiviert sein.
+    cars.editor.ConfirmConfigure:
+      de: Möchten Sie die Fahrzeugausrüstung wirklich konfigurieren?
+    cars.editor.ConfirmUnlockBattery:
+      de: Möchten Sie die Batteriesperre wirklich aufheben?
+    cars.editor.ConfirmDisconnect:
+      de: Möchten Sie die Verbindung mit dem Tracker wirklich trennen?
+    cars.editor.ConfirmClearState:
+      de: Möchten Sie den Fahrzeugzustand wirklich löschen?
+    cars.editor.CONFIRMSTARTFILEUPLOAD:
+      de: Möchten Sie die Datei wirklich auf Ihr Gerät hochladen?
+    cars.editor.CONFIRMSTOPFILEUPLOAD:
+      de: Möchten Sie den Datei-Upload auf Ihr Gerät wirklich stoppen?
+    cars.editor.ConfirmSwitchserver:
+      de: Möchten Sie den/die Server der Hardware wechseln? Für diese Funktion muss der SMS-Dienst aktiviert sein.
+    cars.editor.Immobilizer:
+      de: Blockieren
+    cars.editor.ImmoOn:
+      de: Blockieren
+    cars.editor.ImmoOff:
+      de: Entsperren
+    cars.editor.ImmoIsOn:
+      de: Blockiert
+    cars.editor.ImmoIsOff:
+      de: Entsperrt
+    cars.editor.StartEngine:
+      de: Motor starten
+    cars.editor.StopEngine:
+      de: Motor stoppen
+    cars.editor.TurnOnIgniton:
+      de: Zündung einschalten
+    cars.editor.TurnOffIgniton:
+      de: Zündung ausschalten
+    cars.editor.Save:
+      de: Speichern
+    cars.editor.BrakeOn:
+      de: An
+    cars.editor.BrakeOff:
+      de: Aus
+    cars.editor.IsReserved:
+      de: Reservierung
+    cars.editor.Creator:
+      de: erstellt
+    cars.editor.ReserveFrom:
+      de: von
+    cars.editor.ReserveTo:
+      de: bis
+    cars.editor.ReserveCustomer:
+      de: 'auf Kunden '
+    cars.editor.EVENTS:
+      de: Register
+    cars.editor.Confirm:
+      de: Bestätigung
+    cars.editor.AreYouShure:
+      de: Sind Sie sicher?
+    cars.editor.NotAvailableDescription:
+      de: Das Fahrzeug ist nicht verfügbar oder in Partnermiete
+    cars.editor.NotAvailable:
+      de: Belegt
+    cars.editor.commandresponse.FailedUserAlreadyHasOrder:
+      de: Kunde hat eine nicht abgeschlossene Miete
+    cars.editor.commandresponse.FailedCarIsOrderedAlready:
+      de: Fahrzeug ist bereits gemietet
+    cars.editor.commandresponse.FailedCarNotFound:
+      de: Fahrzeug nicht im System gefunden
+    cars.editor.commandresponse.FailedCarIsOffline:
+      de: Fahrzeug ist offline
+    cars.editor.commandresponse.FailedUserNotFound:
+      de: Kunde nicht im System gefunden
+    cars.editor.commandresponse.FailedUserIsBlocked:
+      de: Kundenkonto ist gesperrt
+    cars.editor.commandresponse.FailedUserIsNotACustomer:
+      de: Benutzer ist nicht unser Kunde
+    cars.editor.commandresponse.FailedCustomerIsBlocked:
+      de: Konto ist gesperrt
+    cars.editor.commandresponse.FailedUserHasNoCorrectOrganization:
+      de: Fahrzeug ist Organisationen zugeordnet, in denen der Kunde nicht Mitglied ist
+    cars.editor.commandresponse.OkCarIsBooked:
+      de: Fahrzeug wurde erfolgreich reserviert
+    cars.editor.commandresponse.FailedHasNoBankCard:
+      de: Es ist keine Bankkarte mit dem Kundenkonto verknüpft
+    cars.editor.commandresponse.FailedNegativeBalance:
+      de: Kunde hat unbezahlte Schulden
+    cars.editor.commandresponse.FailedSecurityCheckDidNotPass:
+      de: Kunde wurde von der Sicherheit nicht genehmigt
+    cars.editor.commandresponse.FailedNoRentEndZonesFound:
+      de: 'Miete nicht möglich: In der Systemkonfiguration gibt es keine passenden Bereiche für die Mietbeendigung'
+    cars.editor.commandresponse.FailedNoDriveZonesFound:
+      de: 'Miete nicht möglich: In der Systemkonfiguration gibt es keine passenden Bereiche für die Fahrzeugnutzung'
+    cars.editor.commandresponse.FailedUserHasNoOrderNow:
+      de: Der Kunde hat derzeit keine aktive Bestellung
+    cars.editor.commandresponse.FailedCarHasNoOrderNow:
+      de: Das Fahrzeug ist derzeit nicht gemietet
+    cars.editor.commandresponse.FailedOrderIsCompletedAlready:
+      de: Miete ist bereits beendet
+    cars.editor.commandresponse.FailedCarIsParkedAlready:
+      de: Fahrzeug befindet sich bereits im Parkmodus
+    rates.sticktoorder:
+      de: An Bestellung binden
+    cars.editor.commandresponse.FailedCarTrackerIsOffline:
+      de: Fahrzeug ist offline
+    cars.editor.commandresponse.FailedOrderNotFoundInDatabase:
+      de: Bestellung wurde nicht in der Datenbank gefunden
+    cars.editor.commandresponse.OkCarIsParked:
+      de: Fahrzeug wurde erfolgreich in den Parkmodus geschaltet
+    cars.editor.commandresponse.FailedCarIsInRentStateAlready:
+      de: Fahrzeug befindet sich bereits im Fahrmodus
+    cars.editor.commandresponse.OkCarIsInDriveModeNow:
+      de: Fahrzeug wurde erfolgreich in den Fahrmodus geschaltet
+    cars.editor.commandresponse.OkOrderFinished:
+      de: Bestellung wurde erfolgreich beendet
+    cars.editor.commandresponse.FailedOutOfRentEndZone:
+      de: "Bestellung kann nicht beendet werden: Fahrzeug ist außerhalb der Mietende-Zone"
+    cars.editor.commandresponse.FailedCarIsMoving:
+      de: 'Aktion kann nicht ausgeführt werden: Fahrzeug bewegt sich'
+    cars.editor.commandresponse.ErrorNoConnectionWithCar:
+      de: 'Aktion kann nicht ausgeführt werden: Fahrzeug ist offline'
+    cars.editor.commandresponse.ErrorSatellitesVisibility:
+      de: "Aktion kann nicht ausgeführt werden: Satelliten können nicht gefunden werden"
+    cars.editor.commandresponse.ErrorCarInMotion:
+      de: 'Aktion kann nicht ausgeführt werden: Fahrzeug bewegt sich'
+    cars.editor.commandresponse.ErrorCheckDoors:
+      de: 'Aktion kann nicht ausgeführt werden: Türen prüfen'
+    cars.editor.commandresponse.ErrorCheckWindows:
+      de: 'Aktion kann nicht ausgeführt werden: Fenster prüfen'
+    cars.editor.commandresponse.ErrorFLDoorIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: vordere linke Tür ist offen'
+    cars.editor.commandresponse.ErrorFRDoorIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: vordere rechte Tür ist offen'
+    cars.editor.commandresponse.ErrorRLDoorIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: hintere linke Tür ist offen'
+    cars.editor.commandresponse.ErrorRRDoorIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: hintere rechte Tür ist offen'
+    cars.editor.commandresponse.ErrorBootIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: Kofferraum ist offen'
+    cars.editor.commandresponse.ErrorHoodIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: Motorhaube ist offen'
+    cars.editor.commandresponse.ErrorIgnitionKeyIsTurnedOn:
+      de: 'Aktion kann nicht ausgeführt werden: Zündung ist eingeschaltet'
+    cars.editor.commandresponse.ErrorEngineIsStarted:
+      de: 'Aktion kann nicht ausgeführt werden: Motor ist eingeschaltet'
+    cars.editor.commandresponse.ErrorHandBreakIsOff:
+      de: 'Aktion kann nicht ausgeführt werden: Handbremse ist nicht angezogen'
+    cars.editor.commandresponse.ErrorLightsIsOn:
+      de: 'Aktion kann nicht ausgeführt werden: Scheinwerfer sind eingeschaltet'
+    cars.editor.commandresponse.ErrorRoofIsOpened:
+      de: 'Aktion kann nicht ausgeführt werden: Dach ist geöffnet'
+    cars.editor.commandresponse.ErrorTransmissionNotInParking:
+      de: 'Aktion kann nicht ausgeführt werden: Wählhebel des Getriebes ist nicht im P-Modus'
+    cars.editor.troubles.title:
+      de: Mängelart
+    cars.editor.troubles.complaintCount:
+      de: Beschwerden
+    cars.editor.troubles.complaintLastDateTime:
+      de: Letzte Beschwerde
+    cars.editor.troubles.fixed:
+      de: Behoben
+    cars.editor.troubles.lastFixedDateTime:
+      de: Datum und Uhrzeit der letzten Reparatur
+    cars.editor.troubles.complaints:
+      de: Beschwerden
+    cars.editor.troubles.noComplaints:
+      de: keine Beschwerden
+    cars.editor.troubles.no:
+      de: nein
+    cars.editor.troubles.notRepaired:
+      de: Fahrzeug wurde nicht repariert
+    cars.editor.troubles.comments:
+      de: Kommentare
+    cars.editor.troubles.loadMore:
+      de: Mehr anzeigen
+    cars.editor.troubles.lastImages:
+      de: Letzte 5 Bilder während der Bestellungen aufgenommen
+    cars.editor.SetToOneHundred:
+      de: Auf 100% setzen
+    cars.editor.UnfixCoordinates:
+      de: Satelliten an
+    cars.editor.NotValid:
+      de: Ungültig
+    cars.editor.SelectRate:
+      de: Bitte Tarif auswählen
+    cars.editor.SelectZone:
+      de: Bitte Zone auswählen
+    cars.editor.SHOWONMAP:
+      de: Auf Karte anzeigen
+    cars.editor.commentEmpty:
+      de: Keine Kommentare zu diesem Fahrzeug hinterlassen
+    cars.editor.AvaliablityOn:
+      de: Aktivieren
+    cars.editor.AvaliablityOff:
+      de: Deaktivieren
+    cars.editor.IsParked:
+      de: Parken
+    cars.editor.GearboxState:
+      de: Getriebe
+    cars.editor.Ignition:
+      de: Zündung
+    cars.editor.Confirmimmobilize:
+      de: Möchten Sie das Fahrzeug blockieren?
+    cars.editor.Confirmmobilize:
+      de: Möchten Sie das Fahrzeug entsperren?
+    cars.editor.ConfirmchangeSim:
+      de: SIM-Wechsel bestätigen
+    cars.models.list:
+      de: Fahrzeugmodelle
+    cars.models.addmodel:
+      de: Modelle hinzufügen
+    cars.models.brand:
+      de: Marke
+    cars.models.modelname:
+      de: Modell
+    cars.models.year:
+      de: Jahr
+    cars.models.modeltype:
+      de: Typ
+    cars.models.engineType:
+      de: Motor
+    cars.models.fuelconsumption:
+      de: Verbrauch
+    cars.models.tankcapacity:
+      de: Tankvolumen
+    cars.models.rangeonbattery:
+      de: Reichweite mit Batterie
+    cars.models.lper100km:
+      de: l / 100 km
+    cars.models.l:
+      de: l
+    cars.models.km:
+      de: km
+    cars.models.newmodel:
+      de: Neues Fahrzeugmodell
+    cars.models.editing:
+      de: Bearbeiten
+    cars.models.modeldata:
+      de: Modelldaten
+    cars.models.modelphoto:
+      de: Modellfoto
+    cars.models.photoforapp:
+      de: Foto für App
+    cars.models.ICE:
+      de: Verbrennungsmotor
+    cars.models.EV:
+      de: Elektrofahrzeug
+    cars.models.PHEV:
+      de: PHEV
+    cars.models.TransmissionType:
+      de: Getriebetyp
+    cars.models.NA:
+      de: K/A
+    cars.models.AT:
+      de: Automatik
+    cars.models.MT:
+      de: Schaltgetriebe
+    cars.models.Petrol:
+      de: Benzin
+    cars.models.Diesel:
+      de: Diesel
+    cars.models.Electic:
+      de: Elektrisch
+    cars.models.engineCapacity:
+      de: Hubraum
+    cars.models.enginePower:
+      de: Motorleistung
+    cars.models.acceleration:
+      de: Beschleunigung
+    cars.models.forward:
+      de: Vorne
+    cars.models.rear:
+      de: Hinten
+    cars.models.full:
+      de: Allrad
+    cars.models.driveType:
+      de: Antrieb
+    cars.models.isLongRent:
+      de: Verfügbar für Langzeitmiete
+    cars.models.KeyWords:
+      de: Kommagetrennte Schlüsselwörter
+    cars.models.ModelClass:
+      de: Modellklasse
+    cars.models.SortIndex:
+      de: Modell-Sortierindex
+    cars.models.SeatsNumber:
+      de: Anzahl der Sitze
+    cars.models.MaxDailyCost:
+      de: 'Maximale Tageskosten der Bestellung (in 0,01 der Währung)'
+    cars.modelsclasses.list:
+      de: Fahrzeugmodellklassen
+    cars.modelsclasses.addclass:
+      de: Klasse hinzufügen
+    cars.modelsclasses.displayname:
+      de: Name
+    cars.modelsclasses.organizations:
+      de: Organisationen
+    cars.modelsclasses.zones:
+      de: Zonen
+    cars.modelsclasses.newclass:
+      de: Neue Fahrzeugklasse
+    cars.modelsclasses.editing:
+      de: Bearbeiten
+    cars.modelsclasses.classdata:
+      de: Klassendaten
+    cars.modelsclasses.img:
+      de: Bild
+    cars.modelsclasses.sortindex:
+      de: Klassen-Sortierindex
+    cars.map.WatchTrackParam:
+      de: Änderungen der Fahrzeugparameter überwachen
+    cars.map.infoHeader:
+      de: Fahrzeugparameter
+    cars.map.infoHover:
+      de: Maus über die Route bewegen
+    cars.map.CARSMAP:
+      de: Fahrzeugkarte
+    cars.map.REFRESH:
+      de: Aktualisieren
+    cars.map.CLEAR:
+      de: Löschen
+    cars.map.TRACKERID:
+      de: Tracker-ID
+    cars.map.REGNUMBER:
+      de: Kennzeichen
+    cars.map.ID:
+      de: Datenbank-ID
+    cars.map.TRACKERMODEL:
+      de: Tracker
+    cars.map.ISONLINE:
+      de: Online
+    cars.map.YES:
+      de: Ja
+    cars.map.NO:
+      de: Nein
+    cars.map.ISLOCKED:
+      de: Türen
+    cars.map.LOCKED:
+      de: Verriegelt
+    cars.map.UNLOCKED:
+      de: Entriegelt
+    cars.map.FUELLEVEL:
+      de: Kraftstoffstand
+    cars.map.GSMLEVEL:
+      de: GSM
+    cars.map.ISAVAILABLEFORRENT:
+      de: Für Miete verfügbar
+    cars.map.PHONE:
+      de: Telefonnummer
+    cars.map.COLOR:
+      de: Farbe
+    cars.map.UPTIME:
+      de: Betriebszeit
+    cars.map.ISBOOKED:
+      de: Reserviert
+    cars.map.ISRENT:
+      de: Gemietet
+    cars.map.STATE:
+      de: Zustand
+    cars.map.EDIT:
+      de: Bearbeiten in...
+    cars.map.AVAILABLE:
+      de: Für Miete verfügbar
+    cars.map.NOTAVAILABLE:
+      de: Für Miete nicht verfügbar
+    cars.map.OFFLINE:
+      de: Offline
+    cars.map.MILEAGE:
+      de: Kilometerstand
+    cars.map.KM:
+      de: km
+    cars.map.NOTREGISTERED:
+      de: Nicht registriert
+    cars.map.FUELCONSUMPTION:
+      de: Kraftstoffverbrauch
+    cars.map.SPEED:
+      de: Geschwindigkeit
+    cars.map.ENGINESPEED:
+      de: Motordrehzahl
+    cars.map.KMH:
+      de: km/h
+    cars.map.RPM:
+      de: U/min
+    cars.map.CUSTOMER:
+      de: Kunde
+    cars.map.V:
+      de: V
+    cars.map.m:
+      de: m
+    cars.map.ON:
+      de: An
+    cars.map.OFF:
+      de: Aus
+    cars.map.BREAK:
+      de: Handbremse
+    cars.map.tracker.speed:
+      de: Geschwindigkeit
+    cars.map.tracker.fuelLevel:
+      de: Kraftstoffstand
+    cars.map.tracker.gsmLevel:
+      de: GSM-Pegel
+    cars.map.tracker.voltage:
+      de: Spannung
+    cars.map.tracker.engineSpeed:
+      de: Motordrehzahl
+    cars.map.CLOSED:
+      de: Schließen
+    cars.map.OPENED:
+      de: Öffnen
+    cars.map.ShowAllCarsOnMap:
+      de: Alle Fahrzeuge anzeigen
+    zones.PaymentSystem:
+      de: Zahlungssystem
+    zones.ZONES:
+      de: Zonen
+    zones.ZONE:
+      de: Zone
+    zones.NAME:
+      de: Name
+    zones.ADD:
+      de: Zone hinzufügen
+    zones.REFRESH:
+      de: Aktualisieren
+    zones.EDIT:
+      de: Bearbeiten
+    zones.SAVE:
+      de: Speichern
+    zones.DELETE:
+      de: Löschen
+    zones.REMOVECONFIRM:
+      de: Möchten Sie die ausgewählte Zone wirklich löschen?
+    zones.NEWZONE:
+      de: Neue Zone
+    zones.EDITZONE:
+      de: Zone bearbeiten
+    zones.ORGANIZATIONS:
+      de: Organisationen
+    zones.COMMONZONE:
+      de: Gemeinsame Zone
+    zones.ZONETYPE:
+      de: Zonentyp
+    zones.TYPERENTEND:
+      de: Mietende-Zone
+    zones.TYPEDRIVE:
+      de: Fahrzone
+    zones.DOWN:
+      de: Nach unten
+    zones.UP:
+      de: Nach oben
+    zones.SELECTED:
+      de: Zone
+    zones.UNDO:
+      de: Letzte Änderung rückgängig (Strg + Z)
+    zones.REDO:
+      de: Letzte Änderung wiederherstellen (Strg + Y)
+    zones.NOTIFICATIONS:
+      de: Benachrichtigungen
+    zones.NOTIFICATIONS_TYPERENTEND:
+      de: Bei Mietabschluss in diesem Bereich benachrichtigen
+    zones.notificationPlaceholder:
+      de: Bitte Nachnamen des Benutzers eingeben
+    zones.sms:
+      de: Per SMS benachrichtigen
+    zones.email:
+      de: Per E-Mail benachrichtigen
+    zones.REMOVE:
+      de: Löschen
+    zones.NotificationsEnabled:
+      de: Benachrichtigungen aktivieren
+    zones.ShowOnMap:
+      de: Auf Karte anzeigen
+    zones.ShowHideAll:
+      de: Alle anzeigen/ausblenden
+    zones.ShowAllZones:
+      de: Alle Zonen auf der Karte anzeigen
+    zones.HideAllZones:
+      de: Alle Zonen auf der Karte ausblenden
+    zones.Bonus:
+      de: Bonus
+    zones.BonusValue:
+      de: Wert
+    zones.Priority:
+      de: Priorität
+    zones.BonusUnits.Money:
+      de: Fester Betrag
+    zones.BonusUnits.Percents:
+      de: Prozent
+    zones.BonusUnits.Miles:
+      de: Meilen
+    zones.RATES:
+      de: Tarife
+    zones.BLOCK:
+      de: Sperren
+    zones.UNBLOCK:
+      de: Entsperren
+    ratesmultiplier.CommonTab:
+      de: Allgemein
+    ratesmultiplier.MULTIPLY:
+      de: Multiplikation
+    ratesmultiplier.ADDITION:
+      de: Addition
+    ratesmultiplier.NAME:
+      de: Anzeigename
+    ratesmultiplier.DESCRIPTION:
+      de: Beschreibung
+    ratesmultiplier.PARKMULTIPLIER:
+      de: Park-Multiplikator
+    ratesmultiplier.DRIVEMULTIPLIER:
+      de: Fahr-Multiplikator
+    ratesmultiplier.OPERATION:
+      de: Operation
+    ratesmultiplier.ADDRATEMULTIPLIER:
+      de: Tarifmultiplikator hinzufügen
+    ratesmultiplier.ISCONTROLLEDBYUSERS:
+      de: Benutzern erlauben, diesen Tarif zu steuern
+    ratesmultiplier.ISVISIBLE:
+      de: Für Kunden sichtbar
+    rates.DiscountRate:
+      de: Rabatt-Symbol in der App
+    rates.RATE:
+      de: Tarif
+    rates.NAME:
+      de: Name
+    rates.DAYS:
+      de: Tage
+    rates.HOURS:
+      de: Stunden
+    rates.BOOK:
+      de: Reservieren
+    rates.PARK:
+      de: Parken
+    rates.DRIVE:
+      de: Fahren
+    rates.ORGANIZATIONS:
+      de: Organisationen
+    rates.RATES:
+      de: Minutentarife
+    rates.RatePacks:
+      de: Vorausbezahlte Tarife
+    rates.ADDRATE:
+      de: Tarif hinzufügen
+    rates.NEWRATE:
+      de: Neuer Tarif
+    rates.EDITRATE:
+      de: Tarif bearbeiten
+    rates.ACTIVE:
+      de: Aktiv
+    rates.ONLYBONUSES:
+      de: Nur Boni
+    rates.INCLUSIVE:
+      de: inklusive
+    rates.FROM:
+      de: von
+    rates.TO:
+      de: bis
+    rates.PRICES:
+      de: Preise
+    rates.COMMONRATE:
+      de: Gemeinsamer Tarif
+    rates.CarsModels:
+      de: Fahrzeugparameter
+    rates.NoMatter:
+      de: Egal
+    rates.MinMileage:
+      de: Min. Kilometerstand
+    rates.MaxMileage:
+      de: Max. Kilometerstand
+    rates.CarsMileage:
+      de: Fahrzeug-Kilometerstand
+    rates.IdleTime:
+      de: Standzeit des Fahrzeugs
+    rates.days:
+      de: Tage
+    rates.hours:
+      de: Stunden
+    rates.minutes:
+      de: Minuten
+    rates.seconds:
+      de: Sekunden
+    rates.From1:
+      de: von
+    rates.To1:
+      de: bis
+    rates.km:
+      de: km
+    rates.CarModels:
+      de: Fahrzeugmodelle
+    rates.ForAllCarModels:
+      de: Für alle Fahrzeugmodelle
+    rates.ZONES:
+      de: Zonen
+    rates.AGELIMIT:
+      de: Altersbeschränkung
+    rates.FROM2:
+      de: von
+    rates.hiddenrate:
+      de: Nicht für Kundenauswahl verfügbar
+    rates.Comments:
+      de: Beschreibung
+    rates.Comment:
+      de: Kommentar
+    rates.Commnets:
+      de: Beschreibung
+    event.DateTime:
+      de: Datum und Uhrzeit
+    event.EventType:
+      de: Ereignistyp
+    event.EventName:
+      de: Ereignis/Feld
+    event.ObjectName:
+      de: Objekt
+    event.Initiator:
+      de: Initiator
+    event.Description:
+      de: Beschreibung
+    event.loadMore:
+      de: Mehr laden
+    event.collapse:
+      de: Reduzieren
+    event.type.Alarm:
+      de: Alarm
+    event.type.FieldChanged:
+      de: Feld geändert
+    event.type.Protocol:
+      de: Ereignis
+    ratepacks.TimeIncluded:
+      de: Im Vorausbezahlten Tarif enthaltene Zeit
+    ratepacks.Days:
+      de: Tage
+    ratepacks.Hours:
+      de: Stunden
+    ratepacks.Minutes:
+      de: Minuten
+    ratepacks.km:
+      de: km
+    ratepacks.RunLimit:
+      de: Kilometerstandsbegrenzung pro Tag
+    ratepacks.MaxRun:
+      de: Max. Kilometerstand
+    ratepacks.OverrunCost:
+      de: Überschreitung
+    ratepacks.FineForFinishOutZone:
+      de: Strafe für Beendigung außerhalb der Zone
+    ratepacks.AutoCalcWholeCost:
+      de: Gesamtkosten des Tarifs automatisch berechnen basierend auf
+    ratepacks.AutoCalcTimeKmPrice:
+      de: Zeit, km und Preis ausreichend für Fahrt zum Zentrum der Zone automatisch berechnen
+    ratepacks.Cost:
+      de: Kosten des Vorausbezahlten Tarifs
+    ratepacks.RatePackCost:
+      de: Kosten
+    ratepacks.RunIncluded:
+      de: Max. Kilometerstand
+    ratepacks.d:
+      de: T.
+    ratepacks.hr:
+      de: Std.
+    ratepacks.min:
+      de: Min.
+    ratepacks.sec:
+      de: Sek.
+    ratepacks.TransmissionType:
+      de: Getriebetyp
+    ratepacks.EditRatePack:
+      de: Vorausbezahlten Tarif bearbeiten
+    ratepacks.NewRatePack:
+      de: Neuer Vorausbezahlter Tarif
+    organizations.ORGANIZATIONS:
+      de: Organisationen
+    organizations.NAME:
+      de: Name
+    organizations.PREVENTDEBTCOLLECTING:
+      de: Karte nicht belasten
+    organizations.DoNotShowCarsToEveryone:
+      de: Fahrzeuge Kunden außerhalb der Organisation nicht anzeigen
+    organizations.NEW:
+      de: Organisation hinzufügen
+    organizations.EDIT:
+      de: Organisation bearbeiten
+    organizations.ADD:
+      de: Hinzufügen
+    organizations.MessageWhenBookTheCar:
+      de: Bei Fahrzeugreservierung angezeigte Nachricht
+    cartasktypes.CARTASKTYPES:
+      de: Aufgabentypen
+    cartasktypes.NAME:
+      de: Name
+    cartasktypes.NEW:
+      de: Neu
+    cartasktypes.EDIT:
+      de: Bearbeiten
+    cartasktypes.ADD:
+      de: Hinzufügen
+    cartasktypes.CheckInterval:
+      de: Prüfintervall
+    cartasktypes.CheckIntervalDistance:
+      de: Prüfintervall in km
+    cardefecttypes.NAME:
+      de: Mangel/Teil
+    cardefecttypes.EDIT:
+      de: Mängeltyp bearbeiten
+    cardefecttypes.NEW:
+      de: Mängeltyp erstellen
+    cartasks.editor.New:
+      de: Aufgabe erstellen
+    cartasks.editor.Edit:
+      de: Aufgabe bearbeiten
+    cartasks.editor.Car:
+      de: Fahrzeug
+    cartasks.editor.TaskType:
+      de: Aufgabe
+    cartasks.editor.AppointedDateTime:
+      de: Zugewiesene Zeit
+    cartasks.editor.CompleteDateTime:
+      de: Ausführungszeit
+    cartasks.editor.AssignedUser:
+      de: Zugewiesen
+    cartasks.editor.CompleteUser:
+      de: Abgeschlossen
+    cartasks.editor.TaskComments:
+      de: Kommentare zur Aufgabe
+    cartasks.editor.CompleteComments:
+      de: Kommentare zum Abschluss
+    cartasks.editor.Actions:
+      de: Aktionen
+    cartasks.editor.cancel_task:
+      de: Aufgabe abbrechen
+    cartasks.editor.done_task:
+      de: Aufgabe abschließen
+    cartasks.editor.deffer_task:
+      de: Aufgabe verschieben
+    cartasks.editor.Prev:
+      de: <-
+    cartasks.editor.Next:
+      de: ->
+    cartasks.editor.State:
+      de: Zustand
+    cartasks.editor.TaskNotActual:
+      de: Aufgabe ist nicht aktuell
+    cartasks.editor.carPlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cartasks.editor.customerPlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cartasks.editor.tasktypePlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cartasks.editor.Priority:
+      de: Priorität
+    cartasks.list.Add:
+      de: Hinzufügen
+    cartasks.list.State:
+      de: Zustand
+    cartasks.list.AppointedDateTime:
+      de: Datum 1
+    cartasks.list.AssignedUser:
+      de: Zugewiesen
+    cartasks.list.Car:
+      de: Fahrzeug
+    cartasks.list.TaskType:
+      de: Aufgabentyp
+    cartasks.list.CompleteUser:
+      de: Abgeschlossen
+    cartasks.list.CompleteDateTime:
+      de: Datum 2
+    cartasks.list.exportToXlsx:
+      de: In XLS exportieren
+    cartasks.list.HEADER:
+      de: Aufgabenliste
+    cartasks.list.DefectType:
+      de: Mangel
+    cartasks.list.StartDateTime:
+      de: Startzeit
+    cartasks.list.DoneDateTime:
+      de: Behebungszeit
+    cartasks.list.StartUser:
+      de: Gestartet von
+    cartasks.list.DoneUser:
+      de: Beendet von
+    cartasks.list.TASKCOUNT:
+      de: Aufgaben
+    cartasks.list.DEFECTCOUNT:
+      de: Mängel
+    cartasks.list.gomap:
+      de: Zur Karte wechseln
+    cartasks.list.get_addr:
+      de: Adresse abrufen
+    cartasks.list.copy:
+      de: GPS kopieren
+    cartasks.list.DirtyCount:
+      de: :Beschwerden
+    cartasks.state.NotAssigned:
+      de: Nicht zugewiesen
+    cartasks.state.Assigned:
+      de: Zugewiesen
+    cartasks.state.Deffered:
+      de: Verschoben
+    cartasks.state.Canceled:
+      de: Storniert
+    cartasks.state.Done:
+      de: Erledigt
+    cartasks.state.New:
+      de: Neu
+    cartasks.priority.Minimal:
+      de: Minimal
+    cartasks.priority.Low:
+      de: Niedrig
+    cartasks.priority.Medium:
+      de: Mittel
+    cartasks.priority.High:
+      de: Hoch
+    cartasks.priority.Maximum:
+      de: Maximal
+    cartasks.confirm.ACTIONDEFFER:
+      de: Aufgabe verschieben?
+    cartasks.confirm.ACTIONDONE:
+      de: Aufgabe abschließen?
+    cartasks.confirm.ACTIONCREATE:
+      de: Aufgabentyp auswählen
+    cartasks.confirm.canceltext:
+      de: Möchten Sie die Aufgabe wirklich abbrechen?
+    cartasks.confirm.donetext:
+      de: Möchten Sie die Aufgabe abschließen?
+    cartasks.confirm.deffertext:
+      de: Möchten Sie die Aufgabe wirklich verschieben?
+    cartasks.filter.NoRent:
+      de: Keine Mieten
+    cartasks.filter.NoFuel:
+      de: Kein Kraftstoff
+    cartasks.filter.NoAccum:
+      de: Keine Batterie
+    cartasks.filter.NoLink:
+      de: Keine Verbindung
+    cardefects.editor.New:
+      de: Mangel hinzufügen
+    cardefects.editor.Edit:
+      de: Mangel bearbeiten
+    cardefects.editor.State:
+      de: Zustand
+    cardefects.editor.defect:
+      de: Mangel/Schaden
+    cardefects.editor.startphoto:
+      de: Foto des Mangels
+    cardefects.editor.donephoto:
+      de: Foto der Reparatur
+    cardefects.editor.Car:
+      de: Fahrzeug
+    cardefects.editor.DefectType:
+      de: Mangel/Schaden/Teil
+    cardefects.editor.StartDateTime:
+      de: Meldezeit
+    cardefects.editor.DoneDateTime:
+      de: Reparaturdatum
+    cardefects.editor.StartUser:
+      de: Initiator
+    cardefects.editor.DoneUser:
+      de: Repariert
+    cardefects.editor.StartComment:
+      de: Kommentar
+    cardefects.editor.DoneComment:
+      de: Kommentar zur Beendigung
+    cardefects.editor.commentPlaceholder:
+      de: Text des Kommentars
+    cardefects.editor.carPlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cardefects.editor.customerPlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cardefects.editor.defecttypePlaceholder:
+      de: Beginnen Sie mit der Eingabe zur Auswahl
+    cardefects.editor.set_checked:
+      de: Geprüft
+    cardefects.editor.set_deffered:
+      de: Verschoben
+    cardefects.editor.set_partialy:
+      de: Teilweise
+    cardefects.editor.set_repaired:
+      de: repariert
+    cardefects.editor.Actions:
+      de: Status
+    cardefects.editor.AddRepair:
+      de: Aufgabe für Reparatur
+    cardefects.state.New:
+      de: Neu
+    cardefects.state.Checked:
+      de: Geprüft
+    cardefects.state.Deffered:
+      de: Reparatur verschoben
+    cardefects.state.PartialyRepaired:
+      de: Teilweise repariert
+    cardefects.state.Repaired:
+      de: Repariert
+    cardefects.list.StartPhoto:
+      de: Foto des Mangels
+    cardefects.list.DonePhoto:
+      de: Foto der Behebung
+    cardefects.SHOWDEFECT:
+      de: Mangel
+    caradv.editor.TASKS:
+      de: Aufgaben
+    caradv.editor.DEFECTS:
+      de: Mängel
+    caradv.editor.LAYOUT:
+      de: Layout
+    caradv.editor.FillLayout:
+      de: Ausfüllen
+    days.MO:
+      de: Mo
+    days.TU:
+      de: Di
+    days.WE:
+      de: Mi
+    days.TH:
+      de: Do
+    days.FR:
+      de: Fr
+    days.SA:
+      de: Sa
+    days.SU:
+      de: So
+    orders.DeviceIdChanged:
+      de: Geräte-ID des Benutzers unterscheidet sich von der registrierten
+    orders.ZoneStartRent:
+      de: Startzone der Miete
+    orders.ZoneStopRent:
+      de: Endzone der Miete
+    orders.TotalRun:
+      de: Gesamtkilometerstand
+    orders.GenerateWayBills:
+      de: Frachtbriefe generieren
+    orders.RidesReport:
+      de: Fahrtenbericht
+    orders.km:
+      de: km
+    orders.SEARCH:
+      de: Suchen
+    orders.ALLORDERS:
+      de: Alle Bestellungen
+    orders.VIEW:
+      de: Bestellung anzeigen
+    orders.STARTDATETIME:
+      de: Startzeit
+    orders.ENDDATETIME:
+      de: Endzeit
+    orders.CARNUMBER:
+      de: Kennzeichen
+    orders.CUSTOMER:
+      de: Kunde
+    orders.FREEBOOKTIME:
+      de: Kostenlose Buchungszeit
+    orders.DRIVETIME:
+      de: Fahrzeit
+    orders.PARKTIME:
+      de: Parkzeit
+    orders.TOTALTIME:
+      de: Gesamtbestellzeit
+    orders.TOTALCOST:
+      de: Gesamtkosten
+    orders.ORDERSTAGE:
+      de: Bestellphase
+    orders.MIN:
+      de: Min.
+    orders.AddToUsersGallery:
+      de: Bild zur Galerie des Benutzers hinzufügen
+    orders.MarkAsOriginalImage:
+      de: Bild als erstes Bild des Problems markieren
+    orders.RemoveImage:
+      de: Entfernen
+    orders.RestoreImage:
+      de: Wiederherstellen
+    orders.NoImages:
+      de: Keine Bilder gefunden
+    orders.viewer.Details:
+      de: Details
+    orders.viewer.TABEVENTS:
+      de: Ereignisse
+    orders.viewer.TABTRACK:
+      de: Route
+    orders.viewer.TabCarAcceptance:
+      de: Übergabe-Abnahme-Protokoll
+    orders.viewer.CarBodyIsDamaged:
+      de: Karosserie ist beschädigt
+    orders.viewer.TireIsFlat:
+      de: Reifen ist platt
+    orders.viewer.CarIsDirty:
+      de: Fahrzeug ist schmutzig
+    orders.viewer.BrokenWindow:
+      de: Zerbrochenes Fenster
+    orders.viewer.IsCritical:
+      de: Kritischer Fahrzeugschaden
+    orders.viewer.IsSmoked:
+      de: Wurde geraucht
+    orders.viewer.NoDocuments:
+      de: Keine Dokumente
+    orders.viewer.NoFluid:
+      de: Keine Scheibenwischerflüssigkeit
+    orders.viewer.UserComment:
+      de: Benutzerkommentare
+    orders.viewer.Images:
+      de: Während der Bestellung aufgenommene Bilder
+    orders.viewer.NoImages:
+      de: Keine Bilder
+    orders.viewer.BeforeRent:
+      de: Vor Miete
+    orders.viewer.AfterRent:
+      de: Nach Miete
+    orders.Details.Sum:
+      de: Betrag
+    orders.Details.TotalSum:
+      de: Gesamtbetrag
+    orders.Details.OrderDate:
+      de: 'Bestelldatum:'
+    orders.Details.TotalCost:
+      de: 'Gesamtkosten:'
+    orders.Details.FreeBooking:
+      de: 'Kostenlose Buchung:'
+    orders.Details.InMove:
+      de: 'In Bewegung:'
+    orders.Details.Parked:
+      de: 'Parken:'
+    orders.Details.min:
+      de: Min.
+    orders.Details.sec:
+      de: Sek.
+    orders.Details.EventsTitle:
+      de: Details
+    orders.Details.DateTime:
+      de: Datum und Uhrzeit
+    orders.Details.EventType:
+      de: Ereignistyp
+    orders.Details.RateName:
+      de: Tarif
+    orders.Details.Rate:
+      de: Tarif
+    orders.Details.PeriodCost:
+      de: Kosten
+    orders.Details.Duration:
+      de: Dauer
+    orders.Details.PaymentsTitle:
+      de: Zahlungen
+    orders.Details.FromCash:
+      de: Vom Saldo
+    orders.Details.Bonuses:
+      de: Boni
+    orders.Details.FromBankCard:
+      de: Von Bankkarte
+    orders.Details.Description:
+      de: Kommentar
+    orders.Details.BOOKING:
+      de: Buchung
+    orders.Details.WAITING:
+      de: Warten
+    orders.Details.MOVEMENT:
+      de: Bewegung
+    orders.Details.RunTitle:
+      de: Fahrtdauer
+    orders.Details.TotalRun:
+      de: Gesamtkilometerstand
+    orders.Details.Overrun:
+      de: Überschreitung
+    orders.Details.OverrunCost:
+      de: Kosten der Überschreitung
+    orders.RemoveFromUsersGallery:
+      de: Bild aus der Galerie des Benutzers entfernen
+    orders.SelectTroublePosition:
+      de: Problemstelle auswählen
+    orderevents.km:
+      de: km
+    orderevents.FUELLEVEL:
+      de: Kraftstoff
+    orderevents.RUN:
+      de: Fahrt
+    orderevents.UserRun24:
+      de: Benutzerfahrt innerhalb von 24 Stunden
+    orderevents.DATETIME:
+      de: Datum und Uhrzeit
+    orderevents.CARLOCATION:
+      de: Fahrzeugstandort
+    orderevents.CUSTOMERLOCATION:
+      de: Kundenstandort
+    orderevents.RATENAME:
+      de: Miettarif
+    orderevents.RATE:
+      de: Tarif
+    orderevents.EVENTTYPE:
+      de: Ereignistyp
+    orderevents.MIN:
+      de: Min.
+    orderevents.eventtype.Na:
+      de: orderevents.eventtype.Na
+    orderevents.eventtype.BookStart:
+      de: Buchung
+    orderevents.eventtype.RentAutoStart:
+      de: Automatische Umschaltung in den Parkmodus
+    orderevents.eventtype.SwitchedToDrive:
+      de: In den Fahrmodus geschaltet
+    orderevents.eventtype.SwitchedToPark:
+      de: In den Parkmodus geschaltet
+    orderevents.eventtype.OrderCompleted:
+      de: Bestellung abgeschlossen
+    orderevents.eventtype.OrderRatePackRenewd:
+      de: Tarifpaket erneuert
+    orderevents.eventtype.SwitchedToInspect:
+      de: In den Inspektionsmodus geschaltet
+    orderevents.eventtype.SwitchedToPaidInspect:
+      de: In den kostenpflichtigen Inspektionsmodus geschaltet
+    orderevents.CarTicket:
+      de: Abonnement
+    rent.state.Book:
+      de: Reserviert
+    rent.state.Park:
+      de: Geparkt
+    rent.state.Drive:
+      de: Fahrend
+    rent.state.Completed:
+      de: Miete abgeschlossen
+    rent.state.Inspect:
+      de: Inspektion
+    changelog.datetime:
+      de: Datum und Uhrzeit
+    changelog.initiator:
+      de: Initiator
+    changelog.property:
+      de: Geändertes Feld
+    changelog.newvalue:
+      de: Neuer Wert
+    changelog.objectid:
+      de: Objekt-ID
+    changelog.objectname:
+      de: Objektname
+    changelog.annotation:
+      de: Grund
+    systemlog.datetime:
+      de: Datum und Uhrzeit
+    systemlog.filesize:
+      de: Dateigröße
+    systemlog.kb:
+      de: KB
+    systemlog.removeconfirm:
+      de: Möchten Sie das Protokoll vom {{dateTime}} wirklich löschen?
+    locks.ID:
+      de: ID
+    locks.CREATIONDATE:
+      de: Erstellungsdatum
+    locks.BLOCKER:
+      de: Blocker
+    locks.BLOCKERDESCRIPTION:
+      de: Name des Blockers
+    locks.BLOCKERPHONE:
+      de: Telefonnummer des Blockers
+    locks.KEY:
+      de: Sperrschlüssel
+    locks.AlreadyBlockedMessage:
+      de: Ressource wird vom Benutzer {{blocker}} bearbeitet
+    locks.ADDITIONALINFO:
+      de: Informationen zur gesperrten Ressource
+    locks.ReleaseAllLocks:
+      de: Alle Sperren aufheben
+    locks.REMOVEALLLOCKSCONFIRM:
+      de: Möchten Sie wirklich alle Sperren aufheben?
+    markers.MARKERS:
+      de: Marker
+    markers.map.REFRESH:
+      de: Aktualisieren
+    markers.map.ADD:
+      de: Hinzufügen
+    markers.map.Edit:
+      de: Bearbeiten...
+    markers.map.Remove:
+      de: Löschen
+    markers.editor.New:
+      de: Neuer Marker
+    markers.editor.Edit:
+      de: Marker bearbeiten
+    markers.editor.Type:
+      de: Markertyp
+    markers.editor.Name:
+      de: Name
+    markers.editor.Description:
+      de: Beschreibung
+    markers.editor.Address:
+      de: Adresse
+    markers.editor.Lon:
+      de: Längengrad
+    markers.editor.Lat:
+      de: Breitengrad
+    markers.editor.AutoAddress:
+      de: Automatische Adresse
+    markers.editor.LoadMarkerIcon:
+      de: Marker-Symbol laden
+    markers.editor.LoadPhotoDescription:
+      de: Standortfotos laden
+    markers.editor.loadNewPhoto:
+      de: Klicken, um neues Foto zu laden
+    markers.editor.type.Location:
+      de: Standort
+    markers.editor.type.Parking:
+      de: Parken
+    markers.editor.type.Attraction:
+      de: Sehenswürdigkeit
+    markers.editor.type.Hotel:
+      de: Hotel
+    markers.editor.type.Refueling:
+      de: Tankstelle
+    markers.editor.Links:
+      de: "Link"
+    settings.carsharing.Mode:
+      de: Wartungsarbeiten
+    settings.carsharing.CarsAvailable:
+      de: Fahrzeuge verfügbar
+    settings.carsharing.Maintenance:
+      de: Neue Mieten gestartet
+    statistics.TotalRides:
+      de: Gesamtbestellungen
+    statistics.TotalRidesCost:
+      de: Gesamtkosten der Bestellungen
+    statistics.TotalUsageTime:
+      de: Gesamtnutzungszeit
+    statistics.TotalParkingTime:
+      de: Gesamtparkzeit
+    statistics.TotalBookingTime:
+      de: Gesamtbuchungszeit
+    statistics.Client:
+      de: Kunde
+    statistics.ChartHasNoData:
+      de: Keine Daten verfügbar
+    statistics.TotalClients:
+      de: Kunden gesamt
+    statistics.TotalApprovedClients:
+      de: Genehmigte Kunden gesamt
+    statistics.TotalUnApprovedClients:
+      de: Nicht genehmigte Kunden gesamt
+    statistics.User:
+      de: Systembenutzername
+    reports.Orders:
+      de: Kundenbericht
+    reports.Cars:
+      de: Buchungsbericht
+    reports.WayBills:
+      de: Frachtbriefe
+    reports.GenerateReport:
+      de: Bericht generieren
+    reports.CreationDateTime:
+      de: Erstellungsdatum
+    reports.Type:
+      de: Typ
+    reports.Period:
+      de: Zeitraum
+    reports.Partners:
+      de: Partner
+    reports.Status:
+      de: Status
+    reports.Cancel:
+      de: Abbrechen
+    reports.Delete:
+      de: Löschen
+    reports.Download:
+      de: Herunterladen
+    reports.Fuel:
+      de: Kraftstoffbericht
+    reports.TypeNotSelected:
+      de: Bitte Berichtstyp auswählen
+    cartickets.list.ID:
+      de: ID
+    cartickets.list.RATEPACK:
+      de: Paket
+    cartickets.list.DETAILS:
+      de: Beschreibung
+    cartickets.list.COST:
+      de: Preis
+    cartickets.list.OVERRUNCOST:
+      de: Kosten der Mehrkilometer
+    cartickets.list.RUNINCLUDED:
+      de: Inklusive
+    cartickets.list.CUSTOMER:
+      de: Kunde
+    cartickets.list.ORDER:
+      de: Bestellung
+    cartickets.list.BUYDATE:
+      de: Kaufzeitpunkt
+    cartickets.list.VALIDTILL:
+      de: Gültig bis
+    heatmap.dialog.title:
+      de: Heatmap
+    heatmap.dialog.fromdate:
+      de: von
+    heatmap.dialog.todate:
+      de: bis
+    heatmap.dialog.orderstage:
+      de: Bestellphase
+    heatmap.dialog.bookstart:
+      de: Start
+    heatmap.dialog.ordercompleted:
+      de: Beendigung
+    heatmap.dialog.coordstype:
+      de: Koordinate
+    heatmap.dialog.cars:
+      de: Fahrzeuge
+    heatmap.dialog.users:
+      de: Kunden
+    heatmap.dialog.minmilage:
+      de: Mindestkilometerstand
+    heatmap.dialog.maxmilage:
+      de: Höchstkilometerstand
+    heatmap.dialog.datatype:
+      de: Kartentyp
+    heatmap.dialog.days:
+      de: T.
+    heatmap.dialog.hours:
+      de: Std.
+    heatmap.dialog.minutes:
+      de: Min.
+    heatmap.dialog.minidle:
+      de: Mindestdauer ohne Bewegung
+    heatmap.dialog.maxidle:
+      de: Höchstdauer ohne Bewegung
+    inspect.SelectTypeOfTrouble:
+      de: Bitte Problemtyp auswählen
+    inspect.NoneOfTheAbove:
+      de: Keine der oben genannten
+    test4:
+      de: Test 4
+    app.RefreshSearchTable:
+      de: Suchtabelle aktualisieren
+    app.RequestAccepted:
+      de: Anfrage angenommen
+    carpenalty.paidByCustomer:
+      de: bezahlt
+    carpenalty.paidByCustomerTooltip:
+      de: Strafe als vom Kunden bezahlt markieren
+    voucher.list.forNewUsersOnly:
+      de: Für neue Benutzer
+    payments.cards.NotificationSended:
+      de: Benachrichtigung wurde gesendet
+    payments.cards.SendBankCardAttachNotification:
+      de: Benachrichtigung zum Bankkartenanschluss senden
+    clients.editor.bonuses.MASS:
+      de: Massengutschrift
+    clients.editor.bonuses.SUCCESS:
+      de: Gutschrift erfolgreich
+    clients.editor.bonuses.PASSED:
+      de: Erfolgreich gutgeschrieben
+    clients.editor.bonuses.FAILED:
+      de: Nicht gutgeschrieben
+    clients.editor.bonuses.SELECT_FILE:
+      de: Datei auswählen
+    clients.editor.bonuses.HEADER:
+      de: Massengutschrift von Boni
+    clients.editor.bonuses.report.name:
+      de: Name
+    clients.editor.bonuses.report.email:
+      de: E-Mail
+    clients.editor.bonuses.report.phone:
+      de: Telefon
+    clients.editor.bonuses.report.reason:
+      de: Grund
+    clients.editor.bonuses.report.amount:
+      de: Betrag
+    clients.editor.bonuses.report.error:
+      de: Nachricht
+    cars.editor.default:
+      de: (Standard)
+    cars.editor.ECOON:
+      de: Eco an
+    cars.editor.ECOOFF:
+      de: Eco aus
+    cars.editor.RENTBYUSER:
+      de: Miete durch Benutzer
+    cars.editor.RENTBYUSERTITLE:
+      de: Benutzer auswählen
+    cars.editor.customerPlaceholder:
+      de: Bitte Nachnamen, E-Mail und Telefonnummer eingeben...
+    cars.editor.RENTBYUSERWARNINGMSG:
+      de: Derzeit ist kein Benutzer ausgewählt!
+    cars.editor.EDIT:
+      de: Bearbeiten
+    cars.editor.DELETE:
+      de: Löschen
+    cars.models.defaultimage:
+      de: Standardfoto
+    cars.models.addimage:
+      de: Bild hinzufügen
+    cars.models.imagenamelabel:
+      de: Bildname (z.B. Farbe)
+    zones.TYPERENTENDFORBIDDEN:
+      de: Mietende verboten
+    zones.SHOWFULLSCREENMSGTOUSER:
+      de: Vollbildnachricht an Benutzer anzeigen
+    zones.WHENBOOKINGINZONE:
+      de: Bei Buchung in der Zone
+    zones.WHENENTERINGINZONE:
+      de: Beim Betreten der Zone
+    rates.BIND:
+      de: Gebunden
+    organizations.EmploeesTab:
+      de: Mitarbeiter
+    organizations.BasicTab:
+      de: Hauptdaten
+    organizations.FindEmploee:
+      de: Mitarbeitersuche
+    organizations.EmploeesColumnName:
+      de: Beschreibung
+    organizations.EmploeesColumnPeriod:
+      de: Inklusive
+    organizations.EmploeesColumnPhone:
+      de: Telefonnummer
+    organizations.EmploeesName:
+      de: Beschreibung
+    organizations.EmploeesPeriod:
+      de: Inklusive
+    organizations.TooltipInfoForEmploeer:
+      de: Tooltip-Info für Arbeitgeber
+    organizations.EmploeesOperations:
+      de: Vorgang
+    organizations.EmploeesOperationsAdd:
+      de: Mitarbeiter hinzufügen
+    organizations.EmploeesOperationsClear:
+      de: Alle entfernen
+    organizations.EmploeesColumnLimit:
+      de: Limit
+    organizations.CorporateOption:
+      de: Firmenkunde
+    organizations.EmploeesOperationsSetLimit:
+      de: Limit für alle ändern
+    organizations.EmploeesOperationsDeleteLimit:
+      de: Limit für alle löschen
+    organizations.LimitOfOrganization:
+      de: Limit pro Organisation
+    organizations.LimitOfUser:
+      de: Limit pro Mitarbeiter
+    organizations.Limit:
+      de: Limit
+    organizations.EmployeeGroupEdit:
+      de: Gruppe bearbeiten
+    organizations.EmployeeGroupEditClear:
+      de: Liste bearbeiten
+    organizations.EmployeeGroupEditFind:
+      de: Namen der Gruppe eingeben
+    organizations.EmployeeGroupEditDescriptionColumn:
+      de: Name der Gruppe
+    organizations.EmployeeEditAddToolTip:
+      de: Diese Schaltfläche drücken, um Mitarbeiter hinzuzufügen
+    organizations.EmployeeEditRefreshToolTip:
+      de: Diese Schaltfläche drücken, um die Mitarbeiterliste herunterzuladen
+    organizations.EmployeeEditOperationToolTip:
+      de: Vorgang aus der Liste auswählen
+    organizations.EmployeeGroupEditAddToolTip:
+      de: Diese Schaltfläche drücken, um eine neue Gruppe hinzuzufügen
+    organizations.EmployeeShowGroupEditToolTip:
+      de: Diese Schaltfläche drücken, um die Gruppe zu bearbeiten
+    organizations.EmployeeGroupEditLimitColumn:
+      de: Limit
+    organizations.EmployeeGroupH2Title:
+      de: Gruppe bearbeiten
+    organizations.EmployeeH2Title:
+      de: Mitarbeiter bearbeiten
+    organizations.EmployeeGroupItemToolTip:
+      de: Diesen Link verwenden, um die Kundenliste zu filtern
+    organizations.OrdersTab:
+      de: Bestellungen
+    organizations.EmploeesGroupAddFormTooltipDescription:
+      de: Namen der Gruppe eingeben
+    organizations.EmploeesGroupAddFormLimit:
+      de: Limit pro Mitarbeiter
+    organizations.OrderCountColumn:
+      de: Anzahl der Fahrten
+    organizations.OrderAmountColumn:
+      de: Betrag der Fahrten
+    organizations.OrderAmountMode1Column:
+      de: Betrag im Fahrmodus
+    organizations.OrderAmountMode2Column:
+      de: Betrag im Parkmodus
+    organizations.EmploeesGroupAddFormTooltipLimit:
+      de: Limit-Stufe für die neue Gruppe angeben
+    organizations.NewGroup:
+      de: Gruppe hinzufügen
+    organizations.EditGroup:
+      de: Gruppe bearbeiten
+    organizations.IncludeCustomer:
+      de: Mitarbeiter hinzufügen
+    organizations.CustomerOrganizationColumn:
+      de: Organisation
+    organizations.CustomerSelectItemsLabel:
+      de: Mitarbeiter ausgewählt
+    organizations.OrderCountDriveLabel:
+      de: Anzahl der Fahrten
+    organizations.OrderAmountDriveLabel:
+      de: Betrag der Fahrten
+    organizations.OrderAmountDriveUsedLabel:
+      de: Gesamtbetrag im Fahrmodus
+    organizations.OrderAmountDriveParkingLabel:
+      de: Gesamtbetrag im Parkmodus
+    organizations.RatesTab:
+      de: Tarife
+    organizations.AddNewCustomerLabel:
+      de: Zum Hinzufügen einer Person bitte mit Nachnamen, Telefonnummer oder E-Mail suchen
+    organizations.CancellingTab:
+      de: Abbuchungen
+    organizations.BonusesTab:
+      de: Zahlungen
+    organizations.NewEmploee:
+      de: Mitarbeiter hinzufügen
+    organizations.IsBlockedCompany:
+      de: Gesperrt
+    organizations.EnaltiesTab:
+      de: Abbuchungen
+    organizations.CommonOrganization:
+      de: Gemeinsame Organisation
+    organizations.OrdersTotalSum:
+      de: Gesamtsumme der Bestellungen
+    orders.Details.Organization:
+      de: Organisation
+    orders.Details.Customer:
+      de: Kunde
+    orders.CorporateRide:
+      de: Geschäftliche Fahrt
+    orders.ActGSM:
+      de: GSM-Protokoll
+    app.settingsGroups.Fueling:
+      de: Tankstellen
+    notifications.CarWithoutMovementButOrderInDriveStage:
+      de: Fahrzeug ohne Bewegung mit aktiver Bestellung
+    notifications.CarWithoutMovementInZoneDuringNMinutes:
+      de: Fahrzeug ohne Bewegung in Zone während mehrerer Minuten
+    aside.nav.reserves.UNPAID:
+      de: 'Unbezahlt'
+    aside.nav.refueling.brands:
+      de: Tankkartenmarken
+    aside.nav.refueling.networks:
+      de: Tankstellennetzwerke
+    voucher.list.activationDateTime:
+      de: Aktivierungszeit
+    payments.reportNotification.success:
+      de: Der Bericht wird erstellt. Wechseln Sie zum Berichtsbereich, um ihn herunterzuladen oder zu verfolgen
+    payments.reportNotification.failed:
+      de: Bericht konnte nicht erstellt werden
+    refueling.networks.list:
+      de: Liste der Tankstellennetzwerke
+    refueling.networks.add:
+      de: Hinzufügen
+    refueling.networks.codename:
+      de: Code
+    refueling.networks.displayname:
+      de: Beschreibung
+    refueling.networks.commoninfo:
+      de: Allgemeine Informationen
+    refueling.networks.new:
+      de: Neues Netzwerk
+    refueling.networks.editing:
+      de: Bearbeiten
+    refueling.brands.list:
+      de: Liste der Tankkartenmarken
+    refueling.brands.add:
+      de: Hinzufügen
+    refueling.brands.new:
+      de: Neue Marke
+    refueling.brands.editing:
+      de: Bearbeiten
+    refueling.brands.commoninfo:
+      de: Allgemeine Informationen
+    refueling.brands.displayname:
+      de: Name
+    refueling.brands.supportedNetworks:
+      de: Unterstützte Tankstellennetzwerke
+    refueling.brands.addNetworkPlaceholder:
+      de: Beginnen Sie mit der Eingabe des Netzwerknamens
+    access.403.MESSAGE_BY_PHONE:
+      de: Der Benutzer ist gesperrt. Per Telefon kontaktieren
+    clients.list.ApprovementDate:
+      de: Genehmigungsdatum
+    clients.editor.LogoffUser:
+      de: Abmelden
+    clients.editor.SumNSubApplicantId:
+      de: S&S-ID
+    clients.editor.TakeSelfieSetting:
+      de: Selfie vor Miete anfordern
+    clients.editor.PushNotifications:
+      de: Benachrichtigungsversand
+    clients.editor.Send:
+      de: Senden
+    clients.editor.notifications.Sms:
+      de: SMS
+    clients.editor.notifications.PushOrSms:
+      de: Push oder SMS
+    clients.editor.notifications.Push:
+      de: Push
+    clients.editor.notificationSended:
+      de: Benachrichtigung gesendet
+    clients.editor.failedToSendNotification:
+      de: Beim Senden der Benachrichtigung ist ein Fehler aufgetreten
+    clients.editor.Messages:
+      de: Nachrichten
+    clients.takeSelfieSettingOptions.NotSetted:
+      de: Globale Konfiguration
+    clients.takeSelfieSettingOptions.Always:
+      de: Immer
+    clients.takeSelfieSettingOptions.Never:
+      de: Niemals
+    clients.messages.SendDate:
+      de: Sendedatum
+    clients.messages.DeliveryMethod:
+      de: Zustellmethode
+    clients.messages.Text:
+      de: Text
+    clients.messages.DeliveryResult:
+      de: Zustellergebnis
+    clients.messages.FailedMessage:
+      de: Fehlgeschlagene Nachricht
+    clients.messages.Sender:
+      de: Absender
+    clients.messages.Success:
+      de: Erfolgreich
+    clients.messages.Failed:
+      de: Fehlgeschlagen
+    clients.messages.Unknown:
+      de: Unbekannt/Noch nicht zugestellt
+    cars.list.HAVEQR:
+      de: Hat QR-Code
+    cars.editor.NoLocker:
+      de: Keine Sperre
+    cars.editor.MechLocker:
+      de: Mechanische Sperre
+    cars.editor.ElectricLocker:
+      de: Elektrische Sperre
+    cars.editor.BLELocker:
+      de: Bluetooth-Sperre
+    cars.editor.LockerType:
+      de: Sperrtyp
+    cars.editor.Locker:
+      de: Sperre
+    cars.editor.BLELockerModel:
+      de: Modell
+    cars.editor.BLELockerPass:
+      de: Passwort
+    cars.editor.BLELockerKey:
+      de: Schlüssel
+    cars.editor.BLELockerCode:
+      de: Schlüssel
+    cars.models.EP:
+      de: "Elektrofahrrad"
+    cars.models.ES:
+      de: Elektroroller
+    cars.models.GasolineMoped:
+      de: "Benzinmoped"
+    cars.models.MuscleBicycle:
+      de: "Fahrrad (nicht elektrisch)"
+    cars.models.order:
+      de: Bestellung
+    cars.models.orderFinishMessage:
+      de: Nachricht bei Bestellabschluss
+    zones.ZoomMarker:
+      de: Großmaßstäblicher Marker
+    zones.SelectNone:
+      de: Nichts auswählen
+    zones.SelectAll:
+      de: Alle auswählen
+    zones.NothingSelected:
+      de: Nichts ausgewählt
+    zones.OrderStartedAt:
+      de: Bestellung begonnen am
+    rates.PreRent:
+      de: Vormietsumme
+    rates.NoGroup:
+      de: Kein Wert
+    rates.OrganizationsGroup:
+      de: Nach Organisationen gruppieren
+    rates.CarModelsGroup:
+      de: Nach Fahrzeugmodellen gruppieren
+    organizations.Left:
+      de: verbleibend
+    organizations.Balance:
+      de: Saldo
+    organizations.Priority:
+      de: Priorität
+    organizations.withdrawals.Amount:
+      de: Betrag
+    organizations.withdrawals.Order:
+      de: Bestellung
+    organizations.CurrentLimit:
+      de: Aktuelles Saldolimit
+    organizations.Activeperiod:
+      de: Arbeitszeit
+    organizations.daysOfWeek:
+      de: so, mo, di, mi, do, fr, sa
+    orders.MarkAllCommentsAsResolved:
+      de: Alle Kommentare als gelöst markieren
+    orders.MarkAsResolved:
+      de: Als gelöst markieren
+    orders.CustomerPhone:
+      de: Telefon
+    orders.CustomerEmail:
+      de: E-Mail
+    orders.inspect.selfies:
+      de: Selfies
+    orders.inspect.inspect:
+      de: Inspektion
+    orders.inspect.park:
+      de: Parken
+    orders.inspect.afterrent:
+      de: Mietende
+    orders.TimeBeforeRent:
+      de: Zeit vor Miete
+    orderevents.eventtype.RatePackBought:
+      de: Abonnement gekauft
+    reports.ReportWasAddedInQueue:
+      de: Bericht wurde zur Warteschlange hinzugefügt. Sie finden ihn im Bereich "Berichte"
+    aside.nav.pushJobs:
+      de: 'Push-Nachrichten'
+    pushjobs.edit.header.add:
+      de: 'Push-Aufgabe hinzufügen'
+    pushjobs.edit.header.edit:
+      de: 'Push-Aufgabe bearbeiten'
+    pushjobs.table.title:
+      de: 'Titel'
+    pushjobs.table.active:
+      de: 'Aktiv'
+    pushjobs.table.start:
+      de: 'Start'
+    orderOptions.edit.tabs.main:
+      de: 'Hauptdaten'
+    orderOptions.edit.tabs.carModels:
+      de: 'Fahrzeugmodelle'
+    orderOptions.name:
+      de: 'Name'
+    orderOptions.shortDescription:
+      de: 'Kurzbeschreibung'
+    orderOptions.longDescription:
+      de: 'Langbeschreibung'
+    orderOptions.price:
+      de: 'Preis'
+    orderOptions.priceType:
+      de: 'Preistyp'
+    orderOptions.priceType.per_day:
+      de: 'Pro Tag'
+    orderOptions.edit.header.add:
+      de: 'Bestelloption hinzufügen'
+    orderOptions.priceType.per_km:
+      de: 'Pro km'
+    orderOptions.priceType.fixed:
+      de: 'Fest'
+    orderOptions.priceType.ratepack:
+      de: 'Tarif'
+    orderOptions.ratePack.name:
+      de: 'Tarifname'
+    orderOptions.sortOrder:
+      de: 'Sortierreihenfolge'
+    orderOptions.type:
+      de: 'Optionstyp'
+    orderOptions.edit.header.edit:
+      de: 'Bestelloption bearbeiten'
+    orderOptions.choose.ratepack:
+      de: 'Tarif auswählen'
+    aside.nav.OrderOptions:
+      de: 'Bestelloptionen'
+    smart.table.itemsPerPageLabel:
+      de: 'Einträge pro Seite'
+    smart.table.firstPageLabel:
+      de: 'Erste Seite'
+    smart.table.lastPageLabel:
+      de: 'Letzte Seite'
+    smart.table.nextPageLabel:
+      de: 'Nächste Seite'
+    smart.table.previousPageLabel:
+      de: 'Vorherige Seite'
+    smart.table.pages:
+      de: 'Seite {page} von {pages}'
+    pushjobs.table.timeToComplete:
+      de: 'Zeit bis zum Abschluss'
+    pushjobs.table.progress:
+      de: 'Fortschritt'
+    pushjobs.edit.title:
+      de: 'Titel'
+    pushjobs.edit.message:
+      de: 'Nachricht'
+    pushjobs.edit.lastRideOrganizations:
+      de: 'Organisationen der letzten Fahrt'
+    pushjobs.edit.start:
+      de: 'Start'
+    pushjobs.edit.active:
+      de: 'Aktiv'
+    pushjobs.edit.sendToBlocked:
+      de: 'An Gesperrte senden'
+    pushjobs.edit.sendToNotBlocked:
+      de: 'An Nicht-Gesperrte senden'
+    pushjobs.edit.sendToApproved:
+      de: 'An Genehmigte senden'
+    pushjobs.edit.sendToNotApproved:
+      de: 'An Nicht-Genehmigte senden'
+    pushjobs.edit.ok:
+      de: 'Ok'
+    pushjobs.edit.cancel:
+      de: 'Abbrechen'
+    reserves.edit.create:
+      de: 'Erstellungsdatum '
+    reserves.edit.start-booking:
+      de: 'Buchungsbeginn'
+    reserves.edit.completion-booking:
+      de: 'Buchungsabschluss'
+    reserves.edit.brand-model:
+      de: 'Marke und Modell'
+    reserves.edit.regnumber:
+      de: 'Kennzeichen'
+    reserves.edit.client:
+      de: 'Kunde'
+    reserves.edit.technician:
+      de: 'Techniker'
+    reserves.edit.delivery-address:
+      de: 'Lieferadresse'
+    reserves.edit.order-price:
+      de: 'Bestellpreis'
+    reserves.edit.technician-order:
+      de: "Fahrt des Technikers"
+    reserves.edit.customer-order:
+      de: "Fahrt des Kunden"
+    reserve.edit.header.edit:
+      de: 'Fahrzeugbuchung'
+    reserve.edit.tabs-data:
+      de: 'Daten'
+    reserve.edit.tabs-events:
+      de: 'Ereignisse'
+    reserve.edit.cancel-button:
+      de: 'Buchung stornieren'
+    reserves.edit.status.new:
+      de: 'Neu'
+    reserves.edit.status.waitcar:
+      de: 'Auf Fahrzeug warten'
+    reserves.edit.status.waitdriver:
+      de: 'Auf Fahrer warten'
+    reserves.edit.status.readydelivery:
+      de: 'Lieferbereit'
+    reserves.edit.status.indelivery:
+      de: 'In Lieferung'
+    reserves.edit.status.done:
+      de: 'Erledigt'
+    reserves.edit.status.attentionrequired:
+      de: 'Aufmerksamkeit erforderlich'
+    reserves.edit.status.canceled:
+      de: 'Storniert'
+    sql-editor.ai-assistant:
+      de: KI-Assistent
+    sql-editor.describe-query:
+      de: Beschreiben Sie, was Sie abfragen möchten
+    sql-editor.query-placeholder:
+      de: z.B. Zeige mir alle Fahrzeuge, die derzeit zur Miete verfügbar sind
+    sql-editor.generate-sql:
+      de: SQL generieren
+    sql-editor.sql-editor:
+      de: SQL-Editor
+    sql-editor.execute-query:
+      de: Abfrage ausführen
+    sql-editor.export-csv:
+      de: CSV exportieren
+    sql-editor.export-excel:
+      de: Excel exportieren
+    sql-editor.clear-all:
+      de: Alles löschen
+    sql-editor.query-results:
+      de: Abfrageergebnisse
+    sql-editor.rows:
+      de: Zeilen
+    sql-editor.please-enter-query:
+      de: Bitte SQL-Abfrage eingeben
+    sql-editor.excel-downloaded:
+      de: Excel-Datei erfolgreich heruntergeladen
+    sql-editor.csv-downloaded:
+      de: CSV-Datei erfolgreich heruntergeladen
+    sql-editor.query-executed:
+      de: Abfrage erfolgreich ausgeführt
+    sql-editor.query-error:
+      de: Beim Ausführen der Abfrage ist ein Fehler aufgetreten
+    sql-editor.please-enter-prompt:
+      de: Bitte einen Prompt für die KI-Generierung eingeben
+    sql-editor.sql-generated:
+      de: SQL erfolgreich generiert
+    sql-editor.generation-error:
+      de: Beim Generieren von SQL ist ein Fehler aufgetreten
+    sql-editor.no-data-export:
+      de: Keine Daten zum Exportieren
+    aside.nav.sql-editor:
+      de: KI-Datenanalyse
+    reports.sql-editor.header:
+      de: KI-Berichte
+    sql-editor.no-data-returned:
+      de: Abfrage erfolgreich ausgeführt, aber keine Daten zurückgegeben
+    sql-editor.auto-execute-query:
+      de: SQL-Abfrage nach Generierung automatisch ausführen
+    sql-editor.start-working-title:
+      de: Beginnen Sie mit SQL-Abfragen
+    sql-editor.start-working-description:
+      de: Beschreiben Sie, was Sie erhalten möchten, und die KI generiert eine SQL-Abfrage für Sie
+    sql-editor.describe-query-hint:
+      de: Beschreiben Sie die benötigte Abfrage in natürlicher Sprache
+    sql-editor.generating:
+      de: Wird generiert...
+    sql-editor.executing-query:
+      de: Abfrage wird ausgeführt...
+    sql-editor.executing:
+      de: Wird ausgeführt...
+    sql-editor.clear:
+      de: Löschen
+    sql-editor.show-sql-editor:
+      de: SQL-Editor anzeigen
+    sql-editor.hide-sql-editor:
+      de: SQL-Editor ausblenden
+    sql-editor.copy-results:
+      de: Ergebnisse kopieren
+    sql-editor.copy-column:
+      de: Spalte kopieren
+    sql-editor.copy-error:
+      de: Fehler kopieren
+    sql-editor.copy-sql:
+      de: SQL kopieren
+    sql-editor.format-sql:
+      de: SQL formatieren
+    sql-editor.clear-sql:
+      de: SQL löschen
+    sql-editor.records-found:
+      de: Gefundene Datensätze
+    sql-editor.sql-copied:
+      de: SQL in Zwischenablage kopiert
+    sql-editor.error-copied:
+      de: Fehler in Zwischenablage kopiert
+    sql-editor.results-copied:
+      de: Ergebnisse in Zwischenablage kopiert
+    sql-editor.column-copied:
+      de: Spalte kopiert
+    sql-editor.sql-formatted:
+      de: SQL formatiert
+    sql-editor.generation-timeout:
+      de: SQL-Generierung Zeitüberschreitung
+    sql-editor.sql-placeholder-text:
+      de: SQL-Abfrage erscheint hier nach der Generierung
+    sql-editor.sql-placeholder-hint:
+      de: Sie können sie manuell bearbeiten
+    sql-editor.processing-large-result:
+      de: Großer Ergebnissatz wird verarbeitet...
+    sql-editor.large-result-warning:
+      de: "Großer Ergebnissatz: {total} Zeilen gefunden. Die ersten {displayed} Zeilen werden angezeigt. Verwenden Sie den Export, um alle Daten zu erhalten."
+    sql-editor.displaying-first:
+      de: zeige zuerst
+    files.History:
+      de: Verlauf
+    files.SavedAt:
+      de: Gespeichert am
+    files.Editor:
+      de: Editor
+    files.NoHistory:
+      de: Noch kein Verlauf
+    files.ShowDiff:
+      de: Unterschied anzeigen
+    files.Download:
+      de: Herunterladen
+  ProfileFrontend:
+    app.GENERICERROR:
+      de: Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut...
+    app.ACTIONCONFIRMATION:
+      de: Aktion bestätigen
+    app.YES:
+      de: Ja
+    app.CANCEL:
+      de: Abbrechen
+    app.loading:
+      de: Wird geladen...
+    app.TO:
+      de: bis
+    app.PAGE:
+      de: Seite
+    app.OF:
+      de: von
+    app.RowsToLoad:
+      de: Anzahl der Zeilen
+    confirm.ACTIONCONFIRMATION:
+      de: Aktionsbestätigung
+    confirm.NOTIFICATION:
+      de: Benachrichtigung
+    confirm.YES:
+      de: Ja
+    confirm.CANCEL:
+      de: Abbrechen
+    confirm.OK:
+      de: OK
+    signin.TITLE:
+      de: CarTrek
+    signin.SUBTITILE:
+      de: Beim CarTrek-Dienst anmelden
+    signin.EMAIL:
+      de: E-Mail oder Telefon
+    signin.PASSWORD:
+      de: Passwort
+    signin.SIGNIN:
+      de: Anmelden
+    signin.FORGOTPASSWORD:
+      de: Passwort vergessen?
+    signin.HAVENOACCOUNT:
+      de: Sie haben kein Konto im CarTrek-Dienst?
+    signin.CREATEACCOUNT:
+      de: Registrieren
+    signin.PHONENUMBER:
+      de: Telefonnummer
+    signin.SENDMESSAGE:
+      de: SMS-Code anfordern
+    signin.CODE:
+      de: Bitte SMS-Code eingeben
+    signin.NOCODE:
+      de: Code nicht erhalten?
+    signin.ENDTIME:
+      de: Code ist abgelaufen
+    signin.error.REJECTED:
+      de: Das Passwort und/oder die E-Mail sind falsch
+    signin.error.BLOCKED:
+      de: Ihr Konto ist gesperrt
+    signin.error.ERRORCODE:
+      de: Ungültiger Code
+    signin.error.EXPIREDCODE:
+      de: Code ist abgelaufen
+    signin.error.MAXNUMBERERROR:
+      de: Maximale Anzahl der Versuche erreicht
+    passwordrestore.description:
+      de: Geben Sie Ihre E-Mail ein, um Ihr Passwort zurückzusetzen
+    passwordrestore.send:
+      de: Link senden
+    passwordrestore.successmessage:
+      de: Ein Zurücksetz-Link wurde an Ihre E-Mail-Adresse gesendet
+    passwordrestore.captcha:
+      de: Captcha
+    header.navbar.LOGOUT:
+      de: Abmelden
+    header.BONUSES:
+      de: Boni
+    aside.nav.MYDATA:
+      de: Mein Profil
+    aside.nav.PERSONALDATA:
+      de: Persönliche Daten
+    aside.nav.BANKCARDS:
+      de: Bankkarte
+    aside.nav.TERMSOFUSE:
+      de: Nutzungsbedingungen
+    aside.nav.RULESOFUSE:
+      de: Mietregeln
+    aside.nav.PUBLICOFFER:
+      de: Öffentliches Angebot
+    aside.nav.MYTRIPS:
+      de: Meine Fahrten
+    aside.nav.MYTRIP:
+      de: Meine Fahrt
+    aside.nav.PAYMENTS:
+      de: Zahlungen
+    aside.nav.BOOKANDRENT:
+      de: Fahrzeuge
+    aside.nav.Vouchers:
+      de: Gutscheine
+    warnings.VLIDATINGBYSECURITY:
+      de: Ihre Dokumente werden derzeit von unserem autorisierten Personal überprüft. Wenn die erforderlichen Prüfungen abgeschlossen sind, informieren wir Sie per E-Mail und Mobiltelefon. Danach können Sie unsere Fahrzeuge sofort mieten. Vielen Dank für Ihre Geduld!
+    warnings.HASNOBANKCARD:
+      de: Sie müssen Ihre Bankkarte verknüpfen, um unsere Fahrzeuge zu mieten.
+    warnings.BANKCARDBIND:
+      de: Bankkarte verknüpfen...
+    warnings.CUSTOMERBLOCKED:
+      de: Leider ist Ihr Konto gesperrt. Falls Sie der Meinung sind, dass dies ein Fehler ist, kontaktieren Sie bitte unseren Support. Vielen Dank für Ihre Geduld!
+    warnings.BalanceIsNegative:
+      de: Ihr Saldo ist negativ. Sie sollten ihn auf Null bringen.
+    warnings.MakeZeroBalance:
+      de: Saldo auf Null bringen...
+    warnings.PleaseFillEmail:
+      de: Bitte füllen Sie Ihre E-Mail aus
+    warnings.InputEmail:
+      de: E-Mail eingeben...
+    voucher.enterCode:
+      de: 'Bitte Gutscheincode eingeben:'
+    voucher.activate:
+      de: Aktivieren
+    voucher.bonusesEnrolled:
+      de: '{{bonuses}} Boni wurden Ihrem Konto gutgeschrieben. Gute Fahrt!'
+    voucher.bonusesEnrolledTitle:
+      de: Bonusgutschrift
+    personaldata.FIO:
+      de: Vor- und Nachname
+    personaldata.SURNAME:
+      de: Nachname
+    personaldata.NAME:
+      de: Name
+    personaldata.PATRONYMIC:
+      de: Vatersname
+    personaldata.CONTACTS:
+      de: Kontakte
+    personaldata.EMAIL:
+      de: E-Mail
+    personaldata.MOBILEPHONE:
+      de: Mobiltelefonnummer
+    personaldata.PASSWORDCHANGE:
+      de: Passwortänderung
+    personaldata.PASSWORDDESCRIPTION:
+      de: Um das Passwort zu ändern, drücken Sie die Schaltfläche "Ändern" unten. Bitte beachten Sie, dass das Passwort mindestens sechs Zeichen enthalten muss, von denen drei unterschiedlich sein müssen.
+    personaldata.PASSWORD:
+      de: Passwort
+    personaldata.PASSWORDCONFIRMATION:
+      de: Passwortbestätigung
+    personaldata.EDIT:
+      de: Ändern
+    personaldata.SAVE:
+      de: Speichern
+    personaldata.CANCEL:
+      de: Abbrechen
+    personaldata.GETADISCOUNT:
+      de: Holen Sie sich einen Rabatt!
+    personaldata.PROMODESCRIPTION1:
+      de: Laden Sie Ihre Freunde ein und erhalten Sie Boni nach deren erster Fahrt!
+    personaldata.PROMODESCRIPTION2:
+      de: Wenn jemand Ihren Promocode bei der Registrierung verwendet, erhält er oder sie sofort {{signupBonus}} Boni auf das Konto, und Sie erhalten {{friendsBonus}} Boni auf Ihr Bonuskonto nach seiner/ihrer ersten Fahrt.
+    personaldata.YOURPROMOCODE:
+      de: Ihr Promocode
+    personaldata.YOURPROMOLINK:
+      de: Ihr Einladungslink
+    payments.AMOUNT:
+      de: Betrag
+    payments.DATETIME:
+      de: Datum und Uhrzeit
+    payments.TRANSACTIONID:
+      de: 'Transaktion Nr.'
+    payments.FROM:
+      de: Von
+    payments.TO:
+      de: Bis
+    payments.NODATA:
+      de: Keine Daten für den Zeitraum
+    payments.TOTAL:
+      de: Gesamt
+    payments.RUB:
+      de: EUR
+    bankcards.CARDTYPE:
+      de: Kartentyp
+    bankcards.BANKNAME:
+      de: Bank
+    bankcards.DIGITS:
+      de: Kartennummer
+    bankcards.NODATA:
+      de: Keine Karten vorhanden
+    bankcards.ADDCARD:
+      de: Bankkarte hinzufügen
+    bankcards.CANCEL:
+      de: Abbrechen
+    bankcards.DELETE:
+      de: Löschen
+    bankcards.CONFIRMDELETE:
+      de: Möchten Sie die Bankkarte wirklich löschen
+    bankcards.PRIMARY:
+      de: Primär
+    bankcards.Attention:
+      de: 'Warnung:'
+    bankcards.VisaElectronAndMaestroWarning:
+      de: Visa Electron und Maestro können nicht für Zahlungen für unseren Dienst verwendet werden.
+    rent.REFRESH:
+      de: Aktualisieren
+    rent.FUEL:
+      de: Kraftstoff
+    rent.CHECKOUTZONE:
+      de: Abgabezone
+    rent.STARTRENT:
+      de: Miete beginnen
+    rent.BOOK:
+      de: Buchen
+    rent.ENDRENT:
+      de: Miete beenden
+    rent.FUELING:
+      de: Tankregeln
+    rent.STARTFUELING:
+      de: Tanken
+    rent.FINISHFUELING:
+      de: Tanken beenden
+    rent.NOFUELING:
+      de: Tanken nicht erforderlich. Operator kontaktieren
+    rent.WAITMODE:
+      de: Wartemodus
+    rent.OPEN:
+      de: Öffnen
+    rent.BEEP:
+      de: Hupen
+    rent.CANCELBOOK:
+      de: Abbrechen
+    rent.NOWAVAIL:
+      de: Die ersten 20 Min. der Buchung sind kostenlos!
+    rent.NOWRENTED:
+      de: Fahrmodus
+    rent.NOWPARKING:
+      de: Fahrzeug ist jetzt geparkt.
+    rent.NOWBOOKED:
+      de: Fahrzeug ist jetzt gebucht.
+    rent.NOWCOMPLETED:
+      de: Miete abgeschlossen
+    rent.PARKCONFIRM:
+      de: Möchten Sie das Fahrzeug wirklich in den Parkmodus schalten?
+    rent.CONTINUECONFIRM:
+      de: Möchten Sie das Fahrzeug wirklich in den Fahrmodus schalten?
+    rent.DownloadApp:
+      de: 'Um das Fahrzeug zu mieten, laden Sie bitte die App herunter:'
+    rent.CONFIRMSTARTBOOK:
+      de: Möchten Sie dieses Fahrzeug wirklich buchen?
+    rent.PRERENT:
+      de: Bitte bewerten Sie den Zustand des Fahrzeugs.

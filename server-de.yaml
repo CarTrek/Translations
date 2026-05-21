@@ -1,0 +1,3224 @@
+Sections:
+  Server:
+    RightBreakCarBookingLock:
+      de: 'Fahrzeugbuchungssperre aufheben'
+    RightRemoveBan:
+      de: 'Sperre entfernen'
+    RightsGroupClientAuth:
+      de: Kundenautorisierung
+    RightRequestClientAuthCode:
+      de: Kundenautorisierungscode anfordern
+    EmailCodeVerifyFailedWrongEmailCode:
+      de: "Sie haben einen falschen Code angegeben"
+    EmailVerifyCodeInvalidEmailFormat:
+      de: "Ungültiges E-Mail-Format: {email}"
+    EmailCodeVerifyTooManyAttemptsTryLater:
+      de: "Sie haben die maximale Anzahl von Versuchen überschritten ({maxAttempts}). Versuchen Sie es nach {tryAfterMinutes} Minuten erneut."
+    EmailSendTokenTooManyAttemtsTryLater:
+      de: "Sie haben die maximale Anzahl von Versuchen überschritten ({maxAttempts}). Versuchen Sie es nach {tryAfterMinutes} Minuten erneut."
+    EmailSendTokenInvalidEmailFormat:
+      de: "Ungültiges E-Mail-Format: {email}"
+    EmailSendTokenEmailTopic:
+      de: "{code} - Ihr Verifizierungscode"
+    ContractSignedPushMessage:
+      de: "Sie haben Version #{versionNumber} des Vertrags unterzeichnet"
+    PhoneNumberCountryBanned:
+      de: "Dieser Ländercode ist aufgrund von Spam vorübergehend gesperrt. Bitte verwenden Sie eine lokale Telefonnummer"
+    RightForceFinishRent:
+      de: "Miete erzwungen beenden"
+    RightFinishLongTermRecurrentRent:
+      de: "Langzeit-Daueranmietung beenden"
+    FailedRatePackDoesNotAllowToFinish:
+      de: "Beenden der Miete ist bei diesem Tarif nicht erlaubt"
+    RepeatingRatepackTotalCost:
+      de: "Gesamt: {amount}"
+    RepeatingRatepackPeriodPaymentNameWeek:
+      de: "Wöchentliche Zahlung: {amount}"
+    RepeatingRatepackPeriodPaymentNameMonth:
+      de: "Monatliche Zahlung: {amount}"
+    RepeatingRatepackPeriodPaymentNameDay:
+      de: "Tägliche Zahlung: {amount}"
+    RepeatingRatepackPeriodPaymentName:
+      de: "Zahlung alle {period}: {amount}"
+    RepeatingRatepackIncludedMileageWeek:
+      de: "Inklusive {km-included}km/Woche, {price-per-km}/km zusätzlich"
+    RepeatingRatepackIncludedMileageMonth:
+      de: "Inklusive {km-included}km/Monat, {price-per-km}/km zusätzlich"
+    RepeatingRatepackIncludedMileageDay:
+      de: "Inklusive {km-included}km/Monat, {price-per-km}/km zusätzlich"
+    RepeatingRatepackIncludedMileage:
+      de: "Inklusive {km-included}km/{period}, {price-per-km}/km zusätzlich"
+    PromoCodeRequired:
+      de: Promocode erforderlich
+    RequiredFieldsEmpty:
+      de: Pflichtfelder sind leer
+    InvalidPhoneNumber:
+      de: Ungültiges Telefonnummer-Format
+    PhoneNumberAlreadyTaken:
+      de: Telefonnummer wird bereits verwendet
+    PhoneNumberPersonalDataCleared:
+      de: Persönliche Daten für diese Telefonnummer wurden gelöscht
+    EmailAlreadyExists:
+      de: E-Mail existiert bereits
+    DocumentsRequired:
+      de: Dokumente sind erforderlich
+    ValidationError:
+      de: Validierungsfehler
+    InvalidCode:
+      de: Ungültiger Code
+    CodeExpired:
+      de: Code abgelaufen
+    CodeEmpty:
+      de: Code darf nicht leer sein
+    RateChoose:
+      de: "Vormiet-Abbuchung"
+    CarAlreadyBooked:
+      de: "Entschuldigung, dieses Fahrzeug wurde bereits gebucht"
+    OperationQueued:
+      de: "Aufgabe wurde zur Warteschlange hinzugefügt"
+    DomainSettingsLongRentHoursBeforeNewRent:
+      de: "Min. Stunden vor neuer Langzeitmiete"
+    FailedMaxRentalsCountPerOrganizationReached:
+      de: "Maximale Anzahl aktiver Mieten für die Organisation {OrganizationName} erreicht: {MaximumAllowedActiveRentalsCount}"
+    RightRefreshUserBalanceInDb:
+      de: "Benutzersaldo neu laden"
+    RightRecalculateUserBalance:
+      de: "Benutzersaldo neu berechnen"
+    RaiffeisenCardBindSuccessFooter:
+      de: "Vielen Dank, dass Sie unseren Dienst nutzen!"
+    RaiffeisenCardBindSuccessButton:
+      de: "Fenster schließen"
+    RaiffeisenCardBindSuccessMessage:
+      de: "Ihre Karte wurde erfolgreich mit Ihrem Konto verknüpft. Sie können dieses Fenster nun schließen."
+    RaiffeisenCardBindSuccessTitle:
+      de: "Karte erfolgreich verknüpft!"
+    Cashback:
+      de: "Cashback für die Fahrt {ride-number}"
+    ProcessCanceledOrderInAppTitle:
+      de: "Ihre Fahrt wurde erstattet"
+    ProcessCanceledOrderInAppMessage:
+      de: "Es scheint, dass mit Ihrer Fahrt #{rideNumber} auf {brandName} {modelName} mit {regNumber} etwas schief gelaufen ist, deshalb haben wir Ihnen den Betrag für diese Fahrt zurückerstattet."
+    ProcessCanceledOrderInAppButton:
+      de: "Schön"
+    ProcessCanceledOrderInAppUrl:
+      de: ""
+    ProcessCanceledOrderInAppColor:
+      de: "000000"
+    Source:
+      de: "Quelle"
+    Yoomoney_3d_secure_failed:
+      de: "3-D Secure-Authentifizierung fehlgeschlagen"
+    Yoomoney_call_issuer:
+      de: "Die Transaktion wurde aus unbekannten Gründen abgelehnt. Bitte kontaktieren Sie Ihren Karten-Aussteller."
+    Yoomoney_fraud_suspected:
+      de: "Zahlung wegen Betrugsverdacht blockiert"
+    Yoomoney_internal_timeout:
+      de: "Technische Probleme auf der YUKassa-Seite"
+    Yoomoney_invalid_card_number:
+      de: "Die Kartennummer ist ungültig."
+    Yoomoney_invalid_csc:
+      de: "Falscher CVV2-Code (CVC2, CID)"
+    Yoomoney_issuer_unavailable:
+      de: "Die Organisation, die das Zahlungsmittel ausgestellt hat, ist nicht verfügbar"
+    Yoomoney_payment_method_limit_exceeded:
+      de: "Das Zahlungslimit für diese Zahlungsmethode oder Ihren Shop wurde erreicht"
+    Yoomoney_payment_method_restricted:
+      de: "Vorgänge mit dieser Zahlungsmethode sind verboten"
+    Yoomoney_general_decline:
+      de: "Vorgang abgelehnt. Bitte kontaktieren Sie die ausstellende Bank"
+    Yoomoney_insufficient_funds:
+      de: "Unzureichende Mittel"
+    Yoomoney_general_error:
+      de: "Zahlung abgelehnt"
+    CutBillResultCannotCutThisBill:
+      de: "Diese Rechnung kann nicht geteilt werden"
+    Deposit:
+      de: "Kaution"
+    FailedDepositWithdraw:
+      de: "Fehler beim Versuch, den Kautionsbetrag abzubuchen"
+    FailedDepositRequired:
+      de: "Kaution erforderlich. Gesamtkautionsbetrag: {CurrencySymbol}{WholeDepositAmount}, bereits bezahlt: {CurrencySymbol}{DepositAmountReminder}. Drücken Sie 'Ja', um {CurrencySymbol}{AmountToWithdraw} zu bezahlen?"
+    CustomerTelegramCommandNotFound:
+      de: "Sie haben etwas Seltsames getan"
+    CustomerTelegramActionFinishRent:
+      de: "Miete beenden"
+    CustomerTelegramActionDrive:
+      de: "Öffnen"
+    CustomerTelegramActionPark:
+      de: "Schließen"
+    CustomerTelegramRideMessageTemplate:
+      de: "{icon} {model-name} <b>{reg-number}</b> im Zustand: <i>{ride-state}</i>"
+    CustomerTelegramHereAreYouActiveRides:
+      de: "{name}, hier sind Ihre aktiven Fahrten:"
+    CustomerTelegramYouHaveNoRides:
+      de: "{name}, Sie haben derzeit keine aktiven Fahrten."
+    CustomerTelegramCongratulationsNowIKnowYou:
+      de: "Willkommen, {name}! Jetzt können Sie Ihre Fahrten über Telegram anzeigen und steuern."
+    CustomerTelegramUserIsNotRegistered:
+      de: "Es scheint, dass Sie sich noch nicht registriert haben. Oder haben Sie eine andere Telefonnummer verwendet? Bitte verwenden Sie diesen Bot von dem Telegram-Konto mit <b>derselben Telefonnummer</b>, die Sie zur Registrierung in unserem Dienst verwendet haben."
+    CustomerTelegramShareMyPhoneNumber:
+      de: "Meine Telefonnummer teilen"
+    CustomerTelegramAuthPrompt:
+      de: "Ich kenne Sie nicht. Bitte teilen Sie Ihre Telefonnummer. <b>Tippen Sie auf die Schaltfläche 'Meine Telefonnummer teilen'</b>; Wenn Sie Ihre Telefonnummer als Textnachricht senden, können wir Sie nicht autorisieren. Wenn Sie bereits in unserem Dienst registriert sind, sende ich Ihnen Ihre aktuellen Mieten. Sie können das Fahrzeug öffnen, schließen und Ihre Fahrten beenden."
+    CustomerMaxCommandNotFound:
+      de: "Sie haben etwas Seltsames getan"
+    CustomerMaxActionFinishRent:
+      de: "Miete beenden"
+    CustomerMaxActionDrive:
+      de: "Öffnen"
+    CustomerMaxActionPark:
+      de: "Schließen"
+    CustomerMaxRideMessageTemplate:
+      de: "{icon} {model-name} <b>{reg-number}</b> im Zustand: <i>{ride-state}</i>"
+    CustomerMaxHereAreYouActiveRides:
+      de: "{name}, hier sind Ihre aktiven Fahrten:"
+    CustomerMaxYouHaveNoRides:
+      de: "{name}, Sie haben derzeit keine aktiven Fahrten. Um ein Fahrzeug zu mieten, senden Sie bitte sein Kennzeichen (z.B. A123BC)"
+    CustomerMaxCongratulationsNowIKnowYou:
+      de: "Willkommen, {name}! Jetzt können Sie Ihre Fahrten über MAX anzeigen und steuern."
+    CustomerMaxUserIsNotRegistered:
+      de: "Es scheint, dass Sie sich noch nicht registriert haben. Oder haben Sie eine andere Telefonnummer verwendet? Bitte verwenden Sie diesen Bot von dem MAX-Konto mit <b>derselben Telefonnummer</b>, die Sie zur Registrierung in unserem Dienst verwendet haben."
+    CustomerMaxShareMyPhoneNumber:
+      de: "Meine Telefonnummer teilen"
+    CustomerMaxAuthPrompt:
+      de: "Ich kenne Sie nicht. Bitte teilen Sie Ihre Telefonnummer. <b>Tippen Sie auf die Schaltfläche 'Meine Telefonnummer teilen'</b>; Wenn Sie Ihre Telefonnummer als Textnachricht senden, können wir Sie nicht autorisieren. Wenn Sie bereits in unserem Dienst registriert sind, sende ich Ihnen Ihre aktuellen Mieten. Sie können das Fahrzeug öffnen, schließen und Ihre Fahrten beenden."
+    CustomerMaxCarNotFound:
+      de: "Fahrzeug mit Nummer {carNumber} nicht gefunden. Bitte überprüfen Sie die Nummer und versuchen Sie es erneut."
+    CustomerMaxCarBookedSuccess:
+      de: "Fahrzeug {carNumber} erfolgreich gebucht! Sie können Ihre Fahrt nun mit den Schaltflächen verwalten."
+    CustomerMaxCarBookingFailed:
+      de: "Buchung von Fahrzeug {carNumber} fehlgeschlagen. {error}"
+    CustomerMaxBookingErrorTryLater:
+      de: "Bitte versuchen Sie es später erneut."
+    CustomerMaxBookingError:
+      de: "Bei der Buchung ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+    OverrunShort:
+      de: "ÜB"
+    RatePackSumShort:
+      de: Kosten
+    Discounts:
+      de: Rabatte
+    RatePackShort:
+      de: "VBT"
+    MakeZeroBalanceWithDebtDate:
+      de: "Saldo auf Null setzen, Schuldendatum: {DebtDate}"
+    HoldingDepositDescription:
+      de: "Reservierung der Kaution"
+    PaymentGatewayraiffeisenDisplayName:
+      de: "Raiffeisen"
+    PaymentGatewayjccpaymentsDisplayName:
+      de: "JCC"
+    PaymentGatewayjccnewpaymentsDisplayName:
+      de: "JCCNew"
+    PaymentGatewaystripeDisplayName:
+      de: "Stripe"
+    PaymentGatewayyoomoneyDisplayName:
+      de: "YooMoney"
+    PaymentGatewayomiseDisplayName:
+      de: "Omise"
+    FuelIsNotIncludedInRatePack:
+      de: "Kraftstoff ist nicht inbegriffen"
+    YouProvidedADangerousFile:
+      de: "Sie haben eine beschädigte Datei bereitgestellt ({trace-id})"
+    YouProvidedABrokenFile:
+      de: "Sie haben eine beschädigte Datei bereitgestellt ({trace-id})"
+    FailedDeliveryIsNotAllowedHere:
+      de: "Lieferung ist hier nicht erlaubt. Bitte wählen Sie einen anderen Punkt innerhalb der Lieferzone."
+    RightViewUsersTracks:
+      de: "Benutzerrouten anzeigen"
+    ForReservation:
+      de: "Für Reservierung"
+    Manual:
+      de: "Schaltgetriebe"
+    Automatic:
+      de: "Automatik"
+    RightExecCode:
+      de: "C#-Code ausführen"
+    RightExecSql:
+      de: "SQL-Abfragen ausführen"
+    RightHardwareAdmin:
+      de: "Hardware-Treiber-Konfiguration"
+    ManageStorage:
+      de: "Speicher verwalten"
+    DeliverToAddress:
+      de: "Liefern an Adresse: {delivery-address} bis {delivery-time}"
+    FileHasNoValidIds:
+      de: "Datei enthält keine gültigen IDs"
+    FileHasNoValidPhoneNumbers:
+      de: "Datei enthält keine gültigen Telefonnummern"
+    FileHasNoValidEmails:
+      de: "Datei enthält keine gültigen E-Mails"
+    Mass_RateOptions:
+      de: "Tarifoption"
+    RightMassAssignRateOptions:
+      de: "Massenzuweisung von Tarifoptionen"
+    RateOptionRemovedFromCustomers:
+      de: "Tarifoption wurde von {customersCount} Kunde(n) entfernt"
+    RateOptionAssignedToCustomers:
+      de: "Tarifoption wurde {customersCount} Kunde(n) zugewiesen"
+    RateOptionRemovedromAllCustomersSuccessfully:
+      de: "Tarifoption wurde erfolgreich von allen Kunden entfernt"
+    RateOptionAssignedToAllCustomersSuccessfully:
+      de: "Tarifoption wurde erfolgreich allen Kunden zugewiesen"
+    CanNotRemoveAccountDueToActiveOrder:
+      de: "Sie haben eine aktive Miete. Bitte beenden Sie sie und versuchen Sie es erneut"
+    NotificationSubscriptionEndsSoon:
+      de: "Ihr Abonnement {SubscriptionName} endet bald"
+    NotificationSubscriptionIsEnded:
+      de: "Ihr Abonnement {SubscriptionName} wurde beendet"
+    NotificationSubscriptionRenewed:
+      de: "Ihr Abonnement {SubscriptionName} wurde verlängert"
+    PaymentAlreadyInProcess:
+      de: "Zahlung wird derzeit verarbeitet, es liegt noch keine Antwort vom Zahlungsgateway vor"
+    NewReservation:
+      de: "Neue Reservierung"
+    UserWithTheSameDeviceIdRegistered:
+      de: "Erneute Registrierung mit gleicher Geräte-ID"
+    UserWithTheSameDeviceIdRegisteredDescription:
+      de: "Geräte-ID: {DeviceId}; Benutzer: {UserIds}"
+    WarningNoSuitablePerMinuteRateFound:
+      de: "⚠️ Kein Minutentarif für die Bestellung gefunden"
+    YoungUserRegistered:
+      de: "Junger Benutzer registriert"
+    ReportDuringRide:
+      de: "Problem gemeldet"
+    ElectricScooterError:
+      de: "Elektroroller-Fehler"
+    RecoveredFromFallingGround:
+      de: "Vom Boden aufgerichtet"
+    IllegalMoving:
+      de: "Unerlaubte Bewegung"
+    FallingGround:
+      de: "Auf dem Boden liegend"
+    RightEditTranslations:
+      de: "Übersetzungen bearbeiten"
+    UserWarningYouHaveCarTicket:
+      de: "Sie haben vorausbezahlte Mietzeit bis {car-ticket-until}. Starten Sie eine Fahrt ohne zusätzliche Zahlung."
+    BatteryLevelChangeDate:
+      de: Datum der Batteriewechsel
+    BatteryUnlockDate:
+      de: Datum der Batterie-Entsperrung
+    RentEnd:
+      de: Miete beendet
+    RentStart:
+      de: Miete gestartet
+    NeedToAttachAnotherCard:
+      de: "Eine andere Karte muss angehängt werden"
+    UserDeviceChanged:
+      de: "Gerät des Benutzers geändert"
+    FailedTooManyStartedOrdersAlready:
+      de: "Um diese Fahrt zu starten, müssen Sie eine der bereits gestarteten beenden"
+    UserUnderSupervisionLoggedIn:
+      de: "Ein überwachter Benutzer hat sich angemeldet"
+    UserBlockedDueToDeviceChanged:
+      de: "Benutzer wegen Gerätewechsel gesperrt"
+    UserLocation:
+      de: "Koordinaten"
+    SecondsShort:
+      de: "Sek."
+    MinutesShort:
+      de: "Min."
+    HoursShort:
+      de: "Std."
+    DaysShort:
+      de: "T."
+    OkEngineStarted:
+      de: "Motor gestartet"
+    OkEngineStopped:
+      de: "Motor gestoppt"
+    DeviceId:
+      de: Geräte-ID
+    PhoneModel:
+      de: Modell
+    CustomerMessageDeliveryTimeout:
+      de: "Zeitüberschreitung beim Warten auf das Ergebnis"
+    InitialPayment:
+      de: Karten-Verknüpfungs-Erstzahlung
+    CarAvailable:
+      de: Fahrzeug verfügbar
+    CarSettedOff:
+      de: Fahrzeugzugriff entfernt
+    CarOffReasonRequired:
+      de: Grund für Fahrzeugabschaltung erforderlich
+    RightViewCarOffReasons:
+      de: Gründe für Fahrzeugabschaltung anzeigen
+    RightManageCarOffReasons:
+      de: Gründe für Fahrzeugabschaltung verwalten
+    RightManageContracts:
+      de: Verträge verwalten
+    BindCardSuccessInappImageUrl:
+      de: ""
+    BindCardFailInappImageUrl:
+      de: ""
+    BindCardSuccessInappColor:
+      de: "000000"
+    BindCardFailInappColor:
+      de: "000000"
+    BindCardSuccessInappButtonText:
+      de: "OK"
+    BindCardFailInappButtonText:
+      de: "OK"
+    BindCardSuccessInappMessage:
+      de: "Ihre Karte wurde erfolgreich verknüpft. Drücken Sie 'OK', um zur App zurückzukehren"
+    BindCardFailInappMessage:
+      de: "Beim Versuch, Ihre Karte zu verknüpfen, ist ein Problem aufgetreten. Drücken Sie 'OK', um zur App zurückzukehren"
+    BindCardFailInappTitle:
+      de: "Fehlgeschlagen"
+    BindCardSuccessInappTitle:
+      de: "Erfolgreich"
+    TopUpPayment:
+      de: "Bonuskauf"
+    SignupPayment:
+      de: "Carsharing-Gebühr"
+    SimpleServicePayment:
+      de: "Carsharing-Gebühr"
+    BookingWithHiddenPerMinuteRateMessage:
+      de: "Minutentarif für dieses Fahrzeug ist nicht verfügbar"
+    PromoCodeIsRequired:
+      de: "Bitte geben Sie einen gültigen Promocode ein"
+    RentFinishBeyondTheZoneFine:
+      de: "Strafe für Beendigung außerhalb der Heimatzone"
+    UsedForceToken:
+      de: "Force-Token verwendet"
+    AnalyticReports:
+      de: Analytische Berichte
+    FailedOrderLocked:
+      de: "Ein anderer Befehl wird ausgeführt"
+    CancelSubscriptionEnumFailedNoSubscription:
+      de: "Sie haben kein Abonnement"
+    PurchaseSubscription:
+      de: "Abonnement gekauft"
+    CancelSubscription:
+      de: "Abonnement storniert"
+    RenewSubscription:
+      de: "Abonnement verlängern"
+    PurchaseSubscriptionEnumFailedUnavailableSubscription:
+      de: "Dieses Abonnement ist für Sie nicht verfügbar"
+    PurchaseSubscriptionEnumFailedAlreadySubscribed:
+      de: "Sie haben dieses Abonnement bereits"
+    WithdrawalReasonPurchaseSubscription:
+      de: "Abonnement kaufen"
+    RightDownloadPenaltyProtocol:
+      de: Strafprotokoll herunterladen
+    TransactionIsStillInProgress:
+      de: Vorherige Transaktion wird noch verarbeitet. Bitte versuchen Sie es später erneut
+    ProtocolEventTypeUnlockCase:
+      de: 'Der Koffer wurde geöffnet'
+    UnlockCaseResultFailedWrongOrderStage:
+      de: 'Das Öffnen des Koffers ist nur im Fahr- und Inspektionsmodus möglich'
+    IntegrationModifier:
+      de: Integrationsmodifikator
+    UserWarningOrderStateCostAndTimePackage:
+      de: 'Vorausbezahlt bis {PackageUntil}'
+    UserWarningOrderStateCostAndTimeAmount:
+      de: '{Currency}{Sum}'
+    UserWarningOrderStateCostAndTimeFreeMinutes:
+      de: 'Kostenlos für {TimeSpan}'
+    UserWarningOrderState:
+      de: '{VehicleModel} {VehicleNumber} - {OrderState}: {CostAndTime}'
+    UserWarningWaitForValidation:
+      de: 'Ihr Konto wartet auf Genehmigung'
+    UserWarningChargeDebt:
+      de: 'Sie haben Schulden in Höhe von {Currency}{DebtSum}. Bitte laden Sie Ihre Bankkarte auf und drücken Sie die Schaltfläche.'
+    UserWarningAttachBankCard:
+      de: 'Bitte verknüpfen Sie eine Bankkarte'
+    UserWarningAccessBlocked:
+      de: 'Ihr Konto ist gesperrt'
+    FuelingCardGenerated:
+      de: 'Tankkarte wurde generiert'
+    FileModified:
+      de: 'Datei geändert'
+    GetCardEnumFailedCardGenerationIsDisabled:
+      de: 'Tankkartengenerierung ist deaktiviert'
+    GetCardEnumFailedConnectorNotFoundForTheFuelingNetwork:
+      de: 'Es konnte kein kompatibler Tankkartengenerator für diese Tankstelle gefunden werden'
+    GetCardEnumFailedIncompatibleConnector:
+      de: 'Es konnte kein kompatibler Tankkartengenerator für diese Tankstelle gefunden werden'
+    GetCardEnumFailedConnectorError:
+      de: 'Fehler bei der Tankkartengenerierung: {errorCode}'
+    StartFuelingResultEnumFailedUserDebt:
+      de: 'Sie haben Schulden. Vor dem Tanken müssen Sie die Schulden begleichen.'
+    FailedFuelMustBePaidByCustomer:
+      de: 'Entschuldigung, es gibt keine Erstattung für die Kraftstoffkosten in Ihrem Tarif'
+    CanNotRemoveAccountDueToDebt:
+      de: 'Sie haben offene Schulden. Sie müssen diese begleichen, danach können Sie Ihr Konto löschen.'
+    CommentIsRequired:
+      de: Beschreibung des Zahlungsauftrags erforderlich
+    SetPaidUserBillResultSuccess:
+      de: Erfolgreich
+    SetPaidUserBillResultWithdrawalAlreadyHasTransaction:
+      de: Abbuchung hat bereits eine Transaktionsnummer
+    SetPaidUserBillResultWithdrawalIsCancelled:
+      de: Abbuchung ist storniert
+    SetPaidUserBillResultWithdrawalAlreadyPaid:
+      de: Abbuchung ist bereits bezahlt
+    SetPaidUserBillResultFailedUserNotFound:
+      de: Benutzer nicht gefunden
+    SetPaidUserBillResultWithdrawalNotFound:
+      de: Abbuchung nicht gefunden
+    RightSetPaidForBill:
+      de: Rechnung als bezahlt markieren
+    WithdrawReasonRequired:
+      de: Sie müssen einen Grund auswählen, um fortzufahren
+    TooManyImages:
+      de: 'Zu viele Fotos. Sie dürfen nicht mehr als {MaxPhotoCount} Fotos machen. Bitte versuchen Sie es erneut.'
+    FailedNeedToSolvePuzzle:
+      de: 'Bitte geben Sie Zahlen von 1 bis 9 ein'
+    FailedUserIsBlockedUntil:
+      de: 'Ihr Konto ist gesperrt bis {BlockedUntilDateTime}'
+    PuzzleFailCountEventDescription:
+      de: 'Anzahl der Fehler: {FailCount}'
+    UserValidationRequired:
+      de: Von der Sicherheit validiert erforderlich
+    NumbersPuzzleFailedTitle:
+      de: 'Ups. Sie haben das Rätsel nicht gelöst'
+    NumbersPuzzleFailedMessage:
+      de: 'Sie konnten das Rätsel nicht lösen. Wenn Sie erneut scheitern, wird Ihr Konto für {TimeToBlock} gesperrt'
+    NumbersPuzzleFailedButtonText:
+      de: 'In Ordnung🥴'
+    NumbersPuzzleFailedImageUrl:
+      de: ''
+    NumbersPuzzleFailedColorCode:
+      de: '000000'
+    NumbersPuzzleMaxCountFailedTitle:
+      de: 'Ihr Konto wurde gesperrt'
+    NumbersPuzzleMaxCountFailedMessage:
+      de: 'Sie konnten das Rätsel {FailCount} Mal nicht lösen. Ihr Konto wurde für {TimeToBlock} gesperrt'
+    NumbersPuzzleMaxCountFailedButtonText:
+      de: 'Ich gehe schlafen🤤'
+    NumbersPuzzleMaxCountFailedImageUrl:
+      de: ''
+    NumbersPuzzleMaxCountFailedColorCode:
+      de: '000000'
+    Penalty:
+      de: Strafe für Regelverstöße
+    DeleteCarDocuments:
+      de: Fahrzeugdokument löschen
+    ViewCarDocuments:
+      de: Fahrzeugdokumente anzeigen
+    EditCarDocuments:
+      de: Fahrzeugdokumente bearbeiten
+    BonusReasonRequired:
+      de: Sie müssen einen Grund auswählen, um fortzufahren
+    RightManageWithdrawReasons:
+      de: Abbuchungsgründe bearbeiten
+    RightViewWithdrawReasons:
+      de: Abbuchungsgründe anzeigen
+    NoAvailableCarsNow:
+      de: Derzeit sind keine Fahrzeuge dieses Modells verfügbar
+    BookingFailed:
+      de: Buchung fehlgeschlagen
+    DeliveryDriverNotFound:
+      de: Lieferfahrer nicht gefunden
+    UserIsNotInTechnicalOrganization:
+      de: Benutzer ist nicht in der technischen Organisation
+    MakeZeroBalanceAttemptsAreExhausted:
+      de: 'Versuche, den Saldo auf Null zu setzen, sind erschöpft. Bitte versuchen Sie es nach 24 Stunden erneut oder kontaktieren Sie unseren Support.'
+    DeliveryPlaceIsTooFarFromOrigin:
+      de: Ihr Standort ist zu weit vom Lieferort entfernt
+    FailedToRemoveBooking:
+      de: Buchung konnte nicht storniert werden
+    CannotRemoveBookingAtThisMoment:
+      de: Aktive Buchung kann nicht storniert werden
+    FailedToUpdate:
+      de: Aktualisierung fehlgeschlagen
+    CannotChangeBooking:
+      de: Buchung kann nach Lieferungsbeginn nicht geändert werden
+    BookingNotFound:
+      de: Reservierung nicht gefunden
+    FailedToLoad:
+      de: Laden fehlgeschlagen
+    In:
+      de: in
+    YouAlreadyHaveReservationOnThisDates:
+      de: Sie haben an diesem Datum bereits eine Reservierung
+    CarModelNotFound:
+      de: Fahrzeugmodell nicht gefunden
+    DeleteCarModelGalleryImage:
+      de: Bild aus Fahrzeugmodell-Galerie entfernen
+    EditCarModelGallery:
+      de: Fahrzeugmodell-Galerie ändern
+    ViewCarModelGallery:
+      de: Fahrzeugmodell-Galerie anzeigen
+    EmptyOrders:
+      de: Ablehnungsquote überschritten
+    RefusalRateValue:
+      de: Wert der Ablehnungsquote
+    MapExportColumnId:
+      de: 'ID'
+    MapExportColumnBrand:
+      de: 'Marke'
+    MapExportColumnModel:
+      de: 'Modell'
+    MapExportColumnRegNumber:
+      de: 'Nummer'
+    MapExportColumnFuelLevel:
+      de: 'Kraftstoff- oder Batteriestand'
+    MapExportColumnLat:
+      de: 'Breitengrad'
+    MapExportColumnLon:
+      de: 'Längengrad'
+    FailedTimeSentryIsAlarmed:
+      de: 'Der Dienst ist vorübergehend nicht verfügbar, da Arbeiten im Gange sind. Bitte versuchen Sie es in ein paar Minuten erneut'
+    FailedAfterRidePhotoTooLate:
+      de: 'Leider ist seit dem Abschluss der Bestellung zu viel Zeit vergangen. Sie können keine Fotos mehr hochladen'
+    RightViewBonusReasons:
+      de: Gründe für Bonusgutschriften anzeigen
+    RightManageBonusReasons:
+      de: Gründe für Bonusgutschriften verwalten
+    RequireGpsTitle:
+      de: 'GPS ist erforderlich'
+    RequireGpsMessage:
+      de: 'Wir können Ihren Standort nicht ermitteln. Es scheint, dass GPS auf Ihrem Gerät deaktiviert ist. Bitte aktivieren Sie GPS in den Geräteeinstellungen und erlauben Sie unserer App den Zugriff auf Ihren Standort.'
+    RequireGpsButtonText:
+      de: 'Fertig, GPS ist aktiviert'
+    RequireGpsPictureUrl:
+      de: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png'
+    RequireGpsColor:
+      de: '000000'
+    SpeedLimitSport:
+      de: ' 25 km/h'
+    SpeedLimitNormal:
+      de: ' 15 km/h'
+    SpeedLimitEco:
+      de: ' 6 km/h'
+    SpeedLimitNotSetted:
+      de: ': Unbegrenzt'
+    YouEnteredZoneWithSpeedMode:
+      de: Sie sind in eine Zone mit Geschwindigkeitsbegrenzung eingefahren
+    FailedNeedToSmile:
+      de: 'Bitte lächeln Sie, wenn Sie ein Selfie machen. Versuchen Sie es erneut.'
+    RightManagePushJobs:
+      de: 'Push-Aufgaben verwalten'
+    RightCustomCommand:
+      de: 'Benutzerdefinierten Befehl ausführen'
+    RightSmsCommand:
+      de: 'SMS-Befehl ausführen'
+    CustomCommandSent:
+      de: 'Ein benutzerdefinierter Befehl wurde gesendet'
+    FailedNoNeedToRefuelThisTypeOfVehicle:
+      de: 'Sie müssen dieses Fahrzeug nicht tanken oder laden. Wir erledigen das selbst.'
+    RightDeleteInAppMessages:
+      de: In-App-Nachrichten löschen
+    RightEditInAppMessages:
+      de: Parameter der In-App-Nachrichten bearbeiten
+    RightViewInAppMessages:
+      de: Parameter der In-App-Nachrichten im Admin-Panel anzeigen
+    DebtWithdrawalAlreadyInProgress:
+      de: Schuldenabbuchung läuft bereits
+    RightViewOldCustomersDocuments:
+      de: 'Kundendokumente anzeigen, die vor einiger Zeit hochgeladen wurden'
+    BepaidPayButtonText:
+      de: '{amount} bezahlen'
+    PuchaseBonusesEnumFailedUserIsBlocked:
+      de: 'Ihr Konto ist gesperrt. Sie können keine Boni kaufen'
+    PuchaseBonusesEnumFailedUserIsNotValidated:
+      de: 'Ihr Konto ist noch nicht validiert, daher können Sie keine Boni kaufen'
+    OrdersAnalisysIsInProgressNow:
+      de: Bestellberechnung läuft bereits
+    FailedWrongSmsCode:
+      de: Falscher SMS-Code
+    FailedUserIsNotIncognito:
+      de: Sie können Ihre Kontodaten nur mit Hilfe unseres Support-Teams ändern
+    FailedCouldNotRecognizeQrCode:
+      de: QR-Code konnte nicht gelesen werden. Bitte versuchen Sie, ihn erneut zu scannen.
+    EmailSubjectRadarCarFound:
+      de: "Das Radar hat ein Fahrzeug für Sie gefunden"
+    EmailManualWriteOff:
+      de: "Wir haben Ihrem Konto eine Abbuchung vorgenommen"
+    EmailIncomeReceipt:
+      de: "Einnahmebeleg"
+    EmailRefundReceipt:
+      de: "Rückerstattungsbeleg"
+    EmailSubjectSpeedLimitExceeded:
+      de: Verstoß gegen die Geschwindigkeitsbegrenzung
+    YouDontHavePermissionToView:
+      de: Sie haben keine Berechtigung, das gesamte Ergebnisset anzuzeigen
+    CanNotRentCarWithGpsDisabledOnDevice:
+      de: Um ein Fahrzeug zu mieten, schalten Sie bitte GPS auf Ihrem Telefon ein
+    CanNotRentScooterWithGpsDisabledOnDevice:
+      de: Um ein Fahrzeug zu mieten, schalten Sie bitte GPS auf Ihrem Telefon ein
+    MassAssignOrganizations:
+      de: Massenzuweisung von Organisationen
+    Mass_Organizations:
+      de: Organisationen
+    UnknownUserName:
+      de: Unbekannt
+    UnknownUserSurname:
+      de: Unbekannt
+    TooManyRowsAccessCause:
+      de: 'Es gibt zu viele Zeilen im Ergebnisset. Sie haben keine Berechtigung, alle anzuzeigen. Bitte präzisieren Sie Ihre Suchbedingungen'
+    RightSearchWithdrawals:
+      de: Abbuchungen suchen
+    RightSearchPayments:
+      de: Zahlungen suchen
+    RightSearchBonusesAdditions:
+      de: Bonusgutschriften suchen
+    RightSearchBankCards:
+      de: Bankkarten suchen
+    RightSearchUsers:
+      de: Benutzer suchen
+    RateCardFreeBooking:
+      de: "{time} kostenlose Buchung"
+    RatePackCardIncludedTime:
+      de: Inklusive
+    RateCardForUnlock:
+      de: zum Start
+    RateCardWaiting:
+      de: Wartezeit
+    RateCardIncluded:
+      de: Inklusive
+    RateCardDriving:
+      de: Fahren
+    RateCardOverrun:
+      de: extra
+    CannotSetRightsBecauseOfAccess:
+      de: 'Folgende Rechte können nicht gesetzt werden (Zugriff verweigert):'
+    PurchaseBonusesPaymentDescription:
+      de: "Bonuskauf '{package-name}'"
+    BatteryUnlocked:
+      de: Batteriefach entsperrt
+    FuelLevelFine:
+      de: Strafe für niedrigen Kraftstoffstand
+    BonusesBurn:
+      de: Boni-Verfall
+    SwitchedToPrivateTrips:
+      de: Auf private Fahrten umgestellt
+    SpeedingFineDescription:
+      de: 'Strafe für Geschwindigkeitsüberschreitung, {speed} km/h'
+    WithdrawalReasonSpeedingFine:
+      de: Strafe für Geschwindigkeitsüberschreitung
+    SpeedingFine:
+      de: Strafe für Geschwindigkeitsüberschreitung
+    FailedUserIsDebtor:
+      de: Sie können keine Boni kaufen, bis Sie die Schulden begleichen
+    FailedSelectedRatePackIsNotAvailable:
+      de: Ausgewähltes Tarifpaket ist für Sie nicht verfügbar
+    TopupActivityRequested:
+      de: Bitte laden Sie Ihr Guthaben auf
+    VoucherIsOutdated:
+      de: Dieser Gutschein ist abgelaufen
+    EditTranslations:
+      de: Übersetzungen bearbeiten
+    Translations:
+      de: Übersetzungen
+    FileNotFound:
+      de: Datei nicht gefunden
+    ViewMarketingNews:
+      de: Neuigkeiten anzeigen
+    RightUnlockBattery:
+      de: Batteriefach entsperren
+    RightUnlockCase:
+      de: Helmkoffer entsperren
+    EditMarketingNews:
+      de: Neuigkeiten bearbeiten
+    DeleteMarketingNews:
+      de: Neuigkeiten löschen
+    MarketingNews:
+      de: Neuigkeiten
+    FileHasNoRows:
+      de: Datei enthält keine Zeilen
+    OrganizationRemovedFromRatePacks:
+      de: Organisation wurde aus {ratePacksCount} Tarifpaketen entfernt
+    OrganizationRemovedFromRates:
+      de: Organisation wurde aus {ratesCount} Tarifen entfernt
+    OrganizationRemovedFromZones:
+      de: Organisation wurde aus {zonesCount} Zonen entfernt
+    OrganizationRemovedFromCustomers:
+      de: Organisation wurde von {customersCount} Kunden entfernt
+    OrganizationRemovedFromCars:
+      de: Organisation wurde aus {carsCount} Fahrzeugen entfernt
+    OrganizationAssignedToRates:
+      de: Organisation wurde {ratesCount} Tarifen zugewiesen
+    OrganizationAssignedToRatePacks:
+      de: Organisation wurde {ratePacksCount} Tarifpaketen zugewiesen
+    OrganizationAssignedToAllRatesSuccessfully:
+      de: Organisation wurde erfolgreich allen Tarifen zugewiesen
+    OrganizationAssignedToAllRatePacksSuccessfully:
+      de: Organisation wurde erfolgreich allen Tarifpaketen zugewiesen
+    OrganizationRemovedFromAllRatesSuccessfully:
+      de: Organisation wurde erfolgreich aus allen Tarifen entfernt
+    OrganizationRemovedFromAllRatePacksSuccessfully:
+      de: Organisation wurde erfolgreich aus allen Tarifpaketen entfernt
+    OrganizationRemovedFromAllZonesSuccessfully:
+      de: Organisation wurde erfolgreich aus allen Zonen entfernt
+    OrganizationRemovedromAllCustomersSuccessfully:
+      de: Organisation wurde erfolgreich von allen Kunden entfernt
+    OrganizationRemovedFromAllCarsSuccessfully:
+      de: Organisation wurde erfolgreich aus allen Fahrzeugen entfernt
+    OrganizationAssignedToZones:
+      de: Organisation wurde {zonesCount} Zonen zugewiesen
+    OrganizationAssignedToAllZonesSuccessfully:
+      de: Organisation wurde erfolgreich allen Zonen zugewiesen
+    OrganizationAssignedToCustomers:
+      de: Organisation wurde {customersCount} Kunden zugewiesen
+    OrganizationAssignedToAllCustomersSuccessfully:
+      de: Organisation wurde erfolgreich allen Kunden zugewiesen
+    OrganizationAssignedToCars:
+      de: Organisation wurde {carsCount} Fahrzeugen zugewiesen
+    OrganizationAssignedToAllCarsSuccessfully:
+      de: Organisation wurde erfolgreich allen Fahrzeugen zugewiesen
+    RightMassAssignOrganizations:
+      de: Massenzuweisung von Organisationen
+    Entry:
+      de: Einfahrt
+    Exit:
+      de: Ausfahrt
+    CorporateReportValDescription:
+      de: Stk.
+    CorporateReportDriveCostRowDescription:
+      de: Mietkosten pro Minute im Fahrmodus
+    CorporateReportParkCostRowDescription:
+      de: Mietkosten pro Minute im Parkmodus
+    CorporateReportRatePacksCostRowDescription:
+      de: Tarifpakete
+    CompanyRequisites:
+      de: Firmenangaben
+    EngineSpeedToClearAlarmDescription:
+      de: Motordrehzahl zum Löschen des Alarms
+    EngineSpeedAlarmMessage:
+      de: 'Motordrehzahl: {engineSpeed}'
+    EngineSpeedTooHigh:
+      de: Motordrehzahl zu hoch
+    ZoneDriveIn:
+      de: Fahrzeug in die Zone eingefahren
+    ZoneDriveOut:
+      de: Fahrzeug hat die Zone verlassen
+    EngineSpeedLimitDescription:
+      de: Motordrehzahlbegrenzung
+    For:
+      de: für
+    YearsGenitivePlural:
+      de: Jahre
+    YearsGenitiveSingular:
+      de: Jahre
+    Year:
+      de: Jahr
+    YearsNominative:
+      de: Jahre
+    MonthsGenitivePlural:
+      de: Monate
+    MonthsGenitiveSingular:
+      de: Monate
+    Month:
+      de: Monat
+    MonthsNominative:
+      de: Monate
+    DaysGenitivePlural:
+      de: Tage
+    DaysGenitiveSingular:
+      de: Tage
+    Day:
+      de: Tag
+    DaysNominative:
+      de: Tage
+    WeeksGenitivePlural:
+      de: Wochen
+    WeeksGenitiveSingular:
+      de: Wochen
+    Week:
+      de: Woche
+    WeeksNominative:
+      de: Wochen
+    RateNotFoundReasonUserViolationsCount:
+      de: Sie haben zu viele Verstöße begangen. Zugang zum Dienst gesperrt
+    RateNotFoundReasonZone:
+      de: Buchung in der aktuellen Zone ist verboten
+    RateNotFoundReasonUserRideModeDuration:
+      de: Fahrzeug ist derzeit nicht zur Miete verfügbar
+    RateNotFoundReasonUserKBM:
+      de: Ihre SF-Klasse ist zu niedrig, um dieses Fahrzeug zu mieten
+    RateNotFoundReasonCarIdleTime:
+      de: Dieses Fahrzeug stand zu lange ungenutzt und kann derzeit nicht gebucht werden. Bitte kontaktieren Sie den Support
+    RateNotFoundReasonCarFuel:
+      de: Der Kraftstoff-/Ladestand des Fahrzeugs reicht derzeit nicht für eine Miete aus. Bitte kontaktieren Sie den Support
+    RateNotFoundReasonDrivingExperience:
+      de: Ihre Fahrpraxis reicht nicht aus, um dieses Fahrzeug zu mieten
+    RateNotFoundReasonUserAge:
+      de: Dieses Fahrzeug hat Einschränkungen für Benutzer Ihres Alters.
+    RateNotFoundReasonRateTime:
+      de: Für die aktuelle Tageszeit wurden keine Tarife gefunden. Bitte kontaktieren Sie den Support
+    RateNotFoundReasonCarMileage:
+      de: Der Kilometerstand dieses Fahrzeugs erlaubt derzeit keine Buchung. Bitte kontaktieren Sie den Support
+    RateNotFoundReasonCarModel:
+      de: Sie haben keinen Zugriff auf Fahrzeuge dieses Modells
+    RateNotFoundReasonCarTransmission:
+      de: Sie haben keinen Zugriff auf Fahrzeuge mit diesem Getriebetyp
+    RateNotFoundReasonNoActiveRates:
+      de: Derzeit sind keine aktiven Tarife verfügbar
+    RentEndPhotosBonuses:
+      de: 'Boni für Mietende-Fotos angerechnet. Anzahl der Fotos: {{photosCount}}'
+    Seconds:
+      de: Sek.
+    Minutes:
+      de: Min.
+    Hours:
+      de: Std.
+    Hours2:
+      de: Std.
+    Days:
+      de: T.
+    Days2:
+      de: T.
+    Weeks:
+      de: W.
+    Months:
+      de: M.
+    CheckSelfieNotPassed:
+      de: Selfie nicht erkannt
+    FaceRecognitionApiError:
+      de: Gesichtserkennungs-API-Fehler
+    FinishRentWithPackage:
+      de: Miete mit aktivem Paket beendet
+    CarFuelLevelSettedTo100:
+      de: Fahrzeug-Kraftstoffstand auf 100% gesetzt
+    UploadPhotoResultSuccess:
+      de: 'Fotos erfolgreich hochgeladen'
+    UploadPhotoResultFailedNoPhotos:
+      de: 'Foto-Upload fehlgeschlagen. Bitte versuchen Sie es erneut.'
+    UploadPhotoResultFailedUserHasNoOrderNow:
+      de: 'Sie haben derzeit keine Bestellung. Sie können Fotos nur während der Bestellung hochladen.'
+    UploadPhotoResultFailedOrderIsCompletedAlready:
+      de: 'Sie haben derzeit keine Bestellung. Sie können Fotos nur während der Bestellung hochladen.'
+    FailedNoSelfieTaken:
+      de: 'Bitte machen Sie ein Selfie'
+    UploadPhotoResultFailedUnlikeSelfie:
+      de: 'Sie sehen auf dem Foto nicht wie Sie selbst aus. Versuchen Sie, das Foto erneut zu machen.'
+    UploadPhotoResultFailedFaceNotFoundOnSelfieImage:
+      de: 'Auf dem im System gespeicherten Selfie konnte kein Gesicht gefunden werden. Bitte kontaktieren Sie den technischen Support.'
+    UploadPhotoResultFailedTestImageNotFound:
+      de: 'Auf dem Foto konnte kein Gesicht gefunden werden. Versuchen Sie, das Foto in bester Qualität erneut aufzunehmen. Ihr Gesicht sollte vollständig im Bild sein, ohne Blendung, Unschärfe, Lichtreflexe oder Schatten.'
+    UploadPhotoResultFailedReferenceSelfieImageNotFound:
+      de: 'Im System konnte kein Foto Ihres Gesichts gefunden werden. Bitte kontaktieren Sie den technischen Support.'
+    UploadPhotoResultFailedFaceNotFountOnTestImage:
+      de: 'Auf dem Foto konnte kein Gesicht gefunden werden. Versuchen Sie, das Foto in bester Qualität erneut aufzunehmen. Ihr Gesicht sollte vollständig im Bild sein, ohne Blendung, Unschärfe, Lichtreflexe oder Schatten.'
+    SwitchInsuranceResultEnumSuccess:
+      de: 'Ihre Versicherung wurde erfolgreich umgestellt'
+    SwitchInsuranceResultEnumFailedMinimumTimeFromLastSwitch:
+      de: 'Versicherung kann nicht häufig gewechselt werden. Bitte versuchen Sie es nach {TimeSpan}'
+    SwitchInsuranceResultEnumFailedUserHasActiveOrder:
+      de: 'Sie können die Versicherung während der Bestellung nicht wechseln'
+    SwitchInsuranceResultEnumFailedMinimumTimeFromLastOrder:
+      de: 'Seit der letzten Fahrt ist nicht genug Zeit vergangen, um die Versicherung zu wechseln'
+    PuchaseBonusesFailedNotAuthorized:
+      de: 'Nicht autorisiert'
+    PuchaseBonusesFailedInvalidPackageId:
+      de: 'Es gibt kein solches Bonuspaket'
+    CreateCarTask:
+      de: Fahrzeugaufgabe erstellen
+    RatePackName:
+      de: Tarifpaket
+    RentEndZoneBonusGivenNotificationSettingDescription:
+      de: Benachrichtigung "Boni für Mietende in Bonuszone vergeben" an Benutzer senden
+    UserComment:
+      de: Benutzerkommentare
+    NoFluid:
+      de: Keine Scheibenwischerflüssigkeit
+    NoDocuments:
+      de: Keine Dokumente
+    IsSmoked:
+      de: Wurde geraucht
+    IsCritical:
+      de: Kritischer Fahrzeugschaden
+    TireIsFlat:
+      de: Reifen ist platt
+    BrokenWindow:
+      de: Zerbrochenes Fenster
+    CarBodyIsDamaged:
+      de: Karosserie ist beschädigt
+    IsDirty:
+      de: Fahrzeug ist schmutzig
+    TroubleReport:
+      de: Ergebnis der Fahrzeuginspektion
+    TroubleReportDescription:
+      de: 'Der Benutzer hat folgende Probleme markiert:'
+    Success:
+      de: Erfolgreich
+    IdleTime:
+      de: Stillstandszeit
+    MultiplierRMDrive:
+      de: 'Tarifmultiplikator-Koeffizient im Fahrmodus'
+    MultiplierMCDrive:
+      de: 'Marketingkampagnen-Multiplikator-Koeffizient'
+    MultiplierRMPark:
+      de: 'Tarifmultiplikator-Koeffizient im Parkmodus'
+    AdditionRMDrive:
+      de: 'Tarifmultiplikator-Additions-Koeffizient im Fahrmodus'
+    AdditionRMPark:
+      de: 'Tarifmultiplikator-Additions-Koeffizient im Parkmodus'
+    RateModifiersNames:
+      de: 'Tarifmodifikatoren'
+    AdditionMCDrive:
+      de: 'Marketingkampagnen-Additions-Koeffizient'
+    RateMultiplier:
+      de: 'Tarifmultiplikator'
+    Level:
+      de: 'Stufe'
+    MarketingCampaign:
+      de: 'Marketingkampagne'
+    WithdrawalReasonFinishedBeyondZone:
+      de: "Außerhalb der Heimatzone beendet"
+    WithdrawalReasonFinishInPaidZone:
+      de: In bezahlter Zone beendet
+    UserWithPhoneAlreadyExists:
+      de: 'Benutzer mit Mobiltelefon existiert bereits'
+    NewUser:
+      de: 'Neuer Kunde'
+    Id:
+      de: 'ID'
+    ExportWithoutDatesIsDenied:
+      de: 'Sie müssen zuerst Daten auswählen'
+    CustomerName:
+      de: "Kundenname"
+    CustomerPosition:
+      de: "Kundenposition"
+    BookDateTime:
+      de: 'Mietbeginn-Datum'
+    EndDateTime:
+      de: 'Mietende-Datum'
+    BookMinutes:
+      de: 'Buchungszeit, Min.'
+    DriveMinutes:
+      de: 'Fahrzeit, Min.'
+    ParkMinutes:
+      de: 'Parkzeit, Min.'
+    TotalRun:
+      de: 'Gesamtkilometerstand'
+    DriveTotalCost:
+      de: 'Gesamtkosten Fahrmodus'
+    ParkTotalCost:
+      de: 'Gesamtkosten Parkmodus'
+    OverrunCost:
+      de: 'Überschreitungskosten'
+    TotalCost:
+      de: 'Gesamtkosten'
+    Sum:
+      de: 'Summe'
+    BonusesRefund:
+      de: Bonus-Rückerstattungen
+    FailedNeedMorePhotos:
+      de: Fehler beim Versuch, die Miete zu beenden. Weitere Fotos erforderlich
+    FailedOutOfRentEndZone:
+      de: Versuch, die Miete außerhalb der Mietende-Zone zu beenden
+    CarAvaliabilityChanged:
+      de: 'Für Kunden verfügbar'
+    HardwareProfileSwitchError:
+      de: 'Hardware-Fehler'
+    UserHaveDuplicateDocuments:
+      de: 'Es gibt bereits einen Benutzer in der Datenbank mit den angegebenen Dokumentennummern'
+    VoucherMaxActivationsAttemptsExceeded:
+      de: 'Sie haben {vouchersCount} Gutscheine dieses Typs aktiviert - Limit überschritten'
+    LoggedIntoCorporateCabinetFailed:
+      de: 'Anmeldung im Firmenkonto fehlgeschlagen'
+    LoggedIntoCorporateCabinet:
+      de: 'Im Firmenkonto angemeldet'
+    OperationSuccessfull:
+      de: 'Erledigt'
+    RightViewCorporateOrganizations:
+      de: 'Firmenorganisationsinformationen anzeigen'
+    AccessDenied:
+      de: Zugriff verweigert
+    AccountIsVerifiedNotificationSettingDescription:
+      de: Benutzer über Authentifizierungsabschluss benachrichtigen
+    AccountWasIntegrated:
+      de: Konto wurde aus {0} integriert
+    ActGSM:
+      de: Kraftstoffabbuchungsprotokoll
+    CarTicketFinished:
+      de: "Paket abgelaufen"
+    ActivateCarTicket:
+      de: "Paket abgelaufen"
+    ActivationEmailSubject:
+      de: Kontoaktivierung
+    ActivationEmailText:
+      de: 'Um Ihr Konto zu aktivieren, folgen Sie bitte dem Link: {0}. Der Link ist gültig bis {1}.'
+    Active:
+      de: Aktivität
+    AdCompaign:
+      de: Werbekampagne
+    AddFriendBonus:
+      de: Bonus für Freundeseinladung
+    AdministratorData:
+      de: Admin-Daten
+    AdminLogin:
+      de: Administrator-Anmeldung
+    AlarmBatteryLow:
+      de: Alarm - Batterieentladung
+    AlarmFinishedInZone:
+      de: Alarm - in der Zone abgeschlossen
+    AlarmHijack:
+      de: Alarm - Diebstahl
+    AlarmServiceIsDisabledOnThisServer:
+      de: Alarmdienst ist auf diesem Server deaktiviert
+    AlarmStale:
+      de: Alarm - bewegungslos
+    AlarmTamper:
+      de: Alarm - Türöffnung
+    AlarmTow:
+      de: Alarm - Abschleppung
+    AllowDriveWithoutBankCard:
+      de: Kann kostenlos fahren
+    AllRights:
+      de: Alle Berechtigungen
+    AlreadyApproved:
+      de: Dieser Benutzer wurde bereits genehmigt
+    AlreadyBeingEdited:
+      de: 'Ressource wird bereits von {0} bearbeitet. Telefonbenutzer: {1}'
+    AmericanExpress:
+      de: American Express
+    Amount:
+      de: Betrag
+    AmountMustBeAPositiveNumber:
+      de: Betrag muss einen positiven Saldo haben
+    AndroidAppVersionTooLow:
+      de: Bitte aktualisieren Sie die App im Google Play
+    ApplyFriday:
+      de: Am Freitag anwenden
+    ApplyMonday:
+      de: Am Montag anwenden
+    ApplyPenalty:
+      de: Strafe abgebucht
+    ApplySaturday:
+      de: Am Samstag anwenden
+    ApplySunday:
+      de: Am Sonntag anwenden
+    ApplyThursday:
+      de: Am Donnerstag anwenden
+    ApplyToTransmissionType:
+      de: Auf Getriebetyp anwenden
+    ApplyTuesday:
+      de: Am Dienstag anwenden
+    ApplyWednesday:
+      de: Am Mittwoch anwenden
+    ArmCar:
+      de: Fahrzeug geschlossen und verriegelt
+    at:
+      de: um
+    AT:
+      de: Automatik
+    AutostartDriveModeOnMovementAndIgnitionSettingDescription:
+      de: Fahrmodus starten, wenn Geschwindigkeit und Zündung an sind
+    AutostartDriveModeOnMovementAndIgnitionSettingDescription1:
+      de: Fahrmodus starten, wenn Geschwindigkeit und Zündung an sind
+    AutostartDriveModeOnMovementAndIgnitionSpeedSettingDescription:
+      de: Die Geschwindigkeit, bei der die Bestellung automatisch in den Nutzungsmodus übertragen wird
+    AutostartDriveModeOnMovementAndIgnitionSpeedSettingDescription1:
+      de: Die Geschwindigkeit, bei der die Bestellung automatisch in den Nutzungsmodus übertragen wird
+    AvgDebtSum:
+      de: Durchschnittlicher Schuldenbetrag
+    BadRequestException:
+      de: Die Anfrage kann aufgrund falscher Syntax nicht ausgeführt werden
+    BankCard:
+      de: Bankkarte
+    BankCard1:
+      de: Bankkarte
+    BankCardBindError:
+      de: Karte konnte nicht verknüpft werden. Bitte beachten Sie, dass Visa Electron und Maestro-Karten nicht verwendet werden können
+    BankCardBindOk:
+      de: Bankkarte wurde erfolgreich verknüpft
+    BankCardDeleted:
+      de: Bankkarte gelöscht
+    BankCardNotFoundForUser:
+      de: Benutzer {0} hat keine Bankkarte verknüpft
+    BankCardNumberLastDigits:
+      de: Letzte Ziffern der Kartennummer
+    BankCardRestored:
+      de: Bankkarte wiederhergestellt
+    BankCards:
+      de: Bankkarten
+    BankCardsDeletionsAreDisabled:
+      de: Um die Bankkarte zu löschen, rufen Sie bitte unseren Support an
+    BankCardTypeIsProhibited:
+      de: Ihre Bankkarte kann in unserem Dienst nicht verwendet werden. Bitte versuchen Sie es mit einer anderen Bankkarte
+    BankError:
+      de: 'Fehler auf der Seite der Acquiring-Bank. Bitte kontaktieren Sie den technischen Support. Fehlercode: {errorCode}. Fehlermeldung: {errorMessage}'
+    BatteryLowAlarmPeriodSettingDescription:
+      de: Verzögerungszeit der Warnung bei niedrigem Batteriestand
+    BeforeSavingFileVersionYouShouldObtainAFileLock:
+      de: Vor dem Speichern einer Dateiversion müssen Sie eine Dateisperre anfordern
+    BirthDate:
+      de: Geburtsdatum
+    BlockCharger:
+      de: Ladegerät blockieren
+    BluetoothAllowed:
+      de: Bluetooth ist erlaubt
+    BonusAccount:
+      de: Bonuskonto
+    BonusAccountRefill:
+      de: Einzahlung auf Bonuskonto
+    Bonuses:
+      de: Angesammelte Boni
+    BonusesAmountMustBeGreaterThanZero:
+      de: Anzahl der gutzuschreibenden Boni muss größer als null sein
+    BonusWithdrawPercentSettingDescription:
+      de: Prozentsatz der Fahrtsumme, die der Kunde mit Boni bezahlen kann
+    Book:
+      de: Buchen
+    BookCarResultFailedCarIsNotAvailableNow:
+      de: Das Fahrzeug ist derzeit nicht zur Miete verfügbar
+    BookCarResultFailedCarIsOffline:
+      de: Das Fahrzeug ist offline
+    BookCarResultFailedCarIsOrderedAlready:
+      de: Das Fahrzeug ist bereits von jemand anderem gebucht
+    BookCarResultFailedCarIsReserved:
+      de: Entschuldigung, dieses Fahrzeug ist derzeit nicht zur Miete verfügbar
+    BookCarResultFailedCarNotFound:
+      de: Das Fahrzeug wurde im System nicht gefunden
+    BookCarResultFailedCustomerIsBlocked:
+      de: Ihr Konto ist gesperrt
+    BookCarResultFailedHasNoBankCard:
+      de: Es gibt keine Informationen über Ihre Bankkarte im System
+    BookCarResultFailedNegativeBalance:
+      de: Ihr Saldo ist negativ
+    BookCarResultFailedNoDriveZonesFound:
+      de: Der Heimatbereich wurde für dieses Fahrzeug nicht konfiguriert
+    BookCarResultFailedNoRentEndZonesFound:
+      de: Der Heimatbereich wurde für dieses Fahrzeug nicht konfiguriert
+    BookCarResultFailedPreHold:
+      de: Betrag kann auf Ihrer Karte nicht reserviert werden
+    BookCarResultFailedSecurityCheckDidNotPass:
+      de: Eingereichte Dokumente werden geprüft. Wir informieren Sie in Kürze über das Ergebnis
+    BookCarResultFailedTheScooterIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Bitte kommen Sie näher heran und versuchen Sie es erneut
+    BookCarResultFailedUserAlreadyHasOrder:
+      de: Sie haben bereits ein Fahrzeug gebucht
+    BookCarResultFailedUserHasNoCorrectOrganization:
+      de: Das Fahrzeug ist Organisationen zugewiesen, denen Sie nicht angehören
+    BookCarResultFailedUserIsBlocked:
+      de: Ihr Konto ist gesperrt
+    BookCarResultFailedUserIsNotACustomer:
+      de: Sie haben keine Berechtigung, Fahrzeuge zu buchen
+    BookCarResultOkCarIsBooked:
+      de: Das Fahrzeug wurde erfolgreich gebucht
+    BookedCarWithoutMovementUserMessage:
+      de: Sie haben ein Fahrzeug für {0} Minuten gebucht. Stellen Sie sicher, dass Sie Ihre Miete bald starten
+    BookingPreventPeriodByCarTicketSettingDescription:
+      de: Das Fehlen von Reservierungen für ein Fahrzeug ab der aktuellen Zeit beim Buchen eines Abonnements
+    BookingResultRateNotFound:
+      de: Dieses Fahrzeug kann derzeit nicht gebucht werden (kein passender Tarif für dieses Fahrzeug)
+    Bookings:
+      de: Buchungsbericht
+    BookRate:
+      de: Buchungstarif
+    BookStart:
+      de: Fahrzeug ist gebucht
+    Brand:
+      de: Marke
+    BuyCarTicketCodeFailedAlreadyHasTicket:
+      de: Sie haben ein Paket gekauft. Sie können nicht mehr als ein Paket gleichzeitig kaufen
+    BuyCarTicketCodeFailedBilling:
+      de: Zahlung fehlgeschlagen
+    BuyCarTicketCodeFailedRatePackNotFound:
+      de: Ausgewähltes Paket ist nicht verfügbar
+    BuyCarTicketCodeFailedThisRatePackIsNotAvailableForYou:
+      de: Sie können dieses Paket nicht kaufen
+    BuyCarTicketCodeFailedUnknowError:
+      de: Paketkauf fehlgeschlagen. Bitte versuchen Sie es später erneut
+    BuyCarTicketCodeOrganizationLimitExceeded:
+      de: Organisationslimit überschritten
+    BuyCarTicketCodeSuccessCarTicketPurchased:
+      de: Das Paket wurde gekauft
+    Cancel:
+      de: Abbrechen
+    Canceled:
+      de: Storniert
+    CanNotDeleteFileNotAuthenticated:
+      de: 'Datei kann nicht gelöscht werden: Benutzer ist nicht autorisiert'
+    CannotDeleteReportThatInProcessNow:
+      de: Bericht, der gerade verarbeitet wird, kann nicht gelöscht werden
+    CanNotLockFileNotAuthenticated:
+      de: 'Datei kann nicht gesperrt werden: Benutzer ist nicht autorisiert'
+    CanNotUnlockFileNotAuthenticated:
+      de: 'Datei kann nicht entsperrt werden: Benutzer ist nicht autorisiert'
+    Car:
+      de: Fahrzeug
+    CarBooked:
+      de: Fahrzeug ist gebucht
+    CarCommandResultErrorAnotherCommandInProgress:
+      de: Anderer Befehl wird ausgeführt
+    CarCommandResultErrorBootIsOpened:
+      de: Der Kofferraum ist offen
+    CarCommandResultErrorCarInMotion:
+      de: Das Fahrzeug fährt gerade
+    CarCommandResultErrorCheckDoors:
+      de: Bitte überprüfen Sie die Türen
+    CarCommandResultErrorCheckWindows:
+      de: Bitte überprüfen Sie die Fenster
+    CarCommandResultErrorEngineIsStarted:
+      de: Der Motor ist an
+    CarCommandResultErrorFLDoorIsOpened:
+      de: Die vordere linke Tür ist nicht verriegelt
+    CarCommandResultErrorFRDoorIsOpened:
+      de: Die vordere rechte Tür ist nicht verriegelt
+    CarCommandResultErrorHandBreakIsOff:
+      de: Die Handbremse ist nicht angezogen
+    CarCommandResultErrorHandBreakIsOn:
+      de: Bitte lösen Sie die Handbremse, um das Fahrzeug zu schließen.
+    CarCommandResultErrorHoodIsOpened:
+      de: Die Motorhaube ist offen
+    CarCommandResultErrorIgnitionKeyIsTurnedOn:
+      de: Die Zündung ist an
+    CarCommandResultErrorLightsIsOn:
+      de: Bitte schalten Sie die Scheinwerfer aus
+    CarCommandResultErrorNoConnectionWithCar:
+      de: Das Fahrzeug ist offline
+    CarCommandResultErrorNotInParking:
+      de: Bitte schalten Sie den Wählhebel auf P
+    CarCommandResultErrorRLDoorIsOpened:
+      de: Die hintere linke Tür ist nicht verriegelt
+    CarCommandResultErrorRoofIsOpened:
+      de: Bitte schließen Sie das Fahrzeugdach
+    CarCommandResultErrorRRDoorIsOpened:
+      de: Die hintere rechte Tür ist nicht verriegelt
+    CarCommandResultErrorSatellitesVisibility:
+      de: Derzeit sind nicht genug Satelliten sichtbar
+    CarCommandResultErrorTransmissionNotInParking:
+      de: Getriebe ist nicht im "P"-Modus
+    CarCommandResultErrorTrunkIsOpened:
+      de: Bitte schließen Sie den Kofferraum
+    CarCommandResultErrorKeyIsAbsent:
+      de: Fahrzeugschlüssel nicht erkannt. Bitte schließen Sie den Schlüsselanhänger an den Anschluss im Handschuhfach an und versuchen Sie es erneut.
+    CarCommandResultErrorInsertLock:
+      de: Sperre nicht eingelegt. Legen Sie sie ein und versuchen Sie es erneut.
+    CarCommandResultErrorVehicleIsMoving:
+      de: Versuchen Sie nicht, Ihre Miete während der Fahrt zu beenden.
+    CarCommandResultErrorTrunkOrHoodIsOpened:
+      de: Schließen Sie Motorhaube oder Kofferraum!
+    CarCommandResultNotApplicable:
+      de: Aktion ist nicht anwendbar
+    CarCommandResultServerError:
+      de: 'Unerwarteter Fehler. Versuchen Sie es in ein paar Minuten erneut.'
+    CarCommandResultDeviceError:
+      de: 'Interner Hardware-Fehler'
+    CarCommandResultTimeoutError:
+      de: Befehl-Zeitüberschreitung. Bitte versuchen Sie es später erneut
+    CarCommandResultErrorCloseTheWheelLock:
+      de: Die Lenkradsperre ist nicht geschlossen. Bitte schließen Sie sie.
+    CardBinding:
+      de: Bankkarte verknüpfen
+    CarDriveZoneOut:
+      de: Das Fahrzeug ist außerhalb des Heimatbereichs
+    CarEditorOpened:
+      de: Fahrzeugeditor geöffnet
+    CarEvacuation:
+      de: Das Fahrzeug wird abgeschleppt
+    CarHoodOpened:
+      de: Motorhaube ist offen
+    FuelingCardPinRequested:
+      de: "Tankvorgang gestartet"
+    FuelingCardPinRequestedDescription:
+      de: "Karten-Nr.: {CardNumber}; PIN: {PIN}; Kraftstoffmenge: {FuelVolume} l"
+    CarIllegalOpen:
+      de: Unerlaubte Fahrzeugöffnung
+    CarIsBookedNotificationSettingDescription:
+      de: Über erfolgreiche Fahrzeugbuchung benachrichtigen
+    CarIsOffline:
+      de: Fahrzeug ist offline
+    CarLowBattery:
+      de: Kritisch niedrige Batterie
+    CarModel:
+      de: Fahrzeugmodell
+    FailedNewBookingsAreDisabled:
+      de: "Wir führen technische Arbeiten durch, bitte versuchen Sie in 3 Minuten erneut, die Miete zu starten"
+    CarModelCreated:
+      de: Fahrzeugmodell erstellt
+    CarModelDeleted:
+      de: Fahrzeugmodell gelöscht
+    CarMovementThresholdKphSettingDescription:
+      de: Die Schwellengeschwindigkeit des Fahrzeugs, damit es als sich bewegend erkannt wird
+    CarMoveWithHandBrakeOn:
+      de: "Das Fahrzeug fährt mit angezogener Handbremse"
+    CarPenalty:
+      de: Strafe für Verkehrsverstoß
+    CarPenaltyCantCancelWithdraw:
+      de: Die Abbuchung kann nicht storniert werden, da sie bereits ausgeführt wurde.
+    CarPictureShouldBeUploaded:
+      de: Sie müssen das Fahrzeugmodellbild herunterladen
+    CarRentZoneAlert:
+      de: Das Fahrzeug beendete die Miete im ausgewählten Bereich
+    CarRentZoneOut:
+      de: Das Fahrzeug beendete die Miete außerhalb des Heimatbereichs
+    Cars:
+      de: Fahrzeuge
+    CarSpeedLimitExceeded:
+      de: Geschwindigkeitsüberschreitung
+    CarSpeedLimitExceededInZone:
+      de: Geschwindigkeitsüberschreitung in Zone
+    CarStale:
+      de: Fahrzeug bewegt sich nicht
+    CarStalePeriodSettingDescription:
+      de: Schwellenwert für Fahrzeugstillstand vor Warnung
+    CarTasks:
+      de: Fahrzeugaufgaben
+    CarTheft:
+      de: Fahrzeugdiebstahl
+    CarTicket:
+      de: Paket
+    CarTicketIsOverNotificationSettingDescription:
+      de: Benachrichtigung über Beendigung des Pakets
+    CarWithoutMovement:
+      de: Fahrzeug ohne Bewegung {0} Minuten, aber Bestellung jetzt im {1}-Modus
+    CarWithoutMovementButOrderInBookStage:
+      de: Fahrzeug ohne Bewegung in Buchungsphase
+    CarWithoutMovementButOrderInDriveStage:
+      de: Fahrzeug ohne Bewegung mit aktiver Bestellung
+    CarWithoutMovementButOrderInInspectStage:
+      de: Fahrzeug ohne Bewegung in Inspektionsphase
+    CarWithoutMovementButOrderInParkStage:
+      de: Fahrzeug ohne Bewegung in Parkphase
+    CarWithoutMovementUserMessage:
+      de: Wir haben festgestellt, dass Ihr Fahrzeug sich {0} Minuten lang nicht bewegt. Bitte überprüfen Sie, ob alles in Ordnung ist
+    CarWithoutMovementInZoneDuringNMinutes:
+      de: "Fahrzeug {regNumber} ohne Bewegung für {idleMinutes} Min. in Zone '{zoneName}'"
+    UserFinishedRentOnSelectedRatePack:
+      de: Benutzer hat die Fahrt mit Tarifpaket beendet
+    PuzzleFailed:
+      de: Fehler beim Nüchternheitstest
+    PuzzleFailedMaxCount:
+      de: Nüchternheitstest fehlgeschlagen
+    HugeDebt:
+      de: Hohe Schulden
+    ChangeDateTime:
+      de: Datum und Uhrzeit der Änderung
+    ChangedObject:
+      de: Geändertes Objekt
+    ChangedProperty:
+      de: Geändertes Feld
+    ChangeInitiator:
+      de: Initiator der Änderungen
+    ChargeCustomer:
+      de: Abbuchen
+    ChargeCustomersBalanceCodeFailedNegativeBalance:
+      de: Sie können aufgrund des negativen Saldos nicht kaufen
+    ChargeCustomersBalanceCodeFailedPaymentGateway:
+      de: Die Zahlung konnte nicht verarbeitet werden. Bitte versuchen Sie es später erneut.
+    ChargeCustomersBalanceCodeFailedUserHasNoBankCard:
+      de: Sie haben keine Bankkarte im System registriert
+    ChargeCustomersBalanceCodeSuccessUserCharged:
+      de: Die Zahlung war erfolgreich
+    ChargingStationType:
+      de: Aufladung
+    ChatUnknownAnswer:
+      de: Fehler. Unbekannte Antwort.
+    CantRollbackToThisStep:
+      de: 'Entschuldigung. Diese Antwort kann nicht rückgängig gemacht werden.'
+    UnknownStepDeleteAppAndLoginAgain:
+      de: 'Fehler. Unbekannter Schritt. Bitte löschen Sie die Anwendung und installieren Sie sie erneut.'
+    DeleteAppAndLoginAgain:
+      de: 'Fehler. Bitte löschen Sie die Anwendung und installieren Sie sie erneut.'
+    WrongDeleteAppAndLoginAgain:
+      de: 'Konfigurationsfehler. Bitte löschen Sie die Anwendung und installieren Sie sie erneut.'
+    ChatWrongImage:
+      de: Fehler. Es gibt nicht genügend Bilder oder falsche Schlüssel.
+    ChatEmptyStepId:
+      de: Fehler. GUID-Schritt ist leer.
+    ChatUnknownStep:
+      de: Fehler. Unbekannter Schritt.
+    CheckConnectionEnumFailedUserHasNoRightForYoutell:
+      de: Benutzer ist nicht autorisiert, mit YouTell zu arbeiten
+    CheckConnectionEnumFailedUserIsNotAdministrator:
+      de: Der Benutzer ist kein Operator von CarTrek
+    CheckConnectionEnumFailedYoutellApiTokenNotDefined:
+      de: Token ist in der API-Konfiguration von YouTell nicht angegeben
+    CheckConnectionEnumFailedYoutellAuthenticationError:
+      de: Benutzer konnte nicht bei YouTell autorisiert werden
+    CheckConnectionEnumFailedYoutellRegistrationReturnedError:
+      de: YouTell hat die Registrierung des Benutzers nicht erlaubt
+    CheckConnectionEnumFailedYoutellUrlNotDefined:
+      de: YouTell-URL-Server ist in der Konfiguration nicht angegeben
+    CheckConnectionEnumOkConnectionEstablished:
+      de: Verbindung mit YouTell erfolgreich
+    CheckDistanceBeforeRent:
+      de: GPS-Entfernung vor Miete prüfen
+    CheckPhotosConfirmed:
+      de: Foto der Rechnung ist bestätigt
+    ChildrenGroups:
+      de: Untergruppen
+    Color:
+      de: Farbe
+    CommandSent:
+      de: Befehl wurde gesendet
+    FixCoordinatesGloballyDisabled:
+      de: Fixierung der Koordinaten ist global deaktiviert
+    TakeSelfieSetting:
+      de: Selfie-Einstellungen
+    PreHoldSetting:
+      de: Reservierungseinstellungen
+    Comment:
+      de: Ein Kommentar
+    CommonObject:
+      de: Gemeinsames Objekt
+    CommonOrganization:
+      de: Gemeinsame Organisation
+    Completed:
+      de: Abgeschlossen
+    ConstantGuid:
+      de: ID-Autorisierung
+    Corporate:
+      de: Geschäftlich
+    CorporateOptionSwitched:
+      de: 'Option "Geschäftlich" erfolgreich umgeschaltet'
+    CorporateOrganizationHaveCustomers:
+      de: Geschäftsorganisation mit Kunden darin kann nicht gelöscht werden
+    CorporateOrganizations:
+      de: Firmenkunden
+    CorporateRidesNotAvaliable:
+      de: Geschäftliche Fahrten sind nur von {hoursFrom} bis {hoursTo} verfügbar
+    CorporateRidesNotAvaliableToday:
+      de: Geschäftliche Fahrten sind heute nicht verfügbar
+    CostInKops:
+      de: Kosten
+    CreatedBy:
+      de: Erstellt von
+    Creating:
+      de: Wird erstellt
+    CustomerData:
+      de: Kundendaten
+    CustomerDeleted:
+      de: Kunde entfernt
+    CustomerEditorOpened:
+      de: Kundeneditor geöffnet
+    CustomerIsDebtor:
+      de: Der Kunde hat einen negativen Saldo
+    CustomerNotFound:
+      de: Kunde nicht gefunden
+    CustomerRentStart:
+      de: Überwachter Kunde hat die Miete begonnen
+    CustomersBalance:
+      de: Kundensaldo
+    CutKopsInNotificationSettingDescription:
+      de: Cent in Benachrichtigungen anzeigen
+    d:
+      de: T.
+    Diesel:
+      de: 'Diesel'
+    DateParseError:
+      de: 'Datum ist ungültig: {0}'
+    DateTimeArgumentsNotSet:
+      de: Datums- und Uhrzeiteinstellungen sind falsch
+    DaysInPack:
+      de: Tage im Paket
+    DeactivateCarByReservePeriodSettingDescription:
+      de: '?'
+    DebtRedemption:
+      de: Schuldenzahlung
+    DebtsCount:
+      de: Wie oft Schulden gemacht wurden
+    DefaultBankCardChanged:
+      de: Standard-Bankkarte geändert
+    DefaultLogo:
+      de: psu2nCrjH6abihNYw6X1oNJhCkpsWNSDvjaJdwoZl4q9ROweyC0TGah5oakYTfxVBwc88CFX1G6nXjvd6HmZdgp5eUDnZIwk2zAiU0s2LyZ46L00lQIeQyLtcL40HlwNkwFveEumbH1d2Bwl3eTalmp2rfBiUKswyFsrkvGRQTEf9En5JfiAgl4OHtug6NsP2LVGgkMNcgPuvxj4mj7Ffc81WbPANkJ8gRBcMWFtbRBoChAfmgrZ8omOZRviEck9DuQwBLNjcj16b3jAwHewsZZkGuIdzZjlNVV1Us8dYzY4ZsE1AG5HPWEP3npADMRTMOkD8yoCV4dfhgIQxiWSROhxEG9IkEtCqGXZdqAPgrWryDlfhxcdlW8Bmg61dFAiwZkrTKwiRyTrUoH4ipMdUPeuG0GssxTNmjpfXSFe7U0FU9wS0rxwyBrnXkb7bCyxRDRK4MeJjMtOZ96i3WvtdFghaVI0sZTkpHPhGJBNS3ax5T1QdfsWP40qE52saxxinvOevW2HAvG7x5lFTA8I133NpWgan2Xrv5wlyVZFTc7kZvX9mMTU4wVOk2YtjfHBkLs5sVxlybjjl5dTZ8bLkNTRmUVPmqASyxlrpcJQJSPCFFWmYxEP623411YMPwE2FvJiQwqiJiOUsRWaF1Wjw3qHwejOavAkBF5vM00kSPr2BlYICf4BlcU3vmW1wvbE1txAal4h6wUQ0gBXBuJOYWQgY7cJvgvkNIcMGHNyKo9pgTwMmhpCHGBRF8daACtNyZ0iIE7Nr3hiZU45ZLGx0c5J4rB1FfWL2jp7YEXn9uk3zDe09yySHRVVLeL4RYiwlTYkwLwN29wngxegDemIdiXXughXk49bHjt4sbLmJUUr8U1wxeK0ucOkt9BIkOwyBHXBNqbTC2i3CVo3QalVKFuiy2M4eOVW9mefuWF4VT8rEF86ofy8bHljsJhLbR6aF1MSvcInLdtSr8n9YxW189jzk4X3NjLDoI1yW2rWUlZripMepcNa2YCOo3jyCklH==
+    DefaultOrganizationIdSettingDescription:
+      de: Standard-Organisation, wenn ein Benutzer sich anmeldet (über Punkt;)
+    DefaultPaymentSystem:
+      de: (Standard)
+    Deleted:
+      de: Gelöscht
+    Description:
+      de: Beschreibung
+    DisallowOpenCarWithNoGeo:
+      de: Fahrzeugöffnung von Gerät ohne Geolokalisierung verhindern
+    DisarmCar:
+      de: Das Fahrzeug ist offen und entsperrt
+    Discount:
+      de: Mit Rabatt
+    DisplayName:
+      de: Name
+    DoNotAllowRemoveBankCardWithActiveOrder:
+      de: Sie können die Bankkarte nicht löschen, während Sie eine Bestellung haben
+    DoNotShowCarsToEveryone:
+      de: Fahrzeuge Kunden außerhalb der Organisation nicht anzeigen
+    DoubledCarDefect:
+      de: Doppelter Fahrzeugmangel
+    Download:
+      de: Herunterladen
+    Drive:
+      de: Nutzung
+    DriveCrmIcorrectFormat:
+      de: Das Datenformat ist falsch. Möglicherweise wurde die Website geändert.
+    DriveMultiplier:
+      de: Fahrmodus-Multiplikator
+    DriveOutOfZoneNotificationSettingDescription:
+      de: Beim Verlassen des Heimatbereichs benachrichtigen
+    DriveRate:
+      de: Fahrmodus-Tarif
+    DriverLicenceExpired:
+      de: Ihr Führerschein ist abgelaufen
+    DriverSince:
+      de: Fahrpraxis seit
+    DriversLicenceDate:
+      de: Ausstellungsdatum des Führerscheins
+    DriversLicenceNumber:
+      de: Führerscheinnummer
+    DriversLicenceScan1:
+      de: Führerscheinfoto
+    DriversLicenceScan2:
+      de: Rückseite des Führerscheins
+    DriveShort:
+      de: F
+    DupicateFound:
+      de: Potenzielles DUPLIKAT
+    DuplicateFound:
+      de: 'Cartrek: WARNUNG! Doppelter Benutzer gefunden'
+    Electic:
+      de: Elektrisch
+    Email:
+      de: E-Mail
+    EmailIsIncorrect:
+      de: E-Mail ist falsch
+    EmailIsNotRegistered:
+      de: E-Mail '{0}' ist nicht registriert
+    EmailNotValidated:
+      de: Leider ist der E-Mail-Verifizierungscode abgelaufen. Bitte senden Sie eine weitere Validierungsanfrage. Vielen Dank, dass Sie den {companyName}-Dienst nutzen!
+    EmailSignInIsDisabled:
+      de: E-Mail-Anmeldung ist deaktiviert. Bitte verwenden Sie Ihre Telefonnummer.
+    EmailSubjectAccountApproved:
+      de: Ihr Konto wurde genehmigt!
+    EmailSubjectAccountResumed:
+      de: Ihr Konto wurde entsperrt
+    EmailSubjectAccountSuspended:
+      de: Ihr Konto wurde gesperrt
+    EmailSubjectExtraBonuses:
+      de: Neue Boni wurden Ihrem Konto hinzugefügt
+    EmailSubjectFirstRideBonuses:
+      de: Wir haben Ihnen {0} Boni geschenkt!
+    EmailSubjectRentEndZone:
+      de: Beendigung der Miete im Bereich {0}
+    EmailSubjectRideReport:
+      de: Bericht über Ihre Fahrt {0}
+    EmailValidated:
+      de: Ihre E-Mail wurde erfolgreich validiert. Vielen Dank, dass Sie den {companyName}-Dienst nutzen!
+    EmailVerificationCode:
+      de: E-Mail-Verifizierungscode
+    EmailVerificationCodeValidForMinutes:
+      de: Gültigkeitsdauer des E-Mail-Verifizierungscodes (in Minuten)
+    EmptyBookings:
+      de: Anzahl "leerer" Buchungen
+    EmptyBookingsMaxCountSettingDescription:
+      de: Anzahl der kostenlosen Buchungen
+    EmptyBookingsPeriodSettingDescription:
+      de: Zurücksetzungsperiode für leere Buchungen
+    ErrorInExport:
+      de: Fehler bei der Generierung. Datensatz wird übersprungen
+    EV:
+      de: Elektrofahrzeug
+    ExportBonuses:
+      de: Boni exportieren
+    ExportCustomers:
+      de: Kunden exportieren
+    ExportOrders:
+      de: Bestellungen exportieren
+    ExportWithdrawalsListPayments:
+      de: Abbuchungslisten-Zahlungen exportieren
+    Forward:
+      de: Vorderradantrieb
+    Full:
+      de: Allrad
+    Failed:
+      de: Fehlgeschlagen
+    FailedCarCoordinatesIsNull:
+      de: Fahrzeugkoordinaten können nicht ermittelt werden. Bitte versuchen Sie es später erneut
+    FailedCarNotFound:
+      de: Das Fahrzeug wurde im System nicht gefunden
+    FailedCarRadarDisabled:
+      de: Fahrzeugradare sind deaktiviert
+    FailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    FailedCheckAndRechargeMinimumBalance:
+      de: Kaution konnte nicht abgebucht werden
+    FailedCurrentCarTicketIsNotSuitableForCar:
+      de: Sie haben ein aktives Paket, das nicht zum ausgewählten Fahrzeug passt. Bitte rufen Sie den Support an
+    FailedCustomerHasNoCoordinates:
+      de: Die Nutzung des Fahrzeugs mit Gerät ohne Geolokalisierung ist nicht erlaubt.
+    FailedFuelingCardsNotFound:
+      de: Aktuelles Fahrzeug enthält keine Tankkarte
+    FailedFuelLevelGreaterThanThreshold:
+      de: Kraftstoffstand ist größer als {FuelingThreshold}%, Tanken mit Karte ist nicht erlaubt
+    FailedFuelLevelUnknown:
+      de: Kraftstoffstand für dieses Fahrzeug ist unbekannt, Tanken mit Karte ist nicht erlaubt
+    FailedNegativeBalance:
+      de: Benutzer hat negativen Saldo
+    FailedNoActiveOrder:
+      de: Aktive Miete wurde nicht gefunden
+    FailedNoPhotos:
+      de: Bitte machen Sie ein oder mehrere Fotos
+    FailedOrderIsCompletedAlready:
+      de: Die Miete wurde bereits beendet
+    FailedPaymentGateway:
+      de: Das Zahlungsgateway hat die Verarbeitung Ihrer Zahlung nicht zugelassen
+    FailedPaymentsDisabledOnThisServer:
+      de: Zahlung auf diesem Server deaktiviert
+    FailedPaymentSystem:
+      de: Zahlung konnte nicht verarbeitet werden
+    FailedPaymentSystemReturnedNull:
+      de: Zahlung konnte nicht verarbeitet werden
+    FailedPreHold:
+      de: Sie haben nicht genug Geld auf Ihrer Karte
+    FailedRadarDoesNotExist:
+      de: Fahrzeugradar existiert nicht
+    FailedReachedMaxRadarsCount:
+      de: Sie haben bereits zu viele Fahrzeugradare
+    FailedStationsNearByNotFound:
+      de: Ihr Fahrzeug ist zu weit von einer {stationType}-Station in der Nähe entfernt
+    FailedSuitableFuelingStationNotFound:
+      de: Passende {stationType}-Station wurde in der Nähe nicht gefunden
+    FailedTheCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Bitte kommen Sie näher zum Fahrzeug und versuchen Sie es erneut
+    FailedTwinPayment:
+      de: Es scheint, dass Sie versucht haben, eine bereits bezahlte Rechnung zu bezahlen. Falls nicht, versuchen Sie es bitte in ein paar Minuten erneut.
+    FailedUnathorizedUser:
+      de: Sie sollten sich anmelden
+    FailedUserHasNoBankCard:
+      de: Benutzer hat keine Bankkarte
+    FailedUserHasNoOrder:
+      de: Buchen Sie ein Fahrzeug, bevor Sie ein Paket kaufen
+    FailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktiven Mieten
+    FailedUserNotFound:
+      de: Ihr Konto wurde nicht gefunden. Bitte kontaktieren Sie den Kundendienst
+    FailedVehicleNotFound:
+      de: Fahrzeug wurde im System nicht gefunden
+    FailedVehicleTrackerIsOffline:
+      de: Fahrzeug ist offline
+    FfilterServiceResponseIncorrect:
+      de: Serverantwort konnte nicht geparst werden, möglicherweise hat sich das Format der Serverantwort geändert.
+    FieldChange:
+      de: Änderung
+    FieldIsRequired:
+      de: Sie müssen das Feld '{0}' ausfüllen
+    FieldsAreRequired:
+      de: Sie müssen die Felder {0} ausfüllen
+    File:
+      de: Datei
+    FileLockedByOtherUser:
+      de: Die Datei '{0}' wird derzeit von {1} bearbeitet
+    FileVersionMustBe1OrGreater:
+      de: Dateiversionsnummer muss 1 oder höher sein
+    FileVersionNumberTooHigh:
+      de: Die höchste Dateiversion für diese Datei ist {0}
+    FileVersions:
+      de: Dateiversionen
+    FinishFuelingResultEnumSuccess:
+      de: Tankvorgang ist beendet
+    FinishOrderResultFailedCarHasNoOrderNow:
+      de: Das Fahrzeug ist derzeit nicht gemietet.
+    FinishOrderResultFailedCarIsMoving:
+      de: Das Fahrzeug wird verwendet
+    FinishOrderResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    FinishOrderResultFailedCarNotFoundInDatabase:
+      de: Das Fahrzeug wurde nicht gefunden
+    FinishOrderResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    FinishOrderResultFailedEngineIsStarted:
+      de: Miete kann nicht beendet werden - der Motor ist an
+    FinishOrderResultFailedEngineIsStarted1:
+      de: Bestellung konnte nicht beendet werden - der Motor ist an
+    FinishOrderResultFailedHardwareError:
+      de: Hardware-Fehler beim Beenden der Bestellung
+    FinishOrderResultFailedOrderIsCompletedAlready:
+      de: Die Fahrt ist bereits abgeschlossen
+    FinishOrderResultFailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde nicht gefunden
+    FinishOrderResultFailedOutOfRentEndZone:
+      de: Das Fahrzeug ist außerhalb des Heimatbereichs
+    FinishOrderResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine Bestellung
+    FinishOrderResultOkOrderFinished:
+      de: Die Miete wurde erfolgreich beendet
+    FIO:
+      de: Vollständiger Name
+    FmsEmptyResult:
+      de: Daten konnten nicht angefordert werden
+    Forbidden:
+      de: Zugriff verweigert
+    ForCarTicket:
+      de: Für Paket
+    ForMinutesOfOrder:
+      de: Fahren
+    ForOutOfServiceZone:
+      de: Für Aufenthalt außerhalb des erlaubten Heimatbereichs
+    ForRefueling:
+      de: Erstattung für Tanken
+    ForRentStart:
+      de: Vorauszahlung für Mietbeginn
+    FR:
+      de: Fr
+    FreeBookSecondsSettingDescription:
+      de: Kostenlose Buchungszeit in Sekunden
+    FreeInspectSecondsSettingDescription:
+      de: Kostenlose Fahrzeuginspektion in Sekunden
+    FriendsBonusInKopsSettingDescription:
+      de: Bonus an Freund für eine Fahrt in Cent
+    FriendsBonusRateSettingDescription:
+      de: Prozentsatz der Fahrtkosten pro Bonus für einen Freund
+    FriendsFirstRide:
+      de: "Erste Fahrt von {0}"
+    FriendsPromoCode:
+      de: Promocode
+    From_lc:
+      de: von
+    FromHour:
+      de: Ab Stunde
+    FssCheckFormatError:
+      de: Das Format der FSSP-Website-Antwort konnte nicht bestimmt werden. Möglicherweise wurde die Website auf ein neues Format aktualisiert.
+    Fuel:
+      de: Kraftstoffbericht
+    FuelConsumption:
+      de: Kraftstoffverbrauch
+    FuelConsumptionPer100km:
+      de: Kraftstoffverbrauch pro 100 km
+    FuelingBonusInKopsSettingDescription:
+      de: Bonus für Tanken, in Cent
+    FuelingBonusRateSettingDescription:
+      de: Prozentsatz der Fahrtkosten als Bonus für Tanken
+    FuelingCardNotSetUpForThisCar:
+      de: Tankkarte ist für dieses Fahrzeug nicht eingerichtet. Bitte kontaktieren Sie den Support
+    FuelingCards:
+      de: Tankkarten
+    FuelingStationType:
+      de: Tanken
+    FuelLevelDecreased:
+      de: Kraftstoffablass
+    FuelLevelIncreased:
+      de: Tankvorgang
+    FuelLevelPercentChangeForAlarm:
+      de: Der prozentuale Anteil der Kraftstoffänderung zur Auslösung eines Alarms
+    GibddDocumentNotFound:
+      de: Dokument wurde nicht gefunden
+    GibddResponseEmpty:
+      de: Website 'check.gibdd.ru' lieferte eine leere Antwort. Stellen Sie die Anfrage später erneut.
+    GoToLk:
+      de: Zum persönlichen Bereich
+    GradeAddedSuccessfully:
+      de: Organisationsstufe erfolgreich hinzugefügt
+    GradeChangedSuccessfully:
+      de: Stufe erfolgreich geändert
+    GradeDeletedSuccessfully:
+      de: Stufe erfolgreich gelöscht
+    GrantCarDriveAccessNonAdminUserNotAllowed:
+      de: 'Fahrberechtigung kann nicht erteilt werden: Der Benutzer ist kein Operator des Systems'
+    Groups:
+      de: Gruppen
+    HasCarAdminAccess:
+      de: Hat Fahrzeug-Administrator-Zugriff
+    HomeAddress:
+      de: Wohnadresse
+    HornCar:
+      de: Hupen und blinken
+    HornMyCarResultFailedCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Sie werden es sowieso nicht hören
+    HornMyCarResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    HornMyCarResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    HornMyCarResultFailedHornTooOften:
+      de: Sie versuchen zu oft zu blinken
+    HornMyCarResultFailedOrderIsCompletedAlready:
+      de: Die Miete wurde bereits beendet
+    HornMyCarResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Bestellung
+    HornMyCarResultOkNowBeeping:
+      de: Das Fahrzeug blinkt jetzt
+    StartEngineResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    StartEngineResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    StartEngineResultFailedOrderIsCompletedAlready:
+      de: Die Miete wurde bereits beendet
+    StartEngineResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Bestellung
+    UnlockResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    UnlockResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    UnlockResultFailedOrderIsCompletedAlready:
+      de: Die Miete wurde bereits beendet
+    UnlockResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Bestellung
+    UnlockResultFailedNotSupported:
+      de: 'Der Befehl wird nicht unterstützt'
+    HoursInPack:
+      de: Stunden im Paket
+    ICE:
+      de: Verbrennungsmotor
+    IdleTimeFromSeconds:
+      de: Stillstandszeit ab
+    IdxParametersIsNull:
+      de: Erforderliche Parameter sind leer (Serveradresse, API-Schlüssel, Geheimschlüssel)
+    IgnitionDetectionWaypointsCountSettingDescription:
+      de: Anzahl der Wegpunkte zur Erkennung der Zündung
+    Image:
+      de: Bild
+    ImageNotFound:
+      de: Bild nicht gefunden
+    Money:
+      de: Geld
+    RateOptionAdded:
+      de: Tarifoption hinzugefügt
+    RateOptionDeleted:
+      de: Tarifoption entfernt
+    BillCanceled:
+      de: Rechnung storniert
+    ImageVersion:
+      de: Bildversion
+    ImmobilizeCar:
+      de: Blockiert
+    IncorrectMobilePhoneNumber:
+      de: Mobiltelefonnummer ist falsch
+    InformationCameFrom:
+      de: Die Informationen kommen von
+    RightCleanAlarms:
+      de: Alarme löschen
+    Alarms:
+      de: Alarme
+    FuelOrderNotFound:
+      de: Tankanforderung im System nicht gefunden
+    AmountMustBeLessOrEqualToBalance:
+      de: Betrag muss kleiner oder gleich dem Saldo sein
+    BonusesMustBePositive:
+      de: Boni müssen einen positiven Betrag haben
+    CustomerDebtConverting:
+      de: Umwandlung der Bonus-Schulden des Kunden
+    RatesDescription:
+      de: Tarifbeschreibung
+    FuelLevelPercentsWhenNotifyUser:
+      de: Kraftstoffstand-Grenzwert (in %) für Benutzerbenachrichtigung
+    InformationCameFromDescription:
+      de: Beschreibung
+    InitPaymentOrderDescription:
+      de: Anfangszahlung zur Verknüpfung der Karte
+    InitRebillAmountInKopsSettingDescription:
+      de: Der anfängliche Betrag, der von der Kundenkarte abgebucht wird, in Cent
+    Inspect:
+      de: Inspektion
+    InspectCarResultFailedCannotSwitchToInspectMode:
+      de: Fahrzeug kann nicht in den Inspektionsmodus geschaltet werden, da es bereits im Fahrmodus ist
+    InspectCarResultFailedCarIsReserved:
+      de: Entschuldigung, dieses Fahrzeug ist derzeit nicht zur Miete verfügbar
+    InspectCarResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    InspectCarResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    InspectCarResultFailedHardwareError:
+      de: Hardware-Fehler
+    InspectCarResultFailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde in der Datenbank nicht gefunden
+    InspectCarResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Miete
+    InspectCarResultOkCarIsInInspectModeNow:
+      de: Fahrzeug ist im Inspektionsmodus
+    InspectCarWithoutMovementUserMessage:
+      de: Ihr Fahrzeug ist bereits seit {0} Minuten im Inspektionsmodus. Stellen Sie sicher, dass alles in Ordnung ist.
+    MarketingCampaignBonus:
+      de: 'Marketingkampagnen-Bonus'
+    BonusesPurchased:
+      de: 'Boni gekauft'
+    InspectModeBonus:
+      de: Boni für Inspektionsmodus
+    InspectModeBonusDescription:
+      de: Bonus für Inspektionsmodus
+    InspectModeSeconds:
+      de: Zeit im Inspektionsmodus in Sekunden
+    InspectResultFailedTheCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Bitte kommen Sie näher und versuchen Sie es erneut
+    InternalServerErrorMessage:
+      de: Ein interner Serverfehler ist aufgetreten. Versuchen Sie es später erneut oder kontaktieren Sie den Helpdesk
+    InvalidCaptcha:
+      de: Ungültiges Captcha
+    InvalidGUID:
+      de: Ungültige Kennung
+    IosAppVersionTooLow:
+      de: Bitte aktualisieren Sie die App im App Store
+    IsActive:
+      de: Aktiv
+    IsAdmin:
+      de: Administrator
+    IsBlocked:
+      de: Zugriff verweigert
+    IsBlocked1:
+      de: Ist gesperrt 1
+    IsControlledFromApp:
+      de: Kann von der mobilen Anwendung gesteuert werden
+    IsEmailVerified:
+      de: E-Mail ist verifiziert
+    IsMobilePhoneNumberVerified:
+      de: Mobiltelefonnummer ist verifiziert
+    IsRemoved:
+      de: Gelöscht
+    IsValidatedBySecurity:
+      de: Vom Sicherheitsdienst geprüft
+    IsVisible:
+      de: Ist für Kunden sichtbar
+    Keywords:
+      de: Schlüsselwörter
+    km:
+      de: km
+    LastRepairDateTime:
+      de: Datum der letzten Reparatur
+    LastTroubleBodyIsDamaged:
+      de: Letztes Anfragedatum "Fahrzeug ist beschädigt"
+    LastTroubleBrokenWindow:
+      de: Letztes Anfragedatum "zerbrochenes Fenster"
+    LastTroubleCarIsDirtyTime:
+      de: Letztes Anfragedatum "Fahrzeug ist schmutzig"
+    LastTroubleTireIsFlat:
+      de: Letztes Anfragedatum "platter Reifen"
+    Limit:
+      de: Limit
+    LimitIsRequired:
+      de: Limit ist erforderlich
+    Liters:
+      de: L.
+    LockCar:
+      de: Fahrzeug ist geschlossen
+    LockedBy:
+      de: Gesperrt von
+    LockObtainedBy:
+      de: Der Benutzer, der die Datei zur Bearbeitung verwendet
+    LoggedIn:
+      de: Angemeldet
+    LoggedInToBackend:
+      de: Im Backend angemeldet
+    SubscriptionCancelledByUser:
+      de: "Abonnement vom Benutzer storniert"
+    LoggedInToFrontend:
+      de: Kunde angemeldet
+    LoggedInToFrontendFailed:
+      de: Anmeldung in Ihrem Konto abgelehnt
+    LoggedOutFromBackend:
+      de: Vom Backend abgemeldet
+    LoggedOutFromFrontend:
+      de: Kunde abgemeldet
+    Login:
+      de: Anmeldung
+    LoginAttempt:
+      de: Vom Gerät {0} angemeldet
+    LoginNameIsNotSpecified:
+      de: Kein Login eingegeben
+    LoginPersonalDataCleared:
+      de: Ihre persönlichen Daten wurden aus dem System entfernt. Wir speichern nicht Ihre Telefonnummer, sondern nur deren Hashwert. Wenn Sie sich erneut anmelden möchten, kontaktieren Sie bitte unseren Support. Danke
+    LogInToBackendFailed:
+      de: Erfolgloser Anmeldeversuch im Backend
+    LogOffUser:
+      de: Benutzer abmelden
+    LowVoltageDangerLevelSettingDescription:
+      de: Gefährlich niedriger Spannungsschwellenwert
+    LowVoltageWarningLevelSettingDescription:
+      de: Niedrigspannungs-Warnschwelle
+    mainLoginDialogTitle:
+      de: Im System anmelden
+    MakeZeroBalanceResultFailedPaymentGateway:
+      de: Das Zahlungsgateway hat die Verarbeitung der Zahlung nicht zugelassen
+    MakeZeroBalanceResultFailedUserHasNoBankCard:
+      de: Der Benutzer hat keine Bankkarte
+    MakeZeroBalanceResultFailedUserNotFound:
+      de: Das Benutzerkonto wurde im System nicht gefunden
+    MakeZeroBalanceResultSuccess:
+      de: Die Zahlung war erfolgreich oder der Saldo war nicht negativ
+    MasterCard:
+      de: MasterCard
+    Reports:
+      de: Berichte
+    ViewAndDeleteReports:
+      de: Berichte anzeigen und löschen
+    MaxChargeAmountMustBeStrictlyPositive:
+      de: Der maximale Abbuchungsbetrag muss größer als null sein
+    MaxDailyCostInKops:
+      de: Maximale Tagesmietkosten, in Cent
+    MaxDailyCostInKopsSettingDescription:
+      de: Maximaler Tagespreis der Reservierung, in Cent
+    MaxDistanceBetweenFuelingStationAndCar:
+      de: Maximale Entfernung zwischen Tankstelle und Fahrzeug (0 zum Ignorieren)
+    MaxFriendsBonusInKopsSettingDescription:
+      de: Der maximale Betrag für einen Bonus für einen Freund in Cent
+    MaxMileage:
+      de: Maximaler Kilometerstand
+    MaxNumberOfApplicantSubmissionAttemptsSettingDescription:
+      de: Die Anzahl der Versuche, im Falle eines Fehlers erneut zur Überprüfung zu senden
+    MaxNumberOfAttemptsExceededPenaltyTimeDescription:
+      de: Strafzeit, nachdem der Benutzer die maximale Anzahl von Versuchen zur Eingabe des Codes für die SMS-Autorisierung überschritten hat
+    MaxSmsAuthCodeSubmissionsAttemptsDescription:
+      de: Die Anzahl der Versuche zur Eingabe eines Autorisierungscodes
+    Members:
+      de: Mitglieder
+    MidBonusSum:
+      de: Durchschnittliche Größe des angerechneten Bonus
+    MinGPSDistanceBetweenStationAndCar:
+      de: Minimale GPS-Entfernung zwischen Station und Fahrzeug zum Betanken (in Metern). 0 zum Nicht-Prüfen der Entfernung
+    MinimumFuelLevelPercentsSettingDescription:
+      de: Der Mindestkraftstoffstand, in Prozent
+    MinimumPeriodBetweenApplicantSubmissionAttemptsSettingDescription:
+      de: Die Wartezeit vor dem erneuten Senden zur Überprüfung
+    MinivanOrganizationDescription:
+      de: Minivan-Organisation
+    MinMileage:
+      de: Mindestkilometerstand
+    MinUniqueLettersCountInPasswordShouldBeGreaterOrEqual:
+      de: Passwort muss mindestens {0} Zeichen enthalten
+    MinutesInPack:
+      de: Minuten im Paket
+    MO:
+      de: Mo
+    MobilePhoneNumber:
+      de: Mobiltelefonnummer
+    MobilePhoneNumberAlreadyTaken:
+      de: Mobiltelefonnummer {0} wurde bereits registriert
+    MobilePhoneNumberCountryForbidden:
+      de: Ungültiger Ländercode
+    MobilePhoneNumberNotValid:
+      de: Ungültiges Telefonnummer-Format
+    MobilePhoneVerificationCode:
+      de: SMS-Verifizierungscode
+    MobilizeCar:
+      de: Entsperrt
+    Model:
+      de: Modell
+    ModelName:
+      de: Modellname
+    ModelType:
+      de: Typ des Modells
+    MoneyFormatSettingDescription:
+      de: Anzeigeformat für Zeilen mit Geld
+    MovementDetectionWaypointsCountSettingDescription:
+      de: Anzahl der Wegpunkte zur Bewegungserkennung
+    MovementOnHandBrakeWaypointsCountSettingDescription:
+      de: Anzahl der Wegpunkte zur Erzeugung des Alarms "Bewegung mit angezogener Handbremse"
+    MT:
+      de: Schaltgetriebe
+    MustHavePhotosOfTwoPagesOfPassport:
+      de: Sie müssen ein Foto der Vorder- und Rückseite Ihres Ausweises hochladen
+    MustHavePhotosOfTwoSidesOfDriversLicence:
+      de: Sie müssen ein Foto beider Seiten des Führerscheins hochladen
+    MustUploadSelfie:
+      de: Sie sollten ein Selfie mit Ausweis hochladen. Dies ermöglicht uns, Ihnen schneller Zugriff auf unsere Fahrzeuge zu gewähren, vielen Dank für Ihr Verständnis!
+    Na:
+      de: '-'
+    NA:
+      de: K/A
+    Name:
+      de: Name
+    NeedMorePhotos:
+      de: Bitte laden Sie Fotos des Fahrzeugs hoch ({photos-count} Stk.)
+    NeedToEnterMobilePhoneToUseSmsConfirmation:
+      de: Mobilnummer muss eingegeben werden, bevor die SMS-Authentifizierung verwendet werden kann
+    NeedToFillGradePeriodTime:
+      de: Stufenzeitraum ist erforderlich
+    NeedToFillValueOfProperty:
+      de: Bitte geben Sie den Wert von '{0}' ein
+    NeedToUpdateDevice:
+      de: Sie müssen Ihre Anwendung aktualisieren.
+    NeedToUpdateDeviceAndroid:
+      de: Sie müssen Ihre Anwendung aktualisieren. Bitte prüfen Sie Google Play auf eine neue Version
+    NeedToUpdateDeviceIos:
+      de: Sie müssen Ihre Anwendung aktualisieren. Bitte prüfen Sie den App Store auf eine neue Version
+    NeedToVerifyMobilePhoneToUseSmsConfirmation:
+      de: Mobilnummer muss bestätigt werden, bevor die SMS-Authentifizierung verwendet werden kann
+    NewDriveRights:
+      de: Rechte
+    NewDriveUser:
+      de: Benutzer
+    NewF:
+      de: Neu
+    NewM:
+      de: Neu
+    NewN:
+      de: Neu
+    NewNA:
+      de: Neu
+    NewP:
+      de: Neu
+    NewValue:
+      de: Neuer Wert
+    NoDonePhoto:
+      de: Verifizierungsaufgabe kann ohne Foto nicht abgeschlossen werden
+    NoImagesChanged:
+      de: Keine Fotos aktualisiert
+    NoLinkWarningPeriodSettingDescription:
+      de: Warnschwelle für das Fehlen der Verbindung mit dem Fahrzeug
+    NoRentWarningPeriodSettingDescription:
+      de: Alarmschwelle für das Fehlen von Bestellungen für Fahrzeuge
+    NotCompleted:
+      de: Noch nicht abgeschlossen
+    NotCompleted1:
+      de: Noch nicht abgeschlossen
+    NotificationBonusesGiven:
+      de: '{0}, Sie haben {1} Boni verdient. Gute Fahrt!'
+    NotificationBookingTerminated:
+      de: Buchung von {0} {1} wurde storniert, {2} Min. abgelaufen.
+    NotificationRentCompleted:
+      de: 'Miete ist beendet. Gesamt: {0} {2}. Einladungscode für Freunde: {1}'
+    Notified_lc:
+      de: benachrichtigt
+    NotNotified_lc:
+      de: nicht benachrichtigt
+    NotPaid_lc:
+      de: nicht bezahlt
+    NoUsersToAdd:
+      de: Keine Benutzer zum Hinzufügen vorhanden
+    ObjectNotFound:
+      de: Objekt nicht gefunden
+    ObjectRemoved:
+      de: Gelöscht
+    OfflineFor:
+      de: Offline für
+    OfflineTimeLimitInMinutes:
+      de: Fahrzeug-Offline-Zeitlimit (Min.)
+    Ok:
+      de: OK
+    OkRadarCreated:
+      de: Fahrzeugradar erstellt
+    OkRadarRemoved:
+      de: Fahrzeugradar entfernt
+    OkRadarUpdated:
+      de: Fahrzeugradar aktualisiert
+    OldValue:
+      de: Alter Wert
+    OldValues:
+      de: Alte Werte
+    OnlyForHoldedPayments:
+      de: Vorgang ist nur für reservierte Zahlungen erlaubt
+    Operation:
+      de: Vorgang
+    OrderCompleted:
+      de: Bestellung ist abgeschlossen
+    OrderFinished:
+      de: Die Miete wurde abgeschlossen
+    OrderFinishedNotificationSettingDescription:
+      de: Über den Abschluss der Bestellung benachrichtigen
+    OrderFinishStarted:
+      de: Bestellabschluss wurde gestartet
+    OrderNowOnParkRateNotificationSettingDescription:
+      de: Über Umschaltung in den Parktarif-Modus benachrichtigen
+    OrderRatePackRenewd:
+      de: Paket wurde verlängert
+    Orders:
+      de: Kundenbericht
+    OrderSwitchedToDrive:
+      de: Miete in den Fahrmodus geschaltet
+    OrderSwitchedToInspectModeNow:
+      de: Bestellung in den Inspektionsmodus geschaltet
+    OrderSwitchedToPark:
+      de: Miete in den Parkmodus geschaltet
+    Organization:
+      de: Organisation
+    OrganizationAdded:
+      de: Organisation hinzugefügt
+    OrganizationBalanceReplenished:
+      de: Saldo erfolgreich aufgefüllt
+    OrganizationDeleted:
+      de: Organisation gelöscht
+    OrganizationGradeNotFound:
+      de: Organisationsstufe nicht gefunden
+    OrganizationIsBlocked:
+      de: Organisation ist gesperrt
+    OrganizationIsNotCorporate:
+      de: Organisation ist keine Geschäftsorganisation
+    OrganizationLimitExceeded:
+      de: Organisationslimit überschritten
+    OrganizationNotFound:
+      de: Organisation nicht gefunden
+    OrganizationUpdatedSuccessfully:
+      de: Organisation erfolgreich aktualisiert
+    OrganizationWithdrawSuccessfull:
+      de: Erfolgreich abgebucht
+    OrganizationWithGradesCannotBeSwitched:
+      de: Organisation mit Stufen kann nicht nicht-geschäftlich sein
+    OtherBonusGivenNotificationSettingDescription:
+      de: Über andere Boni benachrichtigen
+    OutOfFuelLevelSettingDescription:
+      de: Schwellenwert für Kraftstoffmangel
+    OverrunCostPerKm:
+      de: Mehrkilometer-Kosten
+    OverrunEmailMessage:
+      de: '- Mehrkilometer-Kosten betragen <b>{0} {2}</b> für {1} km'
+    Owner:
+      de: Eigentümer
+    OwnPromoCode:
+      de: Ihr Promocode
+    Petrol:
+      de: Benzin
+    Paid_lc:
+      de: bezahlt
+    PaidByBonuses:
+      de: Mit Boni bezahlt
+    PaidFromCard:
+      de: Von Karte bezahlt
+    PaperCheckConfirmed:
+      de: Beleg bestätigt
+    ParentGroup:
+      de: Übergeordnete Gruppe
+    ParentPaymentNotFoundInDatabase:
+      de: Hauptzahlung wurde in der Datenbank nicht gefunden
+    Park:
+      de: Parken
+    ParkAndLockCarResultFailedCarHasNoOrderNow:
+      de: Das Fahrzeug ist derzeit nicht gemietet
+    ParkAndLockCarResultFailedCarIsMoving:
+      de: Das Fahrzeug wird derzeit verwendet
+    ParkAndLockCarResultFailedCarIsParkedAlready:
+      de: Das Fahrzeug ist bereits geparkt
+    ParkAndLockCarResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    ParkAndLockCarResultFailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    ParkAndLockCarResultFailedHardwareError:
+      de: Hardware-Fehler beim Parken und Sperren
+    ParkAndLockCarResultFailedOrderIsCompletedAlready:
+      de: Die Miete wurde bereits beendet
+    ParkAndLockCarResultFailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde nicht gefunden
+    ParkAndLockCarResultFailedParkUnavaliable:
+      de: Parken nicht verfügbar für diesen Fahrzeugtyp
+    ParkAndLockCarResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Miete
+    ParkAndLockCarResultOkCarIsParked:
+      de: Das Fahrzeug ist jetzt im Parkmodus
+    ParkedCarWithoutMovementUserMessage:
+      de: Ihr Fahrzeug ist bereits seit {0} Minuten im Parkmodus. Stellen Sie sicher, dass alles in Ordnung ist.
+    ParkMultiplier:
+      de: Parkmodus-Multiplikator
+    ParkRate:
+      de: Parktarif
+    ParkShort:
+      de: P
+    PartialBilling:
+      de: Teilzahlung
+    PartialOrderCostThresholdInKopsSettingDescription:
+      de: Teilzahlung
+    Partner:
+      de: Partner
+    PartnerId:
+      de: Partner-ID
+    PassportDate:
+      de: Pass-Ausstellungsdatum
+    PassportExpired:
+      de: Ihr Pass oder Ausweis ist abgelaufen
+    PassportIssued:
+      de: Ausweis ausgestellt von
+    PassportNumber:
+      de: Passnummer
+    PassportScan1:
+      de: Fotos der Vorderseite des Ausweises
+    PassportScan2:
+      de: Foto der Passseite mit Aufenthaltserlaubnis
+    PasswordHash:
+      de: Passwort-Hash
+    PasswordLengthShouldBeGreaterOrEqual:
+      de: Passwort muss mindestens {0} Zeichen enthalten
+    PasswordRestoreCode:
+      de: Passwort-Wiederherstellungscode
+    PasswordRestoreCodeDateTime:
+      de: Datum und Uhrzeit der Erstellung des Passwort-Wiederherstellungscodes
+    PasswordRestoreCodeIsExpired:
+      de: Passwort-Wiederherstellungscode ist abgelaufen
+    PasswordRestoreEmailSubject:
+      de: 'Anfrage zur Passwort-Wiederherstellung '
+    PasswordRestoreEmailText:
+      de: <div><p>Hallo!</p> <p>Jemand (wahrscheinlich Sie) hat eine Passwort-Wiederherstellung angefordert. Wenn Sie dies nicht getan haben, löschen Sie einfach diese E-Mail. Wenn Sie Ihr Passwort wirklich ändern möchten, klicken Sie auf den Link.</p> <p><a href="{0}">{0}</a></p> <p>Der Link ist gültig bis {1}.</p></div>
+    PasswordSalt:
+      de: Passwort-Salt
+    PasswordShouldNotBeEmpty:
+      de: Das Passwort darf nicht leer sein
+    Patronymic:
+      de: Vatersname
+    PaymentCanceled:
+      de: Zahlung wurde storniert
+    PaymentConfirmation:
+      de: Zahlungsbestätigung
+    PaymentGateway:
+      de: Interner Fehler des Zahlungsgateways
+    PaymentGatewayUnsupportedOperation:
+      de: Zahlungsgateway unterstützt diesen Vorgang nicht
+    PaymentIncomeEnumFailedInvalidSignature:
+      de: Ungültige Signatur
+    PaymentNotFoundInDatabase:
+      de: Zahlung wurde in der Datenbank nicht gefunden
+    PaymentsAreDisabledOnThisServer:
+      de: Zahlungen sind auf diesem Server deaktiviert
+    PenaltySetPaidStatus:
+      de: Strafstatus auf bezahlt geändert
+    PeriodRun:
+      de: Kilometerstand für den Zeitraum
+    PHEV:
+      de: Hybrid
+    Phone1:
+      de: Telefon 1
+    Phone2:
+      de: Telefon 2
+    PictureForAppCard:
+      de: Foto des Fahrzeugs für die App
+    PleaseWaitCommandCompletion:
+      de: Bitte warten Sie, bis der vorherige Befehl abgeschlossen ist
+    Points:
+      de: Punktkoordinaten
+    ProfileVerification:
+      de: Profilverifizierung ({0})
+    PromocodeBonusesPercent:
+      de: Prozentsatz der ersten Fahrtsumme, der in Registrierungsboni umgewandelt wird
+    Rear:
+      de: Hinten
+    RangeOnBattery:
+      de: Reichweite mit Batterie
+    Rate:
+      de: Tarif
+    RateAdded:
+      de: Neuer Tarif hinzugefügt
+    RateDeleted:
+      de: Tarif gelöscht
+    RateMultiplierAdded:
+      de: Tarifmultiplikator hinzugefügt
+    RateMultiplierDeleted:
+      de: Tarifmultiplikator gelöscht
+    RateMultiplierOperation_Addition:
+      de: Addition
+    RateMultiplierOperation_Multiply:
+      de: Multiplikation
+    RatePackAdded:
+      de: Tarifpaket hinzugefügt
+    RatePackBought:
+      de: Tarifpaket gekauft
+    RatePackDeleted:
+      de: Tarifpaket gelöscht
+    Ready:
+      de: Bereit
+    RebillLimitInKopsSettingDescription:
+      de: Der maximale Betrag, der von der Kundenkarte abgebucht wird, in Cent
+    RebootCarTracker:
+      de: Tracker neu starten
+    ReconfigureCarTracker:
+      de: Tracker neu konfigurieren
+    Refueling:
+      de: Tanken
+    RefuelingBonusGivenNotificationSettingDescription:
+      de: Über Boni für Tanken benachrichtigen
+    RefuelingCashCostRequired:
+      de: Geben Sie den Tankbetrag an oder wählen Sie "Mit Tankkarte bezahlt"
+    RefuelingChecks:
+      de: Belege für Tanken
+    RefuelingDateTimeUtc:
+      de: Datum und Uhrzeit des Tankvorgangs
+    RefuelingECheckConfirmationError:
+      de: Um den E-Beleg von der Tankstelle zu bestätigen, müssen Sie die Fotos des Belegs herunterladen, die der Kunde gesendet hat.
+    RefuelingPaperCheckConfirmedError:
+      de: Um den Papierbeleg zu bestätigen, geben Sie den Kunden an
+    RefundDescriptionForIncomeReturnReceipt:
+      de: Erstattung für Transaktionen {0} vom {1}
+    RefundInitPaymentSettingDescription:
+      de: Erstattung der Erstabbuchung
+    RefundPayment:
+      de: Rückzahlung
+    RegistrationPageUrlDescription:
+      de: URL der Registrierungsseite
+    RegNumber:
+      de: Kennzeichen
+    Rejected:
+      de: 'Authentifizierung wurde abgelehnt '
+    RentAutoStart:
+      de: Bezahlte Buchung
+    RentEndBonusZoneDescription:
+      de: Miete endete in einer Bonuszone
+    ReplenishmentOfBalance:
+      de: 'Konto aufladen '
+    ReportCanceled:
+      de: Bericht wurde vom Benutzer storniert
+    ReportFailed:
+      de: Fehler aufgetreten
+    ReportWasDeletedAlready:
+      de: Bericht wurde bereits gelöscht
+    Reserve:
+      de: Reservierungen
+    ReserveAlreadyExist:
+      de: Ausgewähltes Fahrzeug wurde bereits reserviert. Wählen Sie einen anderen Mietzeitraum.
+    ReserveDatesError:
+      de: Fehler bei der Bestimmung des Mietzeitraums. Stellen Sie sicher, dass das Mietbeginnsdatum vor dem Mietende-Datum liegt.
+    ResetZeroBookingsCounterAfterRentSettingDescription:
+      de: '?'
+    ResetZeroBookingsCounterForPaidOrdersDescription:
+      de: Zähler der kostenlosen Buchungen ohne Berücksichtigung des Kilometerstands zurücksetzen, wenn die Bestellung bezahlt wurde
+    MinimalOrderCostToResetZeroBookingsCounterInKopsDescription:
+      de: Mindestbestellwert zum Zurücksetzen des Zählers für kostenlose Buchungen, in Cent
+    ResourceNotFound:
+      de: Ressource nicht gefunden
+    RidesHistory:
+      de: Fahrtenverlauf
+    Right:
+      de: Berechtigung
+    RightAccessTechMenu:
+      de: Zugriff auf das technische Menü in der App
+    RightActivateAndDeactivateCars:
+      de: Verfügbarkeitsstatus des Fahrzeugs ändern
+    RightAddBonuses:
+      de: Boni
+    RightAddCarTaskComments:
+      de: Kommentare zu Aufgaben hinzufügen
+    RightAddVouchers:
+      de: Gutscheine hinzufügen
+    RightAdmin:
+      de: Administration
+    RightAllowCustomersDriveFree:
+      de: Kunden erlauben, kostenlos zu mieten
+    RightApproveCustomers:
+      de: Genehmigung neuer Kunden
+    RightBeepCarsHorn:
+      de: Fahrzeughupe aktivieren
+    RightBillTheCustomer:
+      de: Strafe verhängen
+    RightBlockAndUnblockCustomers:
+      de: Kunden sperren und entsperren
+    RightBlockAndUnblockUsers:
+      de: Benutzer sperren und entsperren
+    RightCancelVouchers:
+      de: Gutscheine stornieren
+    RightCanMakeCarTasks:
+      de: Benutzer kann einer Fahrzeugaufgabe zugewiesen werden
+    RightCarRentByUser:
+      de: Fahrzeug durch Benutzer mieten
+    RightChangeCarDefects:
+      de: Fahrzeugmängel ändern
+    RightChangeCarFuelLevel:
+      de: Fahrzeug-Kraftstoffstand ändern
+    RightChangeCarLogic:
+      de: Fahrzeuglogik ändern
+    RightChangeCars:
+      de: Fahrzeugdaten ändern
+    RightChangeCarsRentState:
+      de: Mietstatus ändern
+    RightChangeCarsRun:
+      de: Kilometerstand der Fahrzeuge ändern
+    RightChangeCustomerDocumentStatus:
+      de: Kundendokumentenstatus ändern
+    RightChangeCustomersData:
+      de: Kundendaten ändern
+    RightChangeCustomersPassword:
+      de: Kundenpasswörter ändern
+    RightChangeFuelingCardsBrands:
+      de: Tankkartenmarken ändern
+    RightChangeFuelingCardsNetworks:
+      de: Tankstellennetzwerke ändern
+    RightChangeOwnPromocode:
+      de: Eigenen Promocode ändern
+    RightChangeStatusPaidCarPenalties:
+      de: Status von Strafen ändern
+    RightChangeUsersPasswords:
+      de: Benutzerpasswörter ändern
+    RightChangeUsersRights:
+      de: Benutzerberechtigungen ändern
+    RightChargeUsersDebt:
+      de: Kundenschulden abbuchen
+    RightConstantGuidIsRequired:
+      de: 'Permanente eindeutige Berechtigungskennung muss angegeben werden '
+    RightCreateCustomersWithoutDocuments:
+      de: Kunden (Fahrzeugnutzer) ohne Dokumente erstellen
+    RightCustomer:
+      de: Kunde
+    RightDeleteBankCard:
+      de: Bankkarten löschen
+    RightDeleteCarDefects:
+      de: Fahrzeugmängel löschen
+    RightDeleteCars:
+      de: Fahrzeuge löschen
+    RightDeleteCarComments:
+      de: Fahrzeugkommentare löschen
+    RightDeleteCarsModels:
+      de: Fahrzeugmodell löschen
+    RightDeleteCarTaskComments:
+      de: Kommentare zu Aufgaben löschen
+    RightDeleteCustomers:
+      de: Kunden löschen
+    RightDeleteCustomersDocuments:
+      de: Scans von Kundendokumenten löschen
+    RightDeleteFuelingCardsBrands:
+      de: Tankkartenmarken löschen
+    RightDeleteFuelingCardsNetworks:
+      de: Tankstellennetzwerk löschen
+    RightDeleteInspectImages:
+      de: Inspektionsbilder löschen
+    RightDeleteOrganizationCustomers:
+      de: Firmenkunden löschen
+    RightDeleteUnfinishedRegistrations:
+      de: Unvollständige Registrierungen löschen
+    RightEditAdvertisment:
+      de: Marketingkampagnen bearbeiten
+    RightEditBankCard:
+      de: Bankkarten bearbeiten
+    RightEditCarDefects:
+      de: Fahrzeugmängel bearbeiten
+    RightEditCarDefectTypes:
+      de: Fahrzeugmangelarten bearbeiten
+    RightEditCarComments:
+      de: Fahrzeugkommentare bearbeiten
+    RightEditCarsModels:
+      de: Fahrzeugmodell bearbeiten
+    RightEditCarTasks:
+      de: Fahrzeugaufgaben bearbeiten
+    RightEditCarTaskComments:
+      de: Kommentare zu Aufgaben bearbeiten
+    RightEditCarTaskTypes:
+      de: Fahrzeugaufgabentypen bearbeiten
+    RightEditMarkers:
+      de: Marker bearbeiten
+    RightEditOrganizationCustomers:
+      de: Firmenkunden bearbeiten
+    RightEditOrganizations:
+      de: Organisationen ändern
+    RightEditRates:
+      de: Tarife bearbeiten
+    RightEditRatesMultipliers:
+      de: Tarifmultiplikatoren bearbeiten
+    RightEditRefueling:
+      de: Tanken bearbeiten
+    RightEditReserves:
+      de: Reservierungen bearbeiten
+    RightEditTags:
+      de: Tags bearbeiten
+    RightEditZones:
+      de: Zonen bearbeiten
+    RightExportToXlsxCustomersList:
+      de: Kundenliste nach XLS exportieren
+    RightExportToXlsxOrdersList:
+      de: Bestellliste nach XLSX exportieren
+    RightGenerateReports:
+      de: Berichte generieren
+    RightGenerateWayBills:
+      de: Frachtbriefe generieren
+    RightImmobilizeCars:
+      de: Fahrzeuge blockieren
+    RightManageCorporateOrganizations:
+      de: Geschäftsorganisationen verwalten
+    RightManageLocks:
+      de: Sperren anzeigen
+    RightManageSettings:
+      de: Einstellungen anzeigen
+    RightMobilizeCars:
+      de: Fahrzeuge entsperren
+    RightOpenAndCloseCars:
+      de: Fahrzeug öffnen und schließen
+    RightOperateInspectImages:
+      de: Inspektionsbilder bearbeiten
+    RightProcessCarPenalties:
+      de: Fahrzeugstrafen verarbeiten
+    RightPromoteCustomersToOperators:
+      de: Kunden zu Operatoren befördern und umgekehrt
+    RightRebootCar:
+      de: Fahrzeug-Hardware neu starten
+    RightChangeCarCoordinates:
+      de: Fahrzeugkoordinaten ändern (Marker verschieben)
+    RightReconfigureCar:
+      de: Fahrzeugeinstellungen neu konfigurieren
+    RightRefundPayments:
+      de: Rückerstattungen durchführen
+    RightRepairCar:
+      de: Fahrzeugmängel beheben
+    RightRestoreBankCard:
+      de: Bankkarten wiederherstellen
+    Rights:
+      de: Berechtigungen
+    RightsBankCards:
+      de: Bankkarten
+    RightsCarDefects:
+      de: Berechtigungen Fahrzeugmängel
+    RightsCarTasks:
+      de: Berechtigungen Fahrzeugaufgaben
+    RightsCustomerBilling:
+      de: Kundenkonto verwalten
+    RightsDictionary:
+      de: Referenzen
+    RightsGroupCars:
+      de: Fahrzeuge
+    RightsGroupCustomersManagement:
+      de: Kundenverwaltung
+    RightsGroupMarkers:
+      de: Marker
+    RightsGroupNotifications:
+      de: Benachrichtigung
+    RightsGroupPayments:
+      de: Zahlungen
+    RightsGroupRefueling:
+      de: Tanken
+    RightsGroupReserves:
+      de: Fahrzeugbuchung
+    RightsGroupSystem:
+      de: Systemberechtigungen
+    RightsGroupVouchers:
+      de: Gutscheine
+    RightsMarketing:
+      de: Marketing
+    RightsOrders:
+      de: Bestellungen
+    RightsOrganizations:
+      de: Verwaltung von Organisationen
+    RightsPenalties:
+      de: Strafen
+    RightsRates:
+      de: Tarifverwaltung
+    RightsRatesMultipliers:
+      de: Tarifmultiplikatoren
+    RightsStatistics:
+      de: Statistik
+    RightStartAndStopEngine:
+      de: Motor starten und stoppen
+    RightsZones:
+      de: Zonenverwaltung
+    RightUploadCustomersDocuments:
+      de: Scan der Kundendokumente herunterladen
+    RightUserGroupsManagement:
+      de: Benutzergruppen erstellen, bearbeiten und entfernen
+    RightUsersManagement:
+      de: Benutzer erstellen, bearbeiten und entfernen
+    RightViewAdvertisment:
+      de: Kampagnen durchsuchen
+    RightViewBankCard:
+      de: Bankkarten anzeigen
+    RightViewBankCards:
+      de: Bankkartendaten durchsuchen
+    RightViewBonuses:
+      de: Boni durchsuchen
+    RightViewCarDefects:
+      de: Fahrzeugmängel durchsuchen
+    RightViewCarDefectTypes:
+      de: Mangelarten durchsuchen
+    RightViewCarPenalties:
+      de: Fahrzeugstrafen durchsuchen
+    RightViewCars:
+      de: Fahrzeuge durchsuchen
+    RightViewCarsInAnyOrganization:
+      de: Zugriff auf alle Organisationen
+    RightViewCarsModels:
+      de: Fahrzeugmodelle durchsuchen
+    RightViewCarTaskComments:
+      de: Kommentare zu Aufgaben durchsuchen
+    RightViewCarTasks:
+      de: Fahrzeugaufgaben anzeigen
+    RightViewCarTasksAll:
+      de: Alle Fahrzeugaufgaben anzeigen
+    RightViewCarTasksAssigned:
+      de: Zugewiesene Fahrzeugaufgaben anzeigen
+    RightViewCarTasksCanceled:
+      de: Stornierte Fahrzeugaufgaben anzeigen
+    RightViewCarTasksDefectCars:
+      de: Fahrzeugaufgaben mit Mängeln anzeigen
+    RightViewCarTasksDeffered:
+      de: Verschobene Fahrzeugaufgaben anzeigen
+    RightViewCarTasksDone:
+      de: Erledigte Fahrzeugaufgaben anzeigen
+    RightViewCarTasksNotAssigned:
+      de: Nicht zugewiesene Fahrzeugaufgaben anzeigen
+    RightViewCarTaskTypes:
+      de: Fahrzeugaufgabentypen anzeigen
+    RightViewChangesLog:
+      de: Änderungsprotokoll durchsuchen
+    RightViewCustomersDocuments:
+      de: Scans der Kundendokumente durchsuchen
+    RightAddCustomers:
+      de: "Kunden hinzufügen"
+    RightViewCustomersList:
+      de: Kundenliste durchsuchen
+    RightViewCustomersMesssages:
+      de: Kundennachrichtenliste anzeigen
+    RightViewCustomersSignupChat:
+      de: Registrierungs-Chat der Kunden anzeigen
+    RightViewFuelingCardsBrands:
+      de: Tankkartenmarken anzeigen
+    RightViewFuelingCardsNetworks:
+      de: Tankstellennetzwerke anzeigen
+    RightViewHeatMap:
+      de: Heatmap anzeigen
+    RightViewInspectImages:
+      de: Inspektionsbilder anzeigen
+    RightViewMarkers:
+      de: Marker durchsuchen
+    RightViewOrders:
+      de: Bestellungen durchsuchen
+    RightViewOrganizationCustomers:
+      de: Firmenkunden anzeigen
+    RightViewOrganizations:
+      de: Organisationen durchsuchen
+    RightViewPayments:
+      de: Zahlungen durchsuchen
+    RightViewPenalties:
+      de: Strafen durchsuchen
+    RightViewRates:
+      de: Tarife durchsuchen
+    RightViewRatesMultipliers:
+      de: Tarifmultiplikatoren anzeigen
+    RightViewRefueling:
+      de: Tankvorgänge durchsuchen
+    RightViewReports:
+      de: Berichte anzeigen
+    RightViewReserves:
+      de: Reservierungen durchsuchen
+    RightViewStatistics:
+      de: Statistik anzeigen
+    RightViewSystemLog:
+      de: Systemprotokoll durchsuchen
+    RightViewTickets:
+      de: Fahrzeugpakete anzeigen
+    RightViewUnfinishedRegistrationsList:
+      de: Kunden mit ausstehender Registrierung anzeigen
+    RightViewVouchers:
+      de: Gutscheinliste durchsuchen
+    RightViewWaypoints:
+      de: Routen durchsuchen
+    RightViewZones:
+      de: Zonen durchsuchen
+    RightWorkWithYouTell:
+      de: Mit YouTell-Chat arbeiten. Mit Kunden chatten
+    rub:
+      de: EUR
+    Run:
+      de: Kilometerstand
+    RunIncluded:
+      de: Inklusive Kilometerstand
+    SA:
+      de: Sa.
+    SatelitesCountThresholdSettingDescription:
+      de: Aktion konnte nicht abgeschlossen werden - keine Satelliten verfügbar
+    ScanSizeMustNotBeLargerThan:
+      de: Bildgröße darf {0} MB nicht überschreiten
+    ScootersGPSDistanceInMeters:
+      de: Entfernung in Metern zwischen Benutzer und Fahrzeug für Mietzugang
+    SeatsNumber:
+      de: Anzahl der Sitze
+    SendNotificationToUser:
+      de: Benachrichtigung an Benutzer senden
+    SendReceiptEnumFailedException:
+      de: Ein unerwarteter Fehler ist aufgetreten
+    SendReceiptEnumFailedNoOrderPositions:
+      de: Beleg wurde nicht gesendet - keine Positionen aufgeführt
+    SendReceiptEnumFailedResponseUnsuccessful:
+      de: Beleg wurde nicht gesendet. Beleg lieferte einen Fehler zurück
+    SendReceiptEnumFailedUserNotFound:
+      de: Ihr Konto wurde im System nicht gefunden
+    SendReceiptEnumSuccess:
+      de: Beleg wurde gesendet
+    SignupBonus:
+      de: Bonus für Registrierung
+    SignupBonusInKopsSettingDescription:
+      de: Registrierungsbonus, in Cent
+    SignupEmailSubject:
+      de: Sie haben sich bei {0} registriert
+    SmsAuthCodeLifetimeDescription:
+      de: Lebensdauer des SMS-Autorisierungscodes
+    SmsAuthCodeSubsequentCreationDelayDescription:
+      de: Wie lange der Benutzer warten muss, bevor er einen SMS-Autorisierungscode erneut generieren kann
+    SmsAuthenticationCodeMessage:
+      de: Autorisierungscode {0}
+    SmsBonusesGiven:
+      de: SMS-Boni gewährt
+    SmsCarIsBooked:
+      de: '{0} {1} ist jetzt gebucht'
+    SmsCarTicketIsOver:
+      de: Das gekaufte Paket ist abgelaufen. Ihre Miete wird auf Minutentarif umgestellt
+    SmsConfirmationCodeWasSent:
+      de: SMS-Aktivierungscode wurde gesendet
+    SmsOrderNowOnParkRate:
+      de: Die Buchung {0} {1} wurde auf Tarif {2} {3}/Min. umgestellt
+    SmsOutOfDriveZone:
+      de: Sie befinden sich außerhalb des Heimatbereichs. Bitte rufen Sie {phoneNumber} an.
+    SmsRentZoneEnd:
+      de: '{0} beendet um {1}'
+    SmsTheCarIsDelivered:
+      de: '{1} {2} wurde an {3} geliefert'
+    SmsUserValidatedBySecurity:
+      de: '{companyName}: Ihr Konto wurde genehmigt! Einladungscode für Freunde: {promoCode}'
+    SpeedingAlarmMessage:
+      de: 'Geschwindigkeit: {speed} km/h. Koordinaten: {coords}. Zonen: {zones}'
+    SpeedLimit:
+      de: Geschwindigkeitsbegrenzung
+    SpeedLimitExceedWaypointsCountSettingDescription:
+      de: Anzahl der Wegpunkte zur Erzeugung des Geschwindigkeitsüberschreitungsalarms
+    SpeedValueToClearAlarm:
+      de: Geschwindigkeitswert zum Löschen des Geschwindigkeitsüberschreitungsalarms
+    StaleCarAlarmDescription:
+      de: Fahrzeug ohne Bewegung über {0} Stunden
+    StartFuelingResultEnumSuccess:
+      de: Tankvorgang wurde gestartet
+    StartFuelingResultEnumFailedCarMustBeSpecified:
+      de: 'Fahrzeug muss angegeben werden'
+    StatusChanged:
+      de: Prüfstatus geändert
+    SU:
+      de: So
+    SuccessTriggeredSet:
+      de: Radar gestoppt
+    SumIsDiscounted:
+      de: 'Bitte beachten: Die Gesamtsumme wurde entsprechend dem täglichen Zahlungslimit reduziert. Der Rabatt beträgt {0} {1}'
+    SumOfOrderIsTooLarge:
+      de: Der abgebuchte Betrag überschreitet das Limit und wird nicht automatisch von der Karte abgebucht. Bitte kontaktieren Sie unseren Kundendienst
+    Surname:
+      de: Nachname
+    SwitchedToDrive:
+      de: Miete
+    SwitchedToFreeBookingRate:
+      de: Ihre Bestellung wurde auf kostenlosen Buchungstarif umgestellt
+    SwitchedToInspect:
+      de: Inspektion
+    SwitchedToPaidBookingRate:
+      de: Ihre Bestellung wurde auf kostenpflichtigen Buchungstarif umgestellt
+    SwitchedToPaidInspect:
+      de: Betrag im Inspektionsmodus
+    SwitchedToPark:
+      de: Parken
+    SwitchRateMultiplierResultMultiplierCannotBeSwitched:
+      de: Tarifmultiplikator kann nicht umgeschaltet werden
+    SwitchRateMultiplierResultActiveIsNull:
+      de: Aktivparameter ist leer
+    SwitchRateMultiplierResultMultiplierIdIsNull:
+      de: Multiplikator-ID ist leer
+    SwitchRateMultiplierResultMultiplierNotFound:
+      de: Multiplikator nicht gefunden
+    SwitchRateMultiplierResultNotAuthenticated:
+      de: Benutzer ist nicht authentifiziert
+    SwitchRateMultiplierResultSuccess:
+      de: Erfolgreich
+    SwitchRateMultiplierResultUnknownError:
+      de: Unbekannter Fehler
+    SwitchRateMultiplierResultUserHasOrderNow:
+      de: Umschalten des Tarifmultiplikators während der Bestellung ist nicht erlaubt
+    SwitchRateMultiplierResultUserNotFound:
+      de: Benutzer nicht gefunden
+    SystemAdministrator:
+      de: Systemadministrator
+    SystemRights:
+      de: Administratorrechte
+    Tag:
+      de: Tag
+    TagCreated:
+      de: Tag erstellt
+    TagDeleted:
+      de: Tag gelöscht
+    Tags:
+      de: Tags
+    TagUsage:
+      de: Tag-Verwendung
+    TakeEditing:
+      de: Bearbeitung starten
+    TankCapacity:
+      de: Tankvolumen
+    TerminateOrdersWhichAreOverbookedSettingDescription:
+      de: Buchung des Fahrzeugs nach Ablauf der kostenlosen Buchungszeit beenden
+    TH:
+      de: Do
+    ThisCarHasAnOrderCanNotBeDeactivated:
+      de: Dieses Fahrzeug ist derzeit gemietet.
+    ThisCarHasAnOrderCanNotDelete:
+      de: Dieses Fahrzeug ist derzeit gemietet. Vor dem Entfernen muss die Miete beendet werden.
+    ThisCarHasReserveNow:
+      de: Dieses Fahrzeug kann nicht gemietet werden, da es reserviert ist
+    ThisVoucherCanBeUsedByNewUsersOnly:
+      de: Dieser Gutschein kann nur von neuen Benutzern verwendet werden
+    till:
+      de: bis
+    To_lc:
+      de: bis
+    ToHour:
+      de: Bis Stunde
+    ToShortMobilePhoneNumber:
+      de: Mobiltelefonnummer ist zu kurz
+    TotalBookingTime:
+      de: Gesamte Buchungszeit (Minuten)
+    TotalOverrun:
+      de: Gesamte Mehrkilometer
+    TotalParkingTime:
+      de: Gesamte Parkzeit (Minuten)
+    TotalRidesCostMinuteRates:
+      de: Gesamtkosten der Mieten (Minuten)
+    TotalRidesCostRatePack:
+      de: Gesamtkosten der Mieten (Pakete)
+    TotalRidesMinutes:
+      de: Gesamte Mieten (Minuten)
+    TotalRidesRatePack:
+      de: Gesamte Mieten (Pakete)
+    TotalUsageTime:
+      de: Gesamte Nutzungszeit (Minuten)
+    Tracker:
+      de: Tracker
+    TrackerCut:
+      de: Tracker-Stromversorgung verloren
+    TrackerId:
+      de: Tracker-ID
+    TrackerIdNotFoundForCar:
+      de: Die Datenbank konnte die Tracker-ID für das Fahrzeug mit der ID = {0} nicht finden
+    TrackerModel:
+      de: Tracker-Modell
+    TrackerNotFoundMaybeOffline:
+      de: Derzeit ist die Tracker-ID = {0} nicht verfügbar. Wahrscheinlich keine Verbindung zum Tracker.
+    TransmissionType:
+      de: Getriebetyp
+    TroubleBodyIsDamagedCount:
+      de: Anzahl der Beschwerden "Beschädigtes Fahrzeug"
+    TroubleBrokenWindowCount:
+      de: Anzahl der Beschwerden "Schmutziges Fahrzeug"
+    TroubleCarIsDirtyCount:
+      de: Anzahl der Treffer "Zerbrochenes Fenster"
+    TroubleTireIsFlatCount:
+      de: Anzahl der Treffer "Platter Reifen"
+    TryRebillOnInitPaymentSettingDescription:
+      de: Versuchen, Geld nach der Erstabbuchung erneut abzubuchen
+    TU:
+      de: Di
+    Unauthorized:
+      de: Sie sind nicht im System angemeldet
+    UnavailableAmount:
+      de: Nicht verfügbarer Betrag
+    UnblockCharger:
+      de: Ladegerät entsperren
+    UnderSupervision:
+      de: Kunde unter Kontrolle
+    UnionPay:
+      de: UnionPay
+    Unknown:
+      de: Unbekannter Fehler
+    UnknownError:
+      de: Unbekannter Fehler
+    UnknownPasswordRestoreCode:
+      de: Unbekannter Passwort-Wiederherstellungscode
+    UnknowOsIncorectAppVersion:
+      de: Bitte aktualisieren Sie die App
+    UnlockAndDriveCarResultFailedWithdrawChoosePayment:
+      de: Fehler beim Versuch, die Tarifauswahl-Zahlung abzubuchen
+    FailedCarRentedByOtherUser:
+      de: 'Entschuldigung, das Fahrzeug ist von einem anderen Benutzer gemietet. Bitte versuchen Sie ein anderes Fahrzeug'
+    FailedWrongQrCodeBookedOther:
+      de: Falscher QR-Code. Sie haben ein anderes Fahrzeug gebucht. Sie können Ihre Buchung stornieren und versuchen, diesen QR-Code erneut zu scannen
+    UnlockAndDriveCarResultFailedSwitchFromInspectToDriveIsDisabled:
+      de: 'Um die Miete zu starten, kontaktieren Sie bitte den technischen Support. Bestätigung des Operators ist erforderlich. Danke.'
+    UnlockAndDriveCarResultFailedCarHasNoOrderNow:
+      de: Das Fahrzeug ist derzeit nicht gemietet
+    UnlockAndDriveCarResultFailedCarIsInRentStateAlready:
+      de: Das Fahrzeug wird bereits verwendet
+    UnlockAndDriveCarResultFailedCarIsReserved:
+      de: Entschuldigung, dieses Fahrzeug ist derzeit nicht zur Miete verfügbar
+    UnlockAndDriveCarResultFailedCarNotFound:
+      de: Das Fahrzeug wurde nicht gefunden
+    UnlockAndDriveCarResultFailedCarTrackerIsOffline:
+      de: Es besteht keine Internetverbindung zum Fahrzeug
+    UnlockAndDriveCarResultFailedHardwareError:
+      de: Hardware-Fehler beim Entsperren und Fahren
+    UnlockAndDriveCarResultFailedNegativeBalance:
+      de: Sie haben einen negativen Saldo. Bitte kontaktieren Sie {phoneNumber}
+    UnlockAndDriveCarResultFailedOrderIsCompletedAlready:
+      de: Die Miete wurde beendet
+    UnlockAndDriveCarResultFailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde nicht gefunden
+    UnlockAndDriveCarResultFailedTheCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Bitte kommen Sie näher zum Fahrzeug und versuchen Sie es erneut
+    UnlockAndDriveCarResultFailedTheScooterIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Bitte kommen Sie näher heran und versuchen Sie es erneut
+    UnlockAndDriveCarResultFailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Miete
+    UnlockAndDriveCarResultOkCarIsInDriveModeNow:
+      de: Das Fahrzeug ist jetzt im Fahrmodus
+    UnlockCar:
+      de: Das Fahrzeug ist offen
+    UpdateMobileApplicationNotification:
+      de: Aktualisieren Sie Ihre App
+    UploadedFileSizeValidationError:
+      de: Die Größe der hochgeladenen Dateien darf {0} MB nicht überschreiten.
+    UploadImages:
+      de: Entsprechende Fotos herunterladen
+    UseCaptchaOnSignUpSettingDescription:
+      de: Captcha während der Registrierung verwenden
+    UsePercentsForFriendsBonusSettingDescription:
+      de: Zinsen auf die Fahrtkosten als Bonus für einen Freund berechnen
+    UseProgressiveBonusForRefuelingSettingDescription:
+      de: Zinsen auf die Fahrtkosten als Bonus für Tanken berechnen
+    User:
+      de: Benutzer
+    UserAccountIsBlocked:
+      de: Ihr Konto wurde vom Systemadministrator gesperrt.
+    UserAddedSuccessfully:
+      de: Kunde erfolgreich hinzugefügt
+    UserAlreadyHasHold:
+      de: Benutzer hat bereits eine Reservierungszahlung
+    UserAlreadyInTheGrade:
+      de: Kunde bereits in der Stufe
+    UserAlreadyInTheOrganization:
+      de: Benutzer bereits in der Organisation
+    UserBlocked:
+      de: Der Benutzer ist gesperrt
+    UserDeleted:
+      de: Benutzer gelöscht
+    UserDontHaveActiveSessions:
+      de: Benutzer hat derzeit keine aktiven Sitzungen
+    UserGroup:
+      de: Benutzergruppe
+    UserHasOrderNow:
+      de: Wechsel der Geschäftsorganisation während der Miete ist nicht erlaubt
+    UserIsCustomerAlready:
+      de: Benutzer {0} ist bereits als Kunde registriert
+    UserIsNotACustomer:
+      de: Benutzer {0} ist kein Kunde
+    UserIsNotInOrganization:
+      de: Benutzer ist nicht in der Organisation
+    UserLoggedOffSuccessfully:
+      de: Benutzer erfolgreich abgemeldet
+    UserNotFound:
+      de: Konto nicht gefunden
+    UserNotFoundInDatabase:
+      de: Der Benutzer wurde in der Datenbank nicht gefunden
+    UserRemovedSuccessfully:
+      de: Kunde erfolgreich entfernt
+    Users:
+      de: Benutzer
+    FieldCannotBeEmpty:
+      de: Das Feld darf nicht leer sein
+    EnterSurnamePlease:
+      de: Bitte NACHNAMEN eingeben
+    UserWithEmailAlreadyExists:
+      de: Benutzer mit gleicher E-Mail {0} bereits registriert
+    UserWithLoginAlreadyExists:
+      de: Benutzer mit gleichem Login {0} bereits registriert
+    IncorrectDateFormat:
+      de: Falsches Datumsformat
+    IncorrectDriversLicenseNumber:
+      de: Ungültige Führerscheinnummer
+    IncorrectPassportNumber:
+      de: Ungültige Passnummer
+    ValueMustBePositiveNumber:
+      de: '{0} Wert muss eine positive Zahl sein'
+    VatSettingDescription:
+      de: Mehrwertsteuer
+    VerificationCodeIsExpired:
+      de: Der Aktivierungscode ist abgelaufen
+    VerificationCodeMustNotBeEmpty:
+      de: Verifizierungscode darf nicht leer sein
+    version:
+      de: Version
+    VersionedFile:
+      de: Versionierte Datei
+    Visa:
+      de: Visa
+    VisaElectronAndMaestroShouldNotBeUsed:
+      de: Leider können Visa Electron und Maestro-Karten nicht verwendet werden. Bitte verknüpfen Sie eine andere Karte
+    Voucher:
+      de: Gutscheine
+    VoucherCodeIsNotCorrect:
+      de: Sie haben eine ungültige Gutscheinnummer eingegeben. Sie haben {0} Versuche, im Falle eines Fehlers wird der Vorgang vorübergehend gesperrt.
+    VoucherCodeIsNotCorrectEnd:
+      de: Achtung! Sie haben die Versuche zur Eingabe der Gutscheinnummer beendet. Der Vorgang kann nach einer Weile fortgesetzt werden.
+    VoucherCodeIsNotCorrectLast:
+      de: Achtung! Sie haben eine ungültige Gutscheinnummer eingegeben. Sie haben einen letzten Versuch zur Eingabe, danach wird der Vorgang vorübergehend gesperrt.
+    VoucherGiveBonusesDescription:
+      de: Gutschein {0}
+    VoucherIsAcivated:
+      de: Achtung! Gutschein wurde bereits aktiviert.
+    VoucherIsCanceled:
+      de: Achtung! Gutschein, den Sie zu aktivieren versuchen, wurde storniert.
+    VoucherQuantityLessMaxError:
+      de: In einem Vorgang können Sie nicht mehr als 10000 Gutscheine erstellen
+    VoucherQuantityZeroError:
+      de: Sie müssen die Anzahl der Gutscheine angeben
+    WayBills:
+      de: Frachtbriefe
+    WaypointsCountToAutomaticSwitchDriveModeDescription:
+      de: Anzahl der Wegpunkte zur automatischen Umschaltung der Bestellung in den Fahrmodus
+    WE:
+      de: Mi
+    WelcomeTo:
+      de: Willkommen bei {0}
+    WithdrawalReasonForCarTicket:
+      de: Für Paket
+    WithdrawalReasonPurchaseBonuses:
+      de: 'Kontoaufladung'
+    WithdrawalReasonManual:
+      de: Andere
+    WithdrawalReasonNA:
+      de: Andere
+    WithdrawalReasonOrderChoosePayment:
+      de: Entsperr-Zahlungen
+    WithdrawalReasonOrderPartialPayment:
+      de: Teilzahlung
+    WithdrawalReasonOrderPayment:
+      de: Mietbetrag
+    WithdrawalReasonOutOfServiceZone:
+      de: Außerhalb des Servicebereichs
+    WithoutGrade:
+      de: Ohne Stufe
+    WriteOffAllUsersDebts:
+      de: Alle Benutzerschulden abbuchen
+    WriteOffUserDebt:
+      de: Benutzerschulden abbuchen
+    WrongVerificationCode:
+      de: Falscher Verifizierungscode
+    YouCanNotChangeLockedVersionedFile:
+      de: Sie können die versionierte Datei '{0}' nicht ändern, da sie von {1} verwendet wird
+    YouDidNotFillAllTheRequiredFields:
+      de: Sie haben nicht alle erforderlichen Felder ausgefüllt
+    YouHaveNoRightToCreateNew:
+      de: Sie sind nicht berechtigt, '{0}' zu erstellen
+    YouHaveNoRightToLoad:
+      de: Sie sind nicht berechtigt, das Objekt anzuzeigen
+    YouHaveNoRightToRemove:
+      de: Sie sind nicht berechtigt, '{0}' zu löschen
+    YouHaveNoRightToSaveChanges:
+      de: Sie sind nicht berechtigt, '{0}' zu ändern
+    YouNeedToUploadDocuments:
+      de: 'Sie müssen folgende Dokumente hochladen:'
+    YouShouldBindTheBankCardAgainToUseCarsInThisRegion:
+      de: Sie sollten die Bankkarte erneut verknüpfen, um Fahrzeuge in dieser Region zu nutzen
+    YouShouldUploadDocuments:
+      de: Sie müssen die Vorder- und Rückseite des Ausweises, ein Foto der Vorder- und Rückseite des Führerscheins sowie ein Selfie mit der Vorderseite des Ausweises hochladen
+    YoutellAccountCanBeCreatedForAdministratorsOnly:
+      de: Youtell-Konto kann nur für Operatoren erstellt werden
+    ZeroBalanceRemoveCardErrorMessage:
+      de: Sie können die Bankkarte nicht entfernen, da Ihr Saldo negativ ist
+    Zone:
+      de: Zone
+    ZoneCreated:
+      de: Zone erstellt
+    ZoneDeleted:
+      de: Zone gelöscht
+    ZoneWithTag:
+      de: Zone (Tag)
+    PromoCodeResultOkCodeApplied:
+      de: 'Code akzeptiert. Wenn Sie zuvor keinen Freundes-Promocode eingegeben haben, geben wir Ihnen Boni.'
+    PromoCodeResultFailedIncorrectCode:
+      de: Falscher Code
+    PromoCodeResultErrorApplyBonusСode:
+      de: Fehler bei der Aktivierung des Bonuscodes
+    PromoCodeResultErrorApplyVoucherСode:
+      de: Fehler bei der Aktivierung des Gutscheincodes
+    CarRestored:
+      de: Fahrzeug wiederhergestellt
+    CarDeleted:
+      de: Fahrzeug gelöscht
+    OrderSwitchedToDriveModeAutomatically:
+      de: "Bestellung automatisch in den Fahrmodus geschaltet"
+    OrderSwitchedToFreeRateFromPaidRate:
+      de: "Bestellung von kostenpflichtigem auf kostenlosen Tarif gewechselt"
+    UserStartedRentOnSelectedRatePack:
+      de: Benutzer hat die Miete mit ausgewähltem Abonnement gestartet
+    LogOutUser:
+      de: Benutzer wird abgemeldet
+    SwitchInsuranceOn:
+      de: Versicherung aktiviert
+    SwitchInsuranceOff:
+      de: Versicherung deaktiviert
+    RightsGroupOrderOptions:
+      de: Bestelloptionen
+    RightViewOrderOptions:
+      de: Bestelloptionen anzeigen
+    RightEditOrderOptions:
+      de: Bestelloptionen bearbeiten
+    CreateOrUpdateReserveEnumOkReserveCreatedOrUpdatedSuccess:
+      de: "Die Reservierung wurde erfolgreich erstellt oder aktualisiert"
+    CreateOrUpdateReserveEnumCarModelNotFound:
+      de: "Fahrzeugmodell nicht gefunden"
+    CreateOrUpdateReserveEnumDateStartMustBeLessThanDateEnd:
+      de: "Startdatum muss vor dem Enddatum liegen"
+    CreateOrUpdateReserveEnumNoAvailableRatePacksForCarModel:
+      de: "Keine verfügbaren Tarifpakete für das ausgewählte Fahrzeugmodell"
+    CreateOrUpdateReserveEnumNoSuitableRatePacksForSelectedPeriod:
+      de: "Keine passenden Tarifpakete für den ausgewählten Mietzeitraum"
+    CreateOrUpdateReserveEnumNoAvailableCars:
+      de: "Keine verfügbaren Fahrzeuge für den ausgewählten Zeitraum"
+    CreateOrUpdateReserveEnumFailedToDeletePreviousUnpaidReserves:
+      de: "Vorherige unbezahlte Reservierungen konnten nicht gelöscht werden"
+    CreateOrUpdateReserveEnumErrorProcessingRequest:
+      de: "Bei der Verarbeitung der Anfrage ist ein Fehler aufgetreten"
+    VersionShort:
+      de: Ver.
+    VersionFrom:
+      de: vom
