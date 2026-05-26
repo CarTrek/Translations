@@ -1,5 +1,100 @@
 Sections:
   AdminFrontend:
+    cars.map.showPlates:
+      cs: Zobrazit SPZ
+      en: Show license plates
+      ge: Show license plates
+      ru: Показывать госномера
+    cars.map.legend.title:
+      cs: Legenda
+      en: Legend
+      ge: ლეგენდა
+      ru: Легенда
+    cars.map.legend.pointsSection:
+      cs: Body trasy
+      en: Track points
+      ge: Track points
+      ru: Точки трека
+    cars.map.legend.eventsSection:
+      cs: Události
+      en: Events
+      ge: Events
+      ru: События
+    cars.map.legend.start:
+      cs: Start
+      en: Start
+      ge: Start
+      ru: Старт
+    cars.map.legend.finish:
+      cs: Cíl
+      en: Finish
+      ge: Finish
+      ru: Финиш
+    cars.map.legend.stop:
+      cs: Zastávka
+      en: Stop
+      ge: Stop
+      ru: Остановка
+    cars.map.legend.player:
+      cs: Přehrávač
+      en: Player marker
+      ge: Player marker
+      ru: Маркер плеера
+    cars.map.player.play:
+      cs: Přehrát
+      en: Play
+      ge: Play
+      ru: Воспроизвести
+    cars.map.player.pause:
+      cs: Pauza
+      en: Pause
+      ge: Pause
+      ru: Пауза
+    cars.map.player.speed:
+      cs: Rychlost
+      en: Speed
+      ge: Speed
+      ru: Скорость
+    cars.map.events.handbrakeOn:
+      cs: Ruční brzda zatažena
+      en: Handbrake on
+      ge: Handbrake on
+      ru: Ручник поднят
+    cars.map.events.handbrakeOff:
+      cs: Ruční brzda uvolněna
+      en: Handbrake off
+      ge: Handbrake off
+      ru: Ручник снят
+    cars.map.events.ignitionOn:
+      cs: Zapalování zapnuto
+      en: Ignition on
+      ge: Ignition on
+      ru: Зажигание вкл
+    cars.map.events.ignitionOff:
+      cs: Zapalování vypnuto
+      en: Ignition off
+      ge: Ignition off
+      ru: Зажигание выкл
+    cars.map.events.engineOn:
+      cs: Motor spuštěn
+      en: Engine started
+      ge: Engine started
+      ru: Двигатель запущен
+    cars.map.events.engineOff:
+      cs: Motor zastaven
+      en: Engine stopped
+      ge: Engine stopped
+      ru: Двигатель остановлен
+    cars.map.events.doorsOpen:
+      cs: Dveře otevřeny
+      en: Doors opened
+      ge: Doors opened
+      ru: Двери открыты
+    cars.map.events.doorsClose:
+      cs: Dveře zavřeny
+      en: Doors closed
+      ge: Doors closed
+      ru: Двери закрыты
     cars.editor.BookingLockHeld:
       en: 'Car is locked by {{user}} ({{phone}})'
       ru: 'Машина заблокирована пользователем {{user}} ({{phone}})'
