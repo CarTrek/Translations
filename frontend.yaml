@@ -1,5 +1,8 @@
 Sections:
   AdminFrontend:
+    rates.FinishOrderOnRatePackFinish:
+      en: 'Finish rental when rate pack is finished'
+      ru: 'Завершать аренду при завершении тарифа'
     cars.map.showPlates:
       cs: Zobrazit SPZ
       en: Show license plates
