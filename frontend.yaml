@@ -1,5 +1,25 @@
 Sections:
   AdminFrontend:
+    notifications.ImportantUserComment:
+      en: Important user comment
+      ru: Важный комментарий пользователя
+      cs: Důležitý komentář uživatele
+    aside.nav.ImportantKeywords:
+      cs: Důležitá klíčová slova
+      en: Important keywords
+      ru: Важные ключевые слова
+    importantKeywords.Word:
+      cs: Slovo
+      en: Word
+      ru: Слово
+    importantKeywords.Locale:
+      cs: Jazyk
+      en: Language
+      ru: Язык
+    importantKeywords.IsActive:
+      cs: Aktivní
+      en: Is active
+      ru: Активно
     rates.FinishOrderOnRatePackFinish:
       en: 'Finish rental when rate pack is finished'
       ru: 'Завершать аренду при завершении тарифа'
