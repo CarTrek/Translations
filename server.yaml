@@ -1,24 +1,24 @@
 Sections:
   Server:
-    ImportantUserComment:
-      en: 'Important user comment'
-      ru: 'Важный комментарий пользователя'
-      cs: 'Důležitý komentář uživatele'
-    ImportantKeyword:
-      en: 'Important keyword'
-      ru: 'Важное ключевое слово'
-    ImportantKeywordWord:
-      en: 'Word'
-      ru: 'Слово'
-    ImportantKeywordLocale:
-      en: 'Language'
-      ru: 'Язык'
-    ImportantKeywordIsActive:
-      en: 'Is active'
-      ru: 'Активно'
-    RightEditImportantKeywords:
-      en: 'Edit important keywords'
-      ru: 'Редактировать ключевые слова важных комментариев'
+    CriticalCarReport:
+      en: Critical car report
+      ru: Критичный отчёт о машине
+      cs: Kritické hlášení o vozidle
+    CriticalReportKeyword:
+      en: Critical report keyword
+      ru: Критичное ключевое слово
+    CriticalReportKeywordWord:
+      en: Word
+      ru: Слово
+    CriticalReportKeywordLocale:
+      en: Language
+      ru: Язык
+    CriticalReportKeywordIsActive:
+      en: Is active
+      ru: Активно
+    RightEditCriticalReportKeywords:
+      en: Edit critical report keywords
+      ru: Редактировать критичные ключевые слова
     RightBreakCarBookingLock:
       en: 'Break car booking lock'
       ru: 'Снятие блокировки бронирования машины'
