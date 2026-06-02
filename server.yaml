@@ -1,5 +1,24 @@
 Sections:
   Server:
+    ImportantUserComment:
+      en: 'Important user comment'
+      ru: 'Важный комментарий пользователя'
+      cs: 'Důležitý komentář uživatele'
+    ImportantKeyword:
+      en: 'Important keyword'
+      ru: 'Важное ключевое слово'
+    ImportantKeywordWord:
+      en: 'Word'
+      ru: 'Слово'
+    ImportantKeywordLocale:
+      en: 'Language'
+      ru: 'Язык'
+    ImportantKeywordIsActive:
+      en: 'Is active'
+      ru: 'Активно'
+    RightEditImportantKeywords:
+      en: 'Edit important keywords'
+      ru: 'Редактировать ключевые слова важных комментариев'
     RightBreakCarBookingLock:
       en: 'Break car booking lock'
       ru: 'Снятие блокировки бронирования машины'
