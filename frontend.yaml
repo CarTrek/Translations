@@ -1,22 +1,22 @@
 Sections:
   AdminFrontend:
-    notifications.ImportantUserComment:
-      en: Important user comment
-      ru: Важный комментарий пользователя
-      cs: Důležitý komentář uživatele
-    aside.nav.ImportantKeywords:
-      cs: Důležitá klíčová slova
-      en: Important keywords
-      ru: Важные ключевые слова
-    importantKeywords.Word:
+    notifications.CriticalCarReport:
+      en: Critical car report
+      ru: Критичный отчёт о машине
+      cs: Kritické hlášení o vozidle
+    aside.nav.CriticalReportKeywords:
+      cs: Kritická klíčová slova
+      en: Critical keywords
+      ru: Критичные ключевые слова
+    criticalReportKeywords.Word:
       cs: Slovo
       en: Word
       ru: Слово
-    importantKeywords.Locale:
+    criticalReportKeywords.Locale:
       cs: Jazyk
       en: Language
       ru: Язык
-    importantKeywords.IsActive:
+    criticalReportKeywords.IsActive:
       cs: Aktivní
       en: Is active
       ru: Активно
