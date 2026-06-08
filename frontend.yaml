@@ -1,5 +1,11 @@
 Sections:
   AdminFrontend:
+    cars.map.events.showAll:
+      en: 'Show events'
+      ru: 'Показать события'
+    cars.map.events.hideAll:
+      en: 'Hide events'
+      ru: 'Скрыть события'
     notifications.CriticalCarReport:
       en: Critical car report
       ru: Критичный отчёт о машине
