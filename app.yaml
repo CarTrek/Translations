@@ -1659,6 +1659,9 @@ Sections:
     signin.send-code-to-smsctelegram:
       en: "Send to Telegram"
       ru: "Отправить код в Telegram"
+    signin.send-code-to-max:
+      en: "Send code to Max"
+      ru: "Отправить код в Max"
     signin.send-sms-with-code:
       en: "Send code via SMS"
       ru: "Отправить код в SMS"
