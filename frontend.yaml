@@ -1,5 +1,25 @@
 Sections:
   AdminFrontend:
+    cars.map.events.selectorPOn:
+      cs: 'Volič převodovky v P'
+      en: 'Gear selector in P'
+      ge: 'Gear selector in P'
+      ru: 'Селектор АКПП в P'
+    cars.map.events.selectorPOff:
+      cs: 'Volič převodovky mimo P'
+      en: 'Gear selector not in P'
+      ge: 'Gear selector not in P'
+      ru: 'Селектор АКПП не в P'
+    cars.map.events.hideAll:
+      cs: 'Skrýt události'
+      en: 'Hide events'
+      ge: 'Hide events'
+      ru: 'Скрыть события'
+    cars.map.events.showAll:
+      cs: 'Zobrazit události'
+      en: 'Show events'
+      ge: 'Show events'
+      ru: 'Показать события'
     cars.map.events.showAll:
       en: 'Show events'
       ru: 'Показать события'
