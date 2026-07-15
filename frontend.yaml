@@ -1,5 +1,32 @@
 Sections:
   AdminFrontend:
+    orderOptions.edit.tabs.ratePacks:
+      en: Tariffs
+      ru: Тарифы
+    orderOptions.selectAllRatePacks:
+      en: Select all tariffs
+      ru: Выбрать все тарифы
+    orderOptions.ratePacks.name:
+      en: Tariffs
+      ru: Тарифы
+    orderOptions.edit.copy:
+      en: Copy
+      ru: Копировать
+    orderOptions.isSelectedByDefault:
+      en: Selected by default
+      ru: Выбрана по умолчанию
+    orderOptions.selectAllModels:
+      en: Select all models
+      ru: Выбрать все модели
+    orderOptions.ratePacks.name:
+      en: Tariffs
+      ru: Тарифы
+    dic.orderoptions.HEADER:
+      en: Order Options
+      ru: Опции заказа
+    orderOptions.edit.saveError:
+      en: Failed to save option
+      ru: Не удалось сохранить опцию
     cars.map.events.selectorPOn:
       cs: 'Volič převodovky v P'
       en: 'Gear selector in P'
