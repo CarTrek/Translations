@@ -1,5 +1,45 @@
 Sections:
   AdminFrontend:
+    reports.QuickReport:
+      en: Quick report
+      ru: Быстрый отчёт
+    reports.ReportGenerator:
+      en: Report generator
+      ru: Генератор отчёта
+    reports.Filters:
+      en: Filters
+      ru: Фильтры
+    reports.Category:
+      en: Category
+      ru: Категория
+    reports.Columns:
+      en: Columns
+      ru: Колонки
+    reports.SelectAll:
+      en: Select all
+      ru: Выбрать все
+    reports.ClearAll:
+      en: Clear all
+      ru: Снять все
+    reports.SelectedCount:
+      en: Selected
+      ru: Выбрано
+    app.DateFrom:
+      en: Date from
+      ru: Дата с
+    app.DateTo:
+      en: Date to
+      ru: Дата по
+    menu.CustomersList:
+      en: Clients
+      ru: Клиенты
+    clients.filter.All:
+      en: All clients
+      ru: Все клиенты
+    clients.filter.Debtors:
+      en: Debtors
+      ru: Должники
+    clients.filter.DebtorsWithOrders:
     orderOptions.edit.tabs.ratePacks:
       en: Tariffs
       ru: Тарифы
