@@ -40,6 +40,32 @@ Sections:
       en: Debtors
       ru: Должники
     clients.filter.DebtorsWithOrders:
+      en: Debtors with orders
+      ru: Должники с заказами
+    clients.filter.Blocked:
+      en: Blocked
+      ru: Заблокированные
+    clients.filter.AwaitValidation:
+      en: Awaiting validation
+      ru: Ожидают проверки
+    clients.filter.Validated:
+      en: Validated
+      ru: Проверенные
+    clients.filter.HasActiveOrder:
+      en: Has active order
+      ru: С активным заказом
+    clients.filter.WithBankCards:
+      en: With bank cards
+      ru: С банковскими картами
+    clients.filter.WithoutBankCards:
+      en: Without bank cards
+      ru: Без банковских карт
+    clients.filter.DocumentsNeedValidation:
+      en: Documents need validation
+      ru: Документы на проверку
+    clients.filter.DeletionRequest:
+      en: Deletion requested
+      ru: Запрос на удаление
     orderOptions.edit.tabs.ratePacks:
       en: Tariffs
       ru: Тарифы
