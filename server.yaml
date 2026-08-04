@@ -1,5 +1,11 @@
 Sections:
   Server:
+    CarNotFound:
+      en: 'Car not found'
+      ru: 'Машина не найдена'
+    OnlyRemovedCarCanBePurged:
+      en: 'Only a car from the "Removed" section can be deleted permanently. Remove the car first.'
+      ru: 'Окончательно удалить можно только машину из раздела «Удалённые». Сначала удалите машину.'
     CriticalCarReport:
       en: Critical car report
       ru: Критичный отчёт о машине
