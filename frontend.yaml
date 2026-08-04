@@ -1,5 +1,13 @@
 Sections:
   AdminFrontend:
+    cars.list.PurgeCar:
+      cs: Smazat navždy
+      en: Delete permanently
+      ru: Удалить окончательно
+    cars.list.PurgeCarConfirm:
+      cs: Vozidlo '{{objectName}}' bude odstraněno navždy a nelze jej obnovit. Pokračovat?
+      en: The car '{{objectName}}' will be deleted permanently and cannot be restored. Continue?
+      ru: Машина '{{objectName}}' будет удалена окончательно и её нельзя будет восстановить. Продолжить?
     reports.QuickReport:
       en: Quick report
       ru: Быстрый отчёт
