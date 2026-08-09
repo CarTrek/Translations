@@ -1,0 +1,1548 @@
+Sections:
+  Android:
+    nav_menu_label_bonuses:
+      de: Boni
+    speed_restriction_normal_description:
+      de: 'Diese Zone hat ein Limit von 15 km/h. Der Roller wechselt automatisch die Geschwindigkeit.'
+    speed_restriction_eco_description:
+      de: 'Diese Zone hat ein Limit von 10 km/h. Der Roller wechselt automatisch die Geschwindigkeit.'
+    speed_restriction_normal:
+      de: '15 km/h'
+    speed_restriction_eco:
+      de: '10 km/h'
+    button_select_rate:
+      de: Auswählen
+    rub_min:
+      de: /Min
+    rub:
+      de: Kč
+    rub_km:
+      de: /km
+    bonuses_symbol:
+      de: Kč
+    promo_post_text:
+      de: Registrieren Sie sich und erhalten Sie kostenlose Fahrten!
+    selfie_drive_lic:
+      de: Selfie mit der Vorderseite Ihres Personalausweises
+    scale_fuel_indicator_hint:
+      de: Kraftstoffstand
+    copyright:
+      de: © CarTrek 2019
+    promo_instruction_percent:
+      de: Senden Sie Ihren persönlichen Promocode an Ihre Freunde und sie erhalten 20 Minuten kostenlose Fahrt. Sobald Ihr Freund die erste Fahrt macht, erhalten auch Sie 20 Minuten kostenlos.
+    promo_instruction_no_percent:
+      de: Senden Sie Ihren persönlichen Promocode an Ihre Freunde und sie erhalten 20 Minuten kostenlose Fahrt. Sobald Ihr Freund die erste Fahrt macht, erhalten auch Sie 20 Minuten kostenlos.
+    fuel_station:
+      de: Tankstelle
+    overrun:
+      de: Mehrkilometer
+    rules_item_label_fueling_rules:
+      de: Tankregeln
+    passport_first_page:
+      de: Vorderseite des Personalausweises
+    passport_registration_page:
+      de: Rückseite des Personalausweises
+    contract_agree_hint:
+      de: Ich stimme den Vertragsbedingungen zu
+    overrun_cost:
+      de: Mehrkilometer
+    overrun_text:
+      de: '%1$s %2$s Mehrkilometer'
+    are_you_really_want_to_finish_rent:
+      de: Bevor Sie die Miete beenden, stellen Sie sicher, dass:\n- Das Auto mit der Handbremse gesichert ist.\n- Alle Fenster geschlossen sind.\n- Die Lichter ausgeschaltet sind.\n- Die Innenbeleuchtung ausgeschaltet ist.\n- Der Schaltwahlhebel bei Automatik in P-Position oder bei Schaltgetriebe in N-Position steht.
+    complete_overrun:
+      de: Mehrkilometer
+    check_documents_message:
+      de: 'Folgende Dokumente müssen sich im Handschuhfach befinden: \n1. Versicherungspolice;\n2. Fahrzeugschein;\n3. Tankkarte\nWenn etwas fehlt, melden Sie uns dies per E-Mail'
+    penalty_for_dirt_text:
+      de: 'Folgende Dokumente müssen sich im Handschuhfach befinden: \n1. Versicherungspolice;\n2. Fahrzeugschein;\n3. Tankkarte\nWenn etwas fehlt, melden Sie uns dies per E-Mail'
+    inspect_second_text:
+      de: Sind alle %1$sDokumente%2$s vorhanden?
+    navigation_drawer_open:
+      de: Navigationsmenü öffnen
+    navigation_drawer_close:
+      de: Navigationsmenü schließen
+    email:
+      de: E-Mail
+    loading_data:
+      de: Daten werden geladen...
+    carsharing:
+      de: Kurzzeit-Autovermietung
+    notification_channel_id_default:
+      de: cartrek_default_channel
+    notification_channel_name_main:
+      de: Haupt
+    enter_phone_hint:
+      de: Telefonnummer
+    prompt_password:
+      de: Passwort
+    action_sign_in_short:
+      de: Anmelden
+    view_map:
+      de: Autos anzeigen
+    sign_up:
+      de: Registrieren
+    forgotPassword:
+      de: Passwort vergessen?
+    restore_password_button_label:
+      de: Wiederherstellen
+    login_type_label_text:
+      de: 'Anmelden mit:'
+    phone_login_type:
+      de: Telefon
+    email_login_type:
+      de: E-Mail
+    enter_email_hint:
+      de: E-Mail
+    error_field_required:
+      de: Dieses Feld muss ausgefüllt werden
+    error_incorrect_password:
+      de: Anmeldung fehlgeschlagen. Login und/oder Passwort sind falsch
+    email_or_phone:
+      de: E-Mail oder Telefonnummer
+    liters:
+      de: l
+    mileage:
+      de: Kilometerstand
+    km:
+      de: km
+    fuel:
+      de: Kraftstoff
+    reg_number:
+      de: Kennzeichen
+    color:
+      de: Farbe
+    m:
+      de: m
+    distance_to_car:
+      de: Entfernung
+    rent:
+      de: Miete
+    terms_of_usage:
+      de: Mietbedingungen
+    wait:
+      de: Reservierung
+    checkout:
+      de: Auschecken
+    fueling:
+      de: Tanken
+    callcenter:
+      de: Callcenter
+    driving:
+      de: Fahrten
+    extra_info:
+      de: Zusätzliche Informationen
+    h:
+      de: Std.
+    min:
+      de: Min.
+    on_foot:
+      de: zu Fuß
+    yes:
+      de: OK
+    no:
+      de: Nein
+    fuel_distance:
+      de: Kraftstoffreichweite
+    discount:
+      de: Rabatt
+    description_booking:
+      de: 20 Min. kostenlos, danach wird der Parkpreis berechnet
+    description_fueling:
+      de: Tanken Sie nach, wenn weniger als 20% übrig sind
+    book_the_car_now:
+      de: Reservieren
+    logout_error:
+      de: Abmeldung war nicht erfolgreich. Möglicherweise hat der Server die Verbindung verloren
+    booking_failed:
+      de: Reservierung fehlgeschlagen
+    FailedUserAlreadyHasOrder:
+      de: Sie haben bereits ein Auto reserviert
+    FailedCarIsOrderedAlready:
+      de: Das Auto wurde bereits reserviert
+    FailedCarNotFound:
+      de: Das Auto wurde im System nicht gefunden
+    FailedCarIsOffline:
+      de: Das Auto ist offline
+    FailedUserNotFound:
+      de: Ihr Konto wurde im System nicht gefunden
+    FailedUserIsBlocked:
+      de: Ihr Konto ist gesperrt
+    FailedUserIsNotACustomer:
+      de: Sie haben keine Berechtigung, Autos zu reservieren
+    FailedCustomerIsBlocked:
+      de: Ihr Konto ist gesperrt
+    FailedUserHasNoCorrectOrganization:
+      de: Das Auto ist Organisationen zugewiesen, denen Sie nicht angehören
+    FailedHasNoBankCard:
+      de: Das System enthält keine Informationen über Ihre Bankkarte
+    FailedNegativeBalance:
+      de: Ihr Kontostand ist negativ\n
+    FailedSecurityCheckDidNotPass:
+      de: Ihr Konto wurde noch nicht durch die Verifizierung genehmigt\n
+    FailedNoRentEndZonesFound:
+      de: Die Heimzone wurde für das ausgewählte Fahrzeug nicht eingerichtet
+    FailedNoDriveZonesFound:
+      de: Die Fahrzone wurde für das ausgewählte Fahrzeug nicht eingerichtet\n
+    the_car_is_booked:
+      de: Auto erfolgreich reserviert\n
+    please_try_again_later:
+      de: Bitte versuchen Sie es später erneut
+    rent_finish_failed:
+      de: Miete konnte nicht beendet werden\n
+    rent_finish_ok:
+      de: Miete erfolgreich beendet. Der Fahrtbericht wird an Ihre E-Mail-Adresse gesendet.
+    cancel_booking:
+      de: Stornieren
+    finish_rent:
+      de: Miete beenden
+    are_you_really_want_to_finish_book:
+      de: Möchten Sie die Reservierung stornieren?\n
+    start_the_rent:
+      de: Miete
+    open_the_car:
+      de: Auto öffnen
+    close_the_car:
+      de: Parken
+    start_rent_failed:
+      de: Miete konnte nicht gestartet werden\n
+    start_rent_ok:
+      de: Auto befindet sich jetzt im Mietmodus
+    park_failed:
+      de: Auto konnte nicht geparkt werden
+    park_ok:
+      de: Auto befindet sich jetzt im Parkmodus
+    horn_failed:
+      de: Lichthupe konnte nicht ausgelöst werden\n
+    horn_ok:
+      de: Das Auto blinkt
+    FailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Bestellung
+    FailedCarHasNoOrderNow:
+      de: Das Auto ist derzeit nicht gemietet
+    FailedOrderIsCompletedAlready:
+      de: Die Miete ist bereits beendet
+    FailedCarIsParkedAlready:
+      de: Das Auto ist bereits geparkt
+    FailedCarTrackerIsOffline:
+      de: Das Auto ist offline
+    FailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde in der Datenbank nicht gefunden
+    FailedCarIsMoving:
+      de: Das Auto bewegt sich gerade
+    FailedCarIsInRentStateAlready:
+      de: Das Auto befindet sich jetzt im Fahrmodus
+    OkCarIsInDriveModeNow:
+      de: Das Auto befindet sich jetzt im Fahrmodus
+    FailedCarNotFoundInDatabase:
+      de: Das Auto wurde in der Datenbank nicht gefunden
+    FailedOutOfRentEndZone:
+      de: Das Auto befindet sich außerhalb der Heimzone
+    OkOrderFinished:
+      de: Miete erfolgreich beendet
+    OkNowBeeping:
+      de: Das Auto blinkt jetzt
+    FailedHornTooOften:
+      de: Sie versuchen, zu oft zu blinken
+    FailedCarIsTooFar:
+      de: Das Auto ist zu weit von Ihnen entfernt. Sie werden es sowieso nicht hören.
+    ErrorNoConnectionWithCar:
+      de: Das Auto ist offline
+    ErrorCarInMotion:
+      de: Das Auto bewegt sich gerade
+    ErrorCheckDoors:
+      de: Bitte überprüfen Sie die Türen
+    ErrorCheckWindows:
+      de: Bitte überprüfen Sie die Fenster
+    ErrorFLDoorIsOpened:
+      de: Vordere linke Tür ist nicht verriegelt
+    ErrorFRDoorIsOpened:
+      de: Vordere rechte Tür ist nicht verriegelt
+    ErrorRLDoorIsOpened:
+      de: Hintere linke Tür ist nicht verriegelt
+    ErrorRRDoorIsOpened:
+      de: Hintere rechte Tür ist nicht verriegelt
+    ErrorBootIsOpened:
+      de: Der Kofferraum ist offen
+    ErrorHoodIsOpened:
+      de: Die Motorhaube ist offen
+    ErrorIgnitionKeyIsTurnedOn:
+      de: Die Zündung ist eingeschaltet
+    ErrorEngineIsStarted:
+      de: Der Motor läuft
+    car_rent_confirmation:
+      de: Möchten Sie das Auto wirklich in den Fahrmodus versetzen?
+    car_park_confirmation:
+      de: Möchten Sie das Auto wirklich in den Parkmodus versetzen?
+    order_state:
+      de: Zustand der Bestellung
+    order_rate:
+      de: Tarif
+    order_duration:
+      de: Dauer
+    order_total:
+      de: Gesamt
+    your_order:
+      de: Ihre Bestellung
+    usage_conditions:
+      de: Nutzungsbedingungen
+    orderStateNameBook:
+      de: Reserviert
+    orderStateNameDrive:
+      de: Fahrt
+    orderStateNamePark:
+      de: Geschlossen
+    orderStateNameInspect:
+      de: Inspektion
+    order_just_started:
+      de: Gerade gestartet
+    beep_horn:
+      de: Blinken
+    to_free_book_end:
+      de: Kostenlose Reservierung endet in
+    to_free_book_inspect_1:
+      de: '%s kostenlose Minute für die Inspektion'
+    to_free_book_inspect_2:
+      de: '%s kostenlose Minuten für die Inspektion'
+    to_free_book_inspect_5:
+      de: '%s kostenlose Minute für die Inspektion'
+    your_rent_is_completed:
+      de: Ihre Miete ist beendet\n
+    breif_report:
+      de: Kurzer Mietbericht
+    kop:
+      de: Cent
+    close_report:
+      de: Bericht schließen
+    hope_you_enjoed:
+      de: Wir hoffen, Sie haben Ihre Fahrt genossen und wir sehen uns bald wieder!
+    less_than_minute:
+      de: Weniger als eine Minute
+    message:
+      de: Nachricht
+    cancel:
+      de: Abbrechen
+    run_included:
+      de: Inklusive
+    rate_cost:
+      de: Tarifkosten
+    minutes_included:
+      de: inklusive
+    about_admission_act:
+      de: Mit dem Beginn der Miete unterschreiben Sie das Übernahmeprotokoll\n
+    about_auto_act:
+      de: Automatisch verlängern
+    until_refueling:
+      de: bis zum Tanken
+    waiting:
+      de: parken
+    na:
+      de: N/V
+    car_ticket:
+      de: Paket
+    active_subscription:
+      de: Paket ist aktiv
+    drive:
+      de: Miete
+    book:
+      de: Reservierung
+    park:
+      de: Parken
+    state:
+      de: Status
+    sec:
+      de: Sek.
+    days:
+      de: Tage
+    current_rate:
+      de: aktueller Tarif
+    select_a_car:
+      de: Auto auswählen
+    book_a_car:
+      de: Auto reservieren
+    ticket_until:
+      de: Paket bis
+    bonuses:
+      de: Boni
+    support:
+      de: Support
+    promo_code:
+      de: Ihr Promocode
+    accept:
+      de: Senden
+    account_awaits_validation:
+      de: Konto wartet auf Genehmigung
+    account_has_no_bank_card:
+      de: Bankkarte hinzufügen…
+    close:
+      de: Schließen
+    build_route:
+      de: Route erstellen
+    server_url:
+      de: Server-URL
+    refueling:
+      de: Tanken
+    rate_the_condition_of_the_car:
+      de: Bitte bewerten Sie den Zustand des Autos
+    rate_the_car:
+      de: Auto bewerten
+    accept_the_act:
+      de: OK
+    please_sign_in:
+      de: Anmelden
+    promo_link_copied:
+      de: Der Promocode wurde kopiert
+    phone_call:
+      de: Anruf %s
+    shareToFb:
+      de: Auf Facebook teilen
+    shareToVk:
+      de: Auf Facebook teilen
+    zone_type_rent_end:
+      de: Heimzone
+    zone_type_rent_end_bonus:
+      de: 'Bonuszone: Beenden Sie die Miete und erhalten Sie Boni'
+    zone_type_drive:
+      de: Erlaubter Fahrbereich
+    account_is_blocked:
+      de: Zugang gesperrt
+    currency_format:
+      de: '%.2f'
+    car_acceptance:
+      de: Fahrzeugzustand
+    car_acceptance_description:
+      de: Überprüfen Sie sorgfältig den Zustand des Autos
+    body_is_damaged:
+      de: Es gibt Schäden
+    tire_is_flat:
+      de: Reifen ist platt
+    broken_window:
+      de: Kaputtes Fenster
+    dirty_interior:
+      de: Das Auto ist schmutzig
+    comments:
+      de: Ihre Kommentare (optional)
+    damage_photo_label:
+      de: Senden Sie Bilder von Schäden per E-Mail
+    car_reg_number_email_subject:
+      de: Fotos von Schäden. Kennzeichen %s
+    damage_photos_email_text:
+      de: Fotos von Schäden anhängen
+    accept_car_rent:
+      de: Miete
+    car_booking_confirmation:
+      de: Möchten Sie das Auto reservieren?
+    nav_menu_label_my_orders:
+      de: MEINE FAHRTEN
+    nav_menu_label_payment_cards:
+      de: ZAHLUNGSKARTEN
+    nav_menu_label_voucher:
+      de: GUTSCHEINE
+    nav_menu_label_promo:
+      de: KOSTENLOSE FAHRTEN
+    nav_menu_label_rules:
+      de: REGELN
+    nav_menu_label_buy_certificate:
+      de: GUTSCHEIN KAUFEN
+    nav_menu_label_help:
+      de: 'Support'
+    nav_menu_label_tech_menu:
+      de: TECH-MENÜ
+    nav_menu_label_log_out:
+      de: ABMELDEN
+    nav_menu_label_log_in:
+      de: ANMELDEN
+    rules_dialog_title:
+      de: Regeln
+    rules_item_label_service_rules:
+      de: Service-Regeln
+    rules_item_label_fines:
+      de: Strafen
+    rules_item_label_rates:
+      de: Tarife
+    rules_item_label_parking_rules:
+      de: Parkregeln
+    help_dialog_title:
+      de: Hilfe
+    send_email_label:
+      de: E-Mail senden
+    send_email_title:
+      de: E-Mail senden…
+    registration_activity_label:
+      de: Registrieren bei %s
+    personal_information_label:
+      de: Persönliche Daten
+    surname_hint:
+      de: Nachname*
+    name_hint:
+      de: Vorname*
+    patronymic_hint:
+      de: Zweiter Vorname
+    email_hint:
+      de: E-Mail*
+    phone_number_hint:
+      de: Telefonnummer*
+    password_hint:
+      de: Passwort*
+    password_confirmation_hint:
+      de: Passwortbestätigung*
+    promo_code_hint:
+      de: Wenn Sie einen Promocode haben, geben Sie ihn bitte oben ein
+    older_than_hint:
+      de: Ich bin älter als %d Jahre
+    driving_exp_hint:
+      de: Meine Fahrerfahrung beträgt mehr als %s Jahre
+    next_button_label:
+      de: Weiter
+    documents_label:
+      de: Foto hochladen
+    back_button_label:
+      de: Abbrechen
+    done_button_label:
+      de: Einreichen
+    rates_and_terms_label:
+      de: Tarife und Servicebedingungen
+    term_of_use_agree_hint:
+      de: Ich akzeptiere die Servicebedingungen
+    personal_data_agree_hint:
+      de: Ich erlaube die Verarbeitung meiner persönlichen Daten
+    sign_up_dialog_title:
+      de: Registrierung
+    sign_up_dialog_message:
+      de: Bitte warten Sie, während die Daten auf den Server hochgeladen werden
+    captcha_hint:
+      de: Bitte geben Sie das Captcha ein
+    attach_card_title:
+      de: Bankkarte anhängen
+    attach_card_chancel_button_label:
+      de: Abbrechen
+    attach_card_done_button_label:
+      de: Fertig
+    bank_card_attached_success_message:
+      de: Bankkarte erfolgreich angehängt
+    pick_photo_intent_title:
+      de: Bitte wählen Sie die Quelle
+    attach_card_progress_dialog_title:
+      de: Bankkarte wird angehängt
+    attach_card_progress_dialog_message:
+      de: Warten auf Bestätigung des Vorgangs\n
+    attach_card_progress_continue:
+      de: Fortfahren
+    take_photo_button_label:
+      de: Foto aufnehmen
+    selfie_instruction_text:
+      de: Machen Sie ein Selfie mit Führerschein oder Personalausweis
+    passport_first_page_instruction_text:
+      de: Machen Sie ein Foto der Vorderseite Ihres Personalausweises
+    passport_registration_page_instruction_text:
+      de: Machen Sie ein Foto der Rückseite Ihres Personalausweises
+    drive_license_first_page_instruction_text:
+      de: Machen Sie ein Foto der Vorderseite Ihres Führerscheins
+    drive_license_back_page_instruction_text:
+      de: Machen Sie ein Foto der Rückseite Ihres Führerscheins
+    rent_duration:
+      de: Dauer
+    bonuses_spent:
+      de: Mit Boni bezahlt
+    will_be_charged:
+      de: Wird berechnet
+    rent_total_cost:
+      de: Gesamtkosten
+    sum_day_limit_was_reached:
+      de: '* Maximale Tageszahlung erreicht. Herzlichen Glückwunsch, Sie haben einen Rabatt erhalten!'
+    share_promo_code:
+      de: Senden Sie Ihren persönlichen Promocode an Ihre Freunde und sie erhalten 20 Minuten kostenlose Fahrt. Sobald Ihr Freund die erste Fahrt macht, erhalten auch Sie 20 Minuten kostenlos.
+    thanks_for_rent:
+      de: Vielen Dank, dass Sie unseren Service gewählt haben!\n
+    title_activity_my_orders:
+      de: Meine Fahrten
+    order_begin_label:
+      de: Start
+    order_end_label:
+      de: Ende
+    not_trips_message:
+      de: Sie haben noch keine Fahrten unternommen
+    detailing_calculation:
+      de: '%d:%d * %s'
+    title_activity_order_details:
+      de: OrderDetailsActivity
+    car_text_placeholder:
+      de: Auto
+    car_reg_number_placeholder:
+      de: xxx000xx00
+    cost_placeholder:
+      de: --,--
+    minutes_placeholder:
+      de: -- Min
+    payments_and_charges:
+      de: Zahlungen und Gutschriften
+    detailing:
+      de: Details
+    free_booking_label:
+      de: Kostenlose Reservierung
+    parking_label:
+      de: Parken
+    riding_label:
+      de: Fahrt
+    none:
+      de: Keine
+    date_time_placeholder:
+      de: --.--.---- --:--:--
+    from_card_label:
+      de: Per Karte
+    bonuses_label:
+      de: Boni
+    order_route_map_error_message:
+      de: Route konnte nicht angezeigt werden
+    surname_validation_error:
+      de: Nachname eingeben
+    name_validation_error:
+      de: Vornamen eingeben
+    email_validation_error:
+      de: Ungültige E-Mail
+    phone_number_valdation_error:
+      de: Ungültige Telefonnummer
+    password_validation_error:
+      de: Das Passwort muss mindestens 6 Zeichen und mindestens 3 verschiedene Zeichen enthalten
+    password_confirmation_validation_error:
+      de: Die Passwortbestätigung stimmt nicht mit dem Passwort überein
+    order_than_validation_error:
+      de: Bestätigen Sie Ihr Alter
+    driving_exp_validation_error:
+      de: Bestätigen Sie Ihre Fahrerfahrung\n
+    sign_up_exception_error:
+      de: Etwas ist schiefgelaufen. Bitte wenden Sie sich an den Kundenservice
+    sign_up_canNotLogin_error:
+      de: Konto registriert, aber Anmeldung fehlgeschlagen, versuchen Sie es später erneut
+    refuel:
+      de: Kraftstoff
+    low_fuel_message:
+      de: Sie beenden die Miete mit einem Kraftstoffstand von weniger als 10%.\n
+    refuel_needed_message:
+      de: Gemäß den Regeln unseres Service müssen Sie das Auto nachtanken. Bitte rufen Sie zuerst unseren Kundendienst an und folgen Sie den Anweisungen des Operators.
+    penalty_warning_message:
+      de: Wenn Sie die Miete beenden, ohne das Auto zu tanken, sind wir gemäß den Regeln unseres Service gezwungen, Sie zu bestrafen.
+    service_rules_label:
+      de: Nutzungsbedingungen
+    penalty_dialog_title:
+      de: Warnung vor Strafe!
+    finish_rent_penalty_dialog_button:
+      de: Miete beenden
+    negative_balance_dialog_title:
+      de: Negativer Saldo
+    negative_balance_dialog_message:
+      de: Sie müssen Geld auf das Guthaben Ihrer Karte einzahlen, sonst wird das Auto gesperrt\n
+    next:
+      de: Weiter
+    pay_now:
+      de: Jetzt bezahlen
+    sign_up_error_dialog_title:
+      de: Registrierung nicht möglich\n
+    sign_up_error_dialog_message:
+      de: Während des Registrierungsprozesses ist ein unerwarteter Fehler aufgetreten
+    sign_up_error_dialog_continue:
+      de: Fortfahren
+    sign_up_error_dialog_cancel:
+      de: Abbrechen
+    tariff_selection_dialog_title:
+      de: Tarif wählen
+    tariff_selection_dialog_subhead:
+      de: Bitte wählen Sie einen, um die Miete zu starten\n
+    need_act_signing_message:
+      de: Sie können keinen Tarif wählen, bis das Übernahmeprotokoll unterschrieben ist!\n
+    new_version_dialog_title:
+      de: Neue Version
+    new_version_dialog_message:
+      de: Eine neue Version der Anwendung ist verfügbar. Möchten Sie jetzt aktualisieren?
+    new_version_dialog_update_button_label:
+      de: Aktualisieren
+    new_version_dialog_later_cancel_button_label:
+      de: Später
+    attach_card_dialog_title:
+      de: Dokumente hochgeladen
+    attach_card_dialog_message:
+      de: Ihre Dokumente wurden akzeptiert und werden überprüft. Wir werden Sie so schnell wie möglich über den Status der Registrierung informieren.\n\nMöchten Sie eine Bankkarte anhängen?
+    attach_card_dialog_positive_button_label:
+      de: Bankkarte hinzufügen
+    attach_card_dialog_negative_button_label:
+      de: Später
+    tutorial_dialog_title:
+      de: Tutorial anzeigen
+    tutorial_dialog_message:
+      de: Möchten Sie ein Tutorial zur Nutzung des Service sehen?
+    tutorial_dialog_negative_button_label:
+      de: Später
+    tutorial_dialog_positive_button_label:
+      de: Tutorial anzeigen
+    car_report_description_page_title:
+      de: Anmerkungen
+    car_report_gallery_page_title:
+      de: Foto
+    car_report_comment_page_title:
+      de: Kommentar
+    take_photo_of_damages:
+      de: Foto aufnehmen
+    processing_request:
+      de: Anfrage wird verarbeitet…
+    damage_photo:
+      de: Fotos von Schäden aufnehmen
+    car_damage_email_subject:
+      de: Foto des Autos %s %s vom %s
+    send_email:
+      de: E-Mail senden
+    navigator_chooser_title:
+      de: Route erstellen
+    internet_connection_lost_message:
+      de: Internetverbindung überprüfen
+    version_label:
+      de: Version %s powered by CarTrek
+    can_not_take_photo:
+      de: Foto konnte nicht aufgenommen werden\n
+    invite_friend_by_promo:
+      de: Laden Sie Ihre Freunde mit dem Promocode ein
+    intent_write_to:
+      de: An Support schreiben
+    apply:
+      de: Anwenden
+    settings:
+      de: EINSTELLUNGEN
+    remaining:
+      de: übrig
+    fuel_type_label:
+      de: Kraftstoffart
+    need_to_refill_liters_label:
+      de: Liter zum Tanken
+    card_number_label:
+      de: 'Kartennummer:'
+    pin_code_label_text:
+      de: PIN-Code der Tankkarte
+    instruction_refueling_label:
+      de: Wie tanken
+    refueling_successful_title:
+      de: Tanken erfolgreich abgeschlossen
+    refueling_instruction:
+      de: Bitte rufen Sie zuerst unseren Kundenservice an. Das Geld zum Tanken wird von der Tankkarte im Handschuhfach abgebucht und Sie erhalten Boni für die aufgewendete Zeit.
+    refueling_successful_message:
+      de: Vielen Dank für das Tanken des Autos. Als Ausgleich für die aufgewendete Zeit erhalten Sie Boni auf Ihr Konto.
+    refueling_not_needed_message:
+      de: Nicht erforderlich zu tanken\n
+    refueling_finished_button_label:
+      de: Beenden
+    close_the_car_refueling:
+      de: Auto schließen
+    open_the_car_refueling:
+      de: Auto öffnen
+    accept_refueling_result:
+      de: OK
+    no_active_rent:
+      de: Sie haben keine aktive Miete
+    something_went_wrong:
+      de: Etwas ist schiefgelaufen
+    car_opened_success:
+      de: Auto ist offen
+    refueling_rules_button_label:
+      de: Regeln anzeigen
+    bank_cards_screen_title:
+      de: Zahlung
+    no_bank_cards_message:
+      de: Sie haben keine Bankkarten angehängt
+    failed_to_load_cards:
+      de: Liste der Bankkarten konnte nicht abgerufen werden. Versuchen Sie es später erneut
+    make_card_default:
+      de: Karte %s als Hauptkarte auswählen?
+    confirm_removal:
+      de: Sind Sie sicher, dass Sie die Karte %s entfernen möchten?
+    remove:
+      de: Löschen
+    confirm_removing:
+      de: Karte entfernen
+    bank_card_verification:
+      de: Ihre Bankkarte wird überprüft…
+    bank_cards_negative_balance_message:
+      de: Sie haben eine Schuld
+    rate_dialog_title:
+      de: Bitte bewerten Sie uns
+    rate_button_label:
+      de: Bewerten
+    later_button_label:
+      de: Später
+    never_ask_button_label:
+      de: Nie wieder fragen
+    feedback_hint:
+      de: Beschreiben Sie, was Ihnen nicht gefallen hat und was Sie verbessern möchten\n
+    voucher_hint:
+      de: 'Geben Sie die 9-stellige Gutscheinnummer ein:'
+    activate_voucher_button_label:
+      de: Anwenden
+    voucher_activity_title:
+      de: Gutscheine
+    voucher_error_dialog_title:
+      de: Aktivierungsfehler
+    voucher_unexpected_error_message:
+      de: Beim Aktivieren des Gutscheins ist ein Fehler aufgetreten. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es später erneut
+    voucher_code_validation_error:
+      de: 9-stellige Gutscheinnummer eingeben
+    voucher_activated_dialog_title:
+      de: Gutschein aktiviert
+    voucher_activated_dialog_message:
+      de: Ihnen wurden %s Boni gutgeschrieben! Gute Reise.\n
+    validation_hours:
+      de: "'Std.'"
+    validation_min:
+      de: "'Min'"
+    check_documents_dialog_title:
+      de: Dokumente überprüfen
+    no_documents_email_subject:
+      de: Dokumente in %s
+    no_documents_email_text:
+      de: Dokumente fehlen:\n{schreiben Sie, was fehlt}
+    enter_car_number_hint:
+      de: '{Geben Sie das Kennzeichen des Autos ein}'
+    contact_us:
+      de: Kontaktieren Sie uns
+    title_activity_promo:
+      de: Kostenlose Fahrten
+    get_free_rides:
+      de: Promocode teilen
+    promo_instruction:
+      de: Promo-Anleitung
+    promo_invite_message:
+      de: Registrieren Sie sich in der App mit dem Promocode %1$s oder klicken Sie auf den Link %2$s und erhalten Sie %3$d Boni!
+    thanks_for_the_sharing_message:
+      de: Vielen Dank! Sie können weitere Freunde einladen!
+    title_activity_personal_data:
+      de: Profil
+    full_name_title:
+      de: Vollständiger Name
+    personal_data_surname_label:
+      de: Nachname
+    personal_data_name_label:
+      de: Name
+    personal_data_patronymic_label:
+      de: Zweiter Vorname
+    personal_data_email_label:
+      de: E-Mail
+    personal_data_phone_label:
+      de: Telefonnummer
+    discount_title:
+      de: Erhalten Sie einen Rabatt!
+    discount_subhead_text:
+      de: Laden Sie Ihre Freunde ein und erhalten Sie bis zu %d Boni auf Ihr Konto für deren erste Fahrt!
+    contact_details_title:
+      de: Kontaktdaten
+    discount_text:
+      de: '@string/promo_instruction'
+    your_promo_code_label:
+      de: 'Ihr Promocode:'
+    your_invitation_link_label:
+      de: 'Ihr Einladungslink:'
+    change_password_title:
+      de: Passwort ändern
+    change_password_text:
+      de: Bitte beachten Sie, dass das Passwort mindestens sechs Zeichen enthalten muss, von denen drei unterschiedlich sind
+    change_password_new_hint:
+      de: Neues Passwort
+    change_password_confirmation_hint:
+      de: Passwort bestätigen
+    change_password_button_label:
+      de: Passwort ändern
+    password_successfully_changed_message:
+      de: Passwort erfolgreich geändert
+    password_not_match_error_hint:
+      de: Passwörter stimmen nicht überein
+    password_too_short_error_hint:
+      de: Passwort ist zu kurz
+    password_too_simple_error_hint:
+      de: Passwort ist zu einfach
+    confirm_change_password_button_label:
+      de: Bestätigen
+    promo_code_copied_message:
+      de: Promocode in Zwischenablage kopiert
+    invitation_link_copied_message:
+      de: Einladungslink in Zwischenablage kopiert
+    pay_debt_success_message:
+      de: Schuld wurde bezahlt
+    pay_debt_fail_message:
+      de: Schuld konnte nicht bezahlt werden
+    validation_alert_dialog_title:
+      de: Vielen Dank für Ihre Registrierung
+    validation_alert_dialog_text:
+      de: Wir werden Ihre Anfrage innerhalb von %1$d %2$s nach der Registrierung prüfen
+    validation_alert_dialog_report_text:
+      de: Wenn Sie nach Ablauf der Zeit keine Antwort erhalten haben, lassen Sie es uns bitte wissen
+    before_approval:
+      de: Profil aktivieren
+    apply_to_support:
+      de: An Support schreiben
+    finish_rent_on_subscription_message:
+      de: Sie können die Miete während des gültigen Pakettarifs nicht beenden\n
+    make_car_photo:
+      de: Foto des Autos aufnehmen
+    bluetooth_connecting:
+      de: Verbinden…
+    bluetooth_open_close_car:
+      de: Auto öffnen/schließen
+    bluetooth_error_close_doors:
+      de: Türen schließen
+    bluetooth_error_off_engine:
+      de: Motor ausschalten
+    location_permission_title:
+      de: Berechtigung erforderlich
+    location_permission_message:
+      de: Um das Auto über Bluetooth zu steuern, benötigt die Anwendung Zugriff auf den aktuellen Standort
+    location_permission_error:
+      de: Zugriff auf Standort verweigert\n
+    bluetooth_permission_hint:
+      de: Öffnen Sie Berechtigungen und gewähren Sie die Standortberechtigung
+    bluetooth_connect:
+      de: Mit dem Auto verbinden
+    request_enable_location_title:
+      de: Geolokalisierung aktivieren
+    request_enable_location_message:
+      de: Um das Auto mit Bluetooth zu steuern, müssen Sie die Geolokalisierung aktivieren
+    sign_in_greeting:
+      de: Willkommen
+    sign_in_phone_hint:
+      de: Um zu beginnen, geben Sie Ihre Telefonnummer ein
+    sign_in_show_cars:
+      de: Autos anzeigen
+    sign_in_continue:
+      de: Weiter
+    sms_verification_title:
+      de: Autorisierungscode eingeben
+    sms_verification_subtitle:
+      de: per SMS an die Nummer erhalten
+    sms_code_recreate_hint:
+      de: Sie können die SMS innerhalb von %s erneut senden
+    sms_code_digit_placeholder:
+      de: •
+    sms_code_hint_placeholder:
+      de: ••••••
+    sms_code_waiting_hint:
+      de: SMS mit Bestätigungscode wird gesendet
+    sms_code_waiting_title:
+      de: SMS-Verifizierung
+    sign_in_dialog_error_title:
+      de: Autorisierungsfehler
+    sign_in_dialog_wrong_code_message:
+      de: Ungültiger SMS-Code
+    sign_in_dialog_attempt_exceeded:
+      de: Die Anzahl der Versuche zur Eingabe des SMS-Codes wurde überschritten
+    sign_in_dialog_code_expired:
+      de: SMS-Code abgelaufen
+    resend_code_button_label:
+      de: Autorisierungscode erneut anfordern
+    count_image_photo_rent:
+      de: Das Limit für diese Fotokategorie wurde erreicht
+    start_rent:
+      de: Miete starten
+    finish_book:
+      de: Reservierung stornieren
+    agreement:
+      de: Ich akzeptiere
+    promo_checkout:
+      de: Promo-Checkout
+    inspect_open_title:
+      de: Auto öffnen?
+    inspect_open_message:
+      de: Sie haben %1$s%2$d kostenlose Minuten%3$s, um das Auto zu inspizieren
+    inspect_open_text_button:
+      de: Öffnen
+    inspect_reject_title:
+      de: Fahrzeuginspektion
+    inspect_first_text:
+      de: Gibt es neue Schäden?
+    inspect_third_text:
+      de: Können Sie die Miete starten?
+    inspect_fail_reject:
+      de: Problem melden
+    inspect_ok_reject:
+      de: OK, weiter
+    inspect_lost_timer:
+      de: ' %1$s  kostenlose Minuten übrig'
+    inspect_lost_timer_1:
+      de: ' %1$s  kostenlose Minute übrig'
+    inspect_lost_timer_4:
+      de: ' %1$s  kostenlose Minuten übrig'
+    inspect_title_bar:
+      de: Kostenlose Fahrzeuginspektion
+    reject_bad:
+      de: Schlecht
+    reject_good:
+      de: Gut
+    registration_user:
+      de: Benutzerregistrierung
+    booking_car:
+      de: Auto reservieren
+    walk_routy:
+      de: Route erstellen
+    finish_rent_end:
+      de: Miete beenden
+    finish_rent_end_btn:
+      de: Beenden
+    privace_policy:
+      de: Datenschutzrichtlinie
+    video_fix:
+      de: Im Auto kann eine Videoüberwachung durchgeführt werden
+    nav_menu_cards:
+      de: Zahlung
+    nav_menu_rates:
+      de: Tarife
+    nav_menu_bonuses:
+      de: Kostenlose Fahrten
+    nav_menu_rules:
+      de: Regeln
+    nav_menu_contacts:
+      de: Kontakte
+    nav_menu_help:
+      de: FAQ
+    nav_menu_about:
+      de: Über
+    bonuses_kz:
+      de: Bonuskonto
+    title_login:
+      de: Durch Fortfahren stimmen Sie den Nutzungsbedingungen zu und willigen in die Verarbeitung Ihrer persönlichen Daten ein
+    login:
+      de: Anmeldung und Registrierung
+    enter_phone:
+      de: Geben Sie Ihre Telefonnummer ein
+    sign_in_send:
+      de: Code senden
+    title_trips:
+      de: Fahrten
+    title_promo:
+      de: Gutschein
+    active_status:
+      de: Aktiv
+    reject_car_defect:
+      de: Karosserie des Autos ist beschädigt
+    reject_car_flat:
+      de: Glas ist zerbrochen
+    reject_car_bus:
+      de: Reifen ist platt
+    reject_car_dirt:
+      de: Auto ist schmutzig
+    reject_car_comment:
+      de: Kommentar
+    terms_text:
+      de: Nutzungsbedingungen
+    cancel_book:
+      de: Reservierung stornieren
+    data_user:
+      de: Einverständnis zur Verarbeitung personenbezogener Daten
+    chat_title:
+      de: KUNDENCHAT
+    title_after:
+      de: Sind Sie Delimobil/Anytime-Kunde?\n
+    title_import:
+      de: Stimmen Sie der grenzüberschreitenden Übermittlung Ihrer personenbezogenen Daten zu?
+    passportNumber:
+      de: Personalausweisnummer
+    passportDate:
+      de: Ausstellungsdatum des Personalausweises
+    passportIssued:
+      de: Ausgestellt von
+    driversLicenceNumber:
+      de: Führerscheinnummer
+    driversLicenceDate:
+      de: Ausstellungsdatum des Führerscheins
+    driverSince:
+      de: Beginndatum der Fahrerfahrung\n
+    birthDate:
+      de: Geburtsdatum
+    title_dialog_select_disabled:
+      de: Service deaktivieren
+    title_dialog_select_enabled:
+      de: Service aktivieren
+    bank_cards_can_not:
+      de: Während der Miete können Sie keine Bankkarte entfernen\n
+    inspect_lost_time:
+      de: Kostenlose Minuten übrig\n
+    inspect_total:
+      de: Inspektion %1$s %2$s
+    title_select_region:
+      de: Wählen Sie Ihre Stadt
+    title_region:
+      de: 'Stadt:'
+    title_change_region:
+      de: Stadt ändern
+    title_your_city:
+      de: Sind Sie in
+    user_agreement:
+      de: Nutzungsvereinbarung
+    enebled_title:
+      de: Aktiviert
+    turned_off_title:
+      de: Ausgeschaltet
+    cannot_switch:
+      de: Tarif kann während Ihrer Miete nicht gewechselt werden
+    fuel_indicator_progress_hint:
+      de: Laden
+    within_hours:
+      de: Stunde
+    minutes:
+      de: Minuten
+    app_rating_email_subject:
+      de: 'Anwendungs-Feedback: %d Sterne\n'
+    show_count_cars_filtered:
+      de: '%1$d AUTOS ANZEIGEN'
+    car_filter_header:
+      de: Autofilter
+    licence_agreement_title:
+      de: Lizenzvereinbarung
+    is_default_card_message:
+      de: Hauptkarte
+    webview_update_dialog_message:
+      de: Ihr WebView-Anbieter ist derzeit veraltet. Wir empfehlen Ihnen, vor dem Fortfahren auf die neueste Version zu aktualisieren.
+    webview_update_go_to_play_store:
+      de: Zum Play Store bringen
+    webview_will_update_manually:
+      de: Ich werde mein WebView aktualisieren<
+    signup_validation_error:
+      de: Bitte füllen Sie das Formular aus
+    i_agree_with_terms_of_use:
+      de: Ich stimme den Nutzungsbedingungen der App zu
+    i_give_consent_to_process_personal_data:
+      de: Ich willige in die Verarbeitung meiner persönlichen Daten ein
+    ride_is_complete:
+      de: Miete beendet
+    chat_with_support:
+      de: Mit Support chatten
+    checkout_existing_damages:
+      de: Bestehende Schäden auschecken
+    do_you_want_to_tell_us_more:
+      de: Möchten Sie uns mehr erzählen?
+    rate_selection:
+      de: Tarifauswahl
+    car_filled_smoke:
+      de: Das Auto ist voller Rauch
+    car_dirty:
+      de: Das Auto ist schmutzig
+    no_documents:
+      de: Keine Dokumente
+    unable_to_drive:
+      de: Auto kann nicht fahren
+    a_comment:
+      de: Ein Kommentar
+    notify_damages:
+      de: Benachrichtigen Sie uns über neue Schäden
+    contact_operator:
+      de: Kundenservice kontaktieren
+    support_dialog:
+      de: Support
+    support_dialog_text:
+      de: Support anrufen?
+    cancel_reservation:
+      de: Möchten Sie die Reservierung stornieren?
+    dialog_ok:
+      de: OK
+    everything_is_ok:
+      de: Alles OK, weiter
+    defectsEmail:
+      de: '@string/supportEmail'
+    telegramBotContact:
+      de: BotNotAvailable_bot
+    total_trip:
+      de: Gesamte Fahrt
+    share:
+      de: Teilen
+    tech_menu:
+      de: Tech-Menü
+    log_out:
+      de: Abmelden
+    customServer:
+      de: Benutzerdefinierter Server
+    faultWindow:
+      de: '* Fehlerfenster (Fotos werden nicht gesendet) \ n * Extras. Markierungen (Parken, Tanken, etc.)'
+    testCarTrek:
+      de: Test Anytime
+    enableTechMode:
+      de: Tech-Modus aktivieren
+    enableBetaFunctions:
+      de: Beta-Funktionen aktivieren
+    add_a_card:
+      de: Karte hinzufügen
+    enter_card_details:
+      de: Kartendetails eingeben
+    scan_card:
+      de: Karte scannen
+    card_number:
+      de: Nummer
+    expiration_date:
+      de: 'Ablaufdatum im Format: MM/JJ'
+    card_name:
+      de: Name des Karteninhabers
+    cvv_code:
+      de: CVV-Code
+    please_enter_16_digits:
+      de: Bitte geben Sie eine gültige Kartennummer ein
+    please_enter_date:
+      de: Bitte geben Sie das Datum als MM/JJ ein
+    please_enter_3_or_4_digits:
+      de: Bitte geben Sie 3 oder 4 Ziffern ein
+    please_enter_a_name:
+      de: Bitte geben Sie einen Namen ein
+    send_system_log:
+      de: System-Log senden
+    telegram_chat:
+      de: Telegram-Chat
+    getDirections:
+      de: Wegbeschreibung erhalten
+    fuelLeft:
+      de: Kraftstoff übrig
+    ok:
+      de: OK
+    unknown_error:
+      de: Ein unbekannter Fehler ist aufgetreten
+    news_title:
+      de: NEUIGKEITEN
+    copy_marketing_info:
+      de: Marketing-Info kopieren
+    card_already_added:
+      de: Diese Karte wurde bereits Ihrem Konto hinzugefügt
+    private_trip:
+      de: Private Fahrt
+    park_car_photo_dialog:
+      de: Ziehen Sie die Handbremse an\n\nSchalten Sie das Automatikgetriebe in den P-Modus\n\nSchalten Sie die Lichter aus\n\nSchließen Sie die Fenster und Türen\n\nMachen Sie ein Foto vom Auto
+    parkButton:
+      de: Parken
+    finishRide:
+      de: Sind Sie sicher, dass Sie Ihre Fahrt beenden möchten?
+    tutorial_skip:
+      de: Überspringen
+    tutorial_next:
+      de: Weiter
+    tutorial_0_text:
+      de: Registrieren
+    tutorial_0_description:
+      de: Registrieren Sie sich und fügen Sie eine Zahlungskarte hinzu. Nach der Überprüfung wird Ihr Konto aktiviert
+    tutorial_1_text:
+      de: Auto reservieren
+    tutorial_1_description:
+      de: Finden Sie das nächste Auto auf der Karte und reservieren Sie es. Sie haben 20 kostenlose Minuten, um es zu erreichen und zu überprüfen
+    tutorial_2_text:
+      de: Fahrten unternehmen
+    tutorial_2_description:
+      de: Reservieren Sie das Auto mit Minuten- oder Tagestarif zu einem günstigen Preis. Kontrollieren Sie Ihre Fahrten innerhalb der erlaubten Zone
+    tutorial_3_text:
+      de: Fahrt beenden
+    tutorial_3_description:
+      de: Verlassen Sie das Auto und beenden Sie die Miete innerhalb der Parkzone. Die Anwendung wird die Türen automatisch verriegeln. Die Mietkosten werden von Ihrer Zahlungskarte abgebucht. Sie können die Details im Abschnitt \"Fahrten\" einsehen.
+    tutorial_4_text:
+      de: Bonus erhalten
+    tutorial_4_description:
+      de: Teilen Sie Ihren einzigartigen Promocode mit Ihren Freunden, sie erhalten 880 Bonuspunkte nach der Registrierung! Nachdem sie ihre ersten Fahrten über 20 Minuten unternehmen, erhalten Sie 880 Bonuspunkte für die Automiete.
+    select_all:
+      de: Alle auswählen
+    remove_all:
+      de: Alle entfernen
+    contract:
+      de: Vertrag
+    minutes_included_new:
+      de: Minuten inklusive
+    waiting_new:
+      de: Warten
+    mileageLower:
+      de: Kilometerstand
+    overmileage:
+      de: Mehrkilometer
+    pleaseUploadYourDocuments:
+      de: Tippen, um Ihre Dokumente hochzuladen
+    addPhotos:
+      de: Bitte fügen Sie mindestens %d Fotos hinzu
+    hours:
+      de: Stunden
+    hour:
+      de: Stunde
+    minute:
+      de: Minute
+    finishRentDialog:
+      de: ja
+    promoCodeShare:
+      de: FÜR FREUNDE TEILEN
+    promoCodeRemind:
+      de: SPÄTER ERINNERN
+    back:
+      de: ZURÜCK
+    goToProfile:
+      de: Zum Profil
+    day_word_clipped:
+      de: T
+    hour_word_clipped:
+      de: Std
+    minute_word_clipped:
+      de: M
+    refresh_captcha:
+      de: Captcha aktualisieren
+    radarTitle:
+      de: Das Radar
+    radarTitleChoose:
+      de: Wählen Sie den Radarstandort
+    currentLocation:
+      de: Aktueller Standort
+    change:
+      de: ÄNDERN
+    startSearching:
+      de: Suche starten
+    timeToSearch:
+      de: Zeit zum Suchen
+    bookAutomatically:
+      de: automatisch reservieren
+    distance:
+      de: Entfernung
+    confirm:
+      de: BESTÄTIGEN
+    radarTitleSettings:
+      de: Radar-Einstellungen
+    backCapitalized:
+      de: Zurück
+    searching:
+      de: Suchen
+    timeLeft:
+      de: verbleibende Zeit
+    cartrek:
+      de: CarTrek
+    payDebtToolbar:
+      de: 'Sie haben eine Schuld: %s. Zum Bezahlen tippen'
+    payDebtDialog:
+      de: Sind Sie sicher, dass Sie die Schuld bezahlen möchten?
+    unlock_price:
+      de: Entsperren
+    rate_packs:
+      de: Tarifpakete
+    familiarize_with_agreement:
+      de: es gibt <b>%d Min</b> kostenlose Reservierung, \n \n aber zuerst müssen Sie sich mit dem Vertrag vertraut machen
+    open_car_and_sign_act:
+      de: Auto öffnen und Protokoll unterschreiben
+    open_and_sign_act:
+      de: Öffnen und Protokoll unterschreiben
+    first_minutes_free:
+      de: Erste %d Minuten kostenlos
+    yandex_maps:
+      de: Yandex.Maps
+    google_maps:
+      de: Google Maps
+    unknown_adress:
+      de: Unbekannte Adresse
+    reserving:
+      de: Reservierung...
+    excess_miliage:
+      de: Überschüssige Kilometer
+    mileage_free:
+      de: 'Kilometer: %d km kostenlos'
+    vehicle_rental_agreement:
+      de: Fahrzeugmietvertrag
+    got_acquainted_reserve:
+      de: OK, reservieren
+    free_reservation:
+      de: Kostenlose Reservierung
+    warm_up:
+      de: Aufwärmen
+    blink_small:
+      de: blinken
+    car_acceptance_act:
+      de: Fahrzeugübernahmeprotokoll
+    paid_reservation:
+      de: Kostenpflichtige Reservierung
+    engine_started_successful:
+      de: Motor erfolgreich gestartet
+    failed_start_engine:
+      de: Motor konnte nicht gestartet werden
+    total_time:
+      de: Gesamtzeit
+    refuel_car:
+      de: Auto tanken
+    switch_to_standby_mode:
+      de: In den Standby-Modus wechseln
+    change_rate:
+      de: Tarif ändern
+    there_is_a_problem:
+      de: Es gibt ein Problem
+    personal:
+      de: PERSÖNLICH
+    corporate:
+      de: FIRMEN
+    start_rent_in_reject_dialog:
+      de: MIETE STARTEN
+    parked:
+      de: GEPARKT
+    loading:
+      de: …
+    rate_pack_buy_confirmation:
+      de: Nach dem Beginn der Miete wird Ihrem Konto der volle Preis des Pakets belastet. Sie können unsere Autos während der gesamten Paketlaufzeit nutzen. Sollen wir fortfahren?
+    finishRentTime:
+      de: Sie haben noch %s Mietzeit, möchten Sie sie wirklich beenden?
+    drive_lic_front:
+      de: Vorderseite des Führerscheins
+    drive_lic_back:
+      de: Rückseite des Führerscheins
+    registration_itentity_front:
+      de: Vorderseite des Personalausweises
+    registration_identity_back:
+      de: Rückseite des Personalausweises
+    registration_license_front:
+      de: Vorderseite des Führerscheins
+    registration_license_back:
+      de: Rückseite des Führerscheins
+    registration_selfie:
+      de: Selfie mit dem Personalausweis
+    registration_title:
+      de: REGISTRIERUNG
+    registration_camera_retake:
+      de: Erneut aufnehmen
+    pleaseTakePhoto:
+      de: Bitte Foto aufnehmen
+    youCanTakeMorePhotos:
+      de: Sie können weitere Fotos aufnehmen
+    pleaseAddAtLeastNPhotos:
+      de: Bitte fügen Sie mindestens %d Fotos hinzu
+    enter_pin:
+      de: PIN eingeben zum Entsperren
+    locker_pin:
+      de: 'Schloss-PIN:'
+    bonusesUpper:
+      de: BONI
+    sendTo:
+      de: 'Senden an:'
+    scanTheCode:
+      de: Code scannen
+    toEnterManually:
+      de: Manuell eingeben
+    enter_the_number_under_qr_code:
+      de: Geben Sie die Nummer unter dem QR-Code ein
+    fuelLevelFormat:
+      de: Kraftstoff %d%%
+    batteryLevelFormat:
+      de: Batterie %d%%
+    reserveTitle:
+      de: Reservieren
+    freeMinutesToReachCar:
+      de: '%d kostenlose Minuten, um zum Auto zu gelangen'
+    lockTitle:
+      de: Sperren
+    andSetParkingMode:
+      de: und Parkmodus einstellen
+    scanQrCodeTitle:
+      de: QR-Code scannen
+    scootersRentWillStartedTitle:
+      de: und die Miete des Rollers wird gestartet
+    unlockTitle:
+      de: Entsperren
+    freeMinutesToInspectTitle:
+      de: '%d kostenlose Minuten zur Inspektion des Autos'
+    leaveScooterTitle:
+      de: Lassen Sie den Roller an der Station
+    get_directions:
+      de: Wegbeschreibung erhalten
+    and_start_the_rent_mode_subtitle:
+      de: und Mietmodus starten
+    no_free_time_subtitle:
+      de: keine kostenlose Zeit
+    current_rate_title:
+      de: aktueller Tarif
+    overmileage_formatting:
+      de: Mehrkilometer %dkm %d%s
+    refuel_title:
+      de: Tanken
+    blink_title:
+      de: Blinken
+    cancel_book_button_title:
+      de: Reservierung stornieren
+    left_title:
+      de: übrig
+    rate_pack_title:
+      de: Tarifpaket
+    tell_about_the_problem_title:
+      de: Über das Problem berichten
+    park_title:
+      de: Parken
+    expire_date_title:
+      de: Ablaufdatum
+    earn_credits:
+      de: Guthaben verdienen
+    telegram_title:
+      de: Telegram
+    viber_title:
+      de: Viber
+    whats_app_title:
+      de: WhatsApp
+    delete_card_title:
+      de: Löschen
+    faq:
+      de: FAQ
+    selfieMessage:
+      de: Bevor Sie das Auto öffnen, sollten Sie ein Selfie machen.
+    takeSelfie:
+      de: Selfie aufnehmen
+    viber_chat:
+      de: Viber-Chat
+    pincode:
+      de: PIN-Code
+    activation:
+      de: Aktivierung
+    confirmAutoBooking:
+      de: Möchten Sie die automatische Reservierung wirklich einschalten?
+    show_rates:
+      de: Preise anzeigen
+    payments_show_name:
+      de: Zahlungsdaten für %s erfolgreich erhalten!
+    disable_insurance_message:
+      de: Möchten Sie die Versicherung deaktivieren?
+    enable_insurance_message:
+      de: Möchten Sie die Versicherung aktivieren?
+    mileage_included:
+      de: Kilometer inklusive
+    rent_rate_item:
+      de: Miete
+    unlockButtonText:
+      de: Schloss entsperren
+    buy_tariff_message:
+      de: Sind Sie sicher, dass Sie ein Abonnement kaufen möchten?
+    nav_menu_label_how_to:
+      de: Anleitung
+    nav_menu_label_instagram:
+      de: Instagram
+    rides:
+      de: Fahrten
+    kms:
+      de: Kilometer
+    menu_bonuses:
+      de: Boni
+    setup:
+      de: Einrichtung
+    successPayment:
+      de: Zahlung erfolgreich abgeschlossen!
+    first_name:
+      de: Vorname
+    second_name:
+      de: Nachname
+    birthday:
+      de: Geburtstag
+    profile:
+      de: Profil
+    travel_history:
+      de: Reiseverlauf
+    you_have_already_driven:
+      de: Sie sind bereits gefahren
+    cancel_booking_message:
+      de: Sind Sie sicher, dass Sie Ihre Reservierung stornieren möchten?
+    do_not_cancel:
+      de: Nicht stornieren
+    pay_one_ruble:
+      de: 1 Rubel zahlen
+    start:
+      de: Start
+    nav_menu_label_purchase_bonuses:
+      de: Boni kaufen
+    whatsapp_chat_with_support_title:
+      de: WhatsApp-Chat
+    cancel_book_or_finish_rent:
+      de: Abbrechen
+    technician_organizations_button:
+      de: Organisationen anzeigen
+    user_metrics_rides_count:
+      de: Anzahl der Fahrten
+    user_metrics_total_run:
+      de: Gesamtstrecke
+    user_metrics_total_time:
+      de: Gesamtzeit

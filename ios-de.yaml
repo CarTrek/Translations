@@ -1,0 +1,1296 @@
+Sections:
+  iOS:
+    menu.goToProfile:
+      de: "zum Profil"
+    rate.readMore:
+      de: 'Mehr lesen...'
+    map.speedRestrictionNormalDescription:
+      de: 'Diese Zone hat ein Limit von 15 km/h. Der Roller wechselt die Geschwindigkeit automatisch.'
+    map.speedRestrictionEcoDescription:
+      de: 'Diese Zone hat ein Limit von 10 km/h. Der Roller wechselt die Geschwindigkeit automatisch.'
+    map.speedRestrictionNormal:
+      de: '15 km/h'
+    map.speedRestrictionEco:
+      de: '10 km/h'
+    signin.completeChatFlagOptValue:
+      de: 'Der Chat ist beendet!'
+    authorization.error:
+      de: 'Zugriff verweigert (403)'
+    alert.lowfuel:
+      de: Sie haben einen niedrigen Kraftstoffstand, bitte tanken Sie das Fahrzeug
+    car.window.scaledesc:
+      de: Kraftstoffstand
+    car.window.overrun:
+      de: Mehrkilometer
+    car.window.park_:
+      de: Parken
+    freerides.describe:
+      de: Erhalten Sie %@ Boni für die Registrierung eines Freundes in unserem Dienst über Ihren Promocode. Ein Freund erhält %@ Boni sofort nach der Registrierung! Die Anzahl der eingeladenen Freunde ist unbegrenzt!
+    slide.refueling:
+      de: Tanken
+    refuel.howToFuel:
+      de: Wie tankt man
+    refuel.rulesText:
+      de: Nehmen Sie eine Karte aus dem Handschuhfach und zeigen Sie sie dem Tankstellenmitarbeiter, um das Fahrzeug zu betanken. Das Geld wird von der Tankkarte abgebucht und Sie erhalten Boni für die aufgewendete Zeit.
+    refuel.finishFuel:
+      de: Tanken beenden
+    refuel.title:
+      de: Tanken
+    car.window.refuel:
+      de: Tanken
+    menu.help2Description:
+      de: Tankregeln
+    checkoutView.overrunText:
+      de: Mehrkilometer
+    rateMinuteView.overrunText:
+      de: ', Mehrkilometer'
+    ratePackView.overrunText:
+      de: ', Mehrkilometer'
+    rate.overrun:
+      de: Mehrkilometer
+    checkout.promo:
+      de: 'Teilen Sie den Promocode mit Ihrem Freund und erhalten Sie %@ Boni für seine erste Fahrt:'
+    status.minutes:
+      de: 'Verbleibende kostenlose Buchungsminuten:'
+    reg.attachbankcard:
+      de: Fügen Sie eine Bankkarte hinzu, um zu beginnen. Wir belasten die Bankkarte mit zwei Mindestbeträgen, die Ihnen über Boni zurückerstattet werden
+    reg.bankcard:
+      de: Bankkarte
+    freerides.body:
+      de: Hallo!\nRegistrieren Sie sich in der App mit dem Promocode %@ oder durch Klicken auf den Link %@ und erhalten Sie %@ Boni!
+    welcome.continue:
+      de: WEITER
+    welcome.enterphone:
+      de: Geben Sie zum Beginn Ihre Telefonnummer ein
+    menu.freerides:
+      de: Kostenlose Fahrten
+    menu.contacts:
+      de: Kontakte
+    menu.bonuses:
+      de: Boni
+    activity.connecting:
+      de: Verbindung zum Dienst wird hergestellt...
+    activity.loading:
+      de: ' '
+    personalInfo.title:
+      de: Persönliche Daten
+    profile.bonuses:
+      de: Boni
+    profile.certificate:
+      de: Gutschein
+    voucher.title:
+      de: Gutschein
+    voucher.incorrect:
+      de: Geben Sie den korrekten Zertifikatscode ein
+    voucher.afteractivate:
+      de: Sie haben %@ Boni erhalten
+    voucher.enter:
+      de: Geben Sie den 9-stelligen Zertifikatscode ein
+    voucher.activate:
+      de: Aktivieren
+    freerides.button:
+      de: Kostenlose Fahrten erhalten
+    closecar.text:
+      de: Ziehen Sie die Handbremse an\nSchalten Sie das Automatikgetriebe in den P-Modus\nSchalten Sie die Lichter aus\nSchließen Sie Fenster und Türen\nMachen Sie ein Foto vom Fahrzeug
+    tutorial.btnSkip.title:
+      de: Überspringen
+    tutorial.btnNext.title:
+      de: Weiter
+    main.doneNormalTitle:
+      de: Zurück
+    NSLocationWhenInUseUsageDescription:
+      de: Wird benötigt, um Ihre Position auf der Karte anzuzeigen und die Route zum Fahrzeug zu berechnen
+    NSBluetoothPeripheralUsageDescription:
+      de: Erforderlich, um ein Fahrzeug ohne Internetverbindung zu öffnen
+    NSCameraUsageDescription:
+      de: Die Kamera wird benötigt, um Fotos Ihrer Dokumente während der Registrierung aufzunehmen oder Schäden zu melden
+    NSPhotoLibraryAddUsageDescription:
+      de: Wird benötigt, um Fahrzeugfotos nach Beendigung der Miete zu speichern
+    NSPhotoLibraryUsageDescription:
+      de: Erforderlich für das Hochladen von Dokumentenfotos
+    NSFaceIDUsageDescription:
+      de: Für zusätzlichen Schutz der Anwendung vor unbefugtem Zugriff
+    NSUserTrackingUsageDescription:
+      de: Wir verwenden diese Informationen zum Sammeln statistischer Daten, um unsere Anwendung zu verbessern
+    common.yes:
+      de: Ja
+    common.no:
+      de: Nein
+    common.ok:
+      de: OK
+    common.cancel:
+      de: Abbrechen
+    common.version:
+      de: Version
+    common.error:
+      de: Fehler
+    common.km:
+      de: km
+    common.next:
+      de: Weiter
+    connection.error:
+      de: Keine Verbindung zum Server\n
+    common.camerapermission:
+      de: Der Zugriff auf die Kamera ist deaktiviert. Sie muss in den Anwendungseinstellungen aktiviert werden.
+    common.appsettings:
+      de: Zu den Einstellungen
+    urentcar.ratesdesc:
+      de: Der Tarifplan beinhaltet eine Vollkasko- und Teilkaskoversicherung (CNC) mit 12999 Selbstbeteiligung
+    act.disabled:
+      de: Sie können keinen Tarif auswählen, bis das Abnahmeprotokoll unterzeichnet ist!\n
+    act.link:
+      de: Durch den Beginn einer Miete unterzeichnen Sie das Abnahmeprotokoll\n
+    rate.notSelected:
+      de: Tarifauswahl ist erforderlich
+    activity.phrases.promo:
+      de: Teilen Sie den Einladungscode mit Ihren Freunden und erhalten Sie Boni
+    alert.alert:
+      de: Achtung!
+    alert.debt:
+      de: Sie haben Schulden. Bitte begleichen Sie diese vor der Buchung
+    rateapp.confirm:
+      de: Was sollen wir an der App verbessern?
+    rateapp.subject:
+      de: Anwendungsbewertung
+    rateapp.describe:
+      de: Sagen Sie uns, wie wir die App verbessern können
+    map.nointernet:
+      de: Überprüfen Sie Ihre Internetverbindung
+    techmenu.add:
+      de: Server hinzufügen
+    techmenu.url:
+      de: Server-URL beginnend mit https:// eingeben
+    techmenu.default:
+      de: Standard-Server
+    slide.support:
+      de: Support
+    slide.calltosupport:
+      de: Möchten Sie den Kundendienst kontaktieren?
+    slide.exit:
+      de: Beenden
+    slide.exitconform:
+      de: Möchten Sie beenden?
+    slide.techmenu:
+      de: Technisches Menü
+    slide.letter:
+      de: An Support schreiben
+    slide.act:
+      de: Abnahmeprotokoll
+    slide.rules:
+      de: Allgemeine Geschäftsbedingungen
+    slide.parkingrules:
+      de: Parken
+    slide.offer:
+      de: Angebot
+    slide.penalties:
+      de: Strafen
+    slide.rates:
+      de: Tarife
+    filter.window.apply:
+      de: "%@ Fahrzeuge anzeigen"
+    filter.window.selectall:
+      de: Alle auswählen
+    filter.window.deselectall:
+      de: Alle entfernen
+    login.phone:
+      de: Telefon
+    login.serviceUnavailable:
+      de: Entschuldigung, der Dienst ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.
+    login.userBlocked:
+      de: Entschuldigung, Ihr Konto ist gesperrt.
+    login.loginthrough:
+      de: Anmelden mit
+    map.submenu.yandexnavi:
+      de: Yandex Navigator
+    map.submenu.yandexmaps:
+      de: Yandex Karten
+    map.submenu.googlemaps:
+      de: Google Maps
+    auth.validation.error:
+      de: Fehler
+    auth.validation.email:
+      de: E-Mail eingeben!
+    auth.validation.phone:
+      de: Telefon mit Ländervorwahl eingeben!
+    auth.enterpassword:
+      de: Passwort eingeben!
+    auth.calltosupport:
+      de: Support %@
+    welcome.support:
+      de: Support
+    welcome.viewcars:
+      de: Fahrzeuge anzeigen
+    welcome.placeholder:
+      de: Telefonnummer
+    welcome.captchadesc:
+      de: Geben Sie die Symbole vom Bild ein
+    welcome.captchaps:
+      de: Symbole eingeben
+    welcome.bioreason:
+      de: Zusätzliche Autorisierung erforderlich
+    login.support:
+      de: Support
+    login.weSent:
+      de: Wir haben eine SMS mit Code an die Telefonnummer %@ gesendet
+    login.enterPincode:
+      de: Autorisierungscode eingeben
+    login.resendSmsTimer:
+      de: Sie können die SMS innerhalb von %@ Sek. erneut senden
+    login.resendSms:
+      de: Autorisierungscode erneut senden
+    login.continue:
+      de: WEITER
+    login.maxattemps:
+      de: Maximale SMS-Versuche erreicht
+    login.smssent:
+      de: SMS mit neuem Autorisierungscode wurde gesendet
+    time.mins:
+      de: Min.
+    time.day:
+      de: T.
+    time.hour:
+      de: Std.
+    activity.auth:
+      de: Autorisierung...
+    activity.booking:
+      de: Fahrzeug wird gebucht...
+    activity.parking:
+      de: Türen werden geschlossen...
+    activity.startRent:
+      de: Miete wird gestartet...
+    activity.finishRent:
+      de: Miete wird beendet...
+    activity.cancelBooking:
+      de: Reservierung wird storniert...
+    activity.blink:
+      de: Blinkt...
+    activity.updating:
+      de: Wird aktualisiert...
+    activity.connectingGetman:
+      de: 'Wird geladen: nur wenige Sekunden und bereit zum Fahren'
+    bluetooh.accon:
+      de: Schalten Sie die Zündung aus, um das Fahrzeug zu schließen
+    bluetooh.notclosed:
+      de: Schließen Sie die Fahrzeugtüren
+    bluetooth.close:
+      de: Fahrzeug schließen
+    bluetooth.open:
+      de: Fahrzeug öffnen
+    bluetooth.connected:
+      de: Verbindung wird hergestellt...
+    bluetooth.disabled:
+      de: Bluetooth einschalten
+    bluetooth.searching:
+      de: Suche...
+    bluetooth.nodata:
+      de: Keine Bluetooth-Daten
+    bluetooth.unknown:
+      de: '...'
+    bluetooth.processing:
+      de: Wird verarbeitet...
+    status.cars:
+      de: ' Fahrzeuge sind verfügbar'
+    status.avail:
+      de: Fahrzeug buchen
+    status.notvalidated:
+      de: Ihr Konto wartet auf Genehmigung
+    status.parked:
+      de: Parken, Betrag
+    status.rented:
+      de: Miete, Betrag
+    status.bookedwithprice:
+      de: Gebucht, Betrag
+    status.booked:
+      de: Gebucht
+    status.paidMinutes:
+      de: Kostenpflichtige Buchung
+    status.register:
+      de: Registrieren
+    status.subscribtion.until:
+      de: Paket bis
+    'status.blocked ':
+      de: Das Konto ist gesperrt
+    status.nocard:
+      de: Bankkarte ist nicht verknüpft
+    status.guest:
+      de: Gast
+    status.active:
+      de: Aktiv
+    status.inspect:
+      de: Fahrzeuginspektion\n
+    verification.thanks:
+      de: Vielen Dank für die Registrierung
+    verification.remainingTime:
+      de: Wir werden Ihren Antrag innerhalb von %d Stunden nach der Registrierung prüfen
+    verification.note:
+      de: Wenn Sie innerhalb dieser Zeit keine Antwort erhalten haben, kontaktieren Sie uns bitte
+    verification.timerNote:
+      de: Verifizierung innerhalb
+    verification.time:
+      de: '%d Std. %02i Min.'
+    verification.call:
+      de: Anrufen
+    verification.service:
+      de: Kundendienst kontaktieren
+    verification.failure:
+      de: Wir konnten Ihre Anfrage nicht bearbeiten. Bitte kontaktieren Sie den Kundendienst
+    refuel.pin:
+      de: PIN-Code der Tankkarte
+    refuel.cardNumber:
+      de: 'Karte: '
+    refuel.fuelType:
+      de: Kraftstofftyp
+    refuel.litersToFuel:
+      de: Liter zum Tanken
+    refuel.closeCar:
+      de: Fahrzeug schließen
+    refuel.openCar:
+      de: Fahrzeug öffnen
+    refuel.fullRules:
+      de: Regeln anzeigen
+    car.window.km:
+      de: km
+    car.window.m:
+      de: m
+    car.window.walking:
+      de: zu Fuß
+    car.window.finishrent:
+      de: Miete beenden
+    car.window.cancelbook:
+      de: Reservierung stornieren
+    car.window.park:
+      de: Parken
+    car.window.subscription:
+      de: Paket
+    car.window.days:
+      de: T.
+    car.window.hours:
+      de: Std.
+    car.window.minutes:
+      de: Min.
+    car.window.seconds:
+      de: Sek.
+    car.window.currentrate:
+      de: aktueller Tarif
+    car.window.automatic:
+      de: AT
+    car.window.manual:
+      de: MT
+    car.window.nodata:
+      de: K/A
+    car.window.trace:
+      de: Route erstellen
+    car.window.blink:
+      de: Blinken
+    car.window.cantfinishthenpack:
+      de: Sie können die Miete während des gültigen Pakettarifs nicht beenden\n
+    car.window.bookUrent:
+      de: Kostenlose Buchung ist 3 Mal am Tag verfügbar. Möchten Sie jetzt buchen?\n
+    car.window.bookconfirm:
+      de: Möchten Sie das Fahrzeug buchen?
+    car.window.privateTrip:
+      de: Private Fahrt
+    car.window.book:
+      de: Buchen
+    car.window.openconfirm:
+      de: Möchten Sie die Miete starten?
+    car.window.open:
+      de: Öffnen
+    car.window.closeconfirm:
+      de: Möchten Sie in den Parkmodus wechseln?
+    car.window.close:
+      de: Schließen
+    car.window.finishconfirm:
+      de: Möchten Sie die Miete beenden?
+    car.window.finish:
+      de: Beenden
+    car.window.cancelbookconfirm:
+      de: Möchten Sie die Reservierung stornieren?
+    car.window.lefttime:
+      de: verbleibende Zeit
+    car.window.cannotfinish:
+      de: Sie können die Miete nach Ablauf des Abonnements beenden
+    car.closecar.holdbutton:
+      de: Halten zum Beenden
+    car.closecar.plswait:
+      de: Bitte warten
+    car.closecar.weareprocces:
+      de: Wir verarbeiten
+    car.closecar.nPhotosRequired:
+      de: Mindestens %d Fotos erforderlich
+    closecar.nophoto.text:
+      de: Ziehen Sie die Handbremse an\nSchalten Sie das Automatikgetriebe in den P-Modus\nSchalten Sie die Lichter aus\nSchließen Sie Fenster und Türen
+    carreject.title:
+      de: Machen Sie Fotos von Schäden und anderen Mängeln, klicken Sie auf Senden
+    carreject.urentcar.title:
+      de: Wenn es Schäden durch Unfälle gibt, die nicht mit einem Aufkleber markiert sind - kontaktieren Sie den Kundendienst. Sie können das Fahrzeug ohne Genehmigung nicht nutzen
+    carreject.subject:
+      de: 'Mängel '
+    carreject.body:
+      de: '{Mängel beschreiben, optional}'
+    carreject.send:
+      de: Senden
+    bankcards.addcard:
+      de: Karte hinzufügen
+    bankcards.title:
+      de: Bankkarten
+    bankcards.change:
+      de: Ändern
+    bankcards.deletequestion:
+      de: Möchten Sie die Karte %@ wirklich löschen?\n
+    bankcards.setdefaultquestion:
+      de: Karte %@ als Hauptkarte auswählen?
+    bankcards.debtView:
+      de: SIE HABEN SCHULDEN
+    bankcards.debtViewPay:
+      de: Schulden begleichen
+    bankcards.thankViewTitle:
+      de: Abgeschlossen
+    bankcards.thankView:
+      de: Danke
+    personalInfo.changePasswordTitle:
+      de: PASSWORT ÄNDERN
+    ChangePassword.title:
+      de: Passwort festlegen
+    ChangePassword.doNotMatch:
+      de: Passwörter stimmen nicht überein. Versuchen Sie es erneut
+    ChangePassword.success:
+      de: Passwort wurde geändert
+    ChangePassword.failure:
+      de: Fehlgeschlagen
+    ChangePassword.submit:
+      de: SENDEN
+    ChangePassword.texholder:
+      de: Neues Passwort
+    ChangePassword.textholderrepeat:
+      de: Neues Passwort wiederholen
+    reg.submit:
+      de: Daten werden gesendet
+    reg.submitted:
+      de: Daten bereits gesendet
+    reg.resubmit:
+      de: Möchten Sie die Daten erneut ausfüllen?
+    reg.error:
+      de: Fehler
+    reg.error.unfilled:
+      de: nicht ausgefüllt
+    reg.error.format:
+      de: falsches Format
+    reg.error.symbols:
+      de: falsche Symbole
+    reg.error.notmatch:
+      de: stimmen nicht überein
+    reg.error.tosmall:
+      de: zu klein
+    reg.error.tosimple:
+      de: zu einfach
+    reg.error.useletters:
+      de: Symbole verwenden
+    reg.error.usenumbers:
+      de: Zahlen verwenden
+    reg.error.encoding:
+      de: Datenfehler
+    reg.attach:
+      de: Karte hinzufügen
+    reg.skip:
+      de: Später
+    reg.picker.photolibrary:
+      de: Fotogalerie
+    reg.picker.takephoto:
+      de: Kamera
+    freerides.title:
+      de: Kostenlose Fahrten
+    freerides.subject:
+      de: Haben Sie schon vom %@ Carsharing gehört?
+    freerides.describe2:
+      de: Erhalten Sie %@%% (aber nicht mehr als %@) von der ersten Fahrt des Freundes. Ein Freund erhält %@ Boni sofort nach der Registrierung. Die Anzahl der eingeladenen Freunde ist unbegrenzt
+    freerides.thankyou:
+      de: Danke! Sie können noch mehr Freunde einladen!
+    menu.needlogin:
+      de: Sie müssen sich anmelden oder registrieren, um ein Fahrzeug zu buchen
+    menu.register:
+      de: Registrieren
+    menu.login:
+      de: Anmelden
+    menu.exit:
+      de: Beenden
+    menu.personal:
+      de: Persönliche Daten
+    menu.orders:
+      de: Bestellungen
+    menu.payments:
+      de: Zahlungen
+    menu.paymentsandtrips:
+      de: Zahlungen und Fahrten
+    menu.cards:
+      de: Zahlung
+    menu.rules:
+      de: Regeln
+    menu.offer:
+      de: Angebot
+    menu.entervoucher:
+      de: Zertifikat eingeben
+    menu.promocode.copied:
+      de: Promocode in Zwischenablage kopiert
+    menu.paymentsDescription:
+      de: Bestellungen, Fahrten
+    menu.paymentsDescription2:
+      de: Bestellungen, Fahrten, Gutscheine
+    menu.helpDescription:
+      de: Parken, Regeln, Strafen
+    menu.phoneDescription:
+      de: Kundendienst kontaktieren
+    menu.accountSettings:
+      de: Konto
+    menu.logout:
+      de: Abmelden
+    menu.support:
+      de: Kontaktieren Sie uns
+    menu.trips:
+      de: Fahrten
+    menu.buyvoucher:
+      de: Gutschein kaufen
+    menu.news:
+      de: Neuigkeiten
+    welcome.resetserver:
+      de: Standard-Server zurücksetzen
+    documents.text2:
+      de: 'Folgende Dokumente sollten sich im Handschuhfach befinden: \n1. Versicherungspolice;\n2. Fahrzeugschein;\n3. Tankkarte\nWenn etwas fehlt, melden Sie es uns per E-Mail:'
+    documents.text:
+      de: 'Folgende Dokumente sollten sich im Handschuhfach befinden: \n1. Versicherungspolice;\n2. Fahrzeugschein;\n3. Tankkarte\nWenn etwas fehlt, melden Sie es uns per E-Mail:'
+    view.documents.in:
+      de: 'Dokumente in '
+    view.documents.missing:
+      de: 'Fehlende Dokumente: '
+    rate.km:
+      de: km
+    rate.min:
+      de: Min.
+    rate.conformation:
+      de: Die Kosten des Pakets werden nach der Auswahl von Ihrem Konto abgebucht. Sie können unsere Fahrzeuge während der im gekauften Paket angegebenen Zeit nutzen. Möchten Sie fortfahren?
+    rate.subscribtion.buy:
+      de: Paket kaufen
+    rate.autoreneworder:
+      de: Abonnement automatisch verlängern
+    rate.autorenewconfirm:
+      de: Möchten Sie das Abonnement automatisch verlängern?
+    rate.lessThenMinute:
+      de: weniger als eine Minute
+    rate.title:
+      de: Tarifauswahl
+    result.MaxNumberOfAttemptsExceeded:
+      de: SMS-Versuche überschritten
+    result.UserNotFound:
+      de: Benutzer nicht gefunden
+    result.CodeHasExpired:
+      de: Lebensdauer des Autorisierungscodes abgelaufen
+    result.connection.error:
+      de: Internetverbindungsfehler. Überprüfen Sie Ihre Internetverbindung.
+    result.authorization.error:
+      de: Autorisierungsfehler
+    result.Rejected:
+      de: Ungültiger Login oder Passwort
+    result.rideReportError:
+      de: Fahrtberichtsfehler
+    result.OkCarIsBooked:
+      de: Fahrzeug erfolgreich gebucht
+    result.FailedUserAlreadyHasOrder:
+      de: Sie haben bereits ein Fahrzeug gebucht
+    result.FailedCarIsOrderedAlready:
+      de: Das Fahrzeug ist bereits gebucht
+    result.FailedCarNotFound:
+      de: Das Fahrzeug wurde im System nicht gefunden
+    result.FailedCarIsOffline:
+      de: Das Fahrzeug ist offline
+    result.FailedUserNotFound:
+      de: Ihr Konto wurde im System nicht gefunden
+    result.FailedUserIsBlocked:
+      de: Ihr Konto ist gesperrt
+    result.FailedUserIsNotACustomer:
+      de: Sie haben nicht das Recht, Fahrzeuge zu buchen
+    result.FailedCustomerIsBlocked:
+      de: Ihr Konto ist gesperrt
+    result.FailedUserHasNoCorrectOrganization:
+      de: Das ausgewählte Fahrzeug ist Organisationen zugeordnet, denen Sie nicht angehören
+    result.FailedHasNoBankCard:
+      de: Bankkarteninformationen sind nicht im System vorhanden
+    result.FailedNegativeBalance:
+      de: Ihr Saldo ist negativ
+    result.FailedSecurityCheckDidNotPass:
+      de: Ihr Konto wartet auf Genehmigung
+    result.FailedNoRentEndZonesFound:
+      de: Der Heimatbereich wurde für dieses Fahrzeug nicht konfiguriert
+    result.FailedNoDriveZonesFound:
+      de: Der Fahrbereich wurde für dieses Fahrzeug nicht konfiguriert
+    result.FailedUserHasNoOrderNow:
+      de: Sie haben derzeit keine aktive Miete
+    result.FailedCarHasNoOrderNow:
+      de: Das Fahrzeug ist derzeit nicht gemietet
+    result.FailedOrderIsCompletedAlready:
+      de: Die Miete ist bereits abgeschlossen
+    result.FailedCarIsParkedAlready:
+      de: Das Fahrzeug ist bereits geparkt
+    result.FailedCarTrackerIsOffline:
+      de: Das Fahrzeug ist offline
+    result.FailedOrderNotFoundInDatabase:
+      de: Ihre Bestellung wurde in der Datenbank nicht gefunden
+    result.FailedCarIsMoving:
+      de: Das Fahrzeug fährt gerade
+    result.FailedCarIsInRentStateAlready:
+      de: Das Fahrzeug ist jetzt im Fahrmodus
+    result.OkCarIsInDriveModeNow:
+      de: Das Fahrzeug ist jetzt im Fahrmodus
+    result.FailedCarNotFoundInDatabase:
+      de: Das Fahrzeug wurde in der Datenbank nicht gefunden
+    result.FailedOutOfRentEndZone:
+      de: Das Fahrzeug befindet sich außerhalb des Heimatbereichs
+    result.OkOrderFinished:
+      de: Die Miete wurde erfolgreich beendet
+    result.OkNowBeeping:
+      de: Fahrzeugsignal erfolgreich aktiviert
+    result.FailedHornTooOften:
+      de: Sie versuchen zu oft zu blinken
+    result.FailedCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Sie werden es nicht hören.
+    result.FailedTheCarIsTooFar:
+      de: Das Fahrzeug ist zu weit von Ihnen entfernt. Sie werden es nicht hören.
+    result.ErrorNoConnectionWithCar:
+      de: Das Fahrzeug ist offline
+    result.ErrorCarInMotion:
+      de: Das Fahrzeug fährt gerade
+    result.ErrorCheckDoors:
+      de: Bitte Türen prüfen
+    result.ErrorCheckWindows:
+      de: Bitte Fenster prüfen
+    result.ErrorFLDoorIsOpened:
+      de: Die vordere linke Tür ist nicht verriegelt
+    result.ErrorFRDoorIsOpened:
+      de: Die vordere rechte Tür ist nicht verriegelt
+    result.ErrorRLDoorIsOpened:
+      de: Die hintere linke Tür ist nicht verriegelt
+    result.ErrorRRDoorIsOpened:
+      de: Die hintere rechte Tür ist nicht verriegelt
+    result.ErrorBootIsOpened:
+      de: Der Kofferraum ist offen
+    result.ErrorHoodIsOpened:
+      de: Die Motorhaube ist offen
+    result.ErrorIgnitionKeyIsTurnedOn:
+      de: Die Zündung ist eingeschaltet
+    result.ErrorEngineIsStarted:
+      de: Schalten Sie den Motor aus
+    result.ErrorHandBreakIsOff:
+      de: Handbremse ist gelöst
+    result.ErrorHandBreakIsOn:
+      de: Handbremse lösen
+    result.ErrorLightsIsOn:
+      de: Lichter sind an
+    result.ErrorTransmissionNotInParking:
+      de: Automatikgetriebe nicht in P
+    result.ErrorSatellitesVisibility:
+      de: Satelliten sind nicht sichtbar
+    reject.fixNewDamages:
+      de: Uns über neue Schäden informieren
+    reject.titleText:
+      de: Bitte den Zustand des Fahrzeugs prüfen
+    reject.infromationText:
+      de: Bitte den Zustand des Fahrzeugs prüfen
+    reject.cancelBookText:
+      de: Reservierung stornieren
+    reject.startRentText:
+      de: Miete starten
+    reject.tabTitleRemarks:
+      de: Anmerkungen
+    reject.tabTitlePhotos:
+      de: Foto
+    reject.tabTitleComments:
+      de: Kommentar
+    reject.unableToDrive:
+      de: Fahrzeug kann nicht fahren
+    reject.bodyDamaged:
+      de: Die Karosserie ist beschädigt
+    reject.glassIsBroken:
+      de: Die Scheibe ist zerbrochen
+    reject.theTireIsFlat:
+      de: Der Reifen ist platt
+    reject.theCarIsDirty:
+      de: Das Fahrzeug ist schmutzig
+    reject.aComment:
+      de: Kommentar
+    reject.dirtInTheCar:
+      de: Es ist schmutzig im Fahrzeug
+    reject.smokedInTheCar:
+      de: Das Fahrzeug ist verraucht
+    reject.noDocuments:
+      de: Keine Dokumente
+    reject.forgottenThings:
+      de: vergessene Gegenstände
+    inspect.opendoors:
+      de: Tür wird geöffnet
+    trip.title:
+      de: Fahrtdetails
+    trip.bookMin:
+      de: Kostenlose Buchung
+    trip.parkMin:
+      de: Parken
+    trip.driveMin:
+      de: Fahren
+    trip.deatileTitle:
+      de: Details
+    trip.noPaymentTitle:
+      de: Zahlungen und Gutschriften
+    trip.noPaymentText:
+      de: Keine
+    trip.paymentCostTitle:
+      de: Per Karte
+    trip.paymentCostBonusesTitle:
+      de: Per Boni
+    inspect.confirmTitle:
+      de: Möchten Sie das Fahrzeug öffnen?
+    inspect.confirmMessageOne:
+      de: 'Sie haben '
+    inspect.confirmMessageTwo:
+      de: ' für die Fahrzeuginspektion.'
+    inspect.freeMinutes:
+      de: ' %@ kostenlose Minuten'
+    inspect.firstText:
+      de: Gibt es neue Schäden?
+    inspect.secondTextOne:
+      de: 'Sind alle '
+    inspect.secondTextTwo:
+      de: ' vorhanden?'
+    inspect.documentsTitle:
+      de: Dokumente
+    inspect.thirdText:
+      de: Kann die Miete starten?
+    inspect.cancelButton:
+      de: Problem melden
+    inspect.okButton:
+      de: Alles in Ordnung, fortfahren
+    inspect.rejectTitle:
+      de: Fahrzeuginspektion
+    inspect.rejectTimeLostTitle:
+      de: Verbleibende %@ kostenlose Minuten
+    inspect.rejectTimeLostTitleTwo:
+      de: Verbleibende %@ kostenlose Minuten
+    inspect.rejectTimeLostTitleOne:
+      de: Verbleibende %@ kostenlose Minuten
+    inspect.totalCost:
+      de: 'Inspektion '
+    firstpage.continue:
+      de: Anmeldung und Registrierung
+    firstpage.rulesText:
+      de: Indem Sie fortfahren, stimmen Sie den
+    firstpage.rulesLink:
+      de: Nutzungsbedingungen
+    firstpage.agreementText:
+      de: zu und geben Ihre Einwilligung zur
+    firstpage.agreementLink:
+      de: Verarbeitung Ihrer personenbezogenen Daten
+    profile.changepassword:
+      de: Passwort ändern
+    profile.phone:
+      de: Telefonnummer
+    profile.email:
+      de: E-Mail
+    profile.touchid:
+      de: Anmeldung per Touch ID
+    profile.faceid:
+      de: Anmeldung per Face ID
+    profile.nonetouchid:
+      de: Touch ID ist nicht verfügbar
+    acquiring.title:
+      de: Kartendaten eingeben
+    acquiring.number:
+      de: Nummer
+    acquiring.until:
+      de: 'Ablaufdatum im Format: MM/JJ'
+    acquiring.owner:
+      de: Name des Inhabers
+    acquiring.cvv:
+      de: CVV-Code
+    acquiring.attach:
+      de: Karte hinzufügen
+    acquiring.oneStagePayment:
+      de: Einstufige Zahlung
+    acquiring.twoStagePayment:
+      de: Zweistufige Zahlung
+    acquiring.errorWord:
+      de: Fehler
+    acquiring.enterCardNumber:
+      de: Kartennummer eingeben
+    acquiring.enterCorrectCardNumber:
+      de: Korrekte Kartennummer eingeben
+    acquiring.enterExpirationDate:
+      de: 'Ablaufdatum im Format eingeben: MM/JJ'
+    acquiring.correctCardHolder:
+      de: Kartenhalter-Name darf nur lateinische Buchstaben enthalten
+    acquiring.enterCardHolder:
+      de: Name des Inhabers eingeben
+    acquiring.enterCVVCode:
+      de: CVV-Code eingeben
+    acquiring.informationWord:
+      de: Information
+    acquiring.errorCreatingCryptoPacket:
+      de: Krypto-Paket-Erstellungsfehler
+    acquiring.scanCardButtonTitle:
+      de: Karte scannen
+    damageGallery.screenTitle:
+      de: Bestehende Schäden prüfen
+    damageGallery.contactOperatorButtonTitle:
+      de: Kundendienst kontaktieren
+    damageGallery.addPhotoTitle:
+      de: Möchten Sie uns mehr mitteilen?
+    location.areYouInTitle:
+      de: Sind Sie in
+    location.chooseLocationTitle:
+      de: Standort wählen
+    location.chooseLocationShortTitle:
+      de: Standort
+    ratePackView.mileageIncluded:
+      de: Inklusive
+    promo.description:
+      de: ' '
+    activity.horn:
+      de: Blinkt...
+    menu.help:
+      de: FAQ
+    status.blocked:
+      de: Gesperrt
+    language.selectLanguage:
+      de: Sprache auswählen
+    language.restartApp:
+      de: Jetzt müssen Sie die App neu starten, um die Änderungen zu übernehmen
+    voucherViewController.activateNormalTitle:
+      de: Aktivieren
+    voucherViewController.enter9digitVoucherCodeText:
+      de: 9-stellige Gutscheinnummer eingeben
+    serverChoiceView.addServerNormalTitle:
+      de: + Server hinzufügen
+    photoPopupView.takeAPhotoNormalTitle:
+      de: Foto machen
+    actView.acceptNormalTitle:
+      de: Akzeptieren
+    actView.closeNormalTitle:
+      de: Schließen
+    carConfirmView.goodNormalTitle:
+      de: Gut
+    carConfirmView.pleaseRateTheConditionOfTheCarText:
+      de: Den Zustand des Fahrzeugs prüfen
+    carConfirmView.cancelNormalTitle:
+      de: Abbrechen
+    carConfirmView.badNormalTitle:
+      de: Schlecht
+    carPreView.colorText:
+      de: Farbe
+    carPreView.fuelLevelText:
+      de: Kraftstoff verbleibend
+    carPreView.modelText:
+      de: Modell
+    carPreView.brandText:
+      de: Marke
+    carRejectView.acceptNormalTitle:
+      de: Mieten
+    carRejectView.brokenWindowText:
+      de: 'Fenster ist zerbrochen '
+    carRejectView.sendNormalTitle:
+      de: Senden
+    carRejectView.carDefectsText:
+      de: Fahrzeugmängel
+    carRejectView.cancelNormalTitle:
+      de: Abbrechen
+    carRejectView.carsBodyIsDamagedText:
+      de: Karosserie ist beschädigt
+    carRejectView.tireIsFlatText:
+      de: Reifen ist platt
+    carRejectView.theCarIsVeryDirtyText:
+      de: Das Fahrzeug ist schmutzig
+    carView.parkText:
+      de: Standby
+    carView.finishRentNormalTitle:
+      de: Miete beenden
+    carView.solarisText:
+      de: Solaris
+    carView.blinkNormalTitle:
+      de: Blinken
+    carView.fuelLevelText:
+      de: Kraftstoff verbleibend
+    carView.closeCarNormalTitle:
+      de: Parken
+    carView.bookNormalTitle:
+      de: Buchen
+    carView.cancelBookNormalTitle:
+      de: Reservierung stornieren
+    carView.openCarNormalTitle:
+      de: Miete starten
+    carView.grayText:
+      de: Grau
+    carView.refuelingNormalTitle:
+      de: Tanken
+    carView.confirmFinishWithRatePack:
+      de: Sie haben noch %@ Miete übrig, möchten Sie sie wirklich beenden?
+    checkoutView.shareWithAFriendPromoCodeAndGet70BonusesForHisFirstRideText:
+      de: Senden Sie Ihren persönlichen Promocode an Ihre Freunde und sie erhalten 20 Minuten kostenlose Fahrt. Sobald Ihr Freund eine erste Fahrt macht, erhalten Sie ebenfalls 20 Minuten kostenlos.
+    checkoutView.willBeChargedText:
+      de: Wird abgebucht
+    checkoutView.paidBonusesText:
+      de: Mit Boni bezahlt
+    checkoutView.tripDurationText:
+      de: Fahrtdauer
+    checkoutView.totalCheckoutText:
+      de: Betrag
+    checkoutView.congratulationsYouGotADiscountText:
+      de: Herzlichen Glückwunsch! Sie haben einen Rabatt erhalten
+    checkoutView.thankYouForChoisingOurCarsText:
+      de: Vielen Dank, dass Sie unseren Dienst gewählt haben!
+    closeCarView.closeCarText:
+      de: Miete beenden
+    closeCarView.cancelNormalTitle:
+      de: Abbrechen
+    documentsView.checkDocumentsText:
+      de: Alle Dokumente prüfen
+    documentsView.insurancePolicyVehicleCertificateFuelCardIfSomethingIsMissingWriteText:
+      de: 'Folgende Dokumente sollten sich im Handschuhfach befinden: \n1. Versicherungspolice;\n2. Fahrzeugschein;\n3. Tankkarte\nWenn etwas fehlt, melden Sie es uns per E-Mail:'
+    documentsView.emailNormalTitle:
+      de: E-Mail
+    filterCarView.partnerText:
+      de: Partner
+    filterView.apply45CarsNormalTitle:
+      de: Anwenden (45 Fahrzeuge)
+    filterView.carsFilterText:
+      de: Fahrzeugfilter
+    licenseView.iAcceptTheAgreementNormalTitle:
+      de: Ich akzeptiere die Vereinbarung
+    openCarView.openNormalTitle:
+      de: Öffnen
+    openCarView.openCarText:
+      de: Möchten Sie das Fahrzeug öffnen?
+    openCarView.bluetoothNormalTitle:
+      de: Bluetooth
+    rateApplicationView.likeNormalTitle:
+      de: Gefällt mir
+    rateApplicationView.rateApplicationText:
+      de: App bewerten
+    rateApplicationView.didYouLikeOurAppText:
+      de: Hat Ihnen unsere App gefallen?
+    rateApplicationView.didNotLikeNormalTitle:
+      de: So lala
+    rateChoiceView.choiceRateText:
+      de: Tarifauswahl
+    rateChoiceView.pleaseSelectAFareBeforeStartingRentText:
+      de: Bitte einen Tarif vor Mietbeginn auswählen
+    rateMinuteView.rentText:
+      de: Miete
+    rateMinuteView.mileageIncludedText:
+      de: Inklusive
+    rateMinuteView.waitingText:
+      de: ', Parken'
+    rateMinuteView.waitingTextV2:
+      de: Parken
+    rateMinuteView.rateNameText:
+      de: Tarifname
+    ratePackView.costText:
+      de: Kosten
+    ratePackView.mileageIncludedText:
+      de: Inklusive
+    ratePackView.includedText:
+      de: ', inklusive'
+    ratePackView.includedTextV2:
+      de: Inklusive
+    ratePackView.rateNameText:
+      de: Tarifname
+    main.registerNormalTitle:
+      de: Registrieren
+    main.forgetPasswordText:
+      de: Passwort vergessen?
+    main.lOGINNormalTitle:
+      de: ANMELDEN
+    main.restoreNormalTitle:
+      de: Wiederherstellen
+    main.mobilePhonePlaceholder:
+      de: Telefonnummer
+    main.itemTitle:
+      de: Element
+    main.eNTERNormalTitle:
+      de: EINGEBEN
+    main.checkConnectionWithInternetText:
+      de: Internetverbindung prüfen
+    menu.language:
+      de: Sprache
+    confirmView.cancelNormalTitle:
+      de: Abbrechen
+    main.viewcars:
+      de: FAHRZEUG ANSEHEN
+    main.phonePlaceholder:
+      de: Telefon
+    main.passwordPlaceholder:
+      de: Passwort
+    checkoutView.oKNormalTitle:
+      de: Ok
+    closeCarView.oKNormalTitle:
+      de: Ok
+    confirmView.oKNormalTitle:
+      de: OK
+    documentsView.oKNormalTitle:
+      de: OK
+    rateOption.enabled:
+      de: Aktiviert
+    rateOption.disabled:
+      de: Deaktiviert
+    rateOption.confirmEnable:
+      de: Möchten Sie aktivieren
+    rateOption.confirmDisable:
+      de: Möchten Sie deaktivieren
+    menu.contract:
+      de: Beitrittsvereinbarung
+    menu.terms:
+      de: Nutzungsbedingungen
+    menu.privacy:
+      de: Datenschutzerklärung
+    menu.faq:
+      de: FAQ
+    car.window.chargeLeft:
+      de: Ladezustand
+    car.window.isCharging:
+      de: wird geladen
+    qr.regNumberNotFound:
+      de: Nicht gefunden oder in Miete
+    qr.cameraPermissionMessage:
+      de: Erlauben Sie der App, die Rückkamera einzuschalten.
+    qr.settings:
+      de: Einstellungen
+    qr.renderNotSupported:
+      de: Von diesem Gerät nicht unterstützt
+    qr.scanCode:
+      de: Code scannen
+    qr.manualInput:
+      de: Manuell eingeben
+    qr.manualInputRegNumber:
+      de: Nummer unter dem QR-Code eingeben
+    rate.waiting:
+      de: Standby
+    common.close:
+      de: Schließen
+    checkoutView.parkingText:
+      de: Parkmodus
+    car.window.path:
+      de: Route anzeigen
+    car.window.route:
+      de: Route
+    carPreView.chargeLevelText:
+      de: Ladezustand
+    agreementContainer.termsOfUse:
+      de: Ich stimme den **Nutzungsbedingungen der App** zu
+    agreementContainer.personalData:
+      de: Ich gebe meine Einwilligung zur **Verarbeitung meiner personenbezogenen Daten**
+    trip.titleOver:
+      de: Miete beendet
+    checkoutView.shareButtonTitle:
+      de: Teilen
+    checkoutView.totalTrip:
+      de: Gesamtmiete
+    checkoutView.driving:
+      de: Fahren
+    checkoutView.parking:
+      de: Parken
+    locations.installApp:
+      de: Möchten Sie eine App für \"%@\" installieren?
+    systemLog.sendSystemLogItemTitle:
+      de: Systemprotokoll senden
+    regChat.navigationBarTitle:
+      de: Registrierung
+    regChat.specifyData:
+      de: Bitte geben Sie die erforderlichen Daten an
+    regChat.takeAPhoto:
+      de: Foto machen
+    multiPhotoPicker.retake:
+      de: Erneut aufnehmen
+    status.needDocuments:
+      de: Bitte laden Sie Ihre Dokumente hoch
+    fuelStationView.chargingStationTitle:
+      de: Ladestation
+    inspect.reporReceived:
+      de: Vielen Dank für Ihre Meldung.
+    carView.scanQrSubtitleScooterRentWillStart:
+      de: die Miete des Rollers wird gestartet
+    carView.pinCodeTitle:
+      de: PIN-Code
+    carView.lockButtonTitle:
+      de: Verriegeln
+    carView.lockButtonSubTitle:
+      de: und in den Parkmodus schalten
+    carView.reserveButtonTitle:
+      de: Reservieren
+    carView.reserveButtonSubTitle:
+      de: einige kostenlose Minuten, um das Fahrzeug zu erreichen
+    lockerPin.title:
+      de: PIN zum Entsperren eingeben
+    lockerPin.pinTitle:
+      de: Sperren-PIN
+    menu.supportChat:
+      de: Hilfe-Chat
+    '* Clas':
+      de: UIButton"; normalTit
+    common.m:
+      de: m.
+    common.systemBackButtonTitle:
+      de: Zurück
+    menu.radar:
+      de: Radar
+    carcard.included:
+      de: inklusive
+    carcard.overmileage:
+      de: Überschreitung
+    radar.title:
+      de: Radar
+    radar.tapToSelectTitle:
+      de: Tippen, um den Radarstandort auszuwählen
+    radar.timeToSearch:
+      de: Suchzeit
+    radar.startSearch:
+      de: Suche starten
+    radar.autoBook:
+      de: automatisch buchen
+    radar.currentLocation:
+      de: Aktueller Standort
+    radar.distance:
+      de: Entfernung
+    radar.change:
+      de: ÄNDERN
+    radar.confirm:
+      de: BESTÄTIGEN
+    radar.apply:
+      de: ANWENDEN
+    radar.back:
+      de: ZURÜCK
+    radar.startSearching:
+      de: Suche starten
+    radar.specifyLocation:
+      de: Bitte einen Standort für das Radar angeben
+    radar.stopSearching:
+      de: Abbrechen
+    radar.searching:
+      de: SUCHE LÄUFT
+    radar.repeat:
+      de: wiederholen
+    radar.now:
+      de: JETZT
+    radar.timeLeft:
+      de: verbleibende Zeit
+    radar.repeatNever:
+      de: NIEMALS
+    radar.repeatEveryMo:
+      de: Jeden Montag
+    radar.repeatEveryTu:
+      de: Jeden Dienstag
+    radar.repeatEveryWe:
+      de: Jeden Mittwoch
+    radar.repeatEveryTh:
+      de: Jeden Donnerstag
+    radar.repeatEveryFr:
+      de: Jeden Freitag
+    radar.repeatEverySa:
+      de: Jeden Samstag
+    radar.repeatEverySu:
+      de: Jeden Sonntag
+    radar.repeatShortMo:
+      de: Mo
+    radar.repeatShortTu:
+      de: Di
+    radar.repeatShortWe:
+      de: Mi
+    radar.repeatShortTh:
+      de: Do
+    radar.repeatShortFr:
+      de: Fr
+    radar.repeatShortSa:
+      de: Sa
+    radar.repeatShortSu:
+      de: So
+    radar.timeShort.days:
+      de: T.
+    radar.timeShort.hours:
+      de: Std.
+    radar.timeShort.minutes:
+      de: Min.
+    radar.timeShort.seconds:
+      de: Sek.
+    act.linkFinishRent:
+      de: Durch das Beenden einer Miete unterzeichnen Sie das Abnahmeprotokoll\n
+    car.window.selfie:
+      de: Selfie machen
+    radar.confirmAutobook:
+      de: Möchten Sie wirklich automatisch ein Fahrzeug buchen?
+    1H5-PG-Rk3.title:
+      de: 20 Minuten
+    91L-7P-GOx.normalTitle:
+      de: Registrieren
+    9bU-3L-fPD.text:
+      de: Passwort vergessen?
+    AVq-Nt-KBa.normalTitle:
+      de: ANMELDEN
+    Cx6-Vx-hxV.normalTitle:
+      de: 8 (800) 700-95-74
+    LRB-Sf-Kx6.normalTitle:
+      de: Wiederherstellen
+    MdL-By-Snn.placeholder:
+      de: Mobiltelefon
+    TrP-n7-IAW.title:
+      de: Element
+    UDt-F1-9ck.normalTitle:
+      de: EINGEBEN
+    ZGv-58-5er.normalTitle:
+      de: Fertig
+    adp-Bt-BNO.text:
+      de: Internetverbindung prüfen
+    cqR-tF-I9E.normalTitle:
+      de: 8 (800) 700-95-74
+    hB1-4k-g3R.placeholder:
+      de: Passwort
+    mVk-XE-Itc.normalTitle:
+      de: FAHRZEUGE ANSEHEN
+    wEI-sn-Zcq.normalTitle:
+      de: ◀︎ Zurück
+    radar.waiting:
+      de: wartend
+    radar.radarWillStartIn:
+      de: Radar startet in
+    payments.applePayBindingTitle:
+      de: KARTENVERKNÜPFUNG
+    payments.applePaySetupTitle:
+      de: Es wurden keine geeigneten Bankkarten gefunden, die mit Apple Pay verknüpft sind. Möchten Sie die Systemeinstellungen öffnen und jetzt verknüpfen?
+    payments.applePayOpenSettingsTitle:
+      de: Einstellungen öffnen
+    insurance.confirmEnable:
+      de: Möchten Sie wirklich eine Versicherung aktivieren?
+    insurance.confirmDisable:
+      de: Möchten Sie wirklich eine Versicherung deaktivieren?
+    insurance.enable:
+      de: Aktivieren
+    insurance.disable:
+      de: Deaktivieren
+    rate.confirmPurchase:
+      de: Möchten Sie das Abonnement kaufen?
+    rate.purchaseTitle:
+      de: Kaufen
+    rate.purchasingTitle:
+      de: Abonnement wird gekauft...
+    activity.unlock:
+      de: Wird entsperrt...
+    car.window.unlock:
+      de: Entsperren
+    welcome.pushRequired:
+      de: Push-Benachrichtigungen sind für die Autorisierung erforderlich. Sie können sie später deaktivieren.
+    welcome.tryAgainTitle:
+      de: Erneut versuchen
+    57g-Ki-4bl.text:
+      de: Powered by CarTrek®
+    BAs-RT-c2t.text:
+      de: ''
+    WTf-vs-Qhh.text:
+      de: Powered by CarTrek®
+    iBO-RH-kfg.text:
+      de: Wird geladen...
+    rRx-Zk-cL2.normalTitle:
+      de: http://
+    freerides.invitation:
+      de: 'Hallo!\nRegistrieren Sie sich in der App mit dem Promocode {promocode} oder durch Klicken auf den Link {link} und erhalten Sie {bonuses} Boni!'

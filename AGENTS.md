@@ -1,4 +1,6 @@
-# AGENTS.md
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
@@ -57,6 +59,15 @@ CI runs this automatically on every push/PR via `.github/workflows/validate-yaml
 
 Python-based pipeline to minimize context window usage when translating YAML files. **Always use `python3` (not `python`) to run scripts.** Install dependencies: `pip3 install -r Tools/requirements.txt`
 
+### Always clarify the output mode first
+
+When the user asks to add a language to any YAML file (e.g. "добавь немецкий язык в фронт"), **always ask via AskUserQuestion** which output mode they want, before starting the pipeline:
+
+- **Create new file `<file>-<lang>.yaml`** (default, recommended) — separate translation file, original untouched
+- **Add translation to `<file>.yaml`** — merge new language directly into the existing file
+
+Skip this question only if the user has already explicitly specified the target file in the prompt (e.g. "создай файл …" or "добавь в существующий …").
+
 ### When asked to add a language to a YAML file
 
 Example prompt: "добавь итальянский язык в файл server.yaml"
@@ -75,7 +86,7 @@ Follow this pipeline strictly:
    ```
    Output: `./tmp/<file>/en/1.yaml, 2.yaml, ...`
 
-3. **Translate** each chunk (LLM does this directly):
+3. **Translate** each chunk (Claude Code does this directly):
    - Read each chunk file from `./tmp/<file>/en/`
    - Translate all values from `en` to the target language
    - **MUST preserve**: YAML structure, keys, variables (`{var}`, `%N$type`), HTML tags, quoting style

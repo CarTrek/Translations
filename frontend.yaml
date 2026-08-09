@@ -1,5 +1,304 @@
 Sections:
   AdminFrontend:
+    cars.list.PurgeCar:
+      cs: Smazat navždy
+      en: Delete permanently
+      ru: Удалить окончательно
+    cars.list.PurgeCarConfirm:
+      cs: Vozidlo '{{objectName}}' bude odstraněno navždy a nelze jej obnovit. Pokračovat?
+      en: The car '{{objectName}}' will be deleted permanently and cannot be restored. Continue?
+      ru: Машина '{{objectName}}' будет удалена окончательно и её нельзя будет восстановить. Продолжить?
+    reports.QuickReport:
+      en: Quick report
+      ru: Быстрый отчёт
+    reports.ReportGenerator:
+      en: Report generator
+      ru: Генератор отчёта
+    reports.Filters:
+      en: Filters
+      ru: Фильтры
+    reports.Category:
+      en: Category
+      ru: Категория
+    reports.Columns:
+      en: Columns
+      ru: Колонки
+    reports.SelectAll:
+      en: Select all
+      ru: Выбрать все
+    reports.ClearAll:
+      en: Clear all
+      ru: Снять все
+    reports.SelectedCount:
+      en: Selected
+      ru: Выбрано
+    app.DateFrom:
+      en: Date from
+      ru: Дата с
+    app.DateTo:
+      en: Date to
+      ru: Дата по
+    menu.CustomersList:
+      en: Clients
+      ru: Клиенты
+    clients.filter.All:
+      en: All clients
+      ru: Все клиенты
+    clients.filter.Debtors:
+      en: Debtors
+      ru: Должники
+    clients.filter.DebtorsWithOrders:
+      en: Debtors with orders
+      ru: Должники с заказами
+    clients.filter.Blocked:
+      en: Blocked
+      ru: Заблокированные
+    clients.filter.AwaitValidation:
+      en: Awaiting validation
+      ru: Ожидают проверки
+    clients.filter.Validated:
+      en: Validated
+      ru: Проверенные
+    clients.filter.HasActiveOrder:
+      en: Has active order
+      ru: С активным заказом
+    clients.filter.WithBankCards:
+      en: With bank cards
+      ru: С банковскими картами
+    clients.filter.WithoutBankCards:
+      en: Without bank cards
+      ru: Без банковских карт
+    clients.filter.DocumentsNeedValidation:
+      en: Documents need validation
+      ru: Документы на проверку
+    clients.filter.DeletionRequest:
+      en: Deletion requested
+      ru: Запрос на удаление
+    orderOptions.edit.tabs.ratePacks:
+      en: Tariffs
+      ru: Тарифы
+    orderOptions.selectAllRatePacks:
+      en: Select all tariffs
+      ru: Выбрать все тарифы
+    orderOptions.ratePacks.name:
+      en: Tariffs
+      ru: Тарифы
+    orderOptions.edit.copy:
+      en: Copy
+      ru: Копировать
+    orderOptions.isSelectedByDefault:
+      en: Selected by default
+      ru: Выбрана по умолчанию
+    orderOptions.selectAllModels:
+      en: Select all models
+      ru: Выбрать все модели
+    orderOptions.ratePacks.name:
+      en: Tariffs
+      ru: Тарифы
+    dic.orderoptions.HEADER:
+      en: Order Options
+      ru: Опции заказа
+    orderOptions.edit.saveError:
+      en: Failed to save option
+      ru: Не удалось сохранить опцию
+    cars.map.events.selectorPOn:
+      cs: 'Volič převodovky v P'
+      en: 'Gear selector in P'
+      ge: 'Gear selector in P'
+      ru: 'Селектор АКПП в P'
+    cars.map.events.selectorPOff:
+      cs: 'Volič převodovky mimo P'
+      en: 'Gear selector not in P'
+      ge: 'Gear selector not in P'
+      ru: 'Селектор АКПП не в P'
+    cars.map.events.hideAll:
+      cs: 'Skrýt události'
+      en: 'Hide events'
+      ge: 'Hide events'
+      ru: 'Скрыть события'
+    cars.map.events.showAll:
+      cs: 'Zobrazit události'
+      en: 'Show events'
+      ge: 'Show events'
+      ru: 'Показать события'
+    cars.map.events.showAll:
+      en: 'Show events'
+      ru: 'Показать события'
+    cars.map.events.hideAll:
+      en: 'Hide events'
+      ru: 'Скрыть события'
+    notifications.CriticalCarReport:
+      en: Critical car report
+      ru: Критичный отчёт о машине
+      cs: Kritické hlášení o vozidle
+    aside.nav.CriticalReportKeywords:
+      cs: Kritická klíčová slova
+      en: Critical keywords
+      ru: Критичные ключевые слова
+    criticalReportKeywords.Word:
+      cs: Slovo
+      en: Word
+      ru: Слово
+    criticalReportKeywords.Locale:
+      cs: Jazyk
+      en: Language
+      ru: Язык
+    criticalReportKeywords.IsActive:
+      cs: Aktivní
+      en: Is active
+      ru: Активно
+    rates.FinishOrderOnRatePackFinish:
+      en: 'Finish rental when rate pack is finished'
+      ru: 'Завершать аренду при завершении тарифа'
+    cars.map.showPlates:
+      cs: Zobrazit SPZ
+      en: Show license plates
+      ge: Show license plates
+      ru: Показывать госномера
+    cars.map.legend.title:
+      cs: Legenda
+      en: Legend
+      ge: ლეგენდა
+      ru: Легенда
+    cars.map.legend.pointsSection:
+      cs: Body trasy
+      en: Track points
+      ge: Track points
+      ru: Точки трека
+    cars.map.legend.eventsSection:
+      cs: Události
+      en: Events
+      ge: Events
+      ru: События
+    cars.map.legend.start:
+      cs: Start
+      en: Start
+      ge: Start
+      ru: Старт
+    cars.map.legend.finish:
+      cs: Cíl
+      en: Finish
+      ge: Finish
+      ru: Финиш
+    cars.map.legend.stop:
+      cs: Zastávka
+      en: Stop
+      ge: Stop
+      ru: Остановка
+    cars.map.legend.player:
+      cs: Přehrávač
+      en: Player marker
+      ge: Player marker
+      ru: Маркер плеера
+    cars.map.player.play:
+      cs: Přehrát
+      en: Play
+      ge: Play
+      ru: Воспроизвести
+    cars.map.player.pause:
+      cs: Pauza
+      en: Pause
+      ge: Pause
+      ru: Пауза
+    cars.map.player.speed:
+      cs: Rychlost
+      en: Speed
+      ge: Speed
+      ru: Скорость
+    cars.map.events.handbrakeOn:
+      cs: Ruční brzda zatažena
+      en: Handbrake on
+      ge: Handbrake on
+      ru: Ручник поднят
+    cars.map.events.handbrakeOff:
+      cs: Ruční brzda uvolněna
+      en: Handbrake off
+      ge: Handbrake off
+      ru: Ручник снят
+    cars.map.events.ignitionOn:
+      cs: Zapalování zapnuto
+      en: Ignition on
+      ge: Ignition on
+      ru: Зажигание вкл
+    cars.map.events.ignitionOff:
+      cs: Zapalování vypnuto
+      en: Ignition off
+      ge: Ignition off
+      ru: Зажигание выкл
+    cars.map.events.engineOn:
+      cs: Motor spuštěn
+      en: Engine started
+      ge: Engine started
+      ru: Двигатель запущен
+    cars.map.events.engineOff:
+      cs: Motor zastaven
+      en: Engine stopped
+      ge: Engine stopped
+      ru: Двигатель остановлен
+    cars.map.events.doorsOpen:
+      cs: Dveře otevřeny
+      en: Doors opened
+      ge: Doors opened
+      ru: Двери открыты
+    cars.map.events.doorsClose:
+      cs: Dveře zavřeny
+      en: Doors closed
+      ge: Doors closed
+      ru: Двери закрыты
+    cars.editor.BookingLockHeld:
+      en: 'Car is locked by {{user}} ({{phone}})'
+      ru: 'Машина заблокирована пользователем {{user}} ({{phone}})'
+    cars.editor.BookingLockHeldUnknown:
+      en: 'Car is locked (no user info)'
+      ru: 'Машина заблокирована (без данных о пользователе)'
+    cars.editor.BreakBookingLock:
+      en: 'Break lock'
+      ru: 'Снять блокировку'
+    cars.editor.BreakBookingLockConfirm:
+      en: 'Really break the booking lock for this car?'
+      ru: 'Действительно снять блокировку бронирования для этой машины?'
+    aside.nav.BANS:
+      en: 'Login bans'
+      ru: 'Баны при входе'
+    ban.TITLE:
+      en: 'Login bans'
+      ru: 'Баны при входе'
+    ban.IP:
+      en: 'IP'
+      ru: 'IP'
+    ban.SESSION:
+      en: 'Session'
+      ru: 'Сессия'
+    ban.ROUTE:
+      en: 'Route'
+      ru: 'Маршрут'
+    ban.PHONE:
+      en: 'Phone'
+      ru: 'Телефон'
+    ban.DEVICE:
+      en: 'Device'
+      ru: 'Устройство'
+    ban.STRIKES:
+      en: 'Strikes'
+      ru: 'Страйки'
+    ban.BANNED_AT:
+      en: 'Banned at'
+      ru: 'Забанен'
+    ban.BANNED_UNTIL:
+      en: 'Banned until'
+      ru: 'Забанен до'
+    ban.CLEAR_ALL:
+      en: 'Clear all bans'
+      ru: 'Снять все баны'
+    ban.CLEAR_ALL_CONFIRM:
+      en: 'Are you sure you want to remove all bans?'
+      ru: 'Вы уверены, что хотите снять все баны?'
+    ban.REMOVE_CONFIRM:
+      en: 'Remove ban for this user?'
+      ru: 'Снять бан для этого пользователя?'
+    ban.EMPTY:
+      en: 'No active bans'
+      ru: 'Нет активных банов'
     aside.nav.clientAuth:
       en: 'Client Authorization'
       ru: 'Авторизация клиента'
@@ -11231,6 +11530,9 @@ Sections:
     files.ShowDiff:
       en: Show diff
       ru: Показать различия
+    files.Download:
+      en: Download
+      ru: Скачать
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
