@@ -1677,6 +1677,9 @@ Sections:
     signin.tg-bot-button:
       en: "Log in with Telegram"
       ru: "Войти через Telegram"
+    signin.sberid-button:
+      en: "Log in with Sber ID"
+      ru: "Войти по Сбер ID"
     signin.id-ctms-auth:
       en: "Log in via Messenger"
       ru: "Авторизоваться через мессенджер"
