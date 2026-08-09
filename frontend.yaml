@@ -1,5 +1,30 @@
 Sections:
   AdminFrontend:
+    cars.map.player.toStart:
+      cs: Na začátek trasy
+      en: To track start
+      ge: To track start
+      ru: В начало трека
+    cars.map.player.toEnd:
+      cs: Na konec trasy
+      en: To track end
+      ge: To track end
+      ru: В конец трека
+    cars.map.player.prevPoint:
+      cs: Předchozí bod
+      en: Previous point
+      ge: Previous point
+      ru: Предыдущая точка
+    cars.map.player.nextPoint:
+      cs: Další bod
+      en: Next point
+      ge: Next point
+      ru: Следующая точка
+    cars.map.player.hint:
+      cs: 'Klik na časovou osu — přechod na čas, Mezerník — přehrát/pauza, ←/→ — po bodech, Shift+←/→ — po událostech'
+      en: 'Click the timeline to jump, Space — play/pause, ←/→ — step by point, Shift+←/→ — step by event'
+      ge: 'Click the timeline to jump, Space — play/pause, ←/→ — step by point, Shift+←/→ — step by event'
+      ru: 'Клик по шкале — переход, пробел — пуск/пауза, ←/→ — по точкам, Shift+←/→ — по событиям'
     cars.list.PurgeCar:
       cs: Smazat navždy
       en: Delete permanently
