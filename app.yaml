@@ -1683,6 +1683,12 @@ Sections:
     signin.sberid-button:
       en: "Log in with Sber ID"
       ru: "Войти по Сбер ID"
+    signin.whatsapp-bot-button:
+      en: "Log in with WhatsApp"
+      ru: "Войти через WhatsApp"
+    signin.id-ctms-prepare-error:
+      en: "Unable to open the messenger. Please try again."
+      ru: "Не удалось открыть мессенджер. Попробуйте ещё раз."
     signin.id-ctms-auth:
       en: "Log in via Messenger"
       ru: "Авторизоваться через мессенджер"
