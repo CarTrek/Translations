@@ -102,6 +102,10 @@ Sections:
       de: 'Aktiviert'
     hardware.control.DISABLED:
       de: 'Deaktiviert'
+    iot.module.DEFAULT_NAME:
+      de: 'IoT-Modul'
+    iot.module.OPEN_IN_NEW_WINDOW:
+      de: 'In neuem Fenster öffnen'
     cache.control.TITLE:
       de: 'Cache-Verwaltung'
     cache.control.SELECT:

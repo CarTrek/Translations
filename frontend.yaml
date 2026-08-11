@@ -423,6 +423,12 @@ Sections:
     hardware.control.DISABLED:
       en: 'Disabled'
       ru: 'Отключён'
+    iot.module.DEFAULT_NAME:
+      en: 'IoT Module'
+      ru: 'Модуль IoT'
+    iot.module.OPEN_IN_NEW_WINDOW:
+      en: 'Open in a new window'
+      ru: 'Открыть в новом окне'
     cache.control.TITLE:
       en: 'Cache Control'
       ru: 'Управление кешем'
