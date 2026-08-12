@@ -6135,6 +6135,12 @@ Sections:
     system.users.specialFeatures.SystemAdmin.DESCRIPTION:
       en: 'Access to the system section of the admin panel: cache and hardware management.'
       ru: 'Доступ к системному разделу админки: управление кешем и оборудованием.'
+    system.users.specialFeatures.IotModule:
+      en: IoT module
+      ru: Модуль IoT
+    system.users.specialFeatures.IotModule.DESCRIPTION:
+      en: Access to the IoT module section and to its console through the admin panel proxy.
+      ru: Доступ к разделу модуля IoT и к его консоли через прокси админки.
     system.users.specialFeatures.ResyncCarOrder:
       en: Resynchronizing a car order
       ru: Пересинхронизация заказа автомобиля

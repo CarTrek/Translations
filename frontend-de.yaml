@@ -2884,6 +2884,10 @@ Sections:
       de: Systemadministration
     system.users.specialFeatures.SystemAdmin.DESCRIPTION:
       de: 'Zugriff auf den Systembereich des Admin-Panels: Cache- und Hardwareverwaltung.'
+    system.users.specialFeatures.IotModule:
+      de: IoT-Modul
+    system.users.specialFeatures.IotModule.DESCRIPTION:
+      de: Zugriff auf den Bereich des IoT-Moduls und auf dessen Konsole über den Proxy des Admin-Panels.
     system.users.specialFeatures.ResyncCarOrder:
       de: Neusynchronisierung des Fahrzeugauftrags
     system.users.specialFeatures.ResyncCarOrder.DESCRIPTION:
