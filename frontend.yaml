@@ -6105,6 +6105,42 @@ Sections:
       en: Alarm notifications
       ge: შეტყობინება განგაშების შესახებ
       ru: Уведомления о тревогах
+    system.users.SPECIALFEATURES:
+      en: Special features
+      ru: Специальные возможности
+    system.users.specialFeatures.HINT:
+      en: Point access to server maintenance operations. Grant it only to trusted employees.
+      ru: Точечные доступы к служебным операциям сервера. Выдавайте их только доверенным сотрудникам.
+    system.users.specialFeatures.ReloadSearchTable:
+      en: Rebuild search table
+      ru: Перестроение поисковой таблицы
+    system.users.specialFeatures.ReloadSearchTable.DESCRIPTION:
+      en: Manual start of a full rebuild of the customer search table.
+      ru: Ручной запуск полного перестроения таблицы поиска клиентов.
+    system.users.specialFeatures.EditConfigFiles:
+      en: Editing configuration files
+      ru: Редактирование конфигурационных файлов
+    system.users.specialFeatures.EditConfigFiles.DESCRIPTION:
+      en: Viewing and changing server configuration files from the admin panel.
+      ru: Просмотр и изменение файлов конфигурации сервера из админки.
+    system.users.specialFeatures.DownloadOrders:
+      en: Downloading ride archives
+      ru: Выгрузка архивов поездок
+    system.users.specialFeatures.DownloadOrders.DESCRIPTION:
+      en: Downloading a full archive of ride data as a zip file.
+      ru: Скачивание полного архива данных по поездке в виде zip-файла.
+    system.users.specialFeatures.SystemAdmin:
+      en: System administration
+      ru: Системное администрирование
+    system.users.specialFeatures.SystemAdmin.DESCRIPTION:
+      en: 'Access to the system section of the admin panel: cache and hardware management.'
+      ru: 'Доступ к системному разделу админки: управление кешем и оборудованием.'
+    system.users.specialFeatures.ResyncCarOrder:
+      en: Resynchronizing a car order
+      ru: Пересинхронизация заказа автомобиля
+    system.users.specialFeatures.ResyncCarOrder.DESCRIPTION:
+      en: Forced restoration of the active order of a car in the instance index.
+      ru: Принудительное восстановление активного заказа автомобиля в индексе инстанса.
     system.users.notify.telegram:
       en: "Notify via Telegram"
       ru: "Уведомлять через Telegram"

@@ -2864,6 +2864,30 @@ Sections:
       de: Benutzerdaten
     system.users.ALARMS:
       de: Alarmbenachrichtigungen
+    system.users.SPECIALFEATURES:
+      de: Sonderfunktionen
+    system.users.specialFeatures.HINT:
+      de: Punktueller Zugriff auf Wartungsvorgänge des Servers. Vergeben Sie ihn nur an vertrauenswürdige Mitarbeiter.
+    system.users.specialFeatures.ReloadSearchTable:
+      de: Neuaufbau der Suchtabelle
+    system.users.specialFeatures.ReloadSearchTable.DESCRIPTION:
+      de: Manueller Start eines vollständigen Neuaufbaus der Kundensuchtabelle.
+    system.users.specialFeatures.EditConfigFiles:
+      de: Bearbeiten von Konfigurationsdateien
+    system.users.specialFeatures.EditConfigFiles.DESCRIPTION:
+      de: Anzeigen und Ändern der Serverkonfigurationsdateien über das Admin-Panel.
+    system.users.specialFeatures.DownloadOrders:
+      de: Export von Fahrtarchiven
+    system.users.specialFeatures.DownloadOrders.DESCRIPTION:
+      de: Herunterladen des vollständigen Datenarchivs einer Fahrt als ZIP-Datei.
+    system.users.specialFeatures.SystemAdmin:
+      de: Systemadministration
+    system.users.specialFeatures.SystemAdmin.DESCRIPTION:
+      de: 'Zugriff auf den Systembereich des Admin-Panels: Cache- und Hardwareverwaltung.'
+    system.users.specialFeatures.ResyncCarOrder:
+      de: Neusynchronisierung des Fahrzeugauftrags
+    system.users.specialFeatures.ResyncCarOrder.DESCRIPTION:
+      de: Erzwungene Wiederherstellung des aktiven Fahrzeugauftrags im Instanz-Index.
     system.users.notify.telegram:
       de: "Per Telegram benachrichtigen"
     system.users.notify.web:
