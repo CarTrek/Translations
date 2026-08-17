@@ -6141,6 +6141,174 @@ Sections:
     system.users.specialFeatures.IotModule.DESCRIPTION:
       en: Access to the IoT module section and to its console through the admin panel proxy.
       ru: Доступ к разделу модуля IoT и к его консоли через прокси админки.
+    ai.settings.TITLE:
+      en: "Assistant settings"
+      ru: "Настройки ассистента"
+    ai.settings.SAVE:
+      en: "Save"
+      ru: "Сохранить"
+    ai.settings.CLOSE:
+      en: "Close"
+      ru: "Закрыть"
+    ai.settings.EDIT_BTN:
+      en: "Edit"
+      ru: "Изменить"
+    ai.RESIZE:
+      en: "Resize"
+      ru: "Изменить размер"
+    ai.settings.PROVIDERS:
+      en: "LLM providers"
+      ru: "Провайдеры LLM"
+    ai.settings.NO_PROVIDERS:
+      en: "No provider is configured yet — the assistant cannot answer until one is added."
+      ru: "Провайдеры не настроены — ассистент не сможет отвечать, пока не добавлен хотя бы один."
+    ai.settings.DISABLED_HINT:
+      en: "The assistant is switched off in the configuration (Global.Ai.Enabled)."
+      ru: "Ассистент выключен в конфигурации (Global.Ai.Enabled)."
+    ai.settings.ADD:
+      en: "Add provider"
+      ru: "Добавить провайдера"
+    ai.settings.EDIT:
+      en: "Edit provider"
+      ru: "Редактирование провайдера"
+    ai.settings.ID:
+      en: "Id"
+      ru: "Идентификатор"
+    ai.settings.ID_HINT:
+      en: "Latin letters, digits, _ and -, up to 32 characters. Cannot be changed later."
+      ru: "Латиница, цифры, _ и -, до 32 символов. Потом не меняется."
+    ai.settings.DIALECT:
+      en: "Protocol"
+      ru: "Протокол"
+    ai.settings.BASE_URL:
+      en: "Base URL"
+      ru: "Базовый URL"
+    ai.settings.MODELS:
+      en: "Models"
+      ru: "Модели"
+    ai.settings.MODELS_HINT:
+      en: "One per line. This list is an allowlist — a model that is not here cannot be requested."
+      ru: "По одной в строке. Это белый список: модель, которой здесь нет, запросить нельзя."
+    ai.settings.FETCH_MODELS:
+      en: "Fetch from provider"
+      ru: "Запросить у провайдера"
+    ai.settings.KEY:
+      en: "API key"
+      ru: "Ключ API"
+    ai.settings.KEY_STORED:
+      en: "Stored key"
+      ru: "Сохранённый ключ"
+    ai.settings.KEY_KEEP:
+      en: "Leave empty to keep the stored key"
+      ru: "Оставьте пустым, чтобы сохранить текущий ключ"
+    ai.settings.KEY_HINT:
+      en: "The key is never shown back — only the first and last characters. It is stored outside the database and outside config.json."
+      ru: "Ключ никогда не показывается обратно — только первые и последние символы. Хранится вне базы и вне config.json."
+    ai.settings.KEY_CLEAR:
+      en: "Delete the stored key"
+      ru: "Удалить сохранённый ключ"
+    ai.settings.NO_KEY:
+      en: "no key"
+      ru: "нет ключа"
+    ai.settings.ENABLED:
+      en: "Enabled"
+      ru: "Включён"
+    ai.settings.OAUTH_SCOPE:
+      en: "OAuth scope"
+      ru: "OAuth scope"
+    ai.settings.INSECURE_TLS:
+      en: "Do not verify the TLS certificate (Russian Ministry of Digital Development CA)"
+      ru: "Не проверять TLS-сертификат (УЦ Минцифры)"
+    ai.settings.DEFAULTS:
+      en: "Default provider and model"
+      ru: "Провайдер и модель по умолчанию"
+    ai.settings.MODE:
+      en: "Mode and tool budget"
+      ru: "Режим и бюджет инструментов"
+    ai.settings.MAX_ITERATIONS:
+      en: "Tool rounds per answer"
+      ru: "Раундов инструментов на ответ"
+    ai.settings.MODE_HINT:
+      en: "The mode decides how far the assistant may go on its own. It is read once at the start of an answer, so widening it does not widen an answer already in flight."
+      ru: "Режим определяет, как далеко ассистент может зайти сам. Читается один раз в начале ответа, поэтому расширение прав не расширяет уже идущий ответ."
+    ai.settings.mode.read:
+      en: "read — observe only"
+      ru: "read — только наблюдение"
+    ai.settings.mode.ask:
+      en: "ask — confirm every change"
+      ru: "ask — подтверждать любое изменение"
+    ai.settings.mode.operate:
+      en: "operate — routine actions without asking"
+      ru: "operate — рутинные действия без подтверждения"
+    ai.settings.mode.admin:
+      en: "admin — act without asking"
+      ru: "admin — действовать без подтверждения"
+    ai.settings.DELETE_CONFIRM:
+      en: "Delete provider {{id}} and its stored key?"
+      ru: "Удалить провайдера {{id}} вместе с сохранённым ключом?"
+    ai.settings.FAILED:
+      en: "The operation failed"
+      ru: "Операция не удалась"
+    ai.TITLE:
+      en: "AI assistant"
+      ru: "ИИ-ассистент"
+    ai.TOGGLE:
+      en: "AI assistant"
+      ru: "ИИ-ассистент"
+    ai.NEW_CHAT:
+      en: "New chat"
+      ru: "Новый чат"
+    ai.PLACEHOLDER:
+      en: "Ask about a car, an order or a client…"
+      ru: "Спросите про машину, заказ или клиента…"
+    ai.SEND:
+      en: "Send"
+      ru: "Отправить"
+    ai.STOP:
+      en: "Stop"
+      ru: "Остановить"
+    ai.DOCK:
+      en: "Dock to the right"
+      ru: "Прикрепить справа"
+    ai.UNDOCK:
+      en: "Detach"
+      ru: "Открепить"
+    ai.MINIMIZE:
+      en: "Minimize"
+      ru: "Свернуть"
+    ai.CLOSE:
+      en: "Close"
+      ru: "Закрыть"
+    ai.ALLOW:
+      en: "Allow"
+      ru: "Разрешить"
+    ai.DECLINE:
+      en: "Decline"
+      ru: "Отклонить"
+    ai.ALLOWED:
+      en: "Allowed"
+      ru: "Разрешено"
+    ai.DECLINED:
+      en: "Declined"
+      ru: "Отклонено"
+    ai.CONFIRM_TITLE:
+      en: "The assistant asks for permission"
+      ru: "Ассистент запрашивает разрешение"
+    ai.ERROR:
+      en: "The assistant failed to answer"
+      ru: "Ассистент не смог ответить"
+    ai.DISABLED:
+      en: "The assistant is turned off in the configuration"
+      ru: "Ассистент выключен в конфигурации"
+    ai.BUSY:
+      en: "Too many assistant requests are running right now, try again in a moment"
+      ru: "Сейчас выполняется слишком много запросов к ассистенту, попробуйте чуть позже"
+    system.users.specialFeatures.AiAssistant:
+      en: AI assistant
+      ru: ИИ-ассистент
+    system.users.specialFeatures.AiAssistant.DESCRIPTION:
+      en: The assistant button in the admin panel toolbar. It can read the database, Redis and the in-memory caches of every instance.
+      ru: Кнопка ассистента в панели инструментов админки. Он может читать базу, Redis и кеши в памяти всех инстансов.
     system.users.specialFeatures.ResyncCarOrder:
       en: Resynchronizing a car order
       ru: Пересинхронизация заказа автомобиля
