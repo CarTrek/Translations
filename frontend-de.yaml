@@ -5340,6 +5340,102 @@ Sections:
       de: Unterschied anzeigen
     files.Download:
       de: Herunterladen
+    export.columns.TITLE:
+      de: Exportspalten
+    export.columns.CONFIGURE:
+      de: Spalten konfigurieren
+    export.columns.PRESET:
+      de: Vorlage
+    export.columns.PRESETNAME:
+      de: Vorlagenname
+    export.columns.SAVEAS:
+      de: Als Vorlage speichern
+    export.columns.SHARED:
+      de: Für alle Administratoren verfügbar
+    export.columns.SELECTED:
+      de: Ausgewählte Spalten
+    export.columns.DEFAULTS:
+      de: Standardsatz
+    export.columns.CLEAR:
+      de: Leeren
+    export.columns.USEDEFAULT:
+      de: Standardsatz verwenden
+    export.columns.groupOrder:
+      de: Fahrt
+    export.columns.groupCustomer:
+      de: Kunde
+    export.columns.groupCar:
+      de: Fahrzeug
+    export.columns.groupGeo:
+      de: Geografie
+    export.columns.groupMoney:
+      de: Tarifierung
+    export.columns.groupAcceptance:
+      de: Fahrzeugabnahme
+    orders.export.Id:
+      de: Fahrt-ID
+    orders.export.CustomerId:
+      de: Benutzer-ID
+    orders.export.BookDate:
+      de: Buchungsdatum
+    orders.export.BookTime:
+      de: Buchungszeit
+    orders.export.RentStartDate:
+      de: Startdatum der Fahrt
+    orders.export.RentStartTime:
+      de: Startzeit der Fahrt
+    orders.export.EndDate:
+      de: Enddatum der Fahrt
+    orders.export.EndTime:
+      de: Endzeit der Fahrt
+    orders.export.BeginZonesCoords:
+      de: Startzonen (Koordinaten)
+    orders.export.EndZonesCoords:
+      de: Endzonen (Koordinaten)
+    orders.export.StartPoint:
+      de: Startpunkt
+    orders.export.EndPoint:
+      de: Endpunkt
+    orders.export.IdleTime:
+      de: Standzeit vor der Miete
+    orders.export.FriendsPromoCode:
+      de: Promo-Code des Freundes
+    orders.export.RateUsageColumns:
+      de: Tarife (eine Spalte pro Tarif)
+    orders.export.RateModifiersNames:
+      de: Tarifmodifikatoren
+    orders.export.MultiplierRMDrive:
+      de: Modifikator-Multiplikator, Fahren
+    orders.export.MultiplierRMPark:
+      de: Modifikator-Multiplikator, Parken
+    orders.export.MultiplierMCDrive:
+      de: Kampagnen-Multiplikator, Fahren
+    orders.export.AdditionRMDrive:
+      de: Modifikator-Zuschlag, Fahren
+    orders.export.AdditionRMPark:
+      de: Modifikator-Zuschlag, Parken
+    orders.export.AdditionMCDrive:
+      de: Kampagnen-Zuschlag, Fahren
+    export.template.TITLE:
+      de: Vorlage für den Fahrtenexport
+    export.template.CONFIGURE:
+      de: Dateivorlage
+    export.template.HOWTO:
+      de: Laden Sie eine xlsx-Datei mit eigener Kopfzeile und eigenen Spaltentiteln hoch. Setzen Sie in der Zeile, in der die Daten beginnen sollen, Platzhalter aus der Liste unten ein, einen pro Zelle - diese Zeile wird durch den Bericht ersetzt und muss die letzte sein.
+    export.template.UPLOAD:
+      de: Vorlage hochladen
+    export.template.DOWNLOAD:
+      de: Herunterladen
+    export.template.REMOVE:
+      de: Entfernen
+    export.template.NOTEMPLATE:
+      de: Keine Vorlage hochgeladen - es wird das eingebaute Layout verwendet.
+    export.template.SHEET:
+      de: Blatt
+    export.template.PLACEHOLDERS:
+      de: Verfügbare Platzhalter
+    export.template.REJECTED:
+      de: "Die Vorlage wurde nicht akzeptiert:"
   ProfileFrontend:
     app.GENERICERROR:
       de: Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut...

@@ -11774,6 +11774,150 @@ Sections:
     files.Download:
       en: Download
       ru: Скачать
+    export.columns.TITLE:
+      en: Export columns
+      ru: Колонки выгрузки
+    export.columns.CONFIGURE:
+      en: Configure columns
+      ru: Настроить колонки
+    export.columns.PRESET:
+      en: Preset
+      ru: Шаблон
+    export.columns.PRESETNAME:
+      en: Preset name
+      ru: Название шаблона
+    export.columns.SAVEAS:
+      en: Save as preset
+      ru: Сохранить как шаблон
+    export.columns.SHARED:
+      en: Available to all admins
+      ru: Доступен всем администраторам
+    export.columns.SELECTED:
+      en: Selected columns
+      ru: Выбранные колонки
+    export.columns.DEFAULTS:
+      en: Default set
+      ru: Стандартный набор
+    export.columns.CLEAR:
+      en: Clear
+      ru: Очистить
+    export.columns.USEDEFAULT:
+      en: Use default set
+      ru: Использовать стандартный набор
+    export.columns.groupOrder:
+      en: Ride
+      ru: Поездка
+    export.columns.groupCustomer:
+      en: Customer
+      ru: Клиент
+    export.columns.groupCar:
+      en: Car
+      ru: Машина
+    export.columns.groupGeo:
+      en: Geography
+      ru: География
+    export.columns.groupMoney:
+      en: Rating
+      ru: Тарификация
+    export.columns.groupAcceptance:
+      en: Acceptance
+      ru: Приёмка
+    orders.export.Id:
+      en: Ride ID
+      ru: ID поездки
+    orders.export.CustomerId:
+      en: User ID
+      ru: User ID
+    orders.export.BookDate:
+      en: Booking date
+      ru: Дата брони
+    orders.export.BookTime:
+      en: Booking time
+      ru: Время брони
+    orders.export.RentStartDate:
+      en: Ride start date
+      ru: Дата начала поездки
+    orders.export.RentStartTime:
+      en: Ride start time
+      ru: Время начала поездки
+    orders.export.EndDate:
+      en: Ride end date
+      ru: Дата завершения поездки
+    orders.export.EndTime:
+      en: Ride end time
+      ru: Время окончания поездки
+    orders.export.BeginZonesCoords:
+      en: Start zones (coordinates)
+      ru: Зоны начала (координаты)
+    orders.export.EndZonesCoords:
+      en: End zones (coordinates)
+      ru: Зоны завершения (координаты)
+    orders.export.StartPoint:
+      en: Start point
+      ru: Точка начала
+    orders.export.EndPoint:
+      en: End point
+      ru: Точка завершения
+    orders.export.IdleTime:
+      en: Car idle before rent
+      ru: Простой машины до аренды
+    orders.export.FriendsPromoCode:
+      en: Friend promo code
+      ru: Промокод друга
+    orders.export.RateUsageColumns:
+      en: Rates (one column per rate)
+      ru: Тарифы (колонка на тариф)
+    orders.export.RateModifiersNames:
+      en: Rate modifiers
+      ru: Модификаторы тарифа
+    orders.export.MultiplierRMDrive:
+      en: Modifier multiplier, drive
+      ru: Множитель модификатора, движение
+    orders.export.MultiplierRMPark:
+      en: Modifier multiplier, park
+      ru: Множитель модификатора, парковка
+    orders.export.MultiplierMCDrive:
+      en: Campaign multiplier, drive
+      ru: Множитель кампании, движение
+    orders.export.AdditionRMDrive:
+      en: Modifier addition, drive
+      ru: Надбавка модификатора, движение
+    orders.export.AdditionRMPark:
+      en: Modifier addition, park
+      ru: Надбавка модификатора, парковка
+    orders.export.AdditionMCDrive:
+      en: Campaign addition, drive
+      ru: Надбавка кампании, движение
+    export.template.TITLE:
+      en: Orders export template
+      ru: Шаблон выгрузки заказов
+    export.template.CONFIGURE:
+      en: Export template
+      ru: Шаблон файла
+    export.template.HOWTO:
+      en: Upload an xlsx with your own header and column titles. In the row where the data must start, put placeholders from the list below, one per cell - that row is replaced by the report and must be the last one.
+      ru: Загрузите xlsx со своей шапкой и названиями колонок. В строке, с которой должны начинаться данные, проставьте плейсхолдеры из списка ниже, по одному в ячейку — эта строка заменяется отчётом и должна быть последней.
+    export.template.UPLOAD:
+      en: Upload template
+      ru: Загрузить шаблон
+    export.template.DOWNLOAD:
+      en: Download
+      ru: Скачать
+    export.template.REMOVE:
+      en: Remove
+      ru: Удалить
+    export.template.NOTEMPLATE:
+      en: No template uploaded - the built-in layout is used.
+      ru: Шаблон не загружен — используется стандартная выгрузка.
+    export.template.SHEET:
+      en: Sheet
+      ru: Лист
+    export.template.PLACEHOLDERS:
+      en: Available placeholders
+      ru: Доступные плейсхолдеры
+    export.template.REJECTED:
+      en: "The template was not accepted:"
+      ru: "Шаблон не принят:"
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
