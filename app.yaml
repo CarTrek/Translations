@@ -1680,6 +1680,9 @@ Sections:
     signin.tg-bot-button:
       en: "Log in with Telegram"
       ru: "Войти через Telegram"
+    signin.whatsapp-bot-button:
+      en: "Log in with WhatsApp"
+      ru: "Войти через WhatsApp"
     signin.sberid-button:
       en: "Log in with Sber ID"
       ru: "Войти по Сбер ID"
@@ -1692,6 +1695,9 @@ Sections:
     signin.id-ctms-auth:
       en: "Log in via Messenger"
       ru: "Авторизоваться через мессенджер"
+    signin.id-ctms-prepare-error:
+      en: "Couldn't start messenger sign-in. Please try again."
+      ru: "Не удалось начать вход через мессенджер. Попробуйте ещё раз."
     signin.enter-phone-number:
       en: "Enter phone number"
       ru: "Ввести номер телефона"
