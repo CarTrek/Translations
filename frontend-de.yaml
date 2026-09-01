@@ -3394,6 +3394,10 @@ Sections:
       de: WiFi-Koordinaten als Fahrzeugposition festlegen
     cars.editor.ConfirmFixWifiCoordinates:
       de: Möchten Sie die aktuellen WiFi-Koordinaten wirklich als Fahrzeugposition festlegen?
+    cars.editor.FixLbsCoordinates:
+      de: LBS-Koordinaten als Fahrzeugposition festlegen
+    cars.editor.ConfirmFixLbsCoordinates:
+      de: Möchten Sie die aktuellen LBS-Koordinaten wirklich als Fahrzeugposition festlegen?
     cars.editor.ConfirmReboot:
       de: Möchten Sie die Fahrzeugausrüstung wirklich neu starten? Für diese Funktion muss der SMS-Dienst aktiviert sein.
     cars.editor.ConfirmConfigure:
