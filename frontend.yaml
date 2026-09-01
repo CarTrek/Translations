@@ -429,6 +429,12 @@ Sections:
     iot.module.OPEN_IN_NEW_WINDOW:
       en: 'Open in a new window'
       ru: 'Открыть в новом окне'
+    iot.module.OPEN_TRACKER:
+      en: 'Tracker in IoT module'
+      ru: 'Трекер в модуле IoT'
+    iot.module.OPEN_LOGIC:
+      en: 'Logic in IoT module'
+      ru: 'Логика в модуле IoT'
     cache.control.TITLE:
       en: 'Cache Control'
       ru: 'Управление кешем'

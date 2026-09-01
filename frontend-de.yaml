@@ -106,6 +106,10 @@ Sections:
       de: 'IoT-Modul'
     iot.module.OPEN_IN_NEW_WINDOW:
       de: 'In neuem Fenster öffnen'
+    iot.module.OPEN_TRACKER:
+      de: 'Tracker im IoT-Modul'
+    iot.module.OPEN_LOGIC:
+      de: 'Logik im IoT-Modul'
     cache.control.TITLE:
       de: 'Cache-Verwaltung'
     cache.control.SELECT:
