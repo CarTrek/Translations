@@ -109,7 +109,7 @@ Sections:
     iot.module.OPEN_TRACKER:
       de: 'Tracker im IoT-Modul'
     iot.module.OPEN_LOGIC:
-      de: 'Logik im IoT-Modul'
+      de: 'Logik im IoT-Modul bearbeiten'
     cache.control.TITLE:
       de: 'Cache-Verwaltung'
     cache.control.SELECT:

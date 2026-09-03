@@ -433,8 +433,8 @@ Sections:
       en: 'Tracker in IoT module'
       ru: 'Трекер в модуле IoT'
     iot.module.OPEN_LOGIC:
-      en: 'Logic in IoT module'
-      ru: 'Логика в модуле IoT'
+      en: 'Edit logic in IoT module'
+      ru: 'Редактировать логику в модуле IoT'
     cache.control.TITLE:
       en: 'Cache Control'
       ru: 'Управление кешем'
