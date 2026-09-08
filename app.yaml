@@ -1689,6 +1689,12 @@ Sections:
     signin.id-ctms-prepare-error:
       en: "Unable to open the messenger. Please try again."
       ru: "Не удалось открыть мессенджер. Попробуйте ещё раз."
+    signin.id-ctms-authorizing:
+      en: "Authorizing, verifying your details"
+      ru: "Авторизация, ваши данные проверяются"
+    signin.id-ctms-authorizing-cancel:
+      en: "Cancel"
+      ru: "Отмена"
     signin.id-ctms-auth:
       en: "Log in via Messenger"
       ru: "Авторизоваться через мессенджер"
