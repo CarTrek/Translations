@@ -1,5 +1,20 @@
 Sections:
   Server:
+    DocumentPhotoReplacedNotification:
+      en: "📄 A customer re-sent a document"
+      ru: "📄 Клиент перезагрузил документ"
+    DocumentPhotoReplacedPreviousStatus:
+      en: "was: {0}"
+      ru: "было: {0}"
+    DocumentStatusValidation:
+      en: "under review"
+      ru: "на проверке"
+    DocumentStatusAccepted:
+      en: "accepted"
+      ru: "подтверждён"
+    DocumentStatusDeclined:
+      en: "declined"
+      ru: "отклонён"
     CarNotFound:
       en: 'Car not found'
       ru: 'Машина не найдена'
