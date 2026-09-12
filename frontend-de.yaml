@@ -83,7 +83,7 @@ Sections:
     hardware.control.DETACHED:
       de: 'Verbindung getrennt!'
     hardware.control.KILL:
-      de: 'Modul beenden'
+      de: 'Modul neu starten'
     hardware.control.RECREATE:
       de: 'Verbindung neu erstellen'
     hardware.control.STOP_CONN:

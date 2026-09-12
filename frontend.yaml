@@ -394,8 +394,8 @@ Sections:
       en: 'Detached connection!'
       ru: 'Отключённое соединение!'
     hardware.control.KILL:
-      en: 'Kill module'
-      ru: 'Завершить модуль'
+      en: 'Restart module'
+      ru: 'Перезапустить модуль'
     hardware.control.RECREATE:
       en: 'Recreate connection'
       ru: 'Пересоздать соединение'
