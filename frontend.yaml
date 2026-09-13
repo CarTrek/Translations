@@ -6147,27 +6147,6 @@ Sections:
     system.users.specialFeatures.IotModule.DESCRIPTION:
       en: Access to the IoT module section and to its console through the admin panel proxy.
       ru: Доступ к разделу модуля IoT и к его консоли через прокси админки.
-    ai.settings.IMAGE_MODELS:
-      en: "Models that accept images"
-      ru: "Модели, принимающие изображения"
-    ai.settings.IMAGE_MODELS_HINT:
-      en: "One per line, from the list above. Mark only models that really see images: some servers (DeepSeek) silently replace an image a text-only model cannot see."
-      ru: "По одной в строке, из списка выше. Отмечайте только модели, которые действительно видят картинки: некоторые серверы (DeepSeek) молча подменяют картинку, если модель её не видит."
-    ai.settings.IMAGE_MODELS_ANTHROPIC:
-      en: "All Claude models accept images — nothing to mark."
-      ru: "Все модели Claude принимают изображения — отмечать ничего не нужно."
-    ai.settings.VISION:
-      en: "Model for reading screenshots"
-      ru: "Модель для разбора скриншотов"
-    ai.settings.VISION_NONE:
-      en: "Not set — send screenshots to the chat model"
-      ru: "Не задана — отправлять скриншоты модели чата"
-    ai.settings.VISION_HINT:
-      en: "When the chat model cannot see images, this model reads the screenshot first and passes its text on. It can be the same provider — for DeepSeek, deepseek-flash reads screenshots for deepseek-v4-pro."
-      ru: "Если модель чата не видит картинки, эта модель сначала читает скриншот и передаёт текст дальше. Провайдер может быть тем же — например, для DeepSeek скриншоты для deepseek-v4-pro читает deepseek-flash."
-    ai.settings.VISION_EMPTY:
-      en: "No model is marked as accepting images yet — mark one in a provider first."
-      ru: "Пока ни одна модель не отмечена как принимающая изображения — сначала отметьте её у провайдера."
     ai.settings.TITLE:
       en: "Assistant settings"
       ru: "Настройки ассистента"
@@ -6324,9 +6303,6 @@ Sections:
     ai.usage.ROUNDS:
       en: "Model calls in this answer: {{n}}"
       ru: "Обращений к модели в этом ответе: {{n}}"
-    ai.usage.VISION:
-      en: "of which screenshot reading: {{input}} → {{output}} tok"
-      ru: "из них разбор скриншота: {{input}} → {{output}} tok"
     ai.usage.INPUT_MEANING:
       en: "Input tokens are summed over every call: the whole context (instructions, history, tool results) is re-sent on each round."
       ru: "Входные токены суммируются по всем обращениям: весь контекст (инструкции, история, результаты инструментов) отправляется заново на каждом раунде."
