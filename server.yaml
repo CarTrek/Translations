@@ -1,5 +1,17 @@
 Sections:
   Server:
+    DocumentPhotoFileRequired:
+      en: "Attach a photo of the document"
+      ru: "Приложите фото документа"
+    DocumentPhotoUnknownFieldName:
+      en: "Unknown document: {0}"
+      ru: "Неизвестный документ: {0}"
+    DocumentPhotoAlreadyAccepted:
+      en: "This document has already been verified and accepted, it cannot be replaced"
+      ru: "Этот документ уже проверен и принят, заменить его нельзя"
+    DocumentPhotoUploadTooOften:
+      en: "This document has just been uploaded. Please wait {0} s before sending it again"
+      ru: "Этот документ только что был загружен. Подождите {0} с, прежде чем отправлять его снова"
     DocumentPhotoReplacedNotification:
       en: "📄 A customer re-sent a document"
       ru: "📄 Клиент перезагрузил документ"
