@@ -6229,11 +6229,17 @@ Sections:
       en: "Default provider and model"
       ru: "Провайдер и модель по умолчанию"
     ai.settings.MODE:
-      en: "Mode and tool budget"
-      ru: "Режим и бюджет инструментов"
+      en: "Mode and per-answer limit"
+      ru: "Режим и лимит на ответ"
     ai.settings.MAX_ITERATIONS:
-      en: "Tool rounds per answer"
-      ru: "Раундов инструментов на ответ"
+      en: "Model calls per answer"
+      ru: "Обращений к модели за ответ"
+    ai.settings.MODE_LABEL:
+      en: "Mode"
+      ru: "Режим"
+    ai.settings.MAX_ITERATIONS_HINT:
+      en: "How many times the assistant may call the model while answering one question. Every tool it uses (a database query, a log search) takes one extra call, and each call re-sends the whole context, so the cost of an answer grows with this number. When the limit is reached the answer stops with a note. 8 is enough for most questions; the tooltip under an answer shows how many calls it actually took."
+      ru: "Сколько раз ассистент может обратиться к модели, отвечая на один вопрос. Каждый инструмент (запрос в базу, поиск по логам) — это ещё одно обращение, и в каждом заново отправляется весь контекст, поэтому стоимость ответа растёт вместе с этим числом. По исчерпании ответ обрывается с пометкой. Для большинства вопросов хватает 8; в подсказке под ответом видно, сколько обращений ушло на самом деле."
     ai.settings.MODE_HINT:
       en: "The mode decides how far the assistant may go on its own. It is read once at the start of an answer, so widening it does not widen an answer already in flight."
       ru: "Режим определяет, как далеко ассистент может зайти сам. Читается один раз в начале ответа, поэтому расширение прав не расширяет уже идущий ответ."
