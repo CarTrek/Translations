@@ -6255,6 +6255,36 @@ Sections:
     ai.settings.FAILED:
       en: "The operation failed"
       ru: "Операция не удалась"
+    ai.ATTACH:
+      en: "Attach a screenshot (or paste one with Ctrl+V)"
+      ru: "Прикрепить скриншот (или вставить через Ctrl+V)"
+    ai.ATTACH_REMOVE:
+      en: "Remove"
+      ru: "Убрать"
+    ai.ATTACH_PRIVACY:
+      en: "Screenshots are sent to the AI provider as they are — personal data visible on screen cannot be hidden. They are not stored in the chat history."
+      ru: "Скриншоты уходят AI-провайдеру как есть — персональные данные на экране скрыть нельзя. В истории чата они не сохраняются."
+    ai.DROP_HERE:
+      en: "Drop the screenshot here"
+      ru: "Отпустите скриншот здесь"
+    ai.ATTACH_NOT_IMAGE:
+      en: "Only images can be attached"
+      ru: "Прикрепить можно только изображение"
+    ai.ATTACH_TOO_LARGE:
+      en: "The image is too large"
+      ru: "Изображение слишком большое"
+    ai.ATTACH_FAILED:
+      en: "The image could not be read"
+      ru: "Не удалось прочитать изображение"
+    ai.ATTACH_LIMIT:
+      en: "At most {{max}} screenshots per message"
+      ru: "Не больше {{max}} скриншотов в одном сообщении"
+    ai.SCREENSHOT_DEFAULT:
+      en: "Look at the screenshot: what is the error, and find it in the logs."
+      ru: "Посмотри скриншот: что за ошибка — и найди её в логах."
+    ai.ACCESS_DENIED:
+      en: "You do not have access to the assistant"
+      ru: "Нет доступа к ассистенту"
     ai.TITLE:
       en: "AI assistant"
       ru: "ИИ-ассистент"
