@@ -33,4 +33,5 @@ npm-debug.log*
 /www
 /distrib
 /YamlValidator/obj
+/YamlValidator/bin
 /tmp
