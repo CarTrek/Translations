@@ -6312,6 +6312,9 @@ Sections:
     ai.usage.INPUT_MEANING:
       en: "Input tokens are summed over every call: the whole context (instructions, history, tool results) is re-sent on each round."
       ru: "Входные токены суммируются по всем обращениям: весь контекст (инструкции, история, результаты инструментов) отправляется заново на каждом раунде."
+    ai.TOOLS_USED:
+      en: "Tools used: {{n}}"
+      ru: "Инструментов использовано: {{n}}"
     ai.TITLE:
       en: "AI assistant"
       ru: "ИИ-ассистент"
