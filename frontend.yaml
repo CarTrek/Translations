@@ -6306,6 +6306,30 @@ Sections:
     ai.ACCESS_DENIED:
       en: "You do not have access to the assistant"
       ru: "Нет доступа к ассистенту"
+    ai.history.TITLE:
+      en: "Chat history"
+      ru: "История чатов"
+    ai.history.EMPTY:
+      en: "No saved chats yet"
+      ru: "Сохранённых чатов пока нет"
+    ai.history.DELETE:
+      en: "Delete this chat"
+      ru: "Удалить этот чат"
+    ai.history.DELETE_CONFIRM:
+      en: "Delete this chat and its messages?"
+      ru: "Удалить этот чат вместе с сообщениями?"
+    ai.history.GONE:
+      en: "This chat no longer exists"
+      ru: "Этого чата больше нет"
+    ai.usage.ROUNDS:
+      en: "Model calls in this answer: {{n}}"
+      ru: "Обращений к модели в этом ответе: {{n}}"
+    ai.usage.VISION:
+      en: "of which screenshot reading: {{input}} → {{output}} tok"
+      ru: "из них разбор скриншота: {{input}} → {{output}} tok"
+    ai.usage.INPUT_MEANING:
+      en: "Input tokens are summed over every call: the whole context (instructions, history, tool results) is re-sent on each round."
+      ru: "Входные токены суммируются по всем обращениям: весь контекст (инструкции, история, результаты инструментов) отправляется заново на каждом раунде."
     ai.TITLE:
       en: "AI assistant"
       ru: "ИИ-ассистент"
