@@ -102,6 +102,64 @@ Sections:
       de: 'Aktiviert'
     hardware.control.DISABLED:
       de: 'Deaktiviert'
+    hardware.control.DISTRIBS_TITLE:
+      de: 'IoT-Distributionen'
+    hardware.control.DISTRIBS_HINT:
+      de: 'Einträge in Global.ModulesController.Modules, deren ExePath "iot_distribs" enthält — einer pro laufender Modulinstanz. Ein neuer Build wird in einen Nachbarordner kopiert; der Ordnerwechsel stoppt das Modul und startet es aus dem neuen Ordner mit demselben Startargument. Die Konfigurationen (config.json, hardware.json, KI-Schlüssel) liegen im Argumentverzeichnis, standardmäßig "../", und werden nicht kopiert.'
+    hardware.control.DISTRIBS_RUNNING:
+      de: 'Läuft'
+    hardware.control.DISTRIBS_STOPPED:
+      de: 'Gestoppt'
+    hardware.control.DISTRIBS_AUTOSTART_OFF:
+      de: 'AutoStart ist aus — der Monolith startet es nicht selbst'
+    hardware.control.DISTRIBS_EXE_MISSING:
+      de: 'Programmdatei nicht gefunden'
+    hardware.control.DISTRIBS_UPTIME:
+      de: 'Laufzeit'
+    hardware.control.DISTRIBS_STARTED:
+      de: 'gestartet'
+    hardware.control.DISTRIBS_PID:
+      de: 'PID'
+    hardware.control.DISTRIBS_FOLDER:
+      de: 'Distributionsordner'
+    hardware.control.DISTRIBS_SWITCH:
+      de: 'Ordner wechseln'
+    hardware.control.DISTRIBS_NO_OTHER_FOLDERS:
+      de: 'keine weiteren Ordner mit dem Modul daneben'
+    hardware.control.DISTRIBS_CONFIRM_SWITCH:
+      de: '{{from}} → {{to}} wechseln? Das laufende Modul wird gestoppt und aus dem neuen Ordner gestartet.'
+    hardware.control.DISTRIBS_SWITCHED:
+      de: 'Zu {{to}} gewechselt; das Modul startet aus dem neuen Ordner.'
+    hardware.control.DISTRIBS_CONFIG_DIR:
+      de: 'Konfigurationsordner'
+    hardware.control.DISTRIBS_CONFIG_MISSING:
+      de: 'config.json existiert noch nicht; Speichern legt sie an'
+    hardware.control.DISTRIBS_PARAMS:
+      de: 'Startargument (Konfigurationsordner)'
+    hardware.control.DISTRIBS_PARAMS_NOT_SET:
+      de: 'nicht gesetzt — Konfigurationen neben der exe'
+    hardware.control.DISTRIBS_APPLY:
+      de: 'Übernehmen'
+    hardware.control.DISTRIBS_RESTART:
+      de: 'Neu starten'
+    hardware.control.DISTRIBS_START:
+      de: 'Starten'
+    hardware.control.DISTRIBS_WARN_DUPLICATE_ENTRIES:
+      de: 'Zwei Einträge haben denselben ExePath und dasselbe Startargument — ihre Prozesse lassen sich nicht unterscheiden. Jeder Instanz einen eigenen Konfigurationsordner geben.'
+    hardware.control.DISTRIBS_CONFIRM_RESTART:
+      de: 'Modul aus {{folder}} neu starten?'
+    hardware.control.DISTRIBS_EDIT_CONFIG:
+      de: 'config.json bearbeiten'
+    hardware.control.DISTRIBS_SAVE:
+      de: 'Speichern'
+    hardware.control.DISTRIBS_CANCEL:
+      de: 'Abbrechen'
+    hardware.control.DISTRIBS_RESTART_REQUIRED:
+      de: 'Gespeichert. Modul neu starten, um zu übernehmen.'
+    hardware.control.DISTRIBS_UNKNOWN:
+      de: 'Modul läuft aus einem Ordner, der nicht in config.json steht'
+    hardware.control.DISTRIBS_WARN_DO_NOT_KILL_UNSET:
+      de: 'Einige Einträge haben DoNotKillIfAlreadyRun=false: der Starter würde das Modul alle 10 s neu starten. Beim Startargument eines solchen Eintrags „Übernehmen“ drücken, um das zu beheben.'
     iot.module.DEFAULT_NAME:
       de: 'IoT-Modul'
     iot.module.OPEN_IN_NEW_WINDOW:

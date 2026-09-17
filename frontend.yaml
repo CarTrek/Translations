@@ -423,6 +423,93 @@ Sections:
     hardware.control.DISABLED:
       en: 'Disabled'
       ru: 'Отключён'
+    hardware.control.DISTRIBS_TITLE:
+      en: 'IoT distribs'
+      ru: 'Дистрибутивы IoT'
+    hardware.control.DISTRIBS_HINT:
+      en: 'Entries of Global.ModulesController.Modules whose ExePath contains "iot_distribs" — one per running module instance. A new build is copied into a sibling folder; switching an entry to it stops the module and starts it from the new folder with the same launch argument. Configs (config.json, hardware.json, AI keys) live in the argument directory, "../" by default, so nothing is copied.'
+      ru: 'Записи Global.ModulesController.Modules, у которых ExePath содержит "iot_distribs" — по одной на работающий экземпляр модуля. Новая сборка копируется в соседнюю папку; смена папки останавливает модуль и запускает его из новой папки с тем же аргументом запуска. Конфиги (config.json, hardware.json, ключи ИИ) лежат в папке из аргумента, по умолчанию "../", и никуда не копируются.'
+    hardware.control.DISTRIBS_RUNNING:
+      en: 'Running'
+      ru: 'Работает'
+    hardware.control.DISTRIBS_STOPPED:
+      en: 'Stopped'
+      ru: 'Остановлен'
+    hardware.control.DISTRIBS_AUTOSTART_OFF:
+      en: 'AutoStart is off — the monolith will not start it by itself'
+      ru: 'AutoStart выключен — монолит сам его не запустит'
+    hardware.control.DISTRIBS_EXE_MISSING:
+      en: 'Executable not found'
+      ru: 'Исполняемый файл не найден'
+    hardware.control.DISTRIBS_UPTIME:
+      en: 'Uptime'
+      ru: 'Аптайм'
+    hardware.control.DISTRIBS_STARTED:
+      en: 'started'
+      ru: 'запущен'
+    hardware.control.DISTRIBS_PID:
+      en: 'PID'
+      ru: 'PID'
+    hardware.control.DISTRIBS_FOLDER:
+      en: 'Distrib folder'
+      ru: 'Папка дистрибутива'
+    hardware.control.DISTRIBS_SWITCH:
+      en: 'Switch folder'
+      ru: 'Сменить папку'
+    hardware.control.DISTRIBS_NO_OTHER_FOLDERS:
+      en: 'no other folders with the module next to this one'
+      ru: 'рядом нет других папок с модулем'
+    hardware.control.DISTRIBS_CONFIRM_SWITCH:
+      en: 'Switch {{from}} → {{to}}? The running module will be stopped and started from the new folder.'
+      ru: 'Сменить {{from}} → {{to}}? Работающий модуль будет остановлен и запущен из новой папки.'
+    hardware.control.DISTRIBS_SWITCHED:
+      en: 'Switched to {{to}}; the module is starting from the new folder.'
+      ru: 'Папка сменена на {{to}}; модуль запускается из новой папки.'
+    hardware.control.DISTRIBS_CONFIG_DIR:
+      en: 'Config directory'
+      ru: 'Папка конфигов'
+    hardware.control.DISTRIBS_CONFIG_MISSING:
+      en: 'config.json does not exist yet; saving will create it'
+      ru: 'config.json ещё нет; сохранение создаст его'
+    hardware.control.DISTRIBS_PARAMS:
+      en: 'Launch argument (config directory)'
+      ru: 'Аргумент запуска (папка конфигов)'
+    hardware.control.DISTRIBS_PARAMS_NOT_SET:
+      en: 'not set — configs next to the exe'
+      ru: 'не задан — конфиги рядом с exe'
+    hardware.control.DISTRIBS_APPLY:
+      en: 'Apply'
+      ru: 'Применить'
+    hardware.control.DISTRIBS_RESTART:
+      en: 'Restart'
+      ru: 'Перезапустить'
+    hardware.control.DISTRIBS_START:
+      en: 'Start'
+      ru: 'Запустить'
+    hardware.control.DISTRIBS_WARN_DUPLICATE_ENTRIES:
+      en: 'Two entries have the same ExePath and the same launch argument — their processes cannot be told apart. Give each instance its own config directory.'
+      ru: 'У двух записей одинаковые ExePath и аргумент запуска — их процессы невозможно различить. Задайте каждому экземпляру свою папку конфигов.'
+    hardware.control.DISTRIBS_CONFIRM_RESTART:
+      en: 'Restart the module from {{folder}}?'
+      ru: 'Перезапустить модуль из {{folder}}?'
+    hardware.control.DISTRIBS_EDIT_CONFIG:
+      en: 'Edit config.json'
+      ru: 'Редактировать config.json'
+    hardware.control.DISTRIBS_SAVE:
+      en: 'Save'
+      ru: 'Сохранить'
+    hardware.control.DISTRIBS_CANCEL:
+      en: 'Cancel'
+      ru: 'Отмена'
+    hardware.control.DISTRIBS_RESTART_REQUIRED:
+      en: 'Saved. Restart the module to apply.'
+      ru: 'Сохранено. Для применения перезапустите модуль.'
+    hardware.control.DISTRIBS_UNKNOWN:
+      en: 'Module running from a folder not listed in config.json'
+      ru: 'Модуль запущен из папки, которой нет в config.json'
+    hardware.control.DISTRIBS_WARN_DO_NOT_KILL_UNSET:
+      en: 'Some entries have DoNotKillIfAlreadyRun=false: the launcher would restart the module every 10 s. Apply the launch argument on such an entry to fix.'
+      ru: 'У части записей DoNotKillIfAlreadyRun=false: запускатель будет перезапускать модуль каждые 10 с. Нажмите «Применить» у аргумента запуска такой записи, чтобы исправить.'
     iot.module.DEFAULT_NAME:
       en: 'IoT Module'
       ru: 'Модуль IoT'
