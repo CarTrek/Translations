@@ -105,7 +105,7 @@ Sections:
     hardware.control.DISTRIBS_TITLE:
       de: 'IoT-Distributionen'
     hardware.control.DISTRIBS_HINT:
-      de: 'Einträge in Global.ModulesController.Modules, deren ExePath "iot_distribs" enthält — einer pro laufender Modulinstanz. Ein neuer Build wird in einen Nachbarordner kopiert; der Ordnerwechsel stoppt das Modul und startet es aus dem neuen Ordner mit demselben Startargument. Die Konfigurationen (config.json, hardware.json, KI-Schlüssel) liegen im Argumentverzeichnis, standardmäßig "../", und werden nicht kopiert.'
+      de: 'Einträge in Global.ModulesController.Modules, deren ExePath "iot_distribs" enthält — einer pro laufender Modulinstanz. Ein neuer Build wird in einen Nachbarordner kopiert; der Ordnerwechsel stoppt das Modul und startet es aus dem neuen Ordner mit demselben Startargument. Die Konfigurationen (config.json, hardware.json, KI-Schlüssel) liegen im Argumentverzeichnis, standardmäßig "../config", und werden nicht kopiert.'
     hardware.control.DISTRIBS_RUNNING:
       de: 'Läuft'
     hardware.control.DISTRIBS_STOPPED:

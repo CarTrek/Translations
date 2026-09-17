@@ -427,8 +427,8 @@ Sections:
       en: 'IoT distribs'
       ru: 'Дистрибутивы IoT'
     hardware.control.DISTRIBS_HINT:
-      en: 'Entries of Global.ModulesController.Modules whose ExePath contains "iot_distribs" — one per running module instance. A new build is copied into a sibling folder; switching an entry to it stops the module and starts it from the new folder with the same launch argument. Configs (config.json, hardware.json, AI keys) live in the argument directory, "../" by default, so nothing is copied.'
-      ru: 'Записи Global.ModulesController.Modules, у которых ExePath содержит "iot_distribs" — по одной на работающий экземпляр модуля. Новая сборка копируется в соседнюю папку; смена папки останавливает модуль и запускает его из новой папки с тем же аргументом запуска. Конфиги (config.json, hardware.json, ключи ИИ) лежат в папке из аргумента, по умолчанию "../", и никуда не копируются.'
+      en: 'Entries of Global.ModulesController.Modules whose ExePath contains "iot_distribs" — one per running module instance. A new build is copied into a sibling folder; switching an entry to it stops the module and starts it from the new folder with the same launch argument. Configs (config.json, hardware.json, AI keys) live in the argument directory, "../config" by default, so nothing is copied.'
+      ru: 'Записи Global.ModulesController.Modules, у которых ExePath содержит "iot_distribs" — по одной на работающий экземпляр модуля. Новая сборка копируется в соседнюю папку; смена папки останавливает модуль и запускает его из новой папки с тем же аргументом запуска. Конфиги (config.json, hardware.json, ключи ИИ) лежат в папке из аргумента, по умолчанию "../config", и никуда не копируются.'
     hardware.control.DISTRIBS_RUNNING:
       en: 'Running'
       ru: 'Работает'
