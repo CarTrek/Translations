@@ -5629,6 +5629,11 @@ Sections:
       ka: პარამეტრების ნახვა
       en: View settings
       ru: Просмотр настроек
+    RightMassControlCarsInZone:
+      cs: Hromadné příkazy pro všechna vozidla zóny
+      en: Mass commands to all cars of a zone
+      ru: Массовые команды машинам зоны
+      uk: Масові команди всім автомобілям зони
     RightMobilizeCars:
       cs: odblokovávat vozidla
       ka: ავტომანქანების განბლოკვა

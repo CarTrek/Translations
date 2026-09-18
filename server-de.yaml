@@ -2590,6 +2590,8 @@ Sections:
       de: Sperren anzeigen
     RightManageSettings:
       de: Einstellungen anzeigen
+    RightMassControlCarsInZone:
+      de: Massenbefehle für alle Fahrzeuge einer Zone
     RightMobilizeCars:
       de: Fahrzeuge entsperren
     RightOpenAndCloseCars:
