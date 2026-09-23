@@ -776,6 +776,9 @@ Sections:
     cars.options.list:
       en: "Options list"
       ru: "Список опций"
+    cars.options.showInAppFilter:
+      en: "Show in the app filter"
+      ru: "Показывать в фильтре приложения"
     aside.nav.cars.options:
       en: "Car options"
       ru: "Доп. опции машин"

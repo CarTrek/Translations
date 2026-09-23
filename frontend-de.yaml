@@ -336,6 +336,8 @@ Sections:
       de: "Niemals vor Buchung"
     cars.options.list:
       de: "Optionsliste"
+    cars.options.showInAppFilter:
+      de: "Im App-Filter anzeigen"
     aside.nav.cars.options:
       de: "Fahrzeugoptionen"
     rates.RemoveDriverFromOrganizationsOnRentEnd:
