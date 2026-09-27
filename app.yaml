@@ -1698,6 +1698,96 @@ Sections:
     signin.id-ctms-auth:
       en: "Log in via Messenger"
       ru: "Авторизоваться через мессенджер"
+    signin.email-auth:
+      en: "Sign in with email"
+      ru: "Войти по email"
+    signin.email-title:
+      en: "Sign in with email"
+      ru: "Вход по email"
+    signin.email-enter:
+      en: "Enter your email: we will send you a sign-in code"
+      ru: "Введите email: мы пришлём код для входа"
+    signin.email-placeholder:
+      en: "Email"
+      ru: "Email"
+    signin.captcha-placeholder:
+      en: "Characters from the picture"
+      ru: "Символы с картинки"
+    signin.email-send-code:
+      en: "Get the code"
+      ru: "Получить код"
+    signin.email-code-sent:
+      en: "We have sent a code to {email}"
+      ru: "Мы отправили код на {email}"
+    signin.email-code-placeholder:
+      en: "Code from the email"
+      ru: "Код из письма"
+    signin.email-code-or-link:
+      en: "You can also tap the button in the email on this phone"
+      ru: "Можно также нажать кнопку в письме на этом телефоне"
+    signin.email-change:
+      en: "Not {email}? Change the email"
+      ru: "Не {email}? Изменить email"
+    signin.email-sign-in:
+      en: "Sign in"
+      ru: "Войти"
+    signin.email-code-wrong:
+      en: "Wrong or expired code"
+      ru: "Неверный или устаревший код"
+    signin.email-code-expired:
+      en: "The code or the link is not valid anymore. Request a new code"
+      ru: "Код или ссылка больше не действуют. Запросите новый код"
+    signin.email-link-checking:
+      en: "Signing you in…"
+      ru: "Выполняем вход…"
+    signin.email-not-found-title:
+      en: "Email not found"
+      ru: "Email не найден"
+    signin.email-not-found:
+      en: "There is no account with {email}. If you have already signed up, contact support. New here? Sign up"
+      ru: "Аккаунта с {email} нет. Если вы уже зарегистрированы, напишите в поддержку. Впервые у нас? Зарегистрируйтесь"
+    signin.email-ambiguous-title:
+      en: "Please contact support"
+      ru: "Напишите в поддержку"
+    signin.email-ambiguous:
+      en: "{email} is used in several accounts. Support will help you sign in"
+      ru: "{email} указан в нескольких аккаунтах. Поддержка поможет войти"
+    signin.email-support:
+      en: "Support:"
+      ru: "Поддержка:"
+    signin.email-signup:
+      en: "Sign up"
+      ru: "Зарегистрироваться"
+    signin.email-signup-phone:
+      en: "Enter your phone number"
+      ru: "Укажите номер телефона"
+    signin.email-signup-phone-hint:
+      en: "You will confirm it by SMS once your account is approved"
+      ru: "Его нужно будет подтвердить по SMS после одобрения аккаунта"
+    signin.email-signup-continue:
+      en: "Continue"
+      ru: "Продолжить"
+    signin.email-use-phone:
+      en: "Sign in with phone number"
+      ru: "Войти по номеру телефона"
+    phone-confirmation.title:
+      en: "Phone number"
+      ru: "Номер телефона"
+    phone-confirmation.description:
+      en: "Confirm your phone number by SMS to start renting"
+      ru: "Подтвердите номер телефона по SMS, чтобы начать аренду"
+    phone-confirmation.send-code:
+      en: "Get the SMS code"
+      ru: "Получить код по SMS"
+    phone-confirmation.code-sent:
+      en: "Enter the code sent to {phone-number}"
+      ru: "Введите код, отправленный на {phone-number}"
+    phone-confirmation.confirm:
+      en: "Confirm"
+      ru: "Подтвердить"
+    phone-confirmation.done:
+      en: "Phone number is confirmed"
+      ru: "Номер телефона подтверждён"
     signin.enter-phone-number:
       en: "Enter phone number"
       ru: "Ввести номер телефона"
