@@ -82,6 +82,78 @@ Sections:
     EmailSendTokenEmailTopic:
       en: "{code} - your verification code"
       ru: "{code} - ваш код для входа"
+    EmailSignupEnterVerifiedEmail:
+      en: "Enter the email you signed in with: {email}"
+      ru: "Укажите email, с которым вы вошли: {email}"
+    UserWarningConfirmPhoneNumber:
+      en: "Confirm your phone number to start renting"
+      ru: "Подтвердите номер телефона, чтобы начать аренду"
+    BookCarResultFailedPhoneNotConfirmed:
+      en: "Confirm your phone number by SMS to start renting"
+      ru: "Чтобы начать аренду, подтвердите номер телефона по SMS"
+    EmailCodeSendCodeDisabled:
+      en: "Sign-in by email is not available"
+      ru: "Вход по email недоступен"
+    EmailCodeSendCodeInvalidEmailFormat:
+      en: "Check the email address"
+      ru: "Проверьте адрес email"
+    EmailCodeSendCodeTooEarly:
+      en: "The code has just been sent. Wait a minute before requesting a new one"
+      ru: "Код только что отправлен. Подождите минуту, прежде чем запросить новый"
+    EmailCodeSendCodeNotSent:
+      en: "Could not send the email. Try again later or sign in with your phone number"
+      ru: "Не удалось отправить письмо. Попробуйте позже или войдите по номеру телефона"
+    EmailSignInCodeDisabled:
+      en: "Sign-in by email is not available"
+      ru: "Вход по email недоступен"
+    EmailSignInCodeInvalidEmailFormat:
+      en: "Check the email address"
+      ru: "Проверьте адрес email"
+    EmailSignInCodeRejected:
+      en: "Wrong or expired code"
+      ru: "Неверный или устаревший код"
+    EmailSignInCodeLinkIsInvalid:
+      en: "The link is already used or expired. Request a new code"
+      ru: "Ссылка уже использована или устарела. Запросите новый код"
+    EmailSignInCodeUserNotFound:
+      en: "No account with this email. If you have already signed up, contact support"
+      ru: "Аккаунт с таким email не найден. Если вы уже зарегистрированы, напишите в поддержку"
+    EmailSignInCodeEmailAmbiguous:
+      en: "Several accounts have this email. Please contact support"
+      ru: "Этот email указан в нескольких аккаунтах. Пожалуйста, напишите в поддержку"
+    EmailSignInCodeUserBlocked:
+      en: "Your account is blocked"
+      ru: "Ваш аккаунт заблокирован"
+    EmailSignupPhoneCodeDisabled:
+      en: "Sign-up by email is not available"
+      ru: "Регистрация по email недоступна"
+    EmailSignupPhoneCodeEmailNotVerified:
+      en: "Confirm your email first"
+      ru: "Сначала подтвердите email"
+    EmailSignupPhoneCodeEmailAlreadyRegistered:
+      en: "An account with this email already exists. Sign in with it"
+      ru: "Аккаунт с этим email уже есть. Войдите в него"
+    EmailSignupPhoneCodePhoneNumberAlreadyTaken:
+      en: "This phone number is already used. Sign in with it or contact support"
+      ru: "Этот номер телефона уже используется. Войдите по нему или напишите в поддержку"
+    EmailSignupPhoneCodeSignupChatDisabled:
+      en: "Sign-up is not available"
+      ru: "Регистрация недоступна"
+    PhoneConfirmationCodeNotRequired:
+      en: "Your phone number is already confirmed"
+      ru: "Номер телефона уже подтверждён"
+    PhoneConfirmationCodePhoneNumberAlreadyTaken:
+      en: "This phone number belongs to another account. Contact support"
+      ru: "Этот номер телефона привязан к другому аккаунту. Напишите в поддержку"
+    PhoneConfirmationCodeRejected:
+      en: "Wrong code"
+      ru: "Неверный код"
+    PhoneConfirmationCodeCodeHasExpired:
+      en: "The code has expired. Request a new one"
+      ru: "Срок действия кода истёк. Запросите новый"
+    PhoneConfirmationCodeMaxNumberOfAttemptsExceeded:
+      en: "Too many attempts. Request a new code later"
+      ru: "Слишком много попыток. Запросите новый код позже"
     ContractSignedPushMessage:
       en: "You signed version #{versionNumber} of the Contract"
       ru: "Вы подписали версию Договора №{versionNumber}"
