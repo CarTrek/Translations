@@ -124,6 +124,15 @@ Sections:
     EmailSignInCodeUserBlocked:
       en: "Your account is blocked"
       ru: "Ваш аккаунт заблокирован"
+    EmailHandoffCodeDisabled:
+      en: "Sign-in by email is not available"
+      ru: "Вход по email недоступен"
+    EmailHandoffCodeLinkIsInvalid:
+      en: "The link is already used or expired. Request a new code"
+      ru: "Ссылка уже использована или устарела. Запросите новый код"
+    EmailHandoffCodeHandoffIsInvalid:
+      en: "The sign-in has expired. Enter your email again"
+      ru: "Время на вход истекло. Введите email ещё раз"
     EmailSignupPhoneCodeDisabled:
       en: "Sign-up by email is not available"
       ru: "Регистрация по email недоступна"

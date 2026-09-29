@@ -1770,6 +1770,24 @@ Sections:
     signin.email-use-phone:
       en: "Sign in with phone number"
       ru: "Войти по номеру телефона"
+    signin.email-install-title:
+      en: "Sign in in the app"
+      ru: "Вход в приложении"
+    signin.email-install:
+      en: "The app is not installed on this phone yet. Install it: after the install it will offer to sign in with this email"
+      ru: "На этом телефоне ещё нет приложения. Установите его: после установки оно предложит войти с этим email"
+    signin.email-install-app:
+      en: "Install the app"
+      ru: "Установить приложение"
+    signin.email-continue-in-browser:
+      en: "Continue in the browser"
+      ru: "Продолжить в браузере"
+    signin.email-handoff-title:
+      en: "Welcome!"
+      ru: "Добро пожаловать!"
+    signin.email-handoff:
+      en: "Continue as {email}: we will send a sign-in code to this email"
+      ru: "Продолжить как {email}: мы отправим код для входа на этот email"
     phone-confirmation.title:
       en: "Phone number"
       ru: "Номер телефона"
