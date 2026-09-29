@@ -37,6 +37,123 @@ Sections:
       en: Critical car report
       ru: Критичный отчёт о машине
       cs: Kritické hlášení o vozidle
+    CarTaskCreated:
+      en: "Car task created"
+      ru: "Создана задача по машине"
+    CarTaskAssigned:
+      en: "Car task assignee set"
+      ru: "Назначен исполнитель задачи"
+    CarTaskAssignedToMe:
+      en: "A car task is assigned to me"
+      ru: "Мне назначена задача"
+    CarTaskStateChanged:
+      en: "Car task moved to another stage"
+      ru: "Задача перешла на другой этап"
+    CarTaskCommentAdded:
+      en: "Comment on a car task"
+      ru: "Комментарий к задаче"
+    CarTaskNotificationPriority:
+      en: "Priority"
+      ru: "Приоритет"
+    CarTaskNotificationAssignee:
+      en: "Assignee"
+      ru: "Исполнитель"
+    CarTaskNotificationPreviousAssignee:
+      en: "Previous assignee"
+      ru: "Прежний исполнитель"
+    CarTaskNotificationNotAssigned:
+      en: "not assigned"
+      ru: "не назначен"
+    CarTaskNotificationAppointedDateTime:
+      en: "Scheduled for"
+      ru: "Назначена на"
+    CarTaskNotificationDefect:
+      en: "Defect"
+      ru: "Дефект"
+    CarTaskNotificationReason:
+      en: "Reason"
+      ru: "Основание"
+    CarTaskNotificationCreatedBy:
+      en: "Created by"
+      ru: "Создал"
+    CarTaskNotificationChangedBy:
+      en: "Changed by"
+      ru: "Изменил"
+    CarTaskNotificationState:
+      en: "Stage"
+      ru: "Этап"
+    CarTaskNotificationCompleteUser:
+      en: "Completed by"
+      ru: "Выполнил"
+    CarTaskNotificationMileage:
+      en: "Mileage, km"
+      ru: "Пробег, км"
+    CarTaskNotificationComment:
+      en: "Comment"
+      ru: "Комментарий"
+    CarTaskNotificationCompleteComment:
+      en: "Completion comment"
+      ru: "Комментарий об исполнении"
+    CarTaskNotificationCommentAuthor:
+      en: "Author"
+      ru: "Автор"
+    CarTaskNotificationSystem:
+      en: "automatically"
+      ru: "автоматически"
+    CarTaskNotificationDeferredTo:
+      en: "Deferred to"
+      ru: "Перенесена на"
+    CarTaskNotificationReasonTrouble:
+      en: "car trouble report"
+      ru: "жалоба на состояние машины"
+    CarTaskNotificationReasonSchedule:
+      en: "maintenance schedule (time or mileage interval of the task type)"
+      ru: "регламент (интервал по времени или пробегу для типа задачи)"
+    CarTaskNotificationReasonDefect:
+      en: "check of a registered defect"
+      ru: "проверка зарегистрированного дефекта"
+    CarTaskNotificationFinishedByService:
+      en: "closed automatically when the technician finished the service trip"
+      ru: "закрыта автоматически по завершении сервисной поездки техника"
+    CarTaskNotificationStateNotAssigned:
+      en: "Not assigned"
+      ru: "Не назначена"
+    CarTaskNotificationStateAssigned:
+      en: "Assigned"
+      ru: "Назначена"
+    CarTaskNotificationStateInWork:
+      en: "In progress"
+      ru: "В работе"
+    CarTaskNotificationStateCanceled:
+      en: "Cancelled"
+      ru: "Отменена"
+    CarTaskNotificationStateDeffered:
+      en: "Deferred"
+      ru: "Перенесена"
+    CarTaskNotificationStateCompleted:
+      en: "Completed, awaiting check"
+      ru: "Выполнена, ждёт проверки"
+    CarTaskNotificationStateChecked:
+      en: "Checked"
+      ru: "Проверена"
+    CarTaskNotificationStateDone:
+      en: "Done"
+      ru: "Выполнена"
+    CarTaskNotificationPriorityMinimal:
+      en: "Minimal"
+      ru: "Минимальный"
+    CarTaskNotificationPriorityLow:
+      en: "Low"
+      ru: "Низкий"
+    CarTaskNotificationPriorityMedium:
+      en: "Medium"
+      ru: "Средний"
+    CarTaskNotificationPriorityHigh:
+      en: "High"
+      ru: "Высокий"
+    CarTaskNotificationPriorityMaximum:
+      en: "Maximum"
+      ru: "Максимальный"
     CriticalReportKeyword:
       en: Critical report keyword
       ru: Критичное ключевое слово

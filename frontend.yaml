@@ -156,6 +156,21 @@ Sections:
       en: Critical car report
       ru: Критичный отчёт о машине
       cs: Kritické hlášení o vozidle
+    notifications.CarTaskCreated:
+      en: "Car task created"
+      ru: "Создана задача по машине"
+    notifications.CarTaskAssigned:
+      en: "Car task assignee set"
+      ru: "Назначен исполнитель задачи"
+    notifications.CarTaskAssignedToMe:
+      en: "A car task is assigned to me"
+      ru: "Мне назначена задача"
+    notifications.CarTaskStateChanged:
+      en: "Car task moved to another stage"
+      ru: "Задача перешла на другой этап"
+    notifications.CarTaskCommentAdded:
+      en: "Comment on a car task"
+      ru: "Комментарий к задаче"
     aside.nav.CriticalReportKeywords:
       cs: Kritická klíčová slova
       en: Critical keywords
