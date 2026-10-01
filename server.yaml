@@ -794,6 +794,9 @@ Sections:
     RightManageContracts:
       en: Manage contracts
       ru: Редактирование договоров
+    RightManageWebhooks:
+      en: Manage webhooks
+      ru: Управление вебхуками
     BindCardSuccessInappImageUrl:
       en: ""
     BindCardFailInappImageUrl:
