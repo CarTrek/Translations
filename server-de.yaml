@@ -1,5 +1,33 @@
 Sections:
   Server:
+    TechTaskPhotoNotSaved:
+      de: "Das Foto wurde nicht gespeichert. Versuchen Sie es erneut"
+    TechTaskNoAccess:
+      de: "Aufgaben sind nur für Techniker verfügbar"
+    TechTaskNotFound:
+      de: "Die Aufgabe wurde nicht gefunden oder ist für Sie nicht verfügbar"
+    TechTaskAlreadyClosed:
+      de: "Die Aufgabe ist bereits abgeschlossen"
+    TechTaskTakenByOther:
+      de: "Ein anderer Techniker hat diese Aufgabe bereits übernommen"
+    TechTaskActionNotAllowed:
+      de: "Diese Aktion ist für Sie nicht verfügbar"
+    TechTaskChangedMeanwhile:
+      de: "Die Aufgabe wurde gerade von jemand anderem geändert. Die Daten wurden aktualisiert"
+    TechTaskDeferDateInvalid:
+      de: "Wählen Sie ein Datum in der Zukunft, höchstens 90 Tage im Voraus"
+    TechTaskCommentEmpty:
+      de: "Schreiben Sie einen Kommentar"
+    TechTaskTypeInvalid:
+      de: "Wählen Sie einen Aufgabentyp"
+    TechTaskNotCreated:
+      de: "Die Aufgabe konnte nicht erstellt werden. Versuchen Sie es erneut"
+    TechTaskPhotoTooBig:
+      de: "Das Foto ist zu groß"
+    TechTaskPhotoNotImage:
+      de: "Es kann nur ein Foto angehängt werden"
+    TechTaskBadRequest:
+      de: "Die Anfrage konnte nicht gelesen werden. Aktualisieren Sie die App"
     RightBreakCarBookingLock:
       de: 'Fahrzeugbuchungssperre aufheben'
     RightRemoveBan:

@@ -1,5 +1,314 @@
 Sections:
   App:
+    tech-tasks.title:
+      en: "Tasks"
+      ru: "Задачи"
+    tech-tasks.title-car:
+      en: "Tasks · {reg}"
+      ru: "Задачи · {reg}"
+    tech-tasks.task:
+      en: "Task"
+      ru: "Задача"
+    tech-tasks.untyped:
+      en: "Task without a type"
+      ru: "Задача без типа"
+    tech-tasks.back:
+      en: "Back"
+      ru: "Назад"
+    tech-tasks.cancel:
+      en: "Cancel"
+      ru: "Отмена"
+    tech-tasks.retry:
+      en: "Try again"
+      ru: "Повторить"
+    tech-tasks.optional:
+      en: "optional"
+      ru: "необязательно"
+    tech-tasks.search:
+      en: "Plate, model or task type"
+      ru: "Госномер, модель или тип задачи"
+    tech-tasks.scope.mine:
+      en: "Mine"
+      ru: "Мои"
+    tech-tasks.scope.open:
+      en: "Free"
+      ru: "Свободные"
+    tech-tasks.scope.done:
+      en: "Done"
+      ru: "Выполненные"
+    tech-tasks.sort.title:
+      en: "Sort"
+      ru: "Сортировка"
+    tech-tasks.sort.priority:
+      en: "Urgent first"
+      ru: "Сначала срочные"
+    tech-tasks.sort.due:
+      en: "By due time"
+      ru: "По сроку"
+    tech-tasks.sort.distance:
+      en: "Nearest"
+      ru: "Ближайшие"
+    tech-tasks.location-needed:
+      en: "Allow access to your location to see the nearest cars first"
+      ru: "Разрешите доступ к геопозиции, чтобы видеть ближайшие машины первыми"
+    tech-tasks.empty.mine:
+      en: "You have no tasks. Take one from the free tasks"
+      ru: "У вас нет задач. Возьмите задачу из свободных"
+    tech-tasks.empty.go-open:
+      en: "Show free tasks"
+      ru: "Показать свободные"
+    tech-tasks.empty.open:
+      en: "No free tasks right now"
+      ru: "Свободных задач сейчас нет"
+    tech-tasks.empty.done:
+      en: "No completed tasks in the last 30 days"
+      ru: "За последние 30 дней выполненных задач нет"
+    tech-tasks.empty.car:
+      en: "This car has no open tasks"
+      ru: "У этой машины нет открытых задач"
+    tech-tasks.empty.search:
+      en: "Nothing found. Check the plate or try another word"
+      ru: "Ничего не найдено. Проверьте госномер или попробуйте другое слово"
+    tech-tasks.error.load:
+      en: "Could not load. Check the connection and try again"
+      ru: "Не удалось загрузить. Проверьте связь и повторите"
+    tech-tasks.error.denied:
+      en: "Tasks are available to technicians only"
+      ru: "Задачи доступны только техникам"
+    tech-tasks.error.not-found:
+      en: "The task was not found or is no longer available to you"
+      ru: "Задача не найдена или больше вам недоступна"
+    tech-tasks.state.open:
+      en: "Free"
+      ru: "Свободна"
+    tech-tasks.state.assigned:
+      en: "Assigned"
+      ru: "Назначена"
+    tech-tasks.state.in-work:
+      en: "In progress"
+      ru: "В работе"
+    tech-tasks.state.done:
+      en: "Done"
+      ru: "Выполнена"
+    tech-tasks.state.deferred:
+      en: "Deferred"
+      ru: "Отложена"
+    tech-tasks.state.canceled:
+      en: "Cancelled"
+      ru: "Отменена"
+    tech-tasks.state.unknown:
+      en: "Unknown"
+      ru: "Неизвестно"
+    tech-tasks.priority.urgent:
+      en: "Urgent"
+      ru: "Срочно"
+    tech-tasks.priority.high:
+      en: "High"
+      ru: "Высокий"
+    tech-tasks.priority.normal:
+      en: "Normal"
+      ru: "Обычный"
+    tech-tasks.priority.low:
+      en: "Low"
+      ru: "Низкий"
+    tech-tasks.due.overdue:
+      en: "overdue by {time}"
+      ru: "просрочена на {time}"
+    tech-tasks.due.in:
+      en: "due in {time}"
+      ru: "через {time}"
+    tech-tasks.due.now:
+      en: "due now"
+      ru: "срок сейчас"
+    tech-tasks.due.done-ago:
+      en: "done {time} ago"
+      ru: "выполнена {time} назад"
+    tech-tasks.unit.min:
+      en: "{n} min"
+      ru: "{n} мин"
+    tech-tasks.unit.h:
+      en: "{n} h"
+      ru: "{n} ч"
+    tech-tasks.unit.d:
+      en: "{n} d"
+      ru: "{n} дн"
+    tech-tasks.unit.m:
+      en: "{n} m"
+      ru: "{n} м"
+    tech-tasks.unit.km:
+      en: "{n} km"
+      ru: "{n} км"
+    tech-tasks.action.take:
+      en: "Take the task"
+      ru: "Взять задачу"
+    tech-tasks.action.start:
+      en: "Start"
+      ru: "Начать"
+    tech-tasks.action.complete:
+      en: "Complete"
+      ru: "Выполнить"
+    tech-tasks.action.defer:
+      en: "Defer"
+      ru: "Отложить"
+    tech-tasks.action.release:
+      en: "Give back"
+      ru: "Вернуть"
+    tech-tasks.action.comment:
+      en: "Comment"
+      ru: "Комментировать"
+    tech-tasks.assignee-me:
+      en: "Assigned to you"
+      ru: "Назначена вам"
+    tech-tasks.assignee-none:
+      en: "Nobody has taken it yet"
+      ru: "Ещё никто не взял"
+    tech-tasks.completed-by:
+      en: "Completed by {name}"
+      ru: "Выполнил(а) {name}"
+    tech-tasks.open-continuation:
+      en: "Open the continuation of this task"
+      ru: "Открыть продолжение задачи"
+    tech-tasks.open-car:
+      en: "Open the car"
+      ru: "Открыть машину"
+    tech-tasks.defect:
+      en: "Defect"
+      ru: "Дефект"
+    tech-tasks.done-photo:
+      en: "Photo of the result"
+      ru: "Фото результата"
+    tech-tasks.comments:
+      en: "Comments"
+      ru: "Комментарии"
+    tech-tasks.comments-none:
+      en: "No comments yet"
+      ru: "Комментариев пока нет"
+    tech-tasks.comment-complete:
+      en: "on completion"
+      ru: "при выполнении"
+    tech-tasks.author-system:
+      en: "System"
+      ru: "Система"
+    tech-tasks.comment-placeholder:
+      en: "Write a comment"
+      ru: "Напишите комментарий"
+    tech-tasks.comment-send:
+      en: "Send"
+      ru: "Отправить"
+    tech-tasks.release.title:
+      en: "Give the task back?"
+      ru: "Вернуть задачу?"
+    tech-tasks.release.message:
+      en: "It goes back to the free tasks and another technician can take it"
+      ru: "Она вернётся в свободные, и её сможет взять другой техник"
+    tech-tasks.release.reason:
+      en: "Why (optional)"
+      ru: "Причина (необязательно)"
+    tech-tasks.release.done:
+      en: "The task is back in the free tasks"
+      ru: "Задача возвращена в свободные"
+    tech-tasks.complete.title:
+      en: "Complete the task"
+      ru: "Выполнение задачи"
+    tech-tasks.complete.photo:
+      en: "Photo of the result"
+      ru: "Фото результата"
+    tech-tasks.complete.photo-required:
+      en: "required"
+      ru: "обязательно"
+    tech-tasks.complete.take-photo:
+      en: "Take a photo"
+      ru: "Сделать фото"
+    tech-tasks.complete.retake:
+      en: "Retake"
+      ru: "Переснять"
+    tech-tasks.complete.remove-photo:
+      en: "Remove the photo"
+      ru: "Удалить фото"
+    tech-tasks.complete.comment:
+      en: "Comment"
+      ru: "Комментарий"
+    tech-tasks.complete.comment-placeholder:
+      en: "What was done"
+      ru: "Что сделано"
+    tech-tasks.complete.need-photo:
+      en: "Add a photo of the result to complete this task"
+      ru: "Чтобы выполнить эту задачу, добавьте фото результата"
+    tech-tasks.complete.submit:
+      en: "Mark as done"
+      ru: "Отметить выполненной"
+    tech-tasks.complete.done:
+      en: "Task completed"
+      ru: "Задача выполнена"
+    tech-tasks.defer.title:
+      en: "Defer the task"
+      ru: "Отложить задачу"
+    tech-tasks.defer.when:
+      en: "Until when"
+      ru: "До какого времени"
+    tech-tasks.defer.in-3-hours:
+      en: "In 3 hours"
+      ru: "Через 3 часа"
+    tech-tasks.defer.tomorrow:
+      en: "Tomorrow morning"
+      ru: "Завтра утром"
+    tech-tasks.defer.in-3-days:
+      en: "In 3 days"
+      ru: "Через 3 дня"
+    tech-tasks.defer.next-week:
+      en: "In a week"
+      ru: "Через неделю"
+    tech-tasks.defer.custom:
+      en: "Other date"
+      ru: "Другая дата"
+    tech-tasks.defer.reason:
+      en: "Why"
+      ru: "Причина"
+    tech-tasks.defer.reason-placeholder:
+      en: "For example: waiting for a spare part"
+      ru: "Например: ждём запчасть"
+    tech-tasks.defer.choose-date:
+      en: "Choose when to come back to the task"
+      ru: "Выберите, когда вернуться к задаче"
+    tech-tasks.defer.submit:
+      en: "Defer"
+      ru: "Отложить"
+    tech-tasks.defer.done:
+      en: "Deferred until {date}"
+      ru: "Отложено до {date}"
+    tech-tasks.create.title:
+      en: "New task"
+      ru: "Новая задача"
+    tech-tasks.create.type:
+      en: "What needs to be done"
+      ru: "Что нужно сделать"
+    tech-tasks.create.no-types:
+      en: "No task types are set up. Ask the administrator"
+      ru: "Типы задач не настроены. Обратитесь к администратору"
+    tech-tasks.create.priority:
+      en: "Urgency"
+      ru: "Срочность"
+    tech-tasks.create.comment:
+      en: "Details"
+      ru: "Подробности"
+    tech-tasks.create.comment-placeholder:
+      en: "What is wrong, where exactly"
+      ru: "Что не так, где именно"
+    tech-tasks.create.choose-type:
+      en: "Choose what needs to be done"
+      ru: "Выберите, что нужно сделать"
+    tech-tasks.create.submit:
+      en: "Create the task"
+      ru: "Создать задачу"
+    tech-tasks.create.done:
+      en: "Task created"
+      ru: "Задача создана"
+    card-v2.button-tech-tasks:
+      en: "📋 Tasks"
+      ru: "📋 Задачи"
+    technician.button.tasks:
+      en: "Car tasks"
+      ru: "Задачи по машине"
     report-component.please-fill-comment:
       en: "Please fill your comment"
       ru: "Пожалуйста, заполните поле комментария"

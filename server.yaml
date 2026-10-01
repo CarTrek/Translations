@@ -1,5 +1,47 @@
 Sections:
   Server:
+    TechTaskPhotoNotSaved:
+      en: "The photo was not saved. Try again"
+      ru: "Фото не сохранилось. Попробуйте ещё раз"
+    TechTaskNoAccess:
+      en: "Tasks are available to technicians only"
+      ru: "Задачи доступны только техникам"
+    TechTaskNotFound:
+      en: "The task was not found or is not available to you"
+      ru: "Задача не найдена или недоступна вам"
+    TechTaskAlreadyClosed:
+      en: "The task is already closed"
+      ru: "Задача уже закрыта"
+    TechTaskTakenByOther:
+      en: "Another technician has already taken this task"
+      ru: "Эту задачу уже взял другой техник"
+    TechTaskActionNotAllowed:
+      en: "You cannot do this with the task"
+      ru: "Это действие с задачей вам недоступно"
+    TechTaskChangedMeanwhile:
+      en: "The task has just been changed by someone else. The list is refreshed"
+      ru: "Задачу только что изменил кто-то другой. Данные обновлены"
+    TechTaskDeferDateInvalid:
+      en: "Choose a date in the future, no more than 90 days ahead"
+      ru: "Выберите дату в будущем, не дальше 90 дней"
+    TechTaskCommentEmpty:
+      en: "Write a comment"
+      ru: "Напишите комментарий"
+    TechTaskTypeInvalid:
+      en: "Choose a task type"
+      ru: "Выберите тип задачи"
+    TechTaskNotCreated:
+      en: "The task could not be created. Try again"
+      ru: "Не удалось создать задачу. Попробуйте ещё раз"
+    TechTaskPhotoTooBig:
+      en: "The photo is too large"
+      ru: "Фото слишком большое"
+    TechTaskPhotoNotImage:
+      en: "Only a photo can be attached"
+      ru: "Можно приложить только фото"
+    TechTaskBadRequest:
+      en: "The request could not be read. Update the app"
+      ru: "Не удалось прочитать запрос. Обновите приложение"
     DocumentPhotoFileRequired:
       en: "Attach a photo of the document"
       ru: "Приложите фото документа"
