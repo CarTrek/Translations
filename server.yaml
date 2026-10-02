@@ -39,6 +39,9 @@ Sections:
     TechTaskPhotoNotImage:
       en: "Only a photo can be attached"
       ru: "Можно приложить только фото"
+    TechTaskTooManyPhotos:
+      en: "No more than 5 photos can be attached"
+      ru: "Можно приложить не больше 5 фото"
     TechTaskBadRequest:
       en: "The request could not be read. Update the app"
       ru: "Не удалось прочитать запрос. Обновите приложение"

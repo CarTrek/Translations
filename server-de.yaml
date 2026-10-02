@@ -26,6 +26,8 @@ Sections:
       de: "Das Foto ist zu groß"
     TechTaskPhotoNotImage:
       de: "Es kann nur ein Foto angehängt werden"
+    TechTaskTooManyPhotos:
+      de: "Es können höchstens 5 Fotos angehängt werden"
     TechTaskBadRequest:
       de: "Die Anfrage konnte nicht gelesen werden. Aktualisieren Sie die App"
     RightBreakCarBookingLock:

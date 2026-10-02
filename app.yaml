@@ -1,5 +1,20 @@
 Sections:
   App:
+    tech-tasks.photos:
+      en: "Photos"
+      ru: "Фото"
+    tech-tasks.photos-count:
+      en: "{count} of {max}"
+      ru: "{count} из {max}"
+    tech-tasks.photos-limit:
+      en: "No more than {max} photos"
+      ru: "Не больше {max} фото"
+    tech-tasks.add-photo:
+      en: "Add a photo"
+      ru: "Добавить фото"
+    tech-tasks.open-photo:
+      en: "Open the photo"
+      ru: "Открыть фото"
     tech-tasks.title:
       en: "Tasks"
       ru: "Задачи"
@@ -169,8 +184,8 @@ Sections:
       en: "Open the continuation of this task"
       ru: "Открыть продолжение задачи"
     tech-tasks.open-car:
-      en: "Open the car"
-      ru: "Открыть машину"
+      en: "Find on map"
+      ru: "Найти на карте"
     tech-tasks.defect:
       en: "Defect"
       ru: "Дефект"
