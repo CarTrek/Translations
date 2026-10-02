@@ -1,5 +1,32 @@
 Sections:
   App:
+    tech-tasks.create.due:
+      en: "Due"
+      ru: "Срок выполнения"
+    tech-tasks.create.choose-due:
+      en: "Choose when it must be done"
+      ru: "Выберите срок выполнения"
+    tech-tasks.due-preset.in-1-hour:
+      en: "In an hour"
+      ru: "Через час"
+    tech-tasks.due-preset.today:
+      en: "Today"
+      ru: "Сегодня"
+    tech-tasks.due-preset.tomorrow:
+      en: "Tomorrow"
+      ru: "Завтра"
+    tech-tasks.due-preset.in-3-days:
+      en: "In 3 days"
+      ru: "Через 3 дня"
+    tech-tasks.due-preset.next-week:
+      en: "In a week"
+      ru: "Через неделю"
+    tech-tasks.due-preset.custom:
+      en: "Date and time"
+      ru: "Дата и время"
+    tech-tasks.due-preset.custom-hint:
+      en: "Pick in the calendar"
+      ru: "Выбрать в календаре"
     tech-tasks.photos:
       en: "Photos"
       ru: "Фото"

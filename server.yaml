@@ -1,5 +1,8 @@
 Sections:
   Server:
+    TechTaskDueDateInvalid:
+      en: "Choose a due time from now up to 90 days ahead"
+      ru: "Выберите срок: не раньше текущего момента и не дальше 90 дней"
     TechTaskPhotoNotSaved:
       en: "The photo was not saved. Try again"
       ru: "Фото не сохранилось. Попробуйте ещё раз"

@@ -1,5 +1,7 @@
 Sections:
   Server:
+    TechTaskDueDateInvalid:
+      de: "Wählen Sie eine Frist ab jetzt bis höchstens 90 Tage im Voraus"
     TechTaskPhotoNotSaved:
       de: "Das Foto wurde nicht gespeichert. Versuchen Sie es erneut"
     TechTaskNoAccess:
