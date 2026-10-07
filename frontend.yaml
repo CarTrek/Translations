@@ -6831,6 +6831,15 @@ Sections:
     ai.roles.SUGGEST_NOT_FOUND:
       en: "The order was not found — press «?» on its charge row"
       ru: "Заказ не найден — нажмите «?» у строки его списания"
+    ai.intents.BY_DICT:
+      en: "Read as a known question: {{title}} ·"
+      ru: "Разобрано как знакомый вопрос: {{title}} ·"
+    ai.intents.NOT_THIS:
+      en: "Not that — ask again"
+      ru: "Не то — разобрать заново"
+    ai.intents.NOT_THIS_HINT:
+      en: "The desk took the question for one it had answered right before; this asks it anew, past that"
+      ru: "Пульт принял вопрос за знакомый по прошлым верным разборам; кнопка задаст его заново, без этой подсказки"
     ai.feedback.ASK:
       en: "Is the answer right?"
       ru: "Ответ верный?"
