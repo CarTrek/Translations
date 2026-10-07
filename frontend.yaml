@@ -6642,6 +6642,12 @@ Sections:
     ai.MINIMIZE:
       en: "Minimize"
       ru: "Свернуть"
+    ai.RESTORE:
+      en: "Restore"
+      ru: "Развернуть"
+    ai.MIN_ANSWERED:
+      en: "Answer ready"
+      ru: "Ответ готов"
     ai.CLOSE:
       en: "Close"
       ru: "Закрыть"
