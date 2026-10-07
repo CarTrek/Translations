@@ -6777,15 +6777,6 @@ Sections:
     ai.step.OTHER:
       en: "Data"
       ru: "Данные"
-    ai.op.REPLY:
-      en: "Reply to the client"
-      ru: "Что ответить клиенту"
-    ai.op.COPY:
-      en: "Copy"
-      ru: "Скопировать"
-    ai.op.COPIED:
-      en: "Copied"
-      ru: "Скопировано"
     ai.op.DETAILS:
       en: "Details"
       ru: "Подробности"
