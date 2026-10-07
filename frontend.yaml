@@ -6687,6 +6687,42 @@ Sections:
     ai.feedback.FAILED:
       en: "Could not save the verdict"
       ru: "Не удалось сохранить вердикт"
+    ai.ask.HINT:
+      en: "Ask the AI assistant about this charge"
+      ru: "Спросить ИИ-ассистента про это списание"
+    ai.ask.WITHDRAWAL:
+      en: "Charge"
+      ru: "Списание"
+    ai.ask.Q_WHERE_FROM:
+      en: "Where does this charge come from?"
+      ru: "Откуда это списание?"
+    ai.ask.Q_TOO_MUCH:
+      en: "Why so much?"
+      ru: "Почему так много?"
+    ai.ask.Q_TOO_LITTLE:
+      en: "Why so little?"
+      ru: "Почему так мало?"
+    ai.ask.PICK:
+      en: "Pick a question below or type your own: it will be about this charge"
+      ru: "Выберите вопрос ниже или напишите свой — он будет про это списание"
+    ai.ask.CLEAR:
+      en: "Stop tying questions to this charge"
+      ru: "Не привязывать вопросы к этому списанию"
+    ai.ask.CARD:
+      en: "{{sum}} from card"
+      ru: "{{sum}} с карты"
+    ai.ask.BONUS:
+      en: "{{sum}} in bonuses"
+      ru: "{{sum}} бонусами"
+    ai.ask.CASH:
+      en: "{{sum}} from balance"
+      ru: "{{sum}} с баланса"
+    ai.ask.ORDER:
+      en: "order No. {{no}}"
+      ru: "заказ № {{no}}"
+    ai.ask.CANCELLED:
+      en: "cancelled"
+      ru: "отменено"
     system.users.specialFeatures.AiAssistant:
       en: AI assistant
       ru: ИИ-ассистент
