@@ -465,6 +465,66 @@ Sections:
     modules.control.TOOL_HINT:
       en: 'Started by the server when there is work for it (reports, QR recognition, file cleanup) and exits when done. It needs no AutoStart; it is switched on in the settings of the feature that uses it.'
       ru: 'Запускается сервером, когда для неё есть работа (отчёты, распознавание QR, очистка файлов), и завершается после неё. Автозапуск не нужен: включается в настройках функции, которая её использует.'
+    modules.control.SETTINGS:
+      en: 'Settings'
+      ru: 'Настройки'
+    modules.control.FLAGS:
+      en: 'Switched on in config.json'
+      ru: 'Включение в config.json'
+    modules.control.FLAGS_HINT:
+      en: 'The monolith settings that turn this feature on. Applied without a restart.'
+      ru: 'Настройки монолита, которые включают эту функцию. Применяются без перезапуска.'
+    modules.control.FLAG_UNKNOWN:
+      en: 'is not a switch of this server''s settings: check enabledBy in the module''s module.json'
+      ru: 'не является переключателем настроек этого сервера: проверьте enabledBy в module.json модуля'
+    modules.control.TOOL_ON_ACTION:
+      en: 'Started by the server when a user needs it (QR recognition, order analysis). Nothing to switch on.'
+      ru: 'Запускается сервером, когда это нужно пользователю (распознавание QR, анализ заказов). Включать ничего не нужно.'
+    modules.control.FILES:
+      en: 'Module files'
+      ru: 'Файлы модуля'
+    modules.control.FILES_HINT:
+      en: 'They are kept on the host and survive image updates. The previous version is saved on every change.'
+      ru: 'Хранятся на хосте и переживают обновление образа. При каждом сохранении предыдущая версия попадает в историю.'
+    modules.control.FILE_MISSING:
+      en: 'no file'
+      ru: 'нет файла'
+    modules.control.FILE_NOT_SEEDED:
+      en: 'The image has no default for this file. It appears after the module creates it.'
+      ru: 'В образе нет файла по умолчанию. Он появится, когда его создаст сам модуль.'
+    modules.control.SAVE:
+      en: 'Save'
+      ru: 'Сохранить'
+    modules.control.REVERT:
+      en: 'Undo changes'
+      ru: 'Отменить изменения'
+    modules.control.VALIDATED:
+      en: 'checked before saving:'
+      ru: 'проверяется перед сохранением:'
+    modules.control.HISTORY:
+      en: 'Saved versions'
+      ru: 'Сохранённые версии'
+    modules.control.HISTORY_PICK:
+      en: 'Open a version...'
+      ru: 'Открыть версию...'
+    modules.control.SAVED_RESTART:
+      en: 'Saved. Restart the module to apply.'
+      ru: 'Сохранено. Перезапустите модуль, чтобы применить.'
+    modules.control.SAVED_TOOL:
+      en: 'Saved. Applied at the tool''s next start.'
+      ru: 'Сохранено. Применится при следующем запуске утилиты.'
+    modules.control.VERSION_LOADED:
+      en: 'The version is in the editor. Save it to put it back.'
+      ru: 'Версия загружена в редактор. Сохраните, чтобы вернуть её.'
+    modules.control.CONFIRM_DISCARD:
+      en: 'Discard unsaved changes?'
+      ru: 'Отменить несохранённые изменения?'
+    modules.control.CONFIRM_FLAG_ON:
+      en: 'Turn on {{path}} in config.json?'
+      ru: 'Включить {{path}} в config.json?'
+    modules.control.CONFIRM_FLAG_OFF:
+      en: 'Turn off {{path}} in config.json?'
+      ru: 'Выключить {{path}} в config.json?'
     modules.control.RESTART:
       en: 'Restart'
       ru: 'Перезапустить'
