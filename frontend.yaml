@@ -525,6 +525,9 @@ Sections:
     modules.control.CONFIRM_FLAG_OFF:
       en: 'Turn off {{path}} in config.json?'
       ru: 'Выключить {{path}} в config.json?'
+    modules.control.LOGPATH_HINT:
+      en: 'On Linux the log paths in this file (LogPath, logDirectory, NLog fileName) are not used: the module writes its logs to {{dir}} (on the Box host: logs/monolith/Modules/{{name}}). There is no need to change them.'
+      ru: 'На Linux пути к логам в этом файле (LogPath, logDirectory, fileName у NLog) не используются: модуль пишет логи в {{dir}} (на хосте Box — logs/monolith/Modules/{{name}}). Менять их не нужно.'
     modules.control.RESTART:
       en: 'Restart'
       ru: 'Перезапустить'
