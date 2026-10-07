@@ -6670,14 +6670,14 @@ Sections:
       en: "Too many assistant requests are running right now, try again in a moment"
       ru: "Сейчас выполняется слишком много запросов к ассистенту, попробуйте чуть позже"
     ai.feedback.OK:
-      en: "Verdict correct"
-      ru: "Вердикт верный"
+      en: "Yes"
+      ru: "Да"
     ai.feedback.OK_HINT:
       en: "The answer is right: after a developer's review it goes into the assistant's knowledge base"
       ru: "Ответ верный: после проверки разработчиком попадёт в базу знаний помощника"
     ai.feedback.WRONG:
-      en: "Verdict wrong"
-      ru: "Вердикт неверный"
+      en: "No"
+      ru: "Нет"
     ai.feedback.WRONG_HINT:
       en: "The answer is wrong: say what is wrong"
       ru: "Ответ неверный: напишите, что не так"
@@ -6688,8 +6688,8 @@ Sections:
       en: "Could not save the verdict"
       ru: "Не удалось сохранить вердикт"
     ai.ask.HINT:
-      en: "Ask the AI assistant about this charge"
-      ru: "Спросить ИИ-ассистента про это списание"
+      en: "Look into this charge"
+      ru: "Разобраться в этом списании"
     ai.ask.WITHDRAWAL:
       en: "Charge"
       ru: "Списание"
@@ -6702,9 +6702,6 @@ Sections:
     ai.ask.Q_TOO_LITTLE:
       en: "Why so little?"
       ru: "Почему так мало?"
-    ai.ask.PICK:
-      en: "Pick a question below or type your own: it will be about this charge"
-      ru: "Выберите вопрос ниже или напишите свой — он будет про это списание"
     ai.ask.CLEAR:
       en: "Stop tying questions to this charge"
       ru: "Не привязывать вопросы к этому списанию"
@@ -6723,6 +6720,96 @@ Sections:
     ai.ask.CANCELLED:
       en: "cancelled"
       ru: "отменено"
+    ai.ask.ASK_AI:
+      en: "Ask AI:"
+      ru: "Спросить ИИ:"
+    ai.brief.LOADING:
+      en: "Looking at the charge…"
+      ru: "Смотрю списание…"
+    ai.brief.FAILED:
+      en: "Could not load the summary"
+      ru: "Справка не загрузилась"
+    ai.brief.HINT:
+      en: "Need more? Pick a question below or type your own."
+      ru: "Нужно разобраться глубже — выберите вопрос внизу или напишите свой."
+    ai.step.WORKING:
+      en: "Working on it…"
+      ru: "Разбираюсь…"
+    ai.step.LONG:
+      en: "The answer may take up to 3–4 minutes. Keep working: it will appear here."
+      ru: "Ответ может занять до 3–4 минут. Можно работать дальше — ответ появится здесь."
+    ai.step.LOOKUP:
+      en: "Client and order lookup"
+      ru: "Поиск клиента и заказа"
+    ai.step.PAYMENT:
+      en: "Charges and payments"
+      ru: "Списания и платежи"
+    ai.step.BILLING:
+      en: "How the order total was made"
+      ru: "Расчёт суммы заказа"
+    ai.step.FINISH:
+      en: "Rental finish"
+      ru: "Завершение аренды"
+    ai.step.START:
+      en: "Rental start"
+      ru: "Начало аренды"
+    ai.step.VISIBILITY:
+      en: "Cars the client can see"
+      ru: "Какие машины видит клиент"
+    ai.step.LOGIN:
+      en: "App sign-in"
+      ru: "Вход в приложение"
+    ai.step.CAR_STATE:
+      en: "Car state"
+      ru: "Состояние машины"
+    ai.step.RENT_STATE:
+      en: "Rental state"
+      ru: "Состояние аренды"
+    ai.step.KNOWLEDGE:
+      en: "Known similar cases"
+      ru: "Известные похожие случаи"
+    ai.step.APPLOG:
+      en: "Server logs"
+      ru: "Журналы сервера"
+    ai.step.IIS:
+      en: "App requests to the server"
+      ru: "Запросы приложения к серверу"
+    ai.step.OTHER:
+      en: "Data"
+      ru: "Данные"
+    ai.op.REPLY:
+      en: "Reply to the client"
+      ru: "Что ответить клиенту"
+    ai.op.COPY:
+      en: "Copy"
+      ru: "Скопировать"
+    ai.op.COPIED:
+      en: "Copied"
+      ru: "Скопировано"
+    ai.op.DETAILS:
+      en: "Details"
+      ru: "Подробности"
+    ai.op.MISSING:
+      en: "Could not check:"
+      ru: "Не удалось проверить:"
+    ai.op.CHECKED:
+      en: "Checked: {{list}}"
+      ru: "Проверено: {{list}}"
+    ai.op.RAW:
+      en: "Full answer (for developers)"
+      ru: "Ответ целиком (для разработчика)"
+    ai.op.TOOK:
+      en: "answered in {{t}}"
+      ru: "ответ за {{t}}"
+    ai.op.MIN_SEC:
+      en: "{{m}} min {{s}} s"
+      ru: "{{m}} мин {{s}} с"
+    ai.op.SEC:
+      en: "{{s}} s"
+      ru: "{{s}} с"
+    ai.feedback.ASK:
+      en: "Is the answer right?"
+      ru: "Ответ верный?"
     system.users.specialFeatures.AiAssistant:
       en: AI assistant
       ru: ИИ-ассистент
