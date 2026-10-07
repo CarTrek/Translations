@@ -6807,6 +6807,30 @@ Sections:
     ai.op.DEEPER_HINT:
       en: "No known cause matched the data: the AI will look further on its own"
       ru: "По данным ни одна известная причина не подтвердилась: ИИ поищет дальше сам"
+    ai.roles.FREE_FORM_OFF:
+      en: "Free-form questions are off right now ({{why}}). Press «?» on a charge row — the answer by code takes a second."
+      ru: "Свободные вопросы сейчас не разбираются ({{why}}). Нажмите «?» у строки списания — ответ кодом за секунду."
+    ai.roles.BRIEF_HINT_OFF:
+      en: "Why this sum — the buttons below, answered at once."
+      ru: "Почему такая сумма — кнопки внизу, ответ сразу."
+    ai.roles.COMPOSER_OFF:
+      en: "Free-form questions are off — use «?» on a charge row"
+      ru: "Свободные вопросы выключены — «?» у строки списания"
+    ai.roles.NARRATE:
+      en: "Put it in words (AI)"
+      ru: "Пересказать словами (ИИ)"
+    ai.roles.NARRATE_HINT:
+      en: "The cause was found by code; the AI only puts it in words"
+      ru: "Причину нашёл код; ИИ только перескажет её словами"
+    ai.roles.SUGGEST:
+      en: "Answer by code: {{title}}"
+      ru: "Разобрать кодом: {{title}}"
+    ai.roles.SUGGEST_HINT:
+      en: "The question reads like a charge question: the known causes are checked on the order's data in seconds"
+      ru: "Вопрос похож на вопрос о списании: известные причины проверятся по данным заказа за секунды"
+    ai.roles.SUGGEST_NOT_FOUND:
+      en: "The order was not found — press «?» on its charge row"
+      ru: "Заказ не найден — нажмите «?» у строки его списания"
     ai.feedback.ASK:
       en: "Is the answer right?"
       ru: "Ответ верный?"
