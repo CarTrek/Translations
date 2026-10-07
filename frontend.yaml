@@ -6699,9 +6699,6 @@ Sections:
     ai.ask.WITHDRAWAL:
       en: "Charge"
       ru: "Списание"
-    ai.ask.Q_WHERE_FROM:
-      en: "Where does this charge come from?"
-      ru: "Откуда это списание?"
     ai.ask.Q_TOO_MUCH:
       en: "Why so much?"
       ru: "Почему так много?"
@@ -6727,8 +6724,8 @@ Sections:
       en: "cancelled"
       ru: "отменено"
     ai.ask.ASK_AI:
-      en: "Ask AI:"
-      ru: "Спросить ИИ:"
+      en: "Ask:"
+      ru: "Спросить:"
     ai.brief.LOADING:
       en: "Looking at the charge…"
       ru: "Смотрю списание…"
@@ -6736,8 +6733,8 @@ Sections:
       en: "Could not load the summary"
       ru: "Справка не загрузилась"
     ai.brief.HINT:
-      en: "Need more? Pick a question below or type your own."
-      ru: "Нужно разобраться глубже — выберите вопрос внизу или напишите свой."
+      en: "Why this amount? The buttons below answer at once. A question of your own goes to the AI and takes a minute or two."
+      ru: "Почему такая сумма — кнопки внизу, ответ сразу. Свой вопрос уйдёт ИИ: это минута-две."
     ai.step.WORKING:
       en: "Working on it…"
       ru: "Разбираюсь…"
@@ -6804,6 +6801,12 @@ Sections:
     ai.op.SEC:
       en: "{{s}} s"
       ru: "{{s}} с"
+    ai.op.DEEPER:
+      en: "Dig deeper (AI, 1–2 min)"
+      ru: "Разобрать глубже (ИИ, 1–2 мин)"
+    ai.op.DEEPER_HINT:
+      en: "No known cause matched the data: the AI will look further on its own"
+      ru: "По данным ни одна известная причина не подтвердилась: ИИ поищет дальше сам"
     ai.feedback.ASK:
       en: "Is the answer right?"
       ru: "Ответ верный?"
