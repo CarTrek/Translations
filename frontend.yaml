@@ -459,6 +459,12 @@ Sections:
     modules.control.CONFIRM_AUTOSTART_OFF:
       en: 'Turn AutoStart off for {{name}}? The module will be stopped unless a server service asks for it.'
       ru: 'Выключить автозапуск {{name}}? Модуль будет остановлен, если его не запрашивает сервис сервера.'
+    modules.control.TOOL:
+      en: 'Tool'
+      ru: 'Утилита'
+    modules.control.TOOL_HINT:
+      en: 'Started by the server when there is work for it (reports, QR recognition, file cleanup) and exits when done. It needs no AutoStart; it is switched on in the settings of the feature that uses it.'
+      ru: 'Запускается сервером, когда для неё есть работа (отчёты, распознавание QR, очистка файлов), и завершается после неё. Автозапуск не нужен: включается в настройках функции, которая её использует.'
     modules.control.RESTART:
       en: 'Restart'
       ru: 'Перезапустить'
