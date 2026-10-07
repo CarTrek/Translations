@@ -855,8 +855,10 @@ Sections:
       en: "000000"
     BindCardSuccessInappButtonText:
       en: "OK"
+      ru: "ОК"
     BindCardFailInappButtonText:
       en: "OK"
+      ru: "ОК"
     BindCardSuccessInappMessage:
       en: "Your card was bound successfully. Press 'OK' to return to the app"
       ru: "Ваша карта успешно привязана. Нажмите 'ОК', чтобы вернуться в приложение"
@@ -1115,6 +1117,7 @@ Sections:
     CarModelNotFound:
       en: Car model not found
       eu: Модель машины не найдена
+      ru: Модель автомобиля не найдена
     DeleteCarModelGalleryImage:
       en: Remove car model gallery image
       ru: Удалять фото галереи модели машины
@@ -2170,6 +2173,7 @@ Sections:
       cs: platební karta 1
       ka: საბანკო ბარათი
       en: bank card
+      ru: Банковская карта
     BankCardBindError:
       cs: Platební kartu nelze připojit. Upozorňujeme, že platební karty Visa Electron a Maestro nemohou být použity.
       ka: 'ბარათის მიმაგრება ვერ მოხერხდა. გთხოვთ გაითვალისწინოთ, რომ Visa Electron და Maestro ბარათების გამოყენება არ შეიძლება '
@@ -2229,6 +2233,7 @@ Sections:
       cs: Před uložením verze souboru je potřeba obdržet oprávnění k provedení úprav
       ka: ფაილის ნახვამდე უნდა ამოიღოთ მოცემული ფაილი
       en: Before saving a file version you should obtain a file lock
+      ru: Перед сохранением версии файла нужно получить блокировку файла
     BirthDate:
       cs: Datum narození
       ka: დაბადების თარიღი
@@ -2238,6 +2243,7 @@ Sections:
     BlockCharger:
       cs: Zablokování adaptéru
       en: Block charger
+      ru: Заблокировать зарядку
     BluetoothAllowed:
       cs: Bluetooth povolen
       ka: Bluetooth ნებადართულია
@@ -2339,6 +2345,7 @@ Sections:
       uk: Для обраного автомобіля не налаштована зона завершення оренди.
     BookCarResultFailedPreHold:
       en: Can not hold amount on your card
+      ru: Не удалось заблокировать сумму на вашей карте
     BookCarResultFailedSecurityCheckDidNotPass:
       cs: Vámi zaslané doklady se prověřují. O výsledcích Vás budeme informovat v nejbližší době.
       ka: გაგზავნილი დოკუმენტები მოწმდება. ჩვენ შეგატყობინებთ შემოწმების შედეგებზე უახლოეს პერიოდში.
@@ -2955,6 +2962,7 @@ Sections:
       cs: Zkontrolujte spojení chyba registrace YouTell
       ka: YouTell-მა ვერ დაარეგისტრირა მომხმარებელი.
       en: YouTell not allowed to register user
+      ru: YouTell не позволил зарегистрировать пользователя
     CheckConnectionEnumFailedYoutellUrlNotDefined:
       cs: V nastavení nebyl zadán URL serveru YouTell
       ka: 'YouTell სერვერის მისამართი არ არის მითითებული კონფიგურაციაში   '
@@ -3032,6 +3040,7 @@ Sections:
       ru: Корпоративная
     CorporateOptionSwitched:
       en: '"Corporate" option switched successfully'
+      ru: 'Опция «Корпоративный» успешно переключена'
     CorporateOrganizationHaveCustomers:
       en: Cannot delete corporate organization with customers in it
       ru: Невозможно удалить корпоративную организацию, если в ней состоят пользователи.
@@ -3131,7 +3140,8 @@ Sections:
     DeactivateCarByReservePeriodSettingDescription:
       cs: Deaktivovat vozidlo rezervační dobou
       ka: '?'
-      en: '?'
+      en: Deactivate the car after the reserve period
+      ru: Деактивировать автомобиль по истечении периода резерва
     DebtRedemption:
       cs: Úhrada dluhu
       ka: ვალის დაფარვა
@@ -3277,6 +3287,7 @@ Sections:
     DuplicateFound:
       cs: reprodukce dokladů nalezena
       en: 'Cartrek: WARNING! Duplicate user found'
+      ru: 'Cartrek: ВНИМАНИЕ! Найден дубликат пользователя'
     Electic:
       en: Electic
       ru: Электро
@@ -3390,12 +3401,16 @@ Sections:
       uk: Електромобіль
     ExportBonuses:
       en: Export bonuses
+      ru: Экспорт бонусов
     ExportCustomers:
       en: Export customers
+      ru: Экспорт клиентов
     ExportOrders:
       en: Export orders
+      ru: Экспорт заказов
     ExportWithdrawalsListPayments:
       en: Export withdrawals list payments
+      ru: Экспорт платежей по списаниям
     Forward:
       en: Forward
       ru: Передний
@@ -3655,12 +3670,15 @@ Sections:
       cs: Nelze ukončit pronájem - motor nebyl vynut
       ka: ქირაობა ვერ სრულდება, ძრავი ჩართულია
       en: Could not finish the order - the engine is on
+      ru: Не удалось завершить аренду — двигатель включён
     FinishOrderResultFailedHardwareError:
       cs: Chyba hardwaru
-      en: Finish Order Result Failed Hardware Error
+      en: Could not finish the order - hardware error
+      ru: Не удалось завершить аренду — ошибка оборудования
     FinishOrderResultFailedOrderIsCompletedAlready:
       en: The ride is completed already
       ka: ქირაობა დასრულდა.
+      ru: Аренда уже завершена
       uk: Оренда вже закрита.
     FinishOrderResultFailedOrderNotFoundInDatabase:
       cs: Objednávka nebyla nalezena v databázi.
@@ -3677,6 +3695,7 @@ Sections:
     FinishOrderResultFailedUserHasNoOrderNow:
       en: You have no order right now
       ka: ამჟამად არ გაქვთ აქტიური ქირაობა
+      ru: У вас сейчас нет активной аренды
       uk: У Вас в даний момент немає активної оренди.
     FinishOrderResultOkOrderFinished:
       cs: Objednávka úspěšně dokončena
@@ -3880,6 +3899,7 @@ Sections:
       cs: Ma přístupová oprávnění k vozidlu
       ka: არის ადმინი
       en: Has Car Admin Access
+      ru: Есть доступ администратора к автомобилю
     HomeAddress:
       cs: Adresa bydliště
       ka: საცხოვრებელი სახლის მისამართი
@@ -3997,7 +4017,8 @@ Sections:
       ru: ДВС
       uk: ДВС
     IdleTimeFromSeconds:
-      en: Время простоя от
+      en: Idle time from
+      ru: Время простоя от
     IdxParametersIsNull:
       cs: Nebyly vyplněny povinné údaje (adresa serveru, Api key, Secret key)
       ka: არ არის შევსებული აუცილებელი პარამეტრები (სერვერის მისამართი, Api გასაღები, საიდუმლო გასაღები)
@@ -4206,7 +4227,8 @@ Sections:
     IsBlocked1:
       cs: je zablokováno1
       ka: ჩაკეტილი
-      en: Is Blocked 1
+      en: Is blocked
+      ru: Заблокирован
     IsControlledFromApp:
       en: Can be controlled from mobila application
       ru: Можно ли менять из мобильного приложения
@@ -4278,6 +4300,7 @@ Sections:
       ru: Лимит
     LimitIsRequired:
       en: Limit is required
+      ru: Необходимо указать лимит
     Liters:
       cs: l.
       ka: ლ.
@@ -4883,6 +4906,7 @@ Sections:
       ru: Создана организация
     OrganizationBalanceReplenished:
       en: Balance successfully replenished
+      ru: Баланс успешно пополнен
     OrganizationDeleted:
       en: Organization deleted
       ru: Организация удалена
@@ -4895,6 +4919,7 @@ Sections:
       ru: Организация заблокирована
     OrganizationIsNotCorporate:
       en: Organization is not corporate organization
+      ru: Организация не является корпоративной
     OrganizationLimitExceeded:
       cs: Překročen limit organizace
       en: Organization limit exceeded
@@ -4905,10 +4930,13 @@ Sections:
       ru: Организация не найдена
     OrganizationUpdatedSuccessfully:
       en: Organization updated successfully
+      ru: Организация успешно обновлена
     OrganizationWithdrawSuccessfull:
       en: Successfully withdrawn
+      ru: Успешно списано
     OrganizationWithGradesCannotBeSwitched:
       en: Organization with grades cannot be non-corporative
+      ru: Организацию с грейдами нельзя сделать некорпоративной
     OtherBonusGivenNotificationSettingDescription:
       cs: Oznamovat poskytnutí jiných bonusů
       ka: შეტყობინება სხვა ბონუსების შესახებ
@@ -5015,7 +5043,8 @@ Sections:
       uk: Відсутній зв'язок з автомобілем.
     ParkAndLockCarResultFailedHardwareError:
       cs: Chyba hardwaru
-      en: Park And Lock Car Result Failed Hardware Error
+      en: Could not park and lock the car - hardware error
+      ru: Не удалось припарковать и закрыть автомобиль — ошибка оборудования
     ParkAndLockCarResultFailedOrderIsCompletedAlready:
       cs: Pronájem byl již ukončen.
       ka: ქირაობა დასრულებულია.
@@ -5459,7 +5488,8 @@ Sections:
     ResetZeroBookingsCounterAfterRentSettingDescription:
       cs: Resetovat na nulu počet nevyužitých rezervací po ukončení jízdy
       ka: '?'
-      en: '?'
+      en: Reset the counter of unused bookings after the rental ends
+      ru: Обнулять счётчик неиспользованных бронирований после завершения аренды
     ResetZeroBookingsCounterForPaidOrdersDescription:
       ru: Cбрасывать счётчик бесплатных броней без учёта пробега если заказ был платный
       en: Reset the counter of free bookings without taking into account the mileage if the order was paid
@@ -5631,6 +5661,7 @@ Sections:
       uk: Зміна промо-коду
     RightChangeStatusPaidCarPenalties:
       en: Change status of penalty fines
+      ru: Изменение статуса оплаты штрафов
     RightChangeUsersPasswords:
       cs: Změna uživatelských hesel
       ka: მომხმარებელთა პაროლების ცვლილება
@@ -6486,7 +6517,8 @@ Sections:
     SmsBonusesGiven:
       cs: Poskytnuty SMS bonusové body
       ka: SMS ბონუსი გაგზავნილია
-      en: Sms Bonuses Given
+      en: SMS bonuses given
+      ru: Начислены СМС-бонусы
       uk: '{0}, Вам нараховано {1} бонусів. Вдалих поїздок!'
     SmsCarIsBooked:
       cs: '{0} {1} rezervováno.'
@@ -6907,6 +6939,7 @@ Sections:
     UnblockCharger:
       cs: Odblokování adaptéru
       en: Unblock charger
+      ru: Разблокировать зарядку
     UnderSupervision:
       cs: Klient pod dohledem
       ka: კლიენტზე ხორციელდება დაკვირვება
@@ -6984,7 +7017,8 @@ Sections:
       uk: Відсутній зв'язок з автомобілем.
     UnlockAndDriveCarResultFailedHardwareError:
       cs: Chyba hardwaru
-      en: Unlock And Drive Car Result Failed Hardware Error
+      en: Could not unlock the car and start the ride - hardware error
+      ru: Не удалось открыть автомобиль и начать поездку — ошибка оборудования
     UnlockAndDriveCarResultFailedNegativeBalance:
       cs: Máte záporný zůstatek, nesmíte pokračovat v pronájmu. Prosím volejte {telefonní číslo}
       ka: მანქანა ვერ გაქირავდება უარყოფითი ბალანსის შემთხვევაში. გთხოვთ, დარეკოთ ნომერზე {phoneNumber}
@@ -7091,6 +7125,7 @@ Sections:
       cs: Uživatel zablokován
       ka: მომხმარებელი დაბლოკილია
       en: The user is blocked
+      ru: Пользователь заблокирован
     UserDeleted:
       en: User deleted
       ru: Пользователь удален
@@ -7119,6 +7154,7 @@ Sections:
       uk: Користувач {0} не є клієнтом
     UserIsNotInOrganization:
       en: User is not in organization
+      ru: Пользователь не состоит в организации
     UserLoggedOffSuccessfully:
       en: User logged off successfully
       ru: Пользователь успешно разлогинен

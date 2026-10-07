@@ -20,8 +20,10 @@ Sections:
       ru: '10 км/ч'
     signin.completeChatFlagOptValue:
       en: 'The chat has ended!'
+      ru: 'Чат завершён!'
     authorization.error:
       en: 'Access denied (403)'
+      ru: 'Доступ запрещён (403)'
     alert.lowfuel:
       be: Low fuel level, please refuel auto
       cs: Nízká hladina paliva, prosím natankujte vozidlo
@@ -5459,6 +5461,8 @@ Sections:
       ru: UILabel"; te
       uk: UIButton"; normalTit
     xJY-Wh-2Cu.text:
+      en: Powered by CarTrek®
+      ru: Powered by CarTrek®
       uk: Powered by CarTrek®
     common.m:
       cs: m.
@@ -5787,27 +5791,35 @@ Sections:
     1WO-D7-vs7.placeholder:
       be: Phone
       cs: Phone
+      en: Phone
       ka: Phone
       kk: Phone
       pl: Phone
+      ru: Телефон
     5Pp-y0-tPY.normalTitle:
       be: CONTINUE
       cs: CONTINUE
+      en: CONTINUE
       ka: CONTINUE
       kk: CONTINUE
       pl: CONTINUE
+      ru: ПРОДОЛЖИТЬ
     6ki-eY-tys.normalTitle:
       be: Email
       cs: Email
+      en: Email
       ka: Email
       kk: Email
       pl: Email
+      ru: Email
     8ny-ak-0gM.text:
       be: Enter symbols from picture
       cs: Enter symbols from picture
+      en: Enter the symbols from the picture
       ka: Enter symbols from picture
       kk: Enter symbols from picture
       pl: Enter symbols from picture
+      ru: Введите символы с картинки
     91L-7P-GOx.normalTitle:
       be: Register
       cs: Register
@@ -5838,9 +5850,11 @@ Sections:
     B9M-VW-Lns.text:
       be: You can resend the SMS within 120s
       cs: You can resend the SMS within 120s
+      en: You can resend the SMS in 120 s
       ka: You can resend the SMS within 120s
       kk: You can resend the SMS within 120s
       pl: You can resend the SMS within 120s
+      ru: Повторно отправить СМС можно через 120 с
     Cx6-Vx-hxV.normalTitle:
       be: 8 (800) 700-95-74
       cs: 8 (800) 700-95-74
@@ -5851,33 +5865,43 @@ Sections:
     EC3-u6-5KO.normalTitle:
       be: View cars
       cs: View cars
+      en: View cars
       ka: View cars
       kk: View cars
       pl: View cars
+      ru: Посмотреть автомобили
     EHF-Ml-2p7.normalTitle:
       be: By continuing, you agree to the terms of use
       cs: By continuing, you agree to the terms of use
+      en: By continuing, you agree to the terms of use
       ka: By continuing, you agree to the terms of use
       kk: By continuing, you agree to the terms of use
       pl: By continuing, you agree to the terms of use
+      ru: Продолжая, вы соглашаетесь с условиями использования
     Hrc-vc-hWB.text:
       be: Support
       cs: Support
+      en: Support
       ka: Support
       kk: Support
       pl: Support
+      ru: Поддержка
     J6D-GG-UsD.text:
       be: 'Rules and '
       cs: 'Rules and '
+      en: 'Rules and '
       ka: 'Rules and '
       kk: 'Rules and '
       pl: 'Rules and '
+      ru: 'Правила и '
     Jaa-3M-m9D.normalTitle:
       be: Reset server to standart
       cs: Reset server to standart
+      en: Reset the server to the default
       ka: Reset server to standart
       kk: Reset server to standart
       pl: Reset server to standart
+      ru: Вернуть сервер по умолчанию
     LRB-Sf-Kx6.normalTitle:
       be: Restore
       cs: Restore
@@ -5899,33 +5923,43 @@ Sections:
     O5h-X3-SAb.text:
       be: We sent SMS with pin code on phone +79165229057
       cs: We sent SMS with pin code on phone +79165229057
+      en: We sent an SMS with a PIN code to your phone
       ka: We sent SMS with pin code on phone +79165229057
       kk: We sent SMS with pin code on phone +79165229057
       pl: We sent SMS with pin code on phone +79165229057
+      ru: Мы отправили СМС с пин-кодом на ваш телефон
     QgL-BI-Qzy.normalTitle:
       be: Resend pin-code
       cs: Resend pin-code
+      en: Resend the PIN code
       ka: Resend pin-code
       kk: Resend pin-code
       pl: Resend pin-code
+      ru: Отправить пин-код повторно
     S5r-Pa-fIm.normalTitle:
       be: CONTINUE
       cs: CONTINUE
+      en: CONTINUE
       ka: CONTINUE
       kk: CONTINUE
       pl: CONTINUE
+      ru: ПРОДОЛЖИТЬ
     SX9-Iw-aML.normalTitle:
       be: CONTINUE
       cs: CONTINUE
+      en: CONTINUE
       ka: CONTINUE
       kk: CONTINUE
       pl: CONTINUE
+      ru: ПРОДОЛЖИТЬ
     Tlk-m7-uhu.placeholder:
       be: Email
       cs: Email
+      en: Email
       ka: Email
       kk: Email
       pl: Email
+      ru: Email
     TrP-n7-IAW.title:
       be: Item
       cs: Item
@@ -5957,9 +5991,11 @@ Sections:
     XHO-P9-4k8.text:
       be: 'Login through:'
       cs: 'Login through:'
+      en: 'Sign in with:'
       ka: 'Login through:'
       kk: 'Login through:'
       pl: 'Login through:'
+      ru: 'Войти через:'
     ZGv-58-5er.normalTitle:
       be: Done
       cs: Done
@@ -5972,9 +6008,11 @@ Sections:
     ZNl-0i-Pzr.placeholder:
       be: Введите символы
       cs: Введите символы
+      en: Enter the symbols
       ka: Введите символы
       kk: Введите символы
       pl: Введите символы
+      ru: Введите символы
     adp-Bt-BNO.text:
       be: Проверьте соединение с интернетом
       cs: Проверьте соединение с интернетом
@@ -5994,15 +6032,19 @@ Sections:
     ddA-B2-Xzh.normalTitle:
       be: CONTROL CAR
       cs: CONTROL CAR
+      en: CONTROL CAR
       ka: CONTROL CAR
       kk: CONTROL CAR
       pl: CONTROL CAR
+      ru: УПРАВЛЕНИЕ АВТОМОБИЛЕМ
     eJ2-dT-nrb.text:
       be: Enter your phone to begin work
       cs: Enter your phone to begin work
+      en: Enter your phone number to start
       ka: Enter your phone to begin work
       kk: Enter your phone to begin work
       pl: Enter your phone to begin work
+      ru: Введите номер телефона, чтобы начать
     hB1-4k-g3R.placeholder:
       be: Password
       cs: Password
@@ -6015,9 +6057,11 @@ Sections:
     lEk-VG-cTb.text:
       be: Entering...
       cs: Entering...
+      en: Signing in...
       ka: Entering...
       kk: Entering...
       pl: Entering...
+      ru: Вход...
     mVk-XE-Itc.normalTitle:
       be: VIEW CARS
       cs: VIEW CARS
@@ -6030,9 +6074,11 @@ Sections:
     pYG-g5-3p4.text:
       be: Support
       cs: Support
+      en: Support
       ka: Support
       kk: Support
       pl: Support
+      ru: Поддержка
     wEI-sn-Zcq.normalTitle:
       be: ◀︎ Back
       cs: ◀︎ Back
@@ -6045,15 +6091,19 @@ Sections:
     wgQ-dG-1rr.normalTitle:
       be: Register
       cs: Register
+      en: Register
       ka: Register
       kk: Register
       pl: Register
+      ru: Зарегистрироваться
     wlf-ip-v4K.text:
       be: ENTER PINCODE
       cs: ENTER PINCODE
+      en: ENTER THE PIN CODE
       ka: ENTER PINCODE
       kk: ENTER PINCODE
       pl: ENTER PINCODE
+      ru: ВВЕДИТЕ ПИН-КОД
     xIJ-zj-DUs.text:
       be: https://
       cs: https://
@@ -6209,30 +6259,40 @@ Sections:
       pl: For additional protection of the application from unauthorized access
       uk: Для додаткового захисту від несанкціонованого доступу
     2xe-nq-QPr.text:
+      en: Bonuses
       ru: Бонусы
     8MR-g5-6Ah.text:
+      en: Name
       ru: Имя
     ggv-qK-pDW.text:
       ru: Title
     q9z-Ia-Zbp.text:
       ru: 0.0
     hfg-nm-uKF.text:
+      en: Back to sign in
       ru: К авторизации
     e6L-iI-MWM.text:
+      en: SIGN OUT
       ru: ВЫЙТИ
     wTe-F4-NUW.text:
+      en: HELP
       ru: ПОМОЩЬ
     ROF-uk-72J.text:
+      en: PROMO CODE
       ru: ПРОМОКОД
     8vP-kM-LAy.text:
       ru: 8 (800) 700-95-74
     YhU-dL-368.text:
+      en: PAYMENTS
       ru: ПЛАТЕЖИ
     aE8-fu-1f4.text:
+      en: Your promo code
       ru: Ваш промо код
     AYC-jb-CXT.text:
+      en: Bonuses
       ru: Бонусы
     J5C-V5-LJA.text:
+      en: TECH MENU
       ru: ТЕХ. МЕНЮ
     freerides.invitation:
       en: 'Hello!\nRegister in the app by using the promo code {promocode} or by clicking on the {link} link and get {bonuses} bonuses!'

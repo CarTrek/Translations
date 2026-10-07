@@ -497,7 +497,7 @@ Sections:
       ru: "Отмена"
     payment-method-selector.pay:
       en: "Pay"
-      rn: "Оплатить"
+      ru: "Оплатить"
     purchase.bonuses.pay-with-multiple-methods:
       en: "Purchase"
       ru: "Купить"
@@ -1238,10 +1238,13 @@ Sections:
       ru: 'Завершить аренду'
     language-name-fr:
       en: Français
+      ru: Français
     language-name-ru:
       en: Русский
+      ru: Русский
     language-name-en:
       en: English
+      ru: English
     take-photo.min-photo-count-header-message:
       en: "Please take {photo-count} photo(s)"
       ru: "Пожалуйста, сделайте {photo-count} фото"
@@ -3156,6 +3159,7 @@ Sections:
       ru: 'Новое бронирование'
     confirm-extend.header:
       en: 'Confirmation'
+      ru: 'Подтверждение'
     confirm-extend.from:
       en: 'From'
       ru: 'C'

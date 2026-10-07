@@ -14,6 +14,7 @@ Sections:
       uk: Завантажити
     app.MoreInfoOnService:
       cs: 'Podrobné informace o tarifech, podmínkách o uživání a vracení peněz naleznete na našich webových stránkách:'
+      en: 'Detailed information on rates, terms of use and refunds is available on our website: '
       ka: 'დეტალური ინფორმაცია განაკვეთების, პირობების და თანხის დაბრუნების შესახებ, განთავსებულია ჩვენს ვებ გვერდზე: '
       ru: 'Подробная информация о тарифах, условиях использования и возврата денежных средств размещена на нашем сайте: '
       uk: 'Подробная информация о тарифах, условиях использования и возврата денежных средств размещена на нашем сайте: '
@@ -254,6 +255,7 @@ Sections:
       uk: Мой стаж вождения автомобиля более 5 лет
     step1.WARNING:
       cs: 'Pozor: K registraci služby Anytime musíte mít řidičské oprvnění kategorie "B" a Vaše ridičská praxe nesmí být kratší než 2 roky.'
+      en: 'Attention: to sign up for CarTrek, you must have at least 2 years of driving experience in category B.'
       ka: 'ყუადღება: CarTrek-ის სერვისში რეგისტრაციის გასასვლელად თქვენი მართვის გამოცდილება B - კატეგორიაში უნდა შეადგენდეს მინიმუმ 2 წელს'
       ru: 'Внимание: Для регистрации в сервисе CarTrek ваш водительский стаж по категории «В» должен быть не менее 2-х лет.'
       uk: 'Внимание: Для регистрации в сервисе CarTrek ваш водительский стаж по категории «В» должен быть не менее 2-х лет.'
@@ -505,11 +507,13 @@ Sections:
       uk: Регистрация
     step4.FACEDRIVERSLICPAGE:
       cs: přední strana řidičského průkazu
+      en: Front side of the driver's license
       ka: მართვის მოწმობის წინა მხარე
       ru: Лицевая сторона ВУ
       uk: Лицевая сторона ВУ
     step4.BACKDRIVERSLICPAGE:
       cs: Zadní strana řidičského průkazu
+      en: Back side of the driver's license
       ka: მართვის მოწმობის უკანა მხარე
       ru: Обр. сторона ВУ
       uk: Обр. сторона ВУ

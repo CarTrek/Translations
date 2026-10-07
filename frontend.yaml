@@ -393,6 +393,81 @@ Sections:
     hardware.control.TITLE:
       en: 'IoT Connectivity'
       ru: 'Подключение IoT'
+    modules.control.TITLE:
+      en: 'Modules'
+      ru: 'Модули'
+    modules.control.HINT:
+      en: 'Module processes run by the monolith (Linux). A crashed module is started again automatically; the pause grows from 5 seconds to 5 minutes.'
+      ru: 'Процессы модулей, которые запускает монолит (Linux). Упавший модуль запускается снова сам, пауза растёт от 5 секунд до 5 минут.'
+    modules.control.UNSUPPORTED:
+      en: 'Not available: on Windows the modules are started by ModuleRunService (see the IoT Connectivity page).'
+      ru: 'Недоступно: на Windows модули запускает ModuleRunService (см. страницу «Подключение IoT»).'
+    modules.control.INACTIVE:
+      en: 'The launcher is switched off on this instance (standby or MODULES_ENABLED=false): modules are not started.'
+      ru: 'Запускатель на этом экземпляре выключен (резерв или MODULES_ENABLED=false): модули не запускаются.'
+    modules.control.EMPTY:
+      en: 'No modules found.'
+      ru: 'Модулей не найдено.'
+    modules.control.NAME:
+      en: 'Module'
+      ru: 'Модуль'
+    modules.control.STATE:
+      en: 'State'
+      ru: 'Состояние'
+    modules.control.RUNNING:
+      en: 'Running'
+      ru: 'Работает'
+    modules.control.WAITING:
+      en: 'Waiting for restart'
+      ru: 'Ждёт перезапуска'
+    modules.control.EXITED:
+      en: 'Finished'
+      ru: 'Завершён'
+    modules.control.FAILED:
+      en: 'Failed'
+      ru: 'Упал'
+    modules.control.IDLE:
+      en: 'Not started'
+      ru: 'Не запускался'
+    modules.control.UPTIME:
+      en: 'Uptime'
+      ru: 'Аптайм'
+    modules.control.STARTS:
+      en: 'Starts'
+      ru: 'Запусков'
+    modules.control.LAST_EXIT:
+      en: 'Last exit'
+      ru: 'Последний выход'
+    modules.control.NEXT_START:
+      en: 'Next start'
+      ru: 'Следующий старт'
+    modules.control.SOURCE:
+      en: 'Source'
+      ru: 'Источник'
+    modules.control.AUTOSTART:
+      en: 'AutoStart'
+      ru: 'Автозапуск'
+    modules.control.AUTOSTART_HINT:
+      en: 'Keep the module running. Saved to config.json (Global.ModulesController), applied in a few seconds.'
+      ru: 'Держать модуль запущенным. Сохраняется в config.json (Global.ModulesController), применяется через несколько секунд.'
+    modules.control.NOT_CONFIGURED:
+      en: 'not in config.json'
+      ru: 'нет в config.json'
+    modules.control.CONFIRM_AUTOSTART_ON:
+      en: 'Turn AutoStart on for {{name}}? The module will be started and kept running.'
+      ru: 'Включить автозапуск {{name}}? Модуль будет запущен и будет перезапускаться при падении.'
+    modules.control.CONFIRM_AUTOSTART_OFF:
+      en: 'Turn AutoStart off for {{name}}? The module will be stopped unless a server service asks for it.'
+      ru: 'Выключить автозапуск {{name}}? Модуль будет остановлен, если его не запрашивает сервис сервера.'
+    modules.control.RESTART:
+      en: 'Restart'
+      ru: 'Перезапустить'
+    modules.control.CONFIRM_RESTART:
+      en: 'Restart module {{name}}?'
+      ru: 'Перезапустить модуль {{name}}?'
+    modules.control.LOG:
+      en: 'Last stderr lines'
+      ru: 'Последние строки stderr'
     hardware.control.LOADING:
       en: 'Loading...'
       ru: 'Загрузка...'
@@ -1006,6 +1081,7 @@ Sections:
       ru: "Тип устройства Bluetooth"
     cars.editor.BLUETOOTH:
       en: Bluetooth
+      ru: Bluetooth
     aside.NAV.Timezone:
       en: Timezone
       ru: Таймзона
@@ -4359,161 +4435,209 @@ Sections:
       cs: Pracovní plocha zhroucení jméno graf
       en: Graph
       ge: გრაფა
+      ru: График
     workspace.collapsedName.statistics:
       cs: Pracovní plocha zhroucení jméno statistiky
       en: Statistics
       ge: სტატისტიკა
+      ru: Статистика
     workspace.list.time:
       cs: Pracovní plocha seznam čas
       en: Time
       ge: ხანგრძლივობა
+      ru: Время
     workspace.list.carsUnregistered:
       cs: Pracovní plocha seznam aut nezaregistrovaných
       en: Cars unregistered
       ge: დაურეგისტრირებელი მანქანები
+      ru: Автомобили незарегистрированные
     workspace.list.carsOutOfDriveZone:
       cs: Pracovní plocha seznam aut mimo zónu řízení
       en: Cars out of drive zone
       ge: მანქანები მგზავრობის ზონის მიღმა
+      ru: Автомобили вне зоны поездок
     workspace.list.carsOutOfParkZone:
       cs: Pracovní plocha seznam aut mimo zónu parkování
       en: Cars out of park zone
+      ru: Автомобили вне зоны парковки
     workspace.list.carsWithOrder:
       cs: Pracovní plocha seznam aut pod objednávkou
       en: Cars with order
+      ru: Автомобили в аренде
     workspace.list.carsOutOfFuel:
       cs: Pracovní plocha seznam aut bez paliva
       en: Cars out of fuel
+      ru: Автомобили без топлива
     workspace.list.carsOffline:
       cs: Pracovní plocha seznam aut Off line
       en: Cars offline
+      ru: Автомобили не на связи
     workspace.list.carsRegistered:
       cs: Pracovní plocha seznam aut registrovaných
       en: Cars registered
+      ru: Автомобили зарегистрированные
     workspace.list.carsAvailable:
       cs: Pracovní plocha seznam aut dostupných
       en: Cars available
+      ru: Автомобили доступные
     workspace.list.carsNotLocked:
       cs: Pracovní plocha seznam aut nezamčených
       en: Cars not locked
+      ru: Автомобили не закрытые
     workspace.list.carsLowVoltage:
       cs: Pracovní plocha seznam aut baterie vybitá
       en: Cars low voltage
+      ru: Автомобили с низким напряжением
     workspace.list.carsDangerVoltage:
       cs: Pracovní plocha seznam aut nebezpečné napětí
       en: Cars danger voltage
+      ru: Автомобили с опасным напряжением
     workspace.list.carsFault:
       cs: Pracovní plocha seznam aut vady
       en: Cars fault
+      ru: Автомобили с неисправностями
     workspace.list.carsAlarmzones:
       cs: Pracovní plocha seznam aut nebezpečné zóny
       en: Cars alarmzones
+      ru: Автомобили в тревожных зонах
     workspace.list.carsInactive:
       cs: Pracovní plocha seznam aut neaktivní auta
       en: Cars inactive
+      ru: Автомобили неактивные
     workspace.list.customersTotal:
       cs: Pracovní plocha seznam klientů celkem
       en: Customers total
+      ru: Клиенты всего
     workspace.list.customersAwaitingValidation:
       cs: Pracovní plocha klientů čekajících na ověření
       en: Customers awaiting validation
+      ru: Клиенты, ожидающие проверки
     workspace.list.customersHasActiveOrder:
       cs: Pracovní plocha seznam klientů mají aktivní objednávku
       en: Customers has active order
+      ru: Клиенты с активной арендой
     workspace.list.customersDebtors:
       cs: Pracovní plocha seznam klientů dlužníků
       en: Customers debtors
+      ru: Клиенты-должники
     workspace.list.customersDebtorsWithOrders:
       cs: Pracovní plocha seznam klientů dlužníků s obejdnávkou
       en: Customers debtors with orders
+      ru: Клиенты-должники с арендой
     workspace.list.customersBlocked:
       cs: Pracovní plocha seznam klientů zablokovaných
       en: Customers blocked
+      ru: Клиенты заблокированные
     workspace.list.customersIncomplete:
       cs: Pracovní plocha seznam klientů s nedokončenou registrací
       en: Customers incomplete
+      ru: Клиенты с незавершённой регистрацией
     workspace.list.customersValidated:
       cs: Pracovní plocha seznam klientů ověřených
       en: Customers validated
+      ru: Клиенты проверенные
     workspace.list.customersWOBankCards:
       cs: Pracovní plocha seznam klientů bez platební karty
       en: Customers WOBank cards
+      ru: Клиенты без банковских карт
     workspace.list.ordersTotal:
       cs: Pracovní plocha seznam seznam objednávek celkem
       en: Orders total
       ge: ჯამი
+      ru: Заказы всего
     workspace.list.ordersActive:
       cs: Pracovní plocha seznam objednávek aktivních
       en: Orders active
       ge: მიმდინარე
+      ru: Заказы активные
     workspace.list.ordersBook:
       cs: Pracovní plocha seznam objednávek rezervovaných
       en: Orders book
       ge: დაჯავშნილი
+      ru: Заказы в бронировании
     workspace.list.ordersPark:
       cs: Pracovní plocha seznam objednávek očekávání
       en: Orders park
       ge: პარკინგი
+      ru: Заказы в парковке
     workspace.list.ordersDrive:
       cs: Pracovní plocha seznam objednávek v jízdě
       en: Orders drive
       ge: მგზავრობის დაწყება
+      ru: Заказы в поездке
     workspace.list.ordersInspect:
       cs: Pracovní plocha seznam objednávek kontrola stavu
       en: Orders inspect
       ge: დათვალიერება
+      ru: Заказы в осмотре
     workspace.list.refuelingUnprocessed:
       cs: Pracovní plocha seznam tankování nezpracovaných
       en: Refueling unprocessed
       ge: დატენვა
+      ru: Заправки необработанные
     workspace.list.refuelingWaitpapercheck:
       cs: Pracovní plocha seznam tankování kontrola dokladů
       en: Refueling waitpaper check
+      ru: Заправки, ожидающие проверки чеков
     workspace.list.refuelingBonusnotapplied:
       cs: Pracovní plocha seznam tankování nevyužitý bonus
       en: Refueling bonus not applied
+      ru: Заправки без начисленного бонуса
     workspace.list.refuelingExpired:
       cs: Pracovní plocha seznam tankování vypšelo
       en: Refueling expired
+      ru: Заправки просроченные
     workspace.list.vouchersNotused:
       cs: Pracovní plocha seznam poukázek nevyužito
       en: Vouchers notused
+      ru: Ваучеры неиспользованные
     workspace.list.vouchersNotpaid:
       cs: Pracovní plocha seznam poukázek nezaplaceno
       en: Vouchers not paid
+      ru: Ваучеры неоплаченные
     workspace.list.cartasksTotal:
       cs: Pracovní plocha seznam úkolů celkem
       en: Cartasks total
+      ru: Задачи всего
     workspace.list.cartasksNotassigned:
       cs: Pracovní plocha seznam úkolů nepřiděleno
       en: Cartasks not assigned
+      ru: Задачи неназначенные
     workspace.list.cartasksAssigned:
       cs: Pracovní plocha seznam úkolů přiděleno
       en: Cartasks assigned
+      ru: Задачи назначенные
     workspace.list.cartasksCanceled:
       cs: Pracovní plocha seznam úkolů zrušeno
       en: Cartasks canceled
+      ru: Задачи отменённые
     workspace.list.cartasksDeffered:
       cs: Pracovní plocha seznam úkolů změněno
       en: Cartasks deffered
+      ru: Задачи отложенные
     workspace.list.cartasksFault:
       cs: Pracovní plocha seznam úkolů chybně
       en: Cartasks fault
+      ru: Задачи с ошибкой
     workspace.list.carticketsTotal:
       cs: Pracovní plocha seznam pokut celkem
       en: Cartickets total
+      ru: Штрафы всего
     workspace.list.carticketsActive:
       cs: Pracovní plocha seznam pokut aktivní
       en: Cartickets active
       ge: მოქმედი ჯარიმები
+      ru: Штрафы активные
     workspace.list.carpenaltiesNotdefined:
       cs: Pracovní plocha seznam pokut neidentifikováno
       en: Carpenalties not defined
       ge: ჯარიმები უცნობია
+      ru: Штрафы неопределённые
     workspace.list.carpenaltiesNotpaid:
       cs: Pracovní plocha seznam pokut nezaplaceno
       en: Carpenalties not paid
       ge: გადაუხდელი ჯარიმები
+      ru: Штрафы неоплаченные
     voucher.status.active:
       cs: aktivní
       en: Active
@@ -5639,6 +5763,7 @@ Sections:
       cs: úprava klienta vynulovat stav
       en: To pay the debt
       ge: ბალანსის გაუქმება
+      ru: Погасить долг
     clients.editor.PassportNumber:
       cs: číslo občanského průkazu
       en: Passport series and number
@@ -5743,6 +5868,7 @@ Sections:
       cs: Úprava klienta vzít datum
       en: Taken date
       ge: clients.editor.TAKEDATE
+      ru: Дата получения
     clients.editor.CANTDISPLAY:
       cs: Nepodařilo se určit
       en: Could not determine
@@ -6506,6 +6632,7 @@ Sections:
       ru: Уведомлять по sms
     system.users.notify.allTelegram:
       en: "Telegram"
+      ru: Telegram
     system.users.notify.allWeb:
       cs: Oznamovat přes web-interface (zvýraznit/odstranit zvýraznění)
       en: Notify via web-interface (select/deselect)
@@ -9164,6 +9291,7 @@ Sections:
     rates.Commnets:
       cs: Komentář
       en: Description
+      ru: Описание
     event.DateTime:
       cs: Datum a čas
       en: Date and time
@@ -10369,8 +10497,9 @@ Sections:
       ru: мин.
     orderevents.eventtype.Na:
       cs: Typ objednávky
-      en: orderevents.eventtype.Na
+      en: Unknown
       ge: უცნობია
+      ru: Неизвестно
     orderevents.eventtype.BookStart:
       cs: Auto je rezervováno
       en: Booking
@@ -11012,8 +11141,10 @@ Sections:
       ru: (По умолчанию)
     cars.editor.ECOON:
       en: Eco on
+      ru: Эко-режим включён
     cars.editor.ECOOFF:
       en: Eco off
+      ru: Эко-режим выключен
     cars.editor.RENTBYUSER:
       cs: Rent by user
       en: Rent by user
@@ -11089,6 +11220,7 @@ Sections:
     organizations.EmploeesColumnPeriod:
       cs: Zapnuto
       en: included
+      ru: Включено
     organizations.EmploeesColumnPhone:
       cs: Telefonní číslo
       en: Phone number
@@ -11100,12 +11232,15 @@ Sections:
     organizations.EmploeesPeriod:
       cs: Zapnuto
       en: included
+      ru: Включено
     organizations.TooltipInfoForEmploeer:
       cs: Tip pro zaměstnavatele
-      en: Tool tip Info For Emploeer
+      en: Tooltip for the employer
+      ru: Подсказка для работодателя
     organizations.EmploeesOperations:
       cs: Operace
       en: operation
+      ru: Операции
     organizations.EmploeesOperationsAdd:
       cs: Přidat zaměstnance
       en: add employee
@@ -11113,6 +11248,7 @@ Sections:
     organizations.EmploeesOperationsClear:
       cs: Vymazat seznam zaměstnanců
       en: Remove all
+      ru: Удалить всех
     organizations.EmploeesColumnLimit:
       cs: Limit
       en: Limit
@@ -11124,9 +11260,11 @@ Sections:
     organizations.EmploeesOperationsSetLimit:
       cs: Změnit limit všem
       en: Change limit for all
+      ru: Изменить лимит для всех
     organizations.EmploeesOperationsDeleteLimit:
       cs: Vymazat limit všem
       en: Delete limit for all
+      ru: Удалить лимит для всех
     organizations.LimitOfOrganization:
       cs: Limit pro organizaci
       en: Limit per organization
@@ -11134,6 +11272,7 @@ Sections:
     organizations.LimitOfUser:
       cs: Limit pro zaměstnance
       en: Limit per employee
+      ru: Лимит на сотрудника
     organizations.Limit:
       en: Limit
       ru: Лимит
@@ -11144,6 +11283,7 @@ Sections:
     organizations.EmployeeGroupEditClear:
       cs: Vymazat seznam zaměstnanců
       en: Edit list
+      ru: Редактировать список
     organizations.EmployeeGroupEditFind:
       cs: Zadat název skupiny
       en: Enter the name of the group
@@ -11162,7 +11302,8 @@ Sections:
       ru: Для загрузки списка нажмите на эту кнопку
     organizations.EmployeeEditOperationToolTip:
       cs: Klikněte na tlačítko pro zobrazení všech možností
-      en: Choose the operation fro the list
+      en: Choose an operation from the list
+      ru: Выберите операцию из списка
     organizations.EmployeeGroupEditAddToolTip:
       cs: Pro přidání nové skupiny klikněte na tlačítko
       en: To add new group press this button
@@ -11253,6 +11394,8 @@ Sections:
       en: To add a person please find him with surmane, phone number or email
       ru: Для добавления сотрудника введите его фаимлию, номер телефона или email
     organizations.AddNewCustomerToolTip:
+      en: Start typing the customer's name
+      ru: Начните вводить имя клиента
     organizations.CancellingTab:
       en: Withdrawals
       ru: Списания
@@ -11281,6 +11424,7 @@ Sections:
       en: Customer
       ru: Клиент
     orders.Details.ActGSM:
+      en: Fuel write-off acts
       ru: Акты списания ГСМ
     orders.CorporateRide:
       en: Corporate ride
@@ -11295,10 +11439,13 @@ Sections:
       en: Car without movement with active order
       ru: Машина без движения при активном заказе
     notifications.CarWithoutMovementButOrderInBookStage:
+      en: Car not moving during booking
       ru: Машина без движения в режиме бронирования
     notifications.CarWithoutMovementButOrderInParkStage:
+      en: Car not moving during parking
       ru: Машина без движения в режиме парковки
     notifications.CarWithoutMovementButOrderInInspectStage:
+      en: Car not moving during inspection
       ru: Машина без движения в режиме осмотра
     notifications.CarWithoutMovementInZoneDuringNMinutes:
       en: Car without movement in zone during several minutes
@@ -11389,10 +11536,13 @@ Sections:
       ru: Отправить
     clients.editor.notifications.Sms:
       en: SMS
+      ru: СМС
     clients.editor.notifications.PushOrSms:
       en: Push or SMS
+      ru: Пуш или СМС
     clients.editor.notifications.Push:
       en: Push
+      ru: Пуш
     clients.editor.notificationSended:
       en: Notification sent
       ru: Уведомление было успешно отправлено
@@ -11472,8 +11622,10 @@ Sections:
       en: Key
       ru: Ключ
     cars.editor.NALocker:
+      en: No lock
       ru: Нет замка
     cars.editor.MechLockerPIN:
+      en: Lock PIN code
       ru: ПИН-код замка
     cars.models.EP:
       en: "Electric bike"
@@ -11543,6 +11695,7 @@ Sections:
       ru: Время работы
     organizations.daysOfWeek:
       en: su, mo, tu, we, th, fr, sa
+      ru: вс, пн, вт, ср, чт, пт, сб
     orders.MarkAllCommentsAsResolved:
       en: Mark all comments as resolved
       ru: Пометить все комментарии как прочитанные
@@ -11577,10 +11730,13 @@ Sections:
       en: Report was added in queue. You can find it in "Reports" section
       ru: Отчет был добавлен в очередь.Вы можете наблюдать прогресс отчета в разделе Отчеты
     clients.editor.notification.Sms:
+      en: SMS
       ru: СМС
     clients.editor.notification.PushOrSms:
+      en: Push or SMS
       ru: Пуш или СМС
     clients.editor.notification.Push:
+      en: Push
       ru: Пуш
     aside.nav.pushJobs:
       en: 'Push messages'
@@ -12095,6 +12251,83 @@ Sections:
     export.template.REJECTED:
       en: "The template was not accepted:"
       ru: "Шаблон не принят:"
+    app.DOWNLOADRENTENDACT:
+      en: 'Download the rental end act'
+      ru: 'Скачать акт завершения аренды'
+    cardefecttypes.CARDEFECTTYPES:
+      en: 'Car defect types'
+      ru: 'Типы дефектов автомобиля'
+    cars.classes.displayname:
+      en: 'Display name'
+      ru: 'Отображаемое название'
+    cars.classes.img:
+      en: 'Image'
+      ru: 'Изображение'
+    cars.editor.ARMCODE:
+      en: 'Arm code'
+      ru: 'Код постановки на охрану'
+    cars.editor.DISARMCODE:
+      en: 'Disarm code'
+      ru: 'Код снятия с охраны'
+    cars.editor.All:
+      en: 'All'
+      ru: 'Все'
+    cars.editor.Today:
+      en: 'Today'
+      ru: 'Сегодня'
+    cars.editor.RECONFIGURE:
+      en: 'Reconfigure'
+      ru: 'Перенастроить'
+    cartask.confirm.deffertext:
+      en: 'Postpone the task to the selected date and time?'
+      ru: 'Отложить задачу на выбранные дату и время?'
+    cartasks.calendar.HEADER:
+      en: 'Task calendar'
+      ru: 'Календарь задач'
+    cartasks.list.DATEFILTER:
+      en: 'Date'
+      ru: 'Дата'
+    cartasks.list.filter:
+      en: 'Show tasks of this car only'
+      ru: 'Показать задачи только этого автомобиля'
+    cartasks.list.intervalStart:
+      en: 'Interval start'
+      ru: 'Начало интервала'
+    cartasks.list.selectDateTimeInterval:
+      en: 'Select a date and time interval'
+      ru: 'Выберите интервал дат и времени'
+    clients.editor.Download:
+      en: 'Download'
+      ru: 'Скачать'
+    clients.editor.DropFileHere:
+      en: 'Drop the file here'
+      ru: 'Перетащите файл сюда'
+    clients.editor.FileUploaded:
+      en: 'File uploaded'
+      ru: 'Файл загружен'
+    clients.editor.UploadError:
+      en: 'Upload error'
+      ru: 'Ошибка загрузки'
+    clients.editor.UploadSuccess:
+      en: 'Uploaded successfully'
+      ru: 'Загружено успешно'
+    clients.editor.Uploading:
+      en: 'Uploading'
+      ru: 'Загрузка'
+    contracts.FileRequired:
+      en: 'A file is required'
+      ru: 'Необходимо приложить файл'
+    orders.UndoRemoveImage:
+      en: 'Restore the image'
+      ru: 'Восстановить изображение'
+    organization.withdrawals.Amount:
+      en: 'Amount'
+      ru: 'Сумма'
+    markers.editor.loadPhotoDescription:
+      cs: Odešlete foto místa
+      en: Load location photos
+      ge: ატვირთეთ ადგილმდებარეობის სურათი
+      ru: Загрузите фотографии места
   ProfileFrontend:
     app.GENERICERROR:
       cs: Něco se porouchalo. Zkuste opakovat činnost později.
@@ -12317,6 +12550,7 @@ Sections:
       uk: Бонуси
     header.USE_VOUCHER:
       cs: Uplatnit poukázku
+      en: Use a voucher
       ge: ვაუჩერის გამოყენება
       ru: Использовать ваучер
       uk: Використувати ваучер
@@ -12388,6 +12622,7 @@ Sections:
       uk: Ваучери
     aside.nav.VOUCHER:
       cs: Uplatnit poukázku
+      en: Use a voucher
       ge: ვაუჩერის გამოყენება
       ru: Использовать ваучер
       uk: Використати ваучер
@@ -12441,6 +12676,7 @@ Sections:
       uk: Ввести e-mail...
     warnings.INSTALLAPPS:
       cs: K zahájení pronájmu stáhněte aplikaci
+      en: 'To rent a car, install the app:'
       ge: 'მანქანის დასაქირავებლად დააყენეთ აპლიკაცია:'
       ru: 'Чтобы арендовать автомобиль, установите приложение:'
       uk: 'Щоб орендувати автомобіль, встановіть програму:'
@@ -12584,6 +12820,7 @@ Sections:
       uk: Ваше посилання для запрошення
     personaldata.PROMODESCRIPTION3:
       cs: Pokud při registraci v naší službě někdo uvede Váš promo kód, pak hned získá {{signupBonus}} bonusů na svůj účet, a Vy získáte {{bonusPercent}}% z částky objednávky na Váš účet hned po ukončení jeho první jízdy, nejvíce však {maximumBonus}} bonusů. Počet pozvaných přátel není omezen!
+      en: If someone enters your promo code when signing up for our service, they immediately get {{signupBonus}} bonuses on their account, and you get {{bonusPercent}}% of their order amount on your account after their first ride, but no more than {{maximumBonus}} bonuses. There is no limit on the number of friends you can invite!
       ge: >+
         ჩვენთან  დარეგისტრირებული მომხმარებელი თქვენი პრომო კოდის მითითების შემთხვევაში, მიიღებს {{signupBonus}} ბონუსს საკუთარ ანგარიშზე, ხოლო თქვენ მიიღებთ {{bonusPercent}}% ბონუსს მისი პირველი მგზავრობის შემდგომ. მისაღები ბონუსის მაქსიმალური რაოდენობაა {{maximumBonus}}. მოწვეული მეგობრების რაოდენობა არ არის შეზღუდული!
       ru: Если при регистрации в нашем сервисе кто-то укажет ваш промо-код, он сразу же получит {{signupBonus}} бонусов на свой счёт, а вы получите {{bonusPercent}}% от суммы заказа на ваш счёт после его первой поездки, но не более {{maximumBonus}} бонусов. Число приглашаемых друзей не ограничено!
@@ -12839,3 +13076,4 @@ Sections:
     rent.PRERENT:
       cs: Budete mít INSPECT_MINUTES minut zadarmo na prohlídku vozidla
       en: Please evaluate the condition of the car.
+      ru: Пожалуйста, оцените состояние автомобиля.

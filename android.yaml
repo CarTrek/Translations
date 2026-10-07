@@ -5169,6 +5169,7 @@ Sections:
       uk: See prices
     payments_show_name:
       en: Successfully received payment data for %s!
+      ru: Платёжные данные для %s успешно получены!
     disable_insurance_message:
       en: Do you want to disable insurance?
       cs: Chcete zrušit pojištění?
@@ -5213,14 +5214,19 @@ Sections:
       uk: Are you sure you want to buy a subscription?
     nav_menu_label_how_to:
       en: How to use
+      ru: Как пользоваться
     nav_menu_label_instagram:
       en: Instagram
+      ru: Instagram
     rides:
       en: rides
+      ru: поездки
     kms:
-      en: kilimeters
+      en: kilometers
+      ru: километры
     menu_bonuses:
       en: bonuses
+      ru: бонусы
     setup:
       en: Setup
       ru: Настроить
@@ -5250,6 +5256,7 @@ Sections:
       ru: Вы точно хотите отменить бронь?
     do_not_cancel:
       en: Do not cancel
+      ru: Не отменять
     pay_one_ruble:
       en: Pay 1 do ruble
       ru: Оплатить 1 руб.
@@ -5261,8 +5268,10 @@ Sections:
       ru: Купить бонусы
     whatsapp_chat_with_support_title:
       en: WhatsApp Chat
+      ru: Чат WhatsApp
     cancel_book_or_finish_rent:
       en: Cancel
+      ru: Отмена
     technician_organizations_button:
       en: View organizations
       ru: Организации
