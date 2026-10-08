@@ -5773,6 +5773,147 @@ Sections:
       en: Score
       ge: რეიტიგნი
       ru: Рейтинг
+    clients.score.TITLE:
+      en: AI rating
+      ru: ИИ-рейтинг
+    clients.score.TOOLTIP:
+      en: "A 0-100 score of the customer's last months: money, driving, the car, discipline. Click for the reasons."
+      ru: "Оценка 0–100 по последним месяцам клиента: деньги, вождение, машина, дисциплина. Нажмите — причины."
+    clients.score.LOW_DATA:
+      en: not enough rides
+      ru: мало поездок
+    clients.score.FAILED:
+      en: The rating could not be computed
+      ru: Не удалось посчитать рейтинг
+    clients.score.FLAGS:
+      en: Red flags
+      ru: Красные флаги
+    clients.score.FLAG_TAG:
+      en: tag
+      ru: тег
+    clients.score.TRIPS:
+      en: "{{trips}} rides in {{months}} months"
+      ru: "{{trips}} поездок за {{months}} мес."
+    clients.score.NO_REASONS:
+      en: Nothing found against the customer
+      ru: Нарушений не найдено
+    clients.score.MORE:
+      en: all reasons
+      ru: все причины
+    clients.score.LESS:
+      en: fewer
+      ru: свернуть
+    clients.score.COMPUTED:
+      en: computed
+      ru: рассчитано
+    clients.score.REFRESH:
+      en: recompute
+      ru: пересчитать
+    clients.score.ASK_AI:
+      en: ask the AI assistant why
+      ru: спросите ИИ-ассистента, почему так
+    clients.score.axis.money:
+      en: Money
+      ru: Деньги
+    clients.score.axis.driving:
+      en: Driving
+      ru: Вождение
+    clients.score.axis.car:
+      en: The car
+      ru: Машина
+    clients.score.axis.discipline:
+      en: Discipline
+      ru: Дисциплина
+    clients.score.signal.debt_order:
+      en: Rides whose payment failed
+      ru: Поездки с неуспешной оплатой
+    clients.score.signal.debt_now:
+      en: In debt now
+      ru: Сейчас в долге
+    clients.score.signal.debt_long:
+      en: The debt has been outstanding for long
+      ru: Долг висит давно
+    clients.score.signal.fine_manual:
+      en: Fines and penalties (manual charges)
+      ru: Штрафы и неустойки (ручные списания)
+    clients.score.signal.speeding:
+      en: Speeding
+      ru: Превышение скорости
+    clients.score.signal.speeding_heavy:
+      en: Heavy speeding
+      ru: Сильное превышение скорости
+    clients.score.signal.speeding_noted:
+      en: Speeding logged by an operator
+      ru: Превышение, отмеченное оператором
+    clients.score.signal.engine_rpm:
+      en: High engine speed
+      ru: Высокие обороты двигателя
+    clients.score.signal.rpm_noted:
+      en: High engine speed logged by an operator
+      ru: Обороты, отмеченные оператором
+    clients.score.signal.handbrake:
+      en: Driving with the handbrake on
+      ru: Езда на ручнике
+    clients.score.signal.camera_fine:
+      en: Traffic camera fines
+      ru: Штрафы с камер (фотофиксация)
+    clients.score.signal.crash_guilty:
+      en: Accident at fault
+      ru: ДТП по вине клиента
+    clients.score.signal.drunk:
+      en: Drunk driving
+      ru: Нетрезвое вождение
+    clients.score.signal.drift:
+      en: Drifting
+      ru: Дрифт
+    clients.score.signal.driving_complaint:
+      en: Complaints about the driving
+      ru: Жалобы на вождение
+    clients.score.signal.empty_tank:
+      en: Left the tank empty
+      ru: Оставил пустой бак
+    clients.score.signal.left_dirty:
+      en: The next renter found the car dirty
+      ru: После него машина грязная
+    clients.score.signal.left_smoked:
+      en: The next renter found the car smoked in
+      ru: После него в машине накурено
+    clients.score.signal.left_damaged:
+      en: The next renter found body damage
+      ru: После него повреждения кузова
+    clients.score.signal.smoking_noted:
+      en: Smoking in the car (comment)
+      ru: Курение в машине (комментарий)
+    clients.score.signal.damage_paid:
+      en: Damage compensation
+      ru: Возмещение ущерба
+    clients.score.signal.refuel:
+      en: Refuelled the car
+      ru: Заправлял машину
+    clients.score.signal.zone_out:
+      en: Drove out of the service area
+      ru: Выезд из зоны
+    clients.score.signal.zone_fine:
+      en: Charged for finishing out of the zone
+      ru: Списания за завершение вне зоны
+    clients.score.signal.empty_booking:
+      en: Bookings without a ride
+      ru: Брони без поездки
+    clients.score.signal.contract_breach:
+      en: Breach of the contract
+      ru: Нарушение договора
+    clients.score.signal.selfie_failed:
+      en: Failed the selfie check
+      ru: Не прошёл проверку селфи
+    clients.score.signal.device_blocked:
+      en: Blocked for a device change
+      ru: Блокировка за смену устройства
+    clients.score.signal.duplicate_account:
+      en: Duplicate account
+      ru: Дубль аккаунта
+    clients.score.signal.under_supervision:
+      en: Under supervision
+      ru: Под наблюдением
     clients.editor.DateMask:
       cs: dd.mm.rrrr
       en: DD.MM.YYYY
@@ -6849,6 +6990,12 @@ Sections:
     system.users.specialFeatures.AiAssistant.DESCRIPTION:
       en: The assistant button in the admin panel toolbar. It can read the database, Redis and the in-memory caches of every instance.
       ru: Кнопка ассистента в панели инструментов админки. Он может читать базу, Redis и кеши в памяти всех инстансов.
+    system.users.specialFeatures.CustomerScore:
+      en: Customer AI rating
+      ru: ИИ-рейтинг клиента
+    system.users.specialFeatures.CustomerScore.DESCRIPTION:
+      en: "The 0-100 rating in the customer card: debts, speeding, an empty tank, the car left dirty and the rest, with the reasons. Display only."
+      ru: "Рейтинг 0–100 в карточке клиента: долги, превышения, пустой бак, грязная машина после поездки и прочее, с причинами. Только показ."
     system.users.specialFeatures.ResyncCarOrder:
       en: Resynchronizing a car order
       ru: Пересинхронизация заказа автомобиля
