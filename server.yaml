@@ -7439,6 +7439,24 @@ Sections:
       en: Zone (tag)
       ru: Зона (тэг)
       uk: Зона (тег)
+    CircleCenterLat:
+      en: "Circle center latitude"
+      ru: "Широта центра круга"
+    CircleCenterLon:
+      en: "Circle center longitude"
+      ru: "Долгота центра круга"
+    CircleRadiusMeters:
+      en: "Circle radius, m"
+      ru: "Радиус круга, м"
+    ZoneCircleRadiusTooSmall:
+      en: "The circle radius must be at least 10 m"
+      ru: "Радиус круга — не меньше 10 м"
+    ZoneCircleRadiusTooLarge:
+      en: "The circle radius must be at most 100 km"
+      ru: "Радиус круга — не больше 100 км"
+    ZoneCircleCenterInvalid:
+      en: "The circle center is invalid or the circle crosses the date line"
+      ru: "Центр круга задан неверно или круг пересекает линию перемены дат"
     PromoCodeResultOkCodeApplied:
       en: 'Code accepted. If you have not previously entered a friends promo code, we will give bonuses to you.'
       ru: 'Код принят. Если вы ранее не вводили промокод друга, мы начислим вам бонусы.'

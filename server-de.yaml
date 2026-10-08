@@ -3206,6 +3206,18 @@ Sections:
       de: Zone gelöscht
     ZoneWithTag:
       de: Zone (Tag)
+    CircleCenterLat:
+      de: "Breitengrad des Kreismittelpunkts"
+    CircleCenterLon:
+      de: "Längengrad des Kreismittelpunkts"
+    CircleRadiusMeters:
+      de: "Kreisradius, m"
+    ZoneCircleRadiusTooSmall:
+      de: "Der Kreisradius muss mindestens 10 m betragen"
+    ZoneCircleRadiusTooLarge:
+      de: "Der Kreisradius darf höchstens 100 km betragen"
+    ZoneCircleCenterInvalid:
+      de: "Der Kreismittelpunkt ist ungültig oder der Kreis überschreitet die Datumsgrenze"
     PromoCodeResultOkCodeApplied:
       de: 'Code akzeptiert. Wenn Sie zuvor keinen Freundes-Promocode eingegeben haben, geben wir Ihnen Boni.'
     PromoCodeResultFailedIncorrectCode:
