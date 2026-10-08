@@ -2124,6 +2124,24 @@ Sections:
     signin.email-use-phone:
       en: "Sign in with phone number"
       ru: "Войти по номеру телефона"
+    signin.email-signup-question:
+      en: "Go to sign-up?"
+      ru: "Перейти к регистрации?"
+    signin.email-not-found-short:
+      en: "There is no account with {email}"
+      ru: "Аккаунта с {email} нет"
+    signin.email-not-found-support:
+      en: "There is no account with {email}. If you have already signed up, contact support:"
+      ru: "Аккаунта с {email} нет. Если вы уже зарегистрированы, напишите в поддержку:"
+    signin.email-other:
+      en: "Other email"
+      ru: "Другой email"
+    signin.email-signup-as:
+      en: "You are signing up with {email}"
+      ru: "Вы регистрируетесь с email {email}"
+    signin.email-signup-change:
+      en: "Use another email"
+      ru: "Указать другой email"
     signin.email-install-title:
       en: "Sign in in the app"
       ru: "Вход в приложении"
