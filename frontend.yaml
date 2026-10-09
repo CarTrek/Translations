@@ -6882,6 +6882,60 @@ Sections:
     ai.ask.ASK_AI:
       en: "Ask:"
       ru: "Спросить:"
+    ai.ask.CARD_BUTTON:
+      en: "Ask AI"
+      ru: "Спросить ИИ"
+    ai.ask.ORDER_BUTTON_HINT:
+      en: "Ask the AI assistant about this order: its amount, finish, start"
+      ru: "Спросить ИИ-помощника про этот заказ: сумма, завершение, старт"
+    ai.ask.CLIENT_BUTTON_HINT:
+      en: "Ask the AI assistant about this customer: sign-in, cars, money, rental"
+      ru: "Спросить ИИ-помощника про этого клиента: вход, машины, деньги, аренда"
+    ai.ask.ORDER_CARD:
+      en: "Order"
+      ru: "Заказ"
+    ai.ask.CLIENT_CARD:
+      en: "Customer"
+      ru: "Клиент"
+    ai.ask.CLIENT_LABEL:
+      en: "the customer of the open card"
+      ru: "клиент из открытой карточки"
+    ai.ask.Q_ORDER_SUM:
+      en: "Why this amount?"
+      ru: "Почему такая сумма?"
+    ai.ask.Q_ORDER_FINISH:
+      en: "Why didn't the rental finish?"
+      ru: "Почему не завершилась аренда?"
+    ai.ask.Q_ORDER_WHO_FINISHED:
+      en: "Who finished the rental, and when?"
+      ru: "Кто и когда завершил аренду?"
+    ai.ask.Q_ORDER_START:
+      en: "Why didn't the car open or the rental start?"
+      ru: "Почему не открылась машина или не началась аренда?"
+    ai.ask.Q_CLIENT_LOGIN:
+      en: "Why can't they sign in to the app?"
+      ru: "Почему не может войти в приложение?"
+    ai.ask.Q_CLIENT_CARS:
+      en: "Why can't they see cars?"
+      ru: "Почему не видит машины?"
+    ai.ask.Q_CLIENT_MONEY:
+      en: "Where do the debt and bonuses come from?"
+      ru: "Откуда долг и бонусы?"
+    ai.ask.Q_CLIENT_RENT:
+      en: "Where is their rental: why is it gone or doubled?"
+      ru: "Где его аренда: почему пропала или раздвоилась?"
+    ai.ask.ORDER_HINT:
+      en: "«Why this amount?» is answered at once, by the data. The other buttons and a question of your own go to the AI and take a minute or two."
+      ru: "«Почему такая сумма?» — ответ сразу, по данным. Остальные кнопки и свой вопрос уйдут ИИ: это минута-две."
+    ai.ask.ORDER_HINT_OFF:
+      en: "«Why this amount?» is answered at once, by the data. The AI takes no other questions right now ({{why}})."
+      ru: "«Почему такая сумма?» — ответ сразу, по данным. Другие вопросы ИИ сейчас не принимает ({{why}})."
+    ai.ask.CLIENT_HINT:
+      en: "The buttons below and a question of your own go to the AI and take a minute or two."
+      ru: "Кнопки внизу и свой вопрос уйдут ИИ: это минута-две."
+    ai.ask.CLIENT_HINT_OFF:
+      en: "The AI takes no questions right now ({{why}})."
+      ru: "ИИ сейчас не принимает вопросы ({{why}})."
     ai.brief.LOADING:
       en: "Looking at the charge…"
       ru: "Смотрю списание…"
