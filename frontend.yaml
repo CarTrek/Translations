@@ -5773,6 +5773,666 @@ Sections:
       en: Score
       ge: რეიტიგნი
       ru: Рейтинг
+    aside.nav.SETUP:
+      en: Initial setup
+      ru: Первичная настройка
+    setup.TITLE:
+      en: Initial setup
+      ru: Первичная настройка
+    setup.LATER:
+      en: "Continue later"
+      ru: "Продолжить позже"
+    setup.BACK:
+      en: "Back"
+      ru: "Назад"
+    setup.NEXT:
+      en: "Next"
+      ru: "Далее"
+    setup.FINISH:
+      en: "Finish setup"
+      ru: "Завершить настройку"
+    setup.STOP:
+      en: "Stop {{n}} of {{total}}"
+      ru: "Остановка {{n}} из {{total}}"
+    setup.SAVED:
+      en: "Saved"
+      ru: "Сохранено"
+    setup.SAVE_FAILED:
+      en: "Not saved"
+      ru: "Не сохранилось"
+    setup.LOAD_FAILED:
+      en: "Could not load: {{error}}"
+      ru: "Не удалось загрузить: {{error}}"
+    setup.TECH:
+      en: "Details"
+      ru: "Подробности"
+    setup.WHO:
+      en: "Who sets it up"
+      ru: "Кто настраивает"
+    setup.INFRA_TEXT:
+      en: "This stop is set up by the system administrators in the configuration files. Here you only see the result."
+      ru: "Эту остановку настраивают системные администраторы в файлах конфигурации. Здесь виден только результат."
+    setup.INFRA_SHORT:
+      en: "administrators"
+      ru: "администраторы"
+    setup.FINISHED_AT:
+      en: "Setup was finished on {{date}}. The wizard does not open by itself any more."
+      ru: "Настройка завершена {{date}}. Сам мастер больше не открывается."
+    setup.route.START:
+      en: "Empty base"
+      ru: "Пустая база"
+    setup.route.END:
+      en: "First booking"
+      ru: "Первая бронь"
+    setup.state.ok:
+      en: "done"
+      ru: "готово"
+    setup.state.warn:
+      en: "needs a look"
+      ru: "стоит проверить"
+    setup.state.fail:
+      en: "not done"
+      ru: "не готово"
+    setup.state.skipped:
+      en: "skipped, not done"
+      ru: "пропущено, не готово"
+    setup.state.notRun:
+      en: "not checked yet"
+      ru: "ещё не проверяли"
+    setup.state.runOk:
+      en: "booking goes through"
+      ru: "бронь проходит"
+    setup.state.runFail:
+      en: "booking is refused"
+      ru: "бронь не проходит"
+    setup.welcome.TITLE:
+      en: "From an empty base to the first booking"
+      ru: "От пустой базы до первой брони"
+    setup.welcome.TEXT:
+      en: "Nine stops: the organization, sign-in codes, payments, trackers, the car, zones, the rate, a test customer and a test booking."
+      ru: "Девять остановок: организация, коды входа, платежи, трекеры, машина, зоны, тариф, тестовый клиент и пробная бронь."
+    setup.welcome.FACT_FOUND:
+      en: "Every stop shows what the base already has: nothing is typed twice."
+      ru: "На каждой остановке видно, что в базе уже есть, — дважды ничего вводить не придётся."
+    setup.welcome.FACT_ADMIN:
+      en: "Records are made right here; the admin editors are a click away for fine-tuning."
+      ru: "Записи создаются прямо здесь; для тонкой настройки — ссылки в редакторы админки."
+    setup.welcome.SAVED:
+      en: "Progress is saved: you can leave and come back to the same stop."
+      ru: "Прогресс сохраняется: можно уйти и вернуться на ту же остановку."
+    setup.welcome.START:
+      en: "Start"
+      ru: "Начать"
+    setup.welcome.SKIP:
+      en: "I will set it up myself"
+      ru: "Настрою сам"
+    setup.welcome.SKIP_CONFIRM:
+      en: "The wizard will not open by itself any more. Continue?"
+      ru: "Мастер больше не будет открываться сам. Продолжить?"
+    setup.now.organization.ok:
+      en: "New customers join: {{names}}"
+      ru: "Новые клиенты попадают в: {{names}}"
+    setup.now.organization.fail:
+      en: "New customers do not join any organization yet"
+      ru: "Новые клиенты пока не попадают ни в одну организацию"
+    setup.now.sms.ok:
+      en: "Sign-in codes go through: {{names}}"
+      ru: "Коды входа уходят через: {{names}}"
+    setup.now.sms.warn:
+      en: "No SMS gateway: the wizard shows the sign-in code of a test customer"
+      ru: "SMS-шлюза нет: код входа тестового клиента покажет мастер"
+    setup.now.payments.ok:
+      en: "Payment gateway: {{name}}"
+      ru: "Платёжный шлюз: {{name}}"
+    setup.now.payments.warn:
+      en: "No gateway is set, the default one is used"
+      ru: "Шлюз не задан, используется шлюз по умолчанию"
+    setup.now.hardware.ok:
+      en: "The site sees {{count}} trackers"
+      ru: "Сайт видит трекеров: {{count}}"
+    setup.now.hardware.fail:
+      en: "The site sees no trackers yet"
+      ru: "Сайт пока не видит ни одного трекера"
+    setup.now.car.ok:
+      en: "Ready: {{car}}"
+      ru: "Готово: {{car}}"
+    setup.now.car.noCar:
+      en: "No active car with a tracker yet"
+      ru: "Пока нет активной машины с трекером"
+    setup.now.car.noModel:
+      en: "No car model yet"
+      ru: "Пока нет ни одной модели"
+    setup.now.zones.ok:
+      en: "There are Drive and RentEnd zones"
+      ru: "Есть зоны движения и завершения"
+    setup.now.zones.fail:
+      en: "Missing: {{what}}"
+      ru: "Не хватает: {{what}}"
+    setup.zones.DRIVE:
+      en: "a Drive zone"
+      ru: "зоны движения (Drive)"
+    setup.zones.RENTEND:
+      en: "a RentEnd zone"
+      ru: "зоны завершения (RentEnd)"
+    setup.now.rate.ok:
+      en: "There is an active per-minute rate"
+      ru: "Есть активная поминутная ставка"
+    setup.now.rate.fail:
+      en: "No active per-minute rate"
+      ru: "Нет активной поминутной ставки"
+    setup.now.customer.ok:
+      en: "Approved customer: {{phone}}"
+      ru: "Одобренный клиент: {{phone}}"
+    setup.now.customer.fail:
+      en: "No customer approved by security yet"
+      ru: "Пока нет клиента, одобренного СБ"
+    setup.hardware.NONE_FREE:
+      en: "Every tracker the site sees is already in a car."
+      ru: "Все трекеры, которые видит сайт, уже привязаны к машинам."
+    setup.hardware.COPY_HINT:
+      en: "Click an id to copy it for the car card."
+      ru: "Нажмите на id, чтобы скопировать его для карточки машины."
+    setup.run.LAST_CAR:
+      en: "The newest car:"
+      ru: "Последняя машина:"
+    setup.run.APPROVED:
+      en: "An approved customer:"
+      ru: "Одобренный клиент:"
+    setup.run.APP:
+      en: "App"
+      ru: "Приложение"
+    setup.run.NOT_FOUND:
+      en: "No such car or customer."
+      ru: "Такой машины или клиента нет."
+    setup.run.OK_TEXT:
+      en: "Nothing was booked, held or charged: this was only a check."
+      ru: "Ничего не забронировано, не захолдировано и не списано — это только проверка."
+    setup.run.FAIL_TITLE:
+      en: "The booking would be refused"
+      ru: "Бронь не пройдёт"
+    setup.run.BLOCKERS:
+      en: "What stops the booking"
+      ru: "Что мешает брони"
+    setup.run.WARNINGS:
+      en: "What the booking will do"
+      ru: "Что сделает бронь"
+    setup.run.PASSED:
+      en: "Checks passed: {{count}}"
+      ru: "Пройдено проверок: {{count}}"
+    setup.done.TITLE_OK:
+      en: "The first car can take a booking"
+      ru: "Первая машина готова принять бронь"
+    setup.done.TITLE_GAPS:
+      en: "Setup is finished"
+      ru: "Настройка завершена"
+    setup.done.TEXT_OK:
+      en: "Everything the wizard checks is in place. It will not open by itself any more; you can come back from System → Initial setup."
+      ru: "Всё, что проверяет мастер, на месте. Сам он больше не откроется — вернуться можно через «Система → Первичная настройка»."
+    setup.done.TEXT_GAPS:
+      en: "Some stops are still open, and the wizard will not open by itself any more. Finish them in the admin or come back from System → Initial setup."
+      ru: "Часть остановок не закрыта, а сам мастер больше не откроется. Доделайте их в админке или вернитесь через «Система → Первичная настройка»."
+    setup.done.OPEN:
+      en: "Open"
+      ru: "Открыть"
+    setup.done.OPEN_ADMIN:
+      en: "Go to the admin"
+      ru: "Перейти в админку"
+    setup.ADMIN_LINKS:
+      en: "Fine-tuning is in the admin:"
+      ru: "Тонкая настройка — в админке:"
+    setup.form.TITLE:
+      en: "Fill in here"
+      ru: "Заполнить здесь"
+    setup.form.SAVE:
+      en: "Save"
+      ru: "Сохранить"
+    setup.form.SAVED:
+      en: "Saved"
+      ru: "Сохранено"
+    setup.form.NO_RIGHT:
+      en: "Your account has no right to do this."
+      ru: "У вашей учётной записи нет права на это действие."
+    setup.form.REQUIRED:
+      en: "Fill in: {{what}}"
+      ru: "Заполните: {{what}}"
+    setup.form.LOST:
+      en: "The record was saved, but the wizard could not find it. Press «Check again»."
+      ru: "Запись сохранена, но мастер её не нашёл. Нажмите «Проверить снова»."
+    setup.organization.ORG:
+      en: "Organization for new customers"
+      ru: "Организация для новых клиентов"
+    setup.organization.NEW:
+      en: "New organization"
+      ru: "Новая организация"
+    setup.organization.NAME:
+      en: "Name"
+      ru: "Название"
+    setup.organization.DEFAULT_NAME:
+      en: "Standard"
+      ru: "Стандарт"
+    setup.organization.HIDE:
+      en: "Only customers of this organization see its cars and rates"
+      ru: "Машины и тарифы видят только клиенты этой организации"
+    setup.organization.MORE:
+      en: "Choose another organization"
+      ru: "Выбрать другую организацию"
+    setup.car.MODEL:
+      en: "Model"
+      ru: "Модель"
+    setup.car.NEW_MODEL:
+      en: "New model"
+      ru: "Новая модель"
+    setup.car.BRAND:
+      en: "Brand"
+      ru: "Марка"
+    setup.car.MODEL_NAME:
+      en: "Model name"
+      ru: "Название модели"
+    setup.car.GEARBOX:
+      en: "Gearbox"
+      ru: "Коробка"
+    setup.car.AUTOMATIC:
+      en: "Automatic"
+      ru: "Автомат"
+    setup.car.MANUAL:
+      en: "Manual"
+      ru: "Механика"
+    setup.car.KIND:
+      en: "Engine"
+      ru: "Двигатель"
+    setup.car.ICE:
+      en: "Petrol or diesel"
+      ru: "Бензин или дизель"
+    setup.car.EV:
+      en: "Electric"
+      ru: "Электро"
+    setup.car.PICTURE:
+      en: "Picture for the app"
+      ru: "Картинка для приложения"
+    setup.car.PICTURE_PICK:
+      en: "Choose a file"
+      ru: "Выбрать файл"
+    setup.car.PICTURE_HINT:
+      en: "PNG with a transparent background; it can be added later."
+      ru: "PNG с прозрачным фоном; можно добавить позже."
+    setup.car.PICTURE_BIG:
+      en: "The picture is bigger than 3 MB."
+      ru: "Картинка больше 3 МБ."
+    setup.car.CAR:
+      en: "Car"
+      ru: "Машина"
+    setup.car.REG:
+      en: "Registration number"
+      ru: "Госномер"
+    setup.car.TRACKER:
+      en: "Tracker id"
+      ru: "Id трекера"
+    setup.car.TRACKER_HINT:
+      en: "Free trackers the site sees are suggested; online ones first."
+      ru: "Подсказываются свободные трекеры, которые видит сайт; сначала те, что на связи."
+    setup.car.TRACKER_NONE:
+      en: "The site sees no free tracker: type the id by hand."
+      ru: "Сайт не видит свободных трекеров — введите id вручную."
+    setup.car.IN_ORG:
+      en: "In the organization «{{name}}»"
+      ru: "В организации «{{name}}»"
+    setup.car.ACTIVE_NOTE:
+      en: "The car is turned on right away."
+      ru: "Машина сразу будет включена."
+    setup.car.MORE:
+      en: "Add another car"
+      ru: "Добавить ещё машину"
+    setup.zones.MAP_HINT:
+      en: "Click the map to put the centre of the area; the circle is where cars may drive and end a ride."
+      ru: "Нажмите на карту, чтобы поставить центр; круг — где машинам можно ездить и заканчивать аренду."
+    setup.zones.LAT:
+      en: "Latitude"
+      ru: "Широта"
+    setup.zones.LON:
+      en: "Longitude"
+      ru: "Долгота"
+    setup.zones.RADIUS:
+      en: "Radius, km"
+      ru: "Радиус, км"
+    setup.zones.MAKE_DRIVE:
+      en: "Drive zone: where cars may go"
+      ru: "Зона движения: где машинам можно ездить"
+    setup.zones.MAKE_RENTEND:
+      en: "RentEnd zone: where a ride may end"
+      ru: "Зона завершения: где можно закончить аренду"
+    setup.zones.DRIVE_NAME:
+      en: "Drive area"
+      ru: "Зона движения"
+    setup.zones.RENTEND_NAME:
+      en: "Ride end area"
+      ru: "Зона завершения аренды"
+    setup.zones.SAVE:
+      en: "Make the zones"
+      ru: "Создать зоны"
+    setup.zones.NO_CENTER:
+      en: "Put the centre on the map first."
+      ru: "Сначала поставьте центр на карте."
+    setup.zones.BAD_RADIUS:
+      en: "The radius is from 0.1 to 200 km."
+      ru: "Радиус — от 0,1 до 200 км."
+    setup.zones.NO_TYPE:
+      en: "Tick at least one zone."
+      ru: "Отметьте хотя бы одну зону."
+    setup.zones.MAP_FAILED:
+      en: "The map did not load; enter the centre by hand."
+      ru: "Карта не загрузилась — введите центр вручную."
+    setup.zones.MORE:
+      en: "Add another area"
+      ru: "Добавить ещё область"
+    setup.rate.NAME:
+      en: "Name"
+      ru: "Название"
+    setup.rate.DEFAULT_NAME:
+      en: "Standard"
+      ru: "Стандарт"
+    setup.rate.DRIVE:
+      en: "A minute of driving"
+      ru: "Минута езды"
+    setup.rate.PARK:
+      en: "A minute of parking"
+      ru: "Минута парковки"
+    setup.rate.BOOK:
+      en: "A minute of booking"
+      ru: "Минута брони"
+    setup.rate.BAD_PRICE:
+      en: "A price is a number, 0 or more."
+      ru: "Цена — число, 0 или больше."
+    setup.rate.SCOPE_ORG:
+      en: "All days, round the clock, any car; for customers of «{{name}}»."
+      ru: "Все дни, круглосуточно, любая машина; для клиентов «{{name}}»."
+    setup.rate.SCOPE_ALL:
+      en: "All days, round the clock, any car; for every customer."
+      ru: "Все дни, круглосуточно, любая машина; для всех клиентов."
+    setup.rate.MORE:
+      en: "Add another rate"
+      ru: "Добавить ещё ставку"
+    setup.customer.PHONE:
+      en: "Phone of the test customer"
+      ru: "Телефон тестового клиента"
+    setup.customer.FIND:
+      en: "Find"
+      ru: "Найти"
+    setup.customer.NOT_FOUND:
+      en: "This number has not signed up yet. Install the app and sign in with it, then search again."
+      ru: "Этот номер ещё не зарегистрирован. Установите приложение, войдите по нему и найдите снова."
+    setup.customer.NOT_CUSTOMER:
+      en: "This is a staff account, not a customer."
+      ru: "Это учётная запись сотрудника, а не клиента."
+    setup.customer.UNNAMED:
+      en: "No name yet"
+      ru: "Без имени"
+    setup.customer.APPROVED:
+      en: "Approved by security"
+      ru: "Одобрен СБ"
+    setup.customer.NOT_APPROVED:
+      en: "Not approved by security"
+      ru: "Не одобрен СБ"
+    setup.customer.FREE:
+      en: "Rides without a bank card"
+      ru: "Ездит без банковской карты"
+    setup.customer.NOT_FREE:
+      en: "Needs a bank card"
+      ru: "Нужна банковская карта"
+    setup.customer.IN_ORG:
+      en: "In «{{name}}»"
+      ru: "В «{{name}}»"
+    setup.customer.OUT_ORG:
+      en: "Not in «{{name}}»"
+      ru: "Не в «{{name}}»"
+    setup.customer.BLOCKED:
+      en: "Blocked"
+      ru: "Заблокирован"
+    setup.customer.NOT_IN_ORG:
+      en: "They signed up before the default organization was set, so they do not see its cars. Add it in the customer card."
+      ru: "Клиент зарегистрировался раньше, чем задали организацию по умолчанию, и не видит её машин. Добавьте её в карточке клиента."
+    setup.customer.OPEN_CARD:
+      en: "Customer card"
+      ru: "Карточка клиента"
+    setup.customer.MAKE_READY:
+      en: "Approve and let ride without a card"
+      ru: "Одобрить и разрешить без карты"
+    setup.customer.APPROVE:
+      en: "Approve"
+      ru: "Одобрить"
+    setup.customer.LET_FREE:
+      en: "Let ride without a card"
+      ru: "Разрешить без карты"
+    setup.customer.NO_PUSH:
+      en: "The customer gets no message about it."
+      ru: "Клиенту об этом ничего не придёт."
+    setup.customer.READY:
+      en: "Ready for a test booking"
+      ru: "Готов к пробной брони"
+    setup.customer.CODE:
+      en: "Sign-in code"
+      ru: "Код входа"
+    setup.customer.SHOW_CODE:
+      en: "Show the sign-in code"
+      ru: "Показать код входа"
+    setup.customer.CODE_HINT:
+      en: "Ask for the code in the app, then show it here."
+      ru: "Запросите код в приложении и посмотрите его здесь."
+    setup.customer.CODE_VALID:
+      en: "valid for {{min}} more min"
+      ru: "действует ещё {{min}} мин"
+    setup.customer.NO_CODE:
+      en: "No code for this number: ask for it in the app first."
+      ru: "Для этого номера кода нет — сначала запросите его в приложении."
+    setup.customer.MORE:
+      en: "Another customer"
+      ru: "Другой клиент"
+    setup.car.PICK_MODEL:
+      en: "Take from the base"
+      ru: "Взять из базы"
+    setup.REFRESH:
+      en: Check again
+      ru: Проверить заново
+    setup.INFRA:
+      en: Infrastructure, ask the system administrators
+      ru: Инфраструктура, к системным администраторам
+    setup.step.organization:
+      en: Organization
+      ru: Организация
+    setup.step.sms:
+      en: SMS
+      ru: SMS
+    setup.step.payments:
+      en: Payments
+      ru: Платежи
+    setup.step.hardware:
+      en: Hardware
+      ru: Железо
+    setup.step.car:
+      en: Car model and car
+      ru: Модель и машина
+    setup.step.zones:
+      en: Zones
+      ru: Зоны
+    setup.step.rate:
+      en: Rate
+      ru: Тариф
+    setup.step.customer:
+      en: Test customer
+      ru: Тестовый клиент
+    setup.step.run:
+      en: Test booking
+      ru: Проверка брони
+    setup.hint.organization:
+      en: "Every new customer joins the default organization. The cars and the rate belong to it, so only signed-up customers see them."
+      ru: "Каждый новый клиент попадает в организацию по умолчанию. К ней привязаны машины и тариф — их видят только зарегистрированные клиенты."
+    setup.hint.sms:
+      en: "The SMS gateway for sign-in codes is set up by the system administrators; here is only whether it is there. Not needed for a pilot: the code of a test customer can be read in the admin."
+      ru: "SMS-шлюз для кодов входа настраивают системные администраторы; здесь только видно, есть ли он. Для пилота не нужен: код тестового клиента можно посмотреть в админке."
+    setup.hint.payments:
+      en: "The payment gateway is set up by the system administrators; here is only which one is in use. Not needed for a pilot: test customers ride with «drive free»."
+      ru: "Платёжный шлюз настраивают системные администраторы; здесь только видно, какой подключён. Для пилота не нужен: тестовые клиенты ездят с галкой «бесплатно»."
+    setup.hint.hardware:
+      en: "Trackers are connected by the system administrators. Below are the trackers no car uses yet: take an id from here for the car card."
+      ru: "Трекеры подключают системные администраторы. Ниже — трекеры, которые ещё не привязаны ни к одной машине: id для карточки машины берите отсюда."
+    setup.hint.car:
+      en: "The app shows a car with its model's picture; the tracker id links the car to its tracker."
+      ru: "Приложение показывает машину с картинкой её модели, а с трекером машину связывает id трекера."
+    setup.hint.zones:
+      en: "A car can be booked only when there is a zone to drive in and a zone to end the ride."
+      ru: "Машину можно забронировать, только если есть зона, где ездить, и зона, где закончить аренду."
+    setup.hint.rate:
+      en: "Without a rate that fits the car, the customer and the hour the booking is refused."
+      ru: "Без ставки, подходящей машине, клиенту и часу, бронь не пройдёт."
+    setup.hint.customer:
+      en: "A customer approved by security, to try the first booking for real."
+      ru: "Клиент, одобренный СБ, — чтобы попробовать первую бронь по-настоящему."
+    setup.hint.run:
+      en: "Could this customer book this car right now? The same checks as booking in the app; nothing is booked, held or charged."
+      ru: "Сможет ли этот клиент забронировать эту машину прямо сейчас? Те же проверки, что у брони в приложении; ничего не бронируется, не холдируется и не списывается."
+    setup.hardware.HOST:
+      en: Host
+      ru: Хост
+    setup.hardware.CONNECTIONS:
+      en: IoT connections
+      ru: Подключения IoT
+    setup.hardware.VIRTUAL:
+      en: Virtual vehicles
+      ru: Виртуальные машины
+    setup.hardware.FREE_TRACKERS:
+      en: Trackers not bound to a car
+      ru: Трекеры без машины
+    setup.hardware.SHOWN:
+      en: Shown
+      ru: Показано
+    setup.run.CAR:
+      en: "Car: registration number or id"
+      ru: "Машина: госномер или id"
+    setup.run.USER:
+      en: "Customer: phone or user id"
+      ru: "Клиент: телефон или id"
+    setup.run.ANY_OS:
+      en: Any app
+      ru: Любое приложение
+    setup.run.APP_VERSION:
+      en: App version
+      ru: Версия
+    setup.run.CHECK:
+      en: Check
+      ru: Проверить
+    setup.run.OK:
+      en: "The booking would go through"
+      ru: "Бронь пройдёт"
+    setup.run.FAIL:
+      en: "The app would get"
+      ru: "Приложение получит"
+    setup.gate.license:
+      en: Licence
+      ru: Лицензия
+    setup.gate.timeSentry:
+      en: Node clock
+      ru: Часы ноды
+    setup.gate.newBookings:
+      en: New bookings allowed
+      ru: Новые брони разрешены
+    setup.gate.sms:
+      en: SMS gateway
+      ru: SMS-шлюз
+    setup.gate.payments:
+      en: Payment gateway
+      ru: Платёжный шлюз
+    setup.gate.hardware:
+      en: Trackers
+      ru: Трекеры
+    setup.gate.car:
+      en: Model and car
+      ru: Модель и машина
+    setup.gate.zones:
+      en: Drive and RentEnd zones
+      ru: Зоны движения и завершения
+    setup.gate.rate:
+      en: Rate
+      ru: Тариф
+    setup.gate.customer:
+      en: Approved customer
+      ru: Одобренный клиент
+    setup.gate.appVersion:
+      en: App version
+      ru: Версия приложения
+    setup.gate.carFound:
+      en: Car
+      ru: Машина
+    setup.gate.userFound:
+      en: Customer
+      ru: Клиент
+    setup.gate.customerRight:
+      en: Customer right
+      ru: Право «Клиент»
+    setup.gate.userHasOrder:
+      en: Customer's active orders
+      ru: Активные заказы клиента
+    setup.gate.organizationRentals:
+      en: Organization rentals limit
+      ru: Лимит аренд организации
+    setup.gate.carHasOrder:
+      en: Car is free
+      ru: Машина свободна
+    setup.gate.carOnline:
+      en: Car online
+      ru: Машина на связи
+    setup.gate.carActive:
+      en: Car active
+      ru: Машина активна
+    setup.gate.carAvailable:
+      en: Available for rent (IoT)
+      ru: Доступна для аренды (IoT)
+    setup.gate.carCoordinates:
+      en: Car coordinates
+      ru: Координаты машины
+    setup.gate.userBlocked:
+      en: Not blocked
+      ru: Не заблокирован
+    setup.gate.securityCheck:
+      en: Approved by security
+      ru: Одобрен СБ
+    setup.gate.blockedUntil:
+      en: Temporary block
+      ru: Временная блокировка
+    setup.gate.documents:
+      en: Documents valid
+      ru: Документы действительны
+    setup.gate.bankCard:
+      en: Bank card
+      ru: Банковская карта
+    setup.gate.deposit:
+      en: Deposit
+      ru: Депозит
+    setup.gate.negativeBalance:
+      en: Balance and debt
+      ru: Баланс и долг
+    setup.gate.organization:
+      en: Car and customer organizations
+      ru: Организации машины и клиента
+    setup.gate.rentEndZones:
+      en: RentEnd zones
+      ru: Зоны завершения
+    setup.gate.driveZones:
+      en: Drive zones
+      ru: Зоны движения
+    setup.gate.minimumBalance:
+      en: Minimum balance top-up
+      ru: Пополнение минимального баланса
+    setup.gate.chargeBeforeRide:
+      en: Charge before the ride
+      ru: Списание до поездки
+    setup.gate.preHold:
+      en: Pre-hold
+      ru: Предхолд
+    setup.gate.tracker:
+      en: Tracker found
+      ru: Трекер найден
+    setup.gate.hardwareCommand:
+      en: Command to the car
+      ru: Команда машине
     clients.score.TITLE:
       en: AI rating
       ru: ИИ-рейтинг
