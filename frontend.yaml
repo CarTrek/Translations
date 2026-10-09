@@ -5776,9 +5776,6 @@ Sections:
     clients.score.TITLE:
       en: AI rating
       ru: ИИ-рейтинг
-    clients.score.TOOLTIP:
-      en: "A 0-100 score of the customer's last months: money, driving, the car, discipline. Click for the reasons."
-      ru: "Оценка 0–100 по последним месяцам клиента: деньги, вождение, машина, дисциплина. Нажмите — причины."
     clients.score.LOW_DATA:
       en: not enough rides
       ru: мало поездок
@@ -5809,9 +5806,15 @@ Sections:
     clients.score.REFRESH:
       en: recompute
       ru: пересчитать
-    clients.score.ASK_AI:
-      en: ask the AI assistant why
-      ru: спросите ИИ-ассистента, почему так
+    clients.score.NOT_COMPUTED:
+      en: "Not computed yet. Click: the AI assistant computes the rating and shows the reasons."
+      ru: "Ещё не рассчитан. Нажмите — ИИ-ассистент посчитает рейтинг и покажет причины."
+    clients.score.HEADER_HINT:
+      en: "Computed {{computed}}. Click: the reasons in the AI assistant."
+      ru: "Рассчитан {{computed}}. Нажмите — причины в ИИ-ассистенте."
+    clients.score.LOW_DATA_HINT:
+      en: "Too few rides for a number: {{trips}} in {{months}} months. Click: the reasons in the AI assistant."
+      ru: "Мало поездок для числа: {{trips}} за {{months}} мес. Нажмите — причины в ИИ-ассистенте."
     clients.score.axis.money:
       en: Money
       ru: Деньги
@@ -6864,6 +6867,18 @@ Sections:
     ai.ask.CANCELLED:
       en: "cancelled"
       ru: "отменено"
+    ai.ask.CUSTOMER_SCORE:
+      en: "Customer's AI rating"
+      ru: "ИИ-рейтинг клиента"
+    ai.ask.SCORE_LABEL:
+      en: "customer's AI rating: {{score}}"
+      ru: "ИИ-рейтинг клиента: {{score}}"
+    ai.ask.Q_SCORE_WHY:
+      en: "Why this rating?"
+      ru: "Почему такой рейтинг?"
+    ai.ask.Q_SCORE_RISK:
+      en: "What are the risks with this customer?"
+      ru: "Чем рискуем с этим клиентом?"
     ai.ask.ASK_AI:
       en: "Ask:"
       ru: "Спросить:"
@@ -6876,6 +6891,15 @@ Sections:
     ai.brief.HINT:
       en: "Why this amount? The buttons below answer at once. A question of your own goes to the AI and takes a minute or two."
       ru: "Почему такая сумма — кнопки внизу, ответ сразу. Свой вопрос уйдёт ИИ: это минута-две."
+    ai.score.LOADING:
+      en: "Computing the rating…"
+      ru: "Считаю рейтинг…"
+    ai.score.HINT:
+      en: "Computed by code over the customer's last months: 100 plus the points of the reasons. The buttons below and a question of your own go to the AI and take a minute or two."
+      ru: "Посчитано кодом по последним месяцам клиента: 100 плюс очки причин. Кнопки внизу и свой вопрос уйдут ИИ: это минута-две."
+    ai.score.HINT_OFF:
+      en: "Computed by code over the customer's last months: 100 plus the points of the reasons."
+      ru: "Посчитано кодом по последним месяцам клиента: 100 плюс очки причин."
     ai.step.WORKING:
       en: "Working on it…"
       ru: "Разбираюсь…"
@@ -6994,8 +7018,8 @@ Sections:
       en: Customer AI rating
       ru: ИИ-рейтинг клиента
     system.users.specialFeatures.CustomerScore.DESCRIPTION:
-      en: "The 0-100 rating in the customer card: debts, speeding, an empty tank, the car left dirty and the rest, with the reasons. Display only."
-      ru: "Рейтинг 0–100 в карточке клиента: долги, превышения, пустой бак, грязная машина после поездки и прочее, с причинами. Только показ."
+      en: "The 0-100 rating in the customer card's header: debts, speeding, an empty tank, the car left dirty and the rest. Computed and explained in the AI assistant (needs that function too). Display only."
+      ru: "Рейтинг 0–100 в шапке карточки клиента: долги, превышения, пустой бак, грязная машина после поездки и прочее. Считается и объясняется в ИИ-ассистенте (нужна и эта функция). Только показ."
     system.users.specialFeatures.ResyncCarOrder:
       en: Resynchronizing a car order
       ru: Пересинхронизация заказа автомобиля
