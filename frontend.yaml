@@ -6082,9 +6082,42 @@ Sections:
     setup.car.MORE:
       en: "Add another car"
       ru: "Добавить ещё машину"
-    setup.zones.MAP_HINT:
-      en: "Click the map to put the centre of the area; the circle is where cars may drive and end a ride."
-      ru: "Нажмите на карту, чтобы поставить центр; круг — где машинам можно ездить и заканчивать аренду."
+    setup.zones.DRIVE_TITLE:
+      en: "Drive zone"
+      ru: "Зона движения"
+    setup.zones.DRIVE_TEXT:
+      en: "Where cars may go. Usually one big area: the city with its suburbs."
+      ru: "Где машинам можно ездить. Обычно одна большая область — город с пригородами."
+    setup.zones.RENTEND_TITLE:
+      en: "Ride end zones"
+      ru: "Зоны завершения аренды"
+    setup.zones.RENTEND_TEXT:
+      en: "Where a customer may end a ride. Usually smaller than the drive zone and inside it; there may be several."
+      ru: "Где клиент может закончить аренду. Обычно меньше зоны движения и лежат внутри неё; их может быть несколько."
+    setup.zones.NONE:
+      en: "None yet"
+      ru: "Пока нет"
+    setup.zones.MAP_CLICK:
+      en: "Click the map to put the centre."
+      ru: "Нажмите на карту, чтобы поставить центр."
+    setup.zones.NAME:
+      en: "Name"
+      ru: "Название"
+    setup.zones.SAVE_DRIVE:
+      en: "Make the drive zone"
+      ru: "Создать зону движения"
+    setup.zones.SAVE_RENTEND:
+      en: "Add the ride end zone"
+      ru: "Добавить зону завершения"
+    setup.zones.MORE_DRIVE:
+      en: "Add another drive zone"
+      ru: "Добавить ещё зону движения"
+    setup.zones.MORE_RENTEND:
+      en: "Add another ride end zone"
+      ru: "Добавить ещё зону завершения"
+    setup.zones.MADE:
+      en: "Zone «{{name}}» is made"
+      ru: "Зона «{{name}}» создана"
     setup.zones.LAT:
       en: "Latitude"
       ru: "Широта"
@@ -6094,36 +6127,21 @@ Sections:
     setup.zones.RADIUS:
       en: "Radius, km"
       ru: "Радиус, км"
-    setup.zones.MAKE_DRIVE:
-      en: "Drive zone: where cars may go"
-      ru: "Зона движения: где машинам можно ездить"
-    setup.zones.MAKE_RENTEND:
-      en: "RentEnd zone: where a ride may end"
-      ru: "Зона завершения: где можно закончить аренду"
     setup.zones.DRIVE_NAME:
       en: "Drive area"
       ru: "Зона движения"
     setup.zones.RENTEND_NAME:
       en: "Ride end area"
       ru: "Зона завершения аренды"
-    setup.zones.SAVE:
-      en: "Make the zones"
-      ru: "Создать зоны"
     setup.zones.NO_CENTER:
       en: "Put the centre on the map first."
       ru: "Сначала поставьте центр на карте."
     setup.zones.BAD_RADIUS:
       en: "The radius is from 0.1 to 200 km."
       ru: "Радиус — от 0,1 до 200 км."
-    setup.zones.NO_TYPE:
-      en: "Tick at least one zone."
-      ru: "Отметьте хотя бы одну зону."
     setup.zones.MAP_FAILED:
       en: "The map did not load; enter the centre by hand."
       ru: "Карта не загрузилась — введите центр вручную."
-    setup.zones.MORE:
-      en: "Add another area"
-      ru: "Добавить ещё область"
     setup.rate.NAME:
       en: "Name"
       ru: "Название"
