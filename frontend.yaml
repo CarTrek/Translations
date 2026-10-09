@@ -5807,14 +5807,14 @@ Sections:
       en: recompute
       ru: пересчитать
     clients.score.NOT_COMPUTED:
-      en: "Not computed yet. Click: the AI assistant computes the rating and shows the reasons."
-      ru: "Ещё не рассчитан. Нажмите — ИИ-ассистент посчитает рейтинг и покажет причины."
+      en: "Customer's AI rating: not computed yet. Click: the AI assistant computes it and shows the reasons."
+      ru: "ИИ-рейтинг клиента ещё не рассчитан. Нажмите — ИИ-ассистент посчитает и покажет причины."
     clients.score.HEADER_HINT:
-      en: "Computed {{computed}}. Click: the reasons in the AI assistant."
-      ru: "Рассчитан {{computed}}. Нажмите — причины в ИИ-ассистенте."
+      en: "Customer's AI rating: {{score}} of 100, computed {{computed}}. Click: the reasons in the AI assistant."
+      ru: "ИИ-рейтинг клиента: {{score}} из 100, рассчитан {{computed}}. Нажмите — причины в ИИ-ассистенте."
     clients.score.LOW_DATA_HINT:
-      en: "Too few rides for a number: {{trips}} in {{months}} months. Click: the reasons in the AI assistant."
-      ru: "Мало поездок для числа: {{trips}} за {{months}} мес. Нажмите — причины в ИИ-ассистенте."
+      en: "Customer's AI rating: too few rides for a number ({{trips}} in {{months}} months). Click: the reasons in the AI assistant."
+      ru: "ИИ-рейтинг клиента: мало поездок для числа ({{trips}} за {{months}} мес.). Нажмите — причины в ИИ-ассистенте."
     clients.score.axis.money:
       en: Money
       ru: Деньги
