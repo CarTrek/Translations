@@ -6484,6 +6484,63 @@ Sections:
     clients.score.REFRESH:
       en: recompute
       ru: пересчитать
+    clients.score.suggest.TITLE:
+      en: Suggested settings
+      ru: Рекомендации
+    clients.score.suggest.APPLY:
+      en: Apply
+      ru: Применить
+    clients.score.suggest.APPLIED:
+      en: Applied
+      ru: Применено
+    clients.score.suggest.BECAUSE:
+      en: Because of
+      ru: Почему
+    clients.score.suggest.CONFIRM:
+      en: "Apply these changes to the customer's card?"
+      ru: Применить к карточке клиента?
+    clients.score.suggest.COMMENT:
+      en: "AI rating {{score}}:"
+      ru: "ИИ-рейтинг {{score}}:"
+    clients.score.suggest.ADD_ORG:
+      en: "Add to the organization «{{name}}»"
+      ru: "Добавить в организацию «{{name}}»"
+    clients.score.suggest.REMOVE_ORG:
+      en: "Remove from the organization «{{name}}»"
+      ru: "Убрать из организации «{{name}}»"
+    clients.score.suggest.ADD_MULT:
+      en: "Add the rate multiplier «{{name}}»"
+      ru: "Добавить множитель «{{name}}»"
+    clients.score.suggest.REMOVE_MULT:
+      en: "Remove the rate multiplier «{{name}}»"
+      ru: "Снять множитель «{{name}}»"
+    clients.score.suggest.SELFIE:
+      en: "Selfie before a rent: {{from}} → {{to}}"
+      ru: "Селфи перед арендой: {{from}} → {{to}}"
+    clients.score.suggest.PREHOLD:
+      en: "Pre-hold: {{from}} → {{to}}"
+      ru: "Предхолд: {{from}} → {{to}}"
+    clients.score.suggest.BLOCKED_no_access:
+      en: You do not manage this organization
+      ru: Организация вне вашего доступа
+    clients.score.suggest.BLOCKED_open_order:
+      en: Multipliers change after the ride ends
+      ru: Множители — после окончания поездки
+    clients.score.suggest.ERROR:
+      en: Could not apply, see the log
+      ru: Не удалось применить, см. лог
+    clients.score.suggest.ERROR_gone:
+      en: "No longer relevant: the settings or the rating have changed"
+      ru: "Уже неактуально: настройки или рейтинг изменились"
+    clients.score.suggest.ERROR_no_access:
+      en: You do not manage this organization
+      ru: Организация вне вашего доступа
+    clients.score.suggest.ERROR_open_order:
+      en: "The customer has a ride: multipliers change after it ends"
+      ru: "У клиента поездка: множители — после её окончания"
+    clients.score.suggest.ERROR_no_score:
+      en: The rating could not be computed
+      ru: Рейтинг не рассчитан
     clients.score.NOT_COMPUTED:
       en: "Customer's AI rating: not computed yet. Click: the AI assistant computes it and shows the reasons."
       ru: "ИИ-рейтинг клиента ещё не рассчитан. Нажмите — ИИ-ассистент посчитает и покажет причины."
