@@ -6598,6 +6598,27 @@ Sections:
     clients.score.signal.under_supervision:
       en: Under supervision
       ru: Под наблюдением
+    clients.score.signal.into_debt:
+      en: Rides that took the balance below zero
+      ru: Поездки, после которых ушёл в минус
+    clients.score.signal.huge_debt:
+      en: Large debt
+      ru: Крупный долг
+    clients.score.signal.standstill_drive:
+      en: Car stood still for long in drive mode
+      ru: Долгая стоянка в режиме езды
+    clients.score.signal.novice_driver:
+      en: Little driving experience
+      ru: Небольшой стаж вождения
+    clients.score.signal.young_driver:
+      en: Young driver
+      ru: Молодой водитель
+    clients.score.signal.new_account:
+      en: New account
+      ru: Новый аккаунт
+    clients.score.signal.busy_day:
+      en: Days with many rides
+      ru: Дни с большим числом поездок
     clients.editor.DateMask:
       cs: dd.mm.rrrr
       en: DD.MM.YYYY
