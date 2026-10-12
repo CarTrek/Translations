@@ -6589,6 +6589,9 @@ Sections:
     clients.score.signal.device_blocked:
       en: Blocked for a device change
       ru: Блокировка за смену устройства
+    clients.score.signal.device_return:
+      en: Back and forth between phones
+      ru: Переключения между телефонами
     clients.score.signal.duplicate_account:
       en: Duplicate account
       ru: Дубль аккаунта
