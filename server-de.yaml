@@ -3268,3 +3268,7 @@ Sections:
       de: Ver.
     VersionFrom:
       de: vom
+    OrganizationRightsChanged:
+      de: Rechte der Organisation geändert
+    UnknownRights:
+      de: 'Unbekannte Rechte:'

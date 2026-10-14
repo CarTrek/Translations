@@ -7542,3 +7542,9 @@ Sections:
       ru: от
       en: of
     
+    OrganizationRightsChanged:
+      en: Organization rights changed
+      ru: Изменены права организации
+    UnknownRights:
+      en: 'Unknown rights:'
+      ru: 'Неизвестные права:'
