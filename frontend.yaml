@@ -7680,6 +7680,12 @@ Sections:
     ai.ask.Q_CLIENT_MONEY:
       en: "Where do the debt and bonuses come from?"
       ru: "Откуда долг и бонусы?"
+    ai.ask.Q_CLIENT_DEBT:
+      en: "Where does the debt come from?"
+      ru: "Откуда долг?"
+    ai.ask.Q_CLIENT_BONUS:
+      en: "Where do the bonuses come from?"
+      ru: "Откуда бонусы?"
     ai.ask.Q_CLIENT_RENT:
       en: "Where is their rental: why is it gone or doubled?"
       ru: "Где его аренда: почему пропала или раздвоилась?"
