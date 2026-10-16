@@ -3,462 +3,924 @@ Sections:
     auth.agreement.terms.begin:
       en: I agree with
       ru: Я согласен с
+      cs: Souhlasím s
+      fr: J’accepte les
+      az: Razıyam
     auth.agreement.terms.link:
       en: Terms of use of the app
       ru: Условиями использования приложения
+      cs: podmínkami používání aplikace
+      fr: conditions d’utilisation de l’application
+      az: tətbiqdən istifadə şərtləri ilə
     auth.agreement.consent.begin:
       en: I give
       ru: Я даю
+      cs: Uděluji
+      fr: Je donne
+      az: Verirəm
     auth.agreement.consent.link:
       en: consent to my personal data processing
       ru: согласие на обработку моих персональных данных
+      cs: souhlas se zpracováním svých osobních údajů
+      fr: mon consentement au traitement de mes données personnelles
+      az: şəxsi məlumatlarımın emalına razılıq
     auth.agreement.details:
       en: Details...
       ru: Подробнее...
+      cs: Podrobnosti...
+      fr: Détails...
+      az: Ətraflı...
     auth.entry.signIn:
       en: Log in or register
       ru: Войти или зарегистрироваться
+      cs: Přihlásit se nebo zaregistrovat
+      fr: Se connecter ou s’inscrire
+      az: Daxil olun və ya qeydiyyatdan keçin
     auth.signIn.captchaChanged:
       en: The verification image has changed. Enter the new text.
       ru: Картинка проверки обновилась. Введите новый текст.
+      cs: Ověřovací obrázek se změnil. Zadejte nový text.
+      fr: L’image de vérification a changé. Saisissez le nouveau texte.
+      az: Yoxlama şəkli dəyişdi. Yeni mətni daxil edin.
     auth.signIn.captchaHeaderText:
       en: Enter the text from the image
       ru: Введите текст с картинки
+      cs: Zadejte text z obrázku
+      fr: Saisissez le texte de l’image
+      az: Şəkildəki mətni daxil edin
     auth.signIn.captchaImageAlt:
       en: Verification image
       ru: Изображение для проверки
+      cs: Ověřovací obrázek
+      fr: Image de vérification
+      az: Yoxlama şəkli
     auth.signIn.captchaLoadError:
       en: Could not load the image. Try refreshing it.
       ru: Не удалось загрузить картинку. Попробуйте обновить её.
+      cs: Obrázek se nepodařilo načíst. Zkuste ho obnovit.
+      fr: Impossible de charger l’image. Essayez de l’actualiser.
+      az: Şəkli yükləmək mümkün olmadı. Onu yeniləyin.
     auth.signIn.captchaLoading:
       en: Loading image…
       ru: Загружаем картинку…
+      cs: Načítání obrázku…
+      fr: Chargement de l’image…
+      az: Şəkil yüklənir…
     auth.signIn.captchaNotConnected:
       en: This target’s captcha provider is not connected yet.
       ru: Провайдер капчи этого таргета ещё не подключён.
+      cs: Poskytovatel CAPTCHA pro tuto službu zatím není připojen.
+      fr: Le fournisseur de CAPTCHA de ce service n’est pas encore connecté.
+      az: Bu xidmətin CAPTCHA provayderi hələ qoşulmayıb.
     auth.signIn.captchaRefresh:
       en: Refresh image
       ru: Обновить картинку
+      cs: Obnovit obrázek
+      fr: Actualiser l’image
+      az: Şəkli yenilə
     auth.signIn.captchaVerification:
       en: Captcha verification
       ru: Проверка капчи
+      cs: Ověření CAPTCHA
+      fr: Vérification CAPTCHA
+      az: CAPTCHA yoxlaması
     auth.signIn.chooseCountry:
       en: Country or region
       ru: Страна или регион
+      cs: Země nebo oblast
+      fr: Pays ou région
+      az: Ölkə və ya region
     auth.signIn.cleanupError:
       en: Could not clear the previous user’s data. Try again.
       ru: Не удалось очистить данные предыдущего пользователя. Повторите попытку.
+      cs: Data předchozího uživatele se nepodařilo vymazat. Zkuste to znovu.
+      fr: Impossible d’effacer les données de l’utilisateur précédent. Réessayez.
+      az: Əvvəlki istifadəçinin məlumatlarını silmək mümkün olmadı. Yenidən cəhd edin.
     auth.signIn.code.heading:
       en: Enter the code sent to {phone-number}
       ru: Введите код, отправленный на {phone-number}
+      cs: Zadejte kód odeslaný na číslo {phone-number}
+      fr: Saisissez le code envoyé au {phone-number}
+      az: "{phone-number} nömrəsinə göndərilən kodu daxil edin"
     auth.signIn.code.rejected:
       en: The code was not accepted. Check it and try again.
       ru: Код не принят. Проверьте его и попробуйте ещё раз.
+      cs: Kód nebyl přijat. Zkontrolujte ho a zkuste to znovu.
+      fr: Le code n’a pas été accepté. Vérifiez-le et réessayez.
+      az: Kod qəbul edilmədi. Yoxlayıb yenidən cəhd edin.
     auth.signIn.codeLabel:
       en: Verification code
       ru: Код подтверждения
+      cs: Ověřovací kód
+      fr: Code de vérification
+      az: Təsdiq kodu
     auth.signIn.confirmationError:
       en: The code was accepted, but sign-in could not be completed. Retry the confirmation.
       ru: Код принят, но завершить вход не удалось. Повторите проверку.
+      cs: Kód byl přijat, ale přihlášení se nepodařilo dokončit. Zopakujte potvrzení.
+      fr: Le code a été accepté, mais la connexion n’a pas pu aboutir. Réessayez la confirmation.
+      az: Kod qəbul edildi, lakin giriş tamamlanmadı. Təsdiqi təkrarlayın.
     auth.signIn.country:
       en: Country
       ru: Страна
+      cs: Země
+      fr: Pays
+      az: Ölkə
     auth.signIn.countryNotFound:
       en: No countries found
       ru: Страны не найдены
+      cs: Žádné země nenalezeny
+      fr: Aucun pays trouvé
+      az: Ölkə tapılmadı
     auth.signIn.countrySearch:
       en: Country name or calling code
       ru: Название страны или телефонный код
+      cs: Název země nebo telefonní předvolba
+      fr: Nom du pays ou indicatif téléphonique
+      az: Ölkənin adı və ya telefon kodu
     auth.signIn.delivery.max:
       en: Get code in MAX
       ru: Получить код в MAX
+      cs: Získat kód v MAX
+      fr: Recevoir le code dans MAX
+      az: Kodu MAX-da al
     auth.signIn.delivery.sms:
       en: Get code by SMS
       ru: Получить код по SMS
+      cs: Získat kód SMS zprávou
+      fr: Recevoir le code par SMS
+      az: Kodu SMS ilə al
     auth.signIn.delivery.smscTelegram:
       en: Get code in Telegram
       ru: Получить код в Telegram
+      cs: Získat kód v Telegramu
+      fr: Recevoir le code dans Telegram
+      az: Kodu Telegram-da al
     auth.signIn.delivery.whatsapp:
       en: Get code in WhatsApp
       ru: Получить код в WhatsApp
+      cs: Získat kód ve WhatsAppu
+      fr: Recevoir le code dans WhatsApp
+      az: Kodu WhatsApp-da al
     auth.signIn.deliveryUnavailable:
       en: Service is temporarily unavailable. Try again.
       ru: Сервис временно недоступен. Попробуйте ещё раз.
+      cs: Služba je dočasně nedostupná. Zkuste to znovu.
+      fr: Le service est temporairement indisponible. Réessayez.
+      az: Xidmət müvəqqəti olaraq əlçatan deyil. Yenidən cəhd edin.
     auth.signIn.deliveryUncertain:
       en: We could not confirm delivery. If a code arrives, you can enter it here.
       ru: Не удалось подтвердить отправку. Если код пришёл, его можно ввести здесь.
+      cs: Doručení se nepodařilo potvrdit. Pokud kód dorazí, můžete ho zadat zde.
+      fr: Nous n’avons pas pu confirmer la réception. Si un code arrive, vous pouvez le saisir ici.
+      az: Çatdırılmanı təsdiqləmək mümkün olmadı. Kod gəlsə, onu burada daxil edə bilərsiniz.
     auth.signIn.enterExistingCode:
       en: Enter a received code
       ru: Ввести полученный код
+      cs: Zadat přijatý kód
+      fr: Saisir un code reçu
+      az: Alınan kodu daxil et
     auth.signIn.enterPhoneNumber:
       en: Enter phone number
       ru: Ввести номер телефона
+      cs: Zadat telefonní číslo
+      fr: Saisir le numéro de téléphone
+      az: Telefon nömrəsini daxil et
     auth.signIn.idCtmsAuth:
       en: Sign in via messenger
       ru: Войти через мессенджер
+      cs: Přihlásit se přes messenger
+      fr: Se connecter via une messagerie
+      az: Mesencer vasitəsilə daxil ol
     auth.signIn.idCtmsNotConnected:
       en: IdCTMS sign-in is not connected yet.
       ru: Вход через IdCTMS ещё не подключён.
+      cs: Přihlášení přes IdCTMS zatím není připojeno.
+      fr: La connexion IdCTMS n’est pas encore disponible.
+      az: IdCTMS ilə giriş hələ qoşulmayıb.
     auth.signIn.otherDelivery:
       en: Another way to get the code
       ru: Другой способ получения кода
+      cs: Jiný způsob získání kódu
+      fr: Autre moyen de recevoir le code
+      az: Kodu almağın başqa yolu
     auth.signIn.phone.heading:
       en: Enter your phone number
       ru: Введите номер телефона
+      cs: Zadejte své telefonní číslo
+      fr: Saisissez votre numéro de téléphone
+      az: Telefon nömrənizi daxil edin
     auth.signIn.phoneInvalid:
       en: Check the number and country calling code
       ru: Проверьте номер и код страны
+      cs: Zkontrolujte číslo a mezinárodní předvolbu
+      fr: Vérifiez le numéro et l’indicatif du pays
+      az: Nömrəni və ölkənin telefon kodunu yoxlayın
     auth.signIn.phoneLabel:
       en: Phone number
       ru: Номер телефона
+      cs: Telefonní číslo
+      fr: Numéro de téléphone
+      az: Telefon nömrəsi
     auth.signIn.requestAgain:
       en: Request another code
       ru: Получить код повторно
+      cs: Vyžádat nový kód
+      fr: Demander un nouveau code
+      az: Yeni kod istə
     auth.signIn.resendWaitTime:
       en: Request again in {time}
       ru: Повторить через {time}
+      cs: Vyžádat znovu za {time}
+      fr: Nouvelle demande dans {time}
+      az: "{time} sonra yenidən istə"
     auth.signIn.retryConfirmation:
       en: Retry confirmation
       ru: Повторить проверку
+      cs: Zopakovat potvrzení
+      fr: Réessayer la confirmation
+      az: Təsdiqi təkrarla
     auth.signIn.submitCode:
       en: Sign in
       ru: Войти
+      cs: Přihlásit se
+      fr: Se connecter
+      az: Daxil ol
     auth.signIn.verificationError:
       en: Could not confirm sign-in. Try again.
       ru: Не удалось подтвердить вход. Попробуйте ещё раз.
+      cs: Přihlášení se nepodařilo potvrdit. Zkuste to znovu.
+      fr: Impossible de confirmer la connexion. Réessayez.
+      az: Girişi təsdiqləmək mümkün olmadı. Yenidən cəhd edin.
     auth.signIn.withoutAuth:
       en: View available cars
       ru: Посмотреть доступные машины
+      cs: Zobrazit dostupná auta
+      fr: Voir les voitures disponibles
+      az: Mövcud avtomobillərə bax
     auth.signIn.wrongPhoneNumber:
       en: Is {phone-number} not your number?
       ru: Ваш номер не {phone-number}?
+      cs: Není {phone-number} vaše číslo?
+      fr: "{phone-number} n’est pas votre numéro ?"
+      az: "{phone-number} sizin nömrəniz deyil?"
     auth.signUp.answerNotConnected:
       en: This type of reply is not connected yet.
       ru: Этот вид ответа ещё не подключён.
+      cs: Tento typ odpovědi zatím není připojen.
+      fr: Ce type de réponse n’est pas encore disponible.
+      az: Bu cavab növü hələ qoşulmayıb.
     auth.signUp.answerUncertain:
       en: Could not confirm your reply. Check the conversation before sending again.
       ru: Не удалось подтвердить ответ. Проверьте диалог перед повторной отправкой.
+      cs: Odpověď se nepodařilo potvrdit. Před dalším odesláním zkontrolujte konverzaci.
+      fr: Impossible de confirmer votre réponse. Vérifiez la conversation avant de la renvoyer.
+      az: Cavabınızı təsdiqləmək mümkün olmadı. Yenidən göndərməzdən əvvəl söhbəti yoxlayın.
     auth.signUp.answerUnconfirmed:
       en: The reply is not confirmed yet. The previous request may still be processing.
       ru: Ответ пока не подтверждён. Предыдущий запрос ещё может обрабатываться.
+      cs: Odpověď zatím není potvrzena. Předchozí požadavek se možná stále zpracovává.
+      fr: La réponse n’est pas encore confirmée. La demande précédente est peut-être toujours en cours de traitement.
+      az: Cavab hələ təsdiqlənməyib. Əvvəlki sorğu hələ emal oluna bilər.
     auth.signUp.changePhone:
       en: Change phone number
       ru: Изменить номер телефона
+      cs: Změnit telefonní číslo
+      fr: Changer de numéro de téléphone
+      az: Telefon nömrəsini dəyiş
     auth.signUp.checkConversation:
       en: Check conversation
       ru: Проверить диалог
+      cs: Zkontrolovat konverzaci
+      fr: Vérifier la conversation
+      az: Söhbəti yoxla
     auth.signUp.confirmationError:
       en: Your reply was accepted. Retry checking registration status.
       ru: Ответ принят. Повторите проверку статуса регистрации.
+      cs: Vaše odpověď byla přijata. Znovu zkontrolujte stav registrace.
+      fr: Votre réponse a été acceptée. Vérifiez à nouveau l’état de l’inscription.
+      az: Cavabınız qəbul edildi. Qeydiyyat statusunu yenidən yoxlayın.
     auth.signUp.continue:
       en: Continue
       ru: Продолжить
+      cs: Pokračovat
+      fr: Continuer
+      az: Davam et
     auth.signUp.continueRegistration:
       en: Continue registration
       ru: Продолжить регистрацию
+      cs: Pokračovat v registraci
+      fr: Poursuivre l’inscription
+      az: Qeydiyyata davam et
     auth.signUp.date:
       en: Date
       ru: Дата
+      cs: Datum
+      fr: Date
+      az: Tarix
     auth.signUp.documentSent:
       en: Document sent
       ru: Документ отправлен
+      cs: Dokument odeslán
+      fr: Document envoyé
+      az: Sənəd göndərildi
     auth.signUp.empty:
       en: The server has not returned a registration step yet.
       ru: Сервер пока не вернул шаг регистрации.
+      cs: Server zatím nevrátil krok registrace.
+      fr: Le serveur n’a pas encore renvoyé d’étape d’inscription.
+      az: Server hələ qeydiyyat addımı qaytarmayıb.
     auth.signUp.imageError:
       en: Photo accepted. Preview is unavailable.
       ru: Фото принято. Предпросмотр недоступен.
+      cs: Fotografie byla přijata. Náhled není dostupný.
+      fr: Photo acceptée. Aperçu indisponible.
+      az: Foto qəbul edildi. Önizləmə əlçatan deyil.
     auth.signUp.imageLoading:
       en: Loading photo…
       ru: Загружаем фото…
+      cs: Načítání fotografie…
+      fr: Chargement de la photo…
+      az: Foto yüklənir…
     auth.signUp.loadError:
       en: Could not load the conversation. Try again.
       ru: Не удалось загрузить диалог. Попробуйте ещё раз.
+      cs: Konverzaci se nepodařilo načíst. Zkuste to znovu.
+      fr: Impossible de charger la conversation. Réessayez.
+      az: Söhbəti yükləmək mümkün olmadı. Yenidən cəhd edin.
     auth.signUp.loading:
       en: Loading the conversation…
       ru: Загружаем диалог…
+      cs: Načítání konverzace…
+      fr: Chargement de la conversation…
+      az: Söhbət yüklənir…
     auth.signUp.previousStep:
       en: Previous registration step
       ru: Предыдущий шаг регистрации
+      cs: Předchozí krok registrace
+      fr: Étape précédente de l’inscription
+      az: Əvvəlki qeydiyyat addımı
     auth.signUp.redirectCheckError:
       en: Could not check registration status. Try opening the link again.
       ru: Не удалось проверить статус регистрации. Попробуйте перейти ещё раз.
+      cs: Stav registrace se nepodařilo zkontrolovat. Zkuste odkaz otevřít znovu.
+      fr: Impossible de vérifier l’état de l’inscription. Essayez de rouvrir le lien.
+      az: Qeydiyyat statusunu yoxlamaq mümkün olmadı. Keçidi yenidən açın.
     auth.signUp.redirectRegistrationRequired:
       en: Registration is not complete yet. Continue in this chat.
       ru: Регистрация ещё не завершена. Продолжите её в этом чате.
+      cs: Registrace zatím není dokončena. Pokračujte v tomto chatu.
+      fr: L’inscription n’est pas encore terminée. Continuez dans cette conversation.
+      az: Qeydiyyat hələ tamamlanmayıb. Bu söhbətdə davam edin.
     auth.signUp.redirectUnavailable:
       en: This destination is not supported by the app yet.
       ru: Этот переход пока не поддерживается приложением.
+      cs: Aplikace tento cíl zatím nepodporuje.
+      fr: Cette destination n’est pas encore prise en charge par l’application.
+      az: Tətbiq bu istiqaməti hələ dəstəkləmir.
     auth.signUp.reply:
       en: Your reply
       ru: Ваш ответ
+      cs: Vaše odpověď
+      fr: Votre réponse
+      az: Cavabınız
     auth.signUp.resendAnswer:
       en: Send again
       ru: Отправить повторно
+      cs: Odeslat znovu
+      fr: Renvoyer
+      az: Yenidən göndər
     auth.signUp.retryAnswer:
       en: Send again?
       ru: Отправить повторно?
+      cs: Odeslat znovu?
+      fr: Renvoyer ?
+      az: Yenidən göndərilsin?
     auth.signUp.retryRollback:
       en: Retry returning
       ru: Повторить возврат
+      cs: Zkusit návrat znovu
+      fr: Réessayer le retour
+      az: Geri qayıtmağa yenidən cəhd et
     auth.signUp.retryRollbackTitle:
       en: Retry returning?
       ru: Повторить возврат?
+      cs: Zkusit návrat znovu?
+      fr: Réessayer le retour ?
+      az: Geri qayıtmağa yenidən cəhd edilsin?
     auth.signUp.retryWarning:
       en: The previous request may still be processing. Check the conversation first. Sending again may duplicate the reply.
       ru: Предыдущий запрос ещё может обрабатываться. Сначала проверьте диалог. При повторной отправке возможен дубликат.
+      cs: Předchozí požadavek se možná stále zpracovává. Nejprve zkontrolujte konverzaci. Další odeslání může odpověď zdvojit.
+      fr: La demande précédente est peut-être toujours en cours de traitement. Vérifiez d’abord la conversation. Un nouvel envoi peut créer un doublon.
+      az: Əvvəlki sorğu hələ emal oluna bilər. Əvvəlcə söhbəti yoxlayın. Yenidən göndərmək cavabın təkrarlanmasına səbəb ola bilər.
     auth.signUp.rollbackUnconfirmed:
       en: Could not confirm returning to the previous step. Check the conversation.
       ru: Не удалось подтвердить возврат на предыдущий шаг. Проверьте диалог.
+      cs: Návrat k předchozímu kroku se nepodařilo potvrdit. Zkontrolujte konverzaci.
+      fr: Impossible de confirmer le retour à l’étape précédente. Vérifiez la conversation.
+      az: Əvvəlki addıma qayıdışı təsdiqləmək mümkün olmadı. Söhbəti yoxlayın.
     auth.signUp.screenTitle:
       en: Registration
       ru: Регистрация
+      cs: Registrace
+      fr: Inscription
+      az: Qeydiyyat
     calendar.chooseDate:
       en: Choose a date
       ru: Выберите дату
+      cs: Vyberte datum
+      fr: Choisir une date
+      az: Tarix seçin
     calendar.empty:
       en: No date selected
       ru: Дата не выбрана
+      cs: Datum není vybráno
+      fr: Aucune date sélectionnée
+      az: Tarix seçilməyib
     calendar.month:
       en: Choose month
       ru: Выбрать месяц
+      cs: Vybrat měsíc
+      fr: Choisir le mois
+      az: Ay seçin
     calendar.next:
       en: Next period
       ru: Следующий период
+      cs: Další období
+      fr: Période suivante
+      az: Növbəti dövr
     calendar.previous:
       en: Previous period
       ru: Предыдущий период
+      cs: Předchozí období
+      fr: Période précédente
+      az: Əvvəlki dövr
     calendar.year:
       en: Choose year
       ru: Выбрать год
+      cs: Vybrat rok
+      fr: Choisir l’année
+      az: İl seçin
     camera.accessError:
       en: Camera is unavailable. Check permissions and retry.
       ru: Камера недоступна. Проверьте разрешение и повторите попытку.
+      cs: Fotoaparát není dostupný. Zkontrolujte oprávnění a zkuste to znovu.
+      fr: L’appareil photo est indisponible. Vérifiez les autorisations et réessayez.
+      az: Kamera əlçatan deyil. İcazələri yoxlayıb yenidən cəhd edin.
     camera.capture:
       en: Take photo
       ru: Сфотографировать
+      cs: Vyfotit
+      fr: Prendre une photo
+      az: Foto çək
     camera.captureError:
       en: Could not take the photo. Try again.
       ru: Не удалось сделать снимок. Попробуйте ещё раз.
+      cs: Fotografii se nepodařilo pořídit. Zkuste to znovu.
+      fr: Impossible de prendre la photo. Réessayez.
+      az: Foto çəkmək mümkün olmadı. Yenidən cəhd edin.
     camera.delete:
       en: Delete photo
       ru: Удалить снимок
+      cs: Smazat fotografii
+      fr: Supprimer la photo
+      az: Fotonu sil
     camera.deviceUnavailable:
       en: Camera is unavailable. Check that it is connected and not in use.
       ru: Камера недоступна. Проверьте подключение и не используется ли она другим приложением.
+      cs: Fotoaparát není dostupný. Zkontrolujte připojení a zda ho nepoužívá jiná aplikace.
+      fr: L’appareil photo est indisponible. Vérifiez qu’il est connecté et qu’il n’est pas utilisé ailleurs.
+      az: Kamera əlçatan deyil. Onun qoşulduğunu və başqa yerdə istifadə edilmədiyini yoxlayın.
     camera.document:
       en: Document photo
       ru: Фото документа
+      cs: Fotografie dokumentu
+      fr: Photo du document
+      az: Sənədin fotosu
     camera.interrupted:
       en: Camera disconnected. Try again.
       ru: Камера отключилась. Попробуйте ещё раз.
+      cs: Fotoaparát byl odpojen. Zkuste to znovu.
+      fr: L’appareil photo a été déconnecté. Réessayez.
+      az: Kamera bağlantısı kəsildi. Yenidən cəhd edin.
     camera.permission:
       en: Allow camera access in your browser settings, then retry.
       ru: Разрешите доступ к камере в настройках браузера и повторите попытку.
+      cs: Povolte přístup k fotoaparátu v nastavení prohlížeče a zkuste to znovu.
+      fr: Autorisez l’accès à l’appareil photo dans les paramètres du navigateur, puis réessayez.
+      az: Brauzer parametrlərində kameraya girişə icazə verin və yenidən cəhd edin.
     camera.permissionDescription:
       en: Camera access is needed to take the photos requested in the app.
       ru: Доступ к камере нужен для съёмки фотографий, запрашиваемых в приложении.
+      cs: Přístup k fotoaparátu je potřeba k pořízení fotografií požadovaných v aplikaci.
+      fr: L’accès à l’appareil photo est nécessaire pour prendre les photos demandées dans l’application.
+      az: Tətbiqdə tələb olunan fotoları çəkmək üçün kameraya giriş lazımdır.
     camera.preview:
       en: Photo preview
       ru: Предпросмотр снимка
+      cs: Náhled fotografie
+      fr: Aperçu de la photo
+      az: Fotonun önizləməsi
     camera.resume:
       en: Continue taking photos
       ru: Продолжить съёмку
+      cs: Pokračovat ve fotografování
+      fr: Continuer à prendre des photos
+      az: Foto çəkməyə davam et
     camera.retake:
       en: Retake
       ru: Переснять
+      cs: Vyfotit znovu
+      fr: Reprendre
+      az: Yenidən çək
     camera.switch:
       en: Switch camera
       ru: Переключить камеру
+      cs: Přepnout fotoaparát
+      fr: Changer d’appareil photo
+      az: Kameranı dəyiş
     camera.torch:
       en: Light
       ru: Свет
+      cs: Světlo
+      fr: Éclairage
+      az: İşıq
     camera.unavailable:
       en: Camera is unavailable. Check camera access and try again.
       ru: Камера недоступна. Проверьте доступ к камере и повторите попытку.
+      cs: Fotoaparát není dostupný. Zkontrolujte přístup k fotoaparátu a zkuste to znovu.
+      fr: L’appareil photo est indisponible. Vérifiez son accès et réessayez.
+      az: Kamera əlçatan deyil. Kameraya girişi yoxlayıb yenidən cəhd edin.
     camera.use:
       en: Use photo
       ru: Использовать
+      cs: Použít fotografii
+      fr: Utiliser la photo
+      az: Fotodan istifadə et
     cars.card.book:
       en: Book
       ru: Забронировать
+      cs: Rezervovat
+      fr: Réserver
+      az: Rezerv et
     cars.card.guestMessage:
       en: Log in to view car details.
       ru: Войдите, чтобы посмотреть информацию об автомобиле.
+      cs: Pro zobrazení podrobností o autě se přihlaste.
+      fr: Connectez-vous pour voir les détails du véhicule.
+      az: Avtomobilin məlumatlarına baxmaq üçün daxil olun.
     cars.card.options:
       en: Options
       ru: Опции
+      cs: Výbava
+      fr: Équipements
+      az: Təchizat
     cars.card.unavailable:
       en: This car is no longer available.
       ru: Этот автомобиль больше недоступен.
+      cs: Toto auto již není dostupné.
+      fr: Ce véhicule n’est plus disponible.
+      az: Bu avtomobil artıq əlçatan deyil.
     cars.energy.charge:
       en: Charge
       ru: Заряд
+      cs: Nabití
+      fr: Charge
+      az: Şarj
     cars.energy.fuel:
       en: Fuel
       ru: Топливо
+      cs: Palivo
+      fr: Carburant
+      az: Yanacaq
     cars.energy.range:
       en: Range
       ru: Запас хода
+      cs: Dojezd
+      fr: Autonomie
+      az: Gediş ehtiyatı
     cars.gallery.photo:
       en: Photo
       ru: Фото
+      cs: Fotografie
+      fr: Photo
+      az: Foto
     cars.gallery.title:
       en: Gallery
       ru: Галерея
+      cs: Galerie
+      fr: Galerie
+      az: Qalereya
     cars.rates.all:
       en: All tariffs
       ru: Все тарифы
+      cs: Všechny tarify
+      fr: Tous les tarifs
+      az: Bütün tariflər
     cars.rates.excessMileage:
       en: excess mileage
       ru: перепробег
+      cs: kilometry navíc
+      fr: kilométrage supplémentaire
+      az: əlavə yürüş
     cars.rates.perMinute:
       en: per minute
       ru: в минуту
+      cs: za minutu
+      fr: par minute
+      az: dəqiqə üçün
     cars.rates.unlock:
       en: Unlock
       ru: Открытие
+      cs: Odemknutí
+      fr: Déverrouillage
+      az: Kilidin açılması
     cars.rates.waiting:
       en: Waiting
       ru: Ожидание
+      cs: Čekání
+      fr: Attente
+      az: Gözləmə
     cities.names.bratislava:
       en: Bratislava
       ru: Братислава
+      cs: Bratislava
+      fr: Bratislava
+      az: Bratislava
     cities.names.dubai:
       en: Dubai
       ru: Дубай
+      cs: Dubaj
+      fr: Dubaï
+      az: Dubay
     cities.names.hongKong:
       en: Hong Kong
       ru: Гонконг
+      cs: Hongkong
+      fr: Hong Kong
+      az: Honkonq
     cities.names.kaliningrad:
       en: Kaliningrad
       ru: Калининград
+      cs: Kaliningrad
+      fr: Kaliningrad
+      az: Kalininqrad
     cities.names.kladno:
       en: Kladno
       ru: Кладно
+      cs: Kladno
+      fr: Kladno
+      az: Kladno
     cities.names.pilsen:
       en: Pilsen
       ru: Пльзень
+      cs: Plzeň
+      fr: Pilsen
+      az: Plzen
     cities.names.prague:
       en: Prague
       ru: Прага
+      cs: Praha
+      fr: Prague
+      az: Praqa
     cities.names.valencia:
       en: Valencia
       ru: Валенсия
+      cs: Valencie
+      fr: Valence
+      az: Valensiya
     cities.names.warsaw:
       en: Warsaw
       ru: Варшава
+      cs: Varšava
+      fr: Varsovie
+      az: Varşava
     cities.names.yekaterinburg:
       en: Yekaterinburg
       ru: Екатеринбург
+      cs: Jekatěrinburg
+      fr: Iekaterinbourg
+      az: Yekaterinburq
     common.back:
       en: Back
       ru: Назад
+      cs: Zpět
+      fr: Retour
+      az: Geri
     common.cancel:
       en: Cancel
       ru: Отмена
+      cs: Zrušit
+      fr: Annuler
+      az: Ləğv et
     common.close:
       en: Close
       ru: Закрыть
+      cs: Zavřít
+      fr: Fermer
+      az: Bağla
     common.done:
       en: Done
       ru: Готово
+      cs: Hotovo
+      fr: Terminé
+      az: Hazırdır
     common.error:
       en: Something went wrong
       ru: Что-то пошло не так
+      cs: Něco se pokazilo
+      fr: Une erreur est survenue
+      az: Xəta baş verdi
     common.getDirections:
       en: Get directions
       ru: Построить маршрут
+      cs: Naplánovat trasu
+      fr: Itinéraire
+      az: Marşrut qur
     common.loading:
       en: Loading…
       ru: Загрузка…
+      cs: Načítání…
+      fr: Chargement…
+      az: Yüklənir…
     common.moreInfo:
       en: More details
       ru: Подробнее
+      cs: Další podrobnosti
+      fr: Plus de détails
+      az: Ətraflı məlumat
     common.ok:
       en: OK
       ru: ОК
+      cs: OK
+      fr: OK
+      az: OK
     common.retry:
       en: Retry
       ru: Повторить
+      cs: Zkusit znovu
+      fr: Réessayer
+      az: Yenidən cəhd et
     common.send:
       en: Send
       ru: Отправить
+      cs: Odeslat
+      fr: Envoyer
+      az: Göndər
     fuelStations.rules:
       en: Refueling rules
       ru: Правила заправки
+      cs: Pravidla tankování
+      fr: Règles de ravitaillement
+      az: Yanacaq doldurma qaydaları
     map.controls.fuelStations:
       en: Fuel stations
       ru: Заправки
+      cs: Čerpací stanice
+      fr: Stations-service
+      az: Yanacaqdoldurma məntəqələri
     map.controls.parkingZones:
       en: Parking zones
       ru: Парковочные зоны
+      cs: Parkovací zóny
+      fr: Zones de stationnement
+      az: Parklanma zonaları
     map.controls.zoomIn:
       en: Zoom in
       ru: Приблизить
+      cs: Přiblížit
+      fr: Zoom avant
+      az: Yaxınlaşdır
     map.controls.zoomOut:
       en: Zoom out
       ru: Отдалить
+      cs: Oddálit
+      fr: Zoom arrière
+      az: Uzaqlaşdır
     modal.collapse:
       en: Collapse
       ru: Свернуть
+      cs: Sbalit
+      fr: Réduire
+      az: Yığ
     modal.expand:
       en: Expand
       ru: Развернуть
+      cs: Rozbalit
+      fr: Développer
+      az: Genişləndir
     money.amount:
       en: "{amount} {currency}"
       ru: "{amount} {currency}"
+      cs: "{amount} {currency}"
+      fr: "{amount} {currency}"
+      az: "{amount} {currency}"
     serviceRules.contract:
       en: Rental agreement
       ru: Договор аренды
+      cs: Nájemní smlouva
+      fr: Contrat de location
+      az: İcarə müqaviləsi
     serviceRules.help:
       en: Help
       ru: Помощь
+      cs: Nápověda
+      fr: Aide
+      az: Kömək
     serviceRules.personalData:
       en: Personal data consent
       ru: Согласие на обработку персональных данных
+      cs: Souhlas se zpracováním osobních údajů
+      fr: Consentement au traitement des données personnelles
+      az: Şəxsi məlumatların emalına razılıq
     serviceRules.title:
       en: Service rules
       ru: Правила сервиса
+      cs: Pravidla služby
+      fr: Règles du service
+      az: Xidmət qaydaları
     serviceRules.website:
       en: Website
       ru: Сайт
+      cs: Webové stránky
+      fr: Site web
+      az: Veb-sayt
     startup.description:
       en: Check your internet connection or try again.
       ru: Проверьте подключение к интернету или попробуйте ещё раз.
+      cs: Zkontrolujte připojení k internetu nebo to zkuste znovu.
+      fr: Vérifiez votre connexion Internet ou réessayez.
+      az: İnternet bağlantınızı yoxlayın və ya yenidən cəhd edin.
     startup.nativeError:
       en: Could not start the embedded app.
       ru: Не удалось запустить встроенное приложение.
+      cs: Vestavěnou aplikaci se nepodařilo spustit.
+      fr: Impossible de démarrer l’application intégrée.
+      az: Daxili tətbiqi başlatmaq mümkün olmadı.
     startup.retrying:
       en: Retrying…
       ru: Повторяем…
+      cs: Opakování…
+      fr: Nouvelle tentative…
+      az: Yenidən cəhd edilir…
     startup.title:
       en: Service temporarily unavailable
       ru: Сервис временно недоступен
+      cs: Služba je dočasně nedostupná
+      fr: Service temporairement indisponible
+      az: Xidmət müvəqqəti olaraq əlçatan deyil
     support.chat:
       en: Support chat
       ru: Чат поддержки
+      cs: Chat s podporou
+      fr: Discussion avec l’assistance
+      az: Dəstək xidməti ilə söhbət
     units.kilometer:
       en: km
       ru: км
+      cs: km
+      fr: km
+      az: km
     urlView.slow:
       en: The page is taking longer to load. You can retry or close it.
       ru: Страница загружается дольше обычного. Можно повторить загрузку или закрыть окно.
+      cs: Načítání stránky trvá déle. Můžete to zkusit znovu nebo ji zavřít.
+      fr: Le chargement de la page prend plus de temps. Vous pouvez réessayer ou la fermer.
+      az: Səhifənin yüklənməsi daha çox vaxt aparır. Yenidən cəhd edə və ya onu bağlaya bilərsiniz.
     urlView.unavailable:
       en: This page is currently unavailable.
       ru: Страница сейчас недоступна.
+      cs: Tato stránka je nyní nedostupná.
+      fr: Cette page est actuellement indisponible.
+      az: Bu səhifə hazırda əlçatan deyil.
     urlView.unsupported:
       en: To open this page, update the app and Android System WebView.
       ru: Для открытия страницы обновите приложение и Android System WebView.
+      cs: Pro otevření této stránky aktualizujte aplikaci a Android System WebView.
+      fr: Pour ouvrir cette page, mettez à jour l’application et Android System WebView.
+      az: Bu səhifəni açmaq üçün tətbiqi və Android System WebView-u yeniləyin.
     zones.bonus.description:
       en: "Bonus for ending the rental: {bonus}."
       ru: "Бонус за завершение аренды: {bonus}."
+      cs: "Bonus za ukončení pronájmu: {bonus}."
+      fr: "Bonus pour terminer la location : {bonus}."
+      az: "İcarəni bitirməyə görə bonus: {bonus}."
     zones.bonus.title:
       en: Bonus zone
       ru: Бонусная зона
+      cs: Bonusová zóna
+      fr: Zone bonus
+      az: Bonus zonası
     zones.paid.description:
       en: "Charge for ending the rental: {bonus}."
       ru: "Доплата за завершение аренды: {bonus}."
+      cs: "Příplatek za ukončení pronájmu: {bonus}."
+      fr: "Supplément pour terminer la location : {bonus}."
+      az: "İcarəni bitirməyə görə əlavə ödəniş: {bonus}."
     zones.paid.title:
       en: Paid parking
       ru: Платная парковка
+      cs: Placené parkování
+      fr: Stationnement payant
+      az: Ödənişli parklanma
