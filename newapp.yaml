@@ -1,0 +1,464 @@
+Sections:
+  NewApp:
+    auth.agreement.terms.begin:
+      en: I agree with
+      ru: Я согласен с
+    auth.agreement.terms.link:
+      en: Terms of use of the app
+      ru: Условиями использования приложения
+    auth.agreement.consent.begin:
+      en: I give
+      ru: Я даю
+    auth.agreement.consent.link:
+      en: consent to my personal data processing
+      ru: согласие на обработку моих персональных данных
+    auth.agreement.details:
+      en: Details...
+      ru: Подробнее...
+    auth.entry.signIn:
+      en: Log in or register
+      ru: Войти или зарегистрироваться
+    auth.signIn.captchaChanged:
+      en: The verification image has changed. Enter the new text.
+      ru: Картинка проверки обновилась. Введите новый текст.
+    auth.signIn.captchaHeaderText:
+      en: Enter the text from the image
+      ru: Введите текст с картинки
+    auth.signIn.captchaImageAlt:
+      en: Verification image
+      ru: Изображение для проверки
+    auth.signIn.captchaLoadError:
+      en: Could not load the image. Try refreshing it.
+      ru: Не удалось загрузить картинку. Попробуйте обновить её.
+    auth.signIn.captchaLoading:
+      en: Loading image…
+      ru: Загружаем картинку…
+    auth.signIn.captchaNotConnected:
+      en: This target’s captcha provider is not connected yet.
+      ru: Провайдер капчи этого таргета ещё не подключён.
+    auth.signIn.captchaRefresh:
+      en: Refresh image
+      ru: Обновить картинку
+    auth.signIn.captchaVerification:
+      en: Captcha verification
+      ru: Проверка капчи
+    auth.signIn.chooseCountry:
+      en: Country or region
+      ru: Страна или регион
+    auth.signIn.cleanupError:
+      en: Could not clear the previous user’s data. Try again.
+      ru: Не удалось очистить данные предыдущего пользователя. Повторите попытку.
+    auth.signIn.code.heading:
+      en: Enter the code sent to {phone-number}
+      ru: Введите код, отправленный на {phone-number}
+    auth.signIn.code.rejected:
+      en: The code was not accepted. Check it and try again.
+      ru: Код не принят. Проверьте его и попробуйте ещё раз.
+    auth.signIn.codeLabel:
+      en: Verification code
+      ru: Код подтверждения
+    auth.signIn.confirmationError:
+      en: The code was accepted, but sign-in could not be completed. Retry the confirmation.
+      ru: Код принят, но завершить вход не удалось. Повторите проверку.
+    auth.signIn.country:
+      en: Country
+      ru: Страна
+    auth.signIn.countryNotFound:
+      en: No countries found
+      ru: Страны не найдены
+    auth.signIn.countrySearch:
+      en: Country name or calling code
+      ru: Название страны или телефонный код
+    auth.signIn.delivery.max:
+      en: Get code in MAX
+      ru: Получить код в MAX
+    auth.signIn.delivery.sms:
+      en: Get code by SMS
+      ru: Получить код по SMS
+    auth.signIn.delivery.smscTelegram:
+      en: Get code in Telegram
+      ru: Получить код в Telegram
+    auth.signIn.delivery.whatsapp:
+      en: Get code in WhatsApp
+      ru: Получить код в WhatsApp
+    auth.signIn.deliveryUnavailable:
+      en: Service is temporarily unavailable. Try again.
+      ru: Сервис временно недоступен. Попробуйте ещё раз.
+    auth.signIn.deliveryUncertain:
+      en: We could not confirm delivery. If a code arrives, you can enter it here.
+      ru: Не удалось подтвердить отправку. Если код пришёл, его можно ввести здесь.
+    auth.signIn.enterExistingCode:
+      en: Enter a received code
+      ru: Ввести полученный код
+    auth.signIn.enterPhoneNumber:
+      en: Enter phone number
+      ru: Ввести номер телефона
+    auth.signIn.idCtmsAuth:
+      en: Sign in via messenger
+      ru: Войти через мессенджер
+    auth.signIn.idCtmsNotConnected:
+      en: IdCTMS sign-in is not connected yet.
+      ru: Вход через IdCTMS ещё не подключён.
+    auth.signIn.otherDelivery:
+      en: Another way to get the code
+      ru: Другой способ получения кода
+    auth.signIn.phone.heading:
+      en: Enter your phone number
+      ru: Введите номер телефона
+    auth.signIn.phoneInvalid:
+      en: Check the number and country calling code
+      ru: Проверьте номер и код страны
+    auth.signIn.phoneLabel:
+      en: Phone number
+      ru: Номер телефона
+    auth.signIn.requestAgain:
+      en: Request another code
+      ru: Получить код повторно
+    auth.signIn.resendWaitTime:
+      en: Request again in {time}
+      ru: Повторить через {time}
+    auth.signIn.retryConfirmation:
+      en: Retry confirmation
+      ru: Повторить проверку
+    auth.signIn.submitCode:
+      en: Sign in
+      ru: Войти
+    auth.signIn.verificationError:
+      en: Could not confirm sign-in. Try again.
+      ru: Не удалось подтвердить вход. Попробуйте ещё раз.
+    auth.signIn.withoutAuth:
+      en: View available cars
+      ru: Посмотреть доступные машины
+    auth.signIn.wrongPhoneNumber:
+      en: Is {phone-number} not your number?
+      ru: Ваш номер не {phone-number}?
+    auth.signUp.answerNotConnected:
+      en: This type of reply is not connected yet.
+      ru: Этот вид ответа ещё не подключён.
+    auth.signUp.answerUncertain:
+      en: Could not confirm your reply. Check the conversation before sending again.
+      ru: Не удалось подтвердить ответ. Проверьте диалог перед повторной отправкой.
+    auth.signUp.answerUnconfirmed:
+      en: The reply is not confirmed yet. The previous request may still be processing.
+      ru: Ответ пока не подтверждён. Предыдущий запрос ещё может обрабатываться.
+    auth.signUp.changePhone:
+      en: Change phone number
+      ru: Изменить номер телефона
+    auth.signUp.checkConversation:
+      en: Check conversation
+      ru: Проверить диалог
+    auth.signUp.confirmationError:
+      en: Your reply was accepted. Retry checking registration status.
+      ru: Ответ принят. Повторите проверку статуса регистрации.
+    auth.signUp.continue:
+      en: Continue
+      ru: Продолжить
+    auth.signUp.continueRegistration:
+      en: Continue registration
+      ru: Продолжить регистрацию
+    auth.signUp.date:
+      en: Date
+      ru: Дата
+    auth.signUp.documentSent:
+      en: Document sent
+      ru: Документ отправлен
+    auth.signUp.empty:
+      en: The server has not returned a registration step yet.
+      ru: Сервер пока не вернул шаг регистрации.
+    auth.signUp.imageError:
+      en: Photo accepted. Preview is unavailable.
+      ru: Фото принято. Предпросмотр недоступен.
+    auth.signUp.imageLoading:
+      en: Loading photo…
+      ru: Загружаем фото…
+    auth.signUp.loadError:
+      en: Could not load the conversation. Try again.
+      ru: Не удалось загрузить диалог. Попробуйте ещё раз.
+    auth.signUp.loading:
+      en: Loading the conversation…
+      ru: Загружаем диалог…
+    auth.signUp.previousStep:
+      en: Previous registration step
+      ru: Предыдущий шаг регистрации
+    auth.signUp.redirectCheckError:
+      en: Could not check registration status. Try opening the link again.
+      ru: Не удалось проверить статус регистрации. Попробуйте перейти ещё раз.
+    auth.signUp.redirectRegistrationRequired:
+      en: Registration is not complete yet. Continue in this chat.
+      ru: Регистрация ещё не завершена. Продолжите её в этом чате.
+    auth.signUp.redirectUnavailable:
+      en: This destination is not supported by the app yet.
+      ru: Этот переход пока не поддерживается приложением.
+    auth.signUp.reply:
+      en: Your reply
+      ru: Ваш ответ
+    auth.signUp.resendAnswer:
+      en: Send again
+      ru: Отправить повторно
+    auth.signUp.retryAnswer:
+      en: Send again?
+      ru: Отправить повторно?
+    auth.signUp.retryRollback:
+      en: Retry returning
+      ru: Повторить возврат
+    auth.signUp.retryRollbackTitle:
+      en: Retry returning?
+      ru: Повторить возврат?
+    auth.signUp.retryWarning:
+      en: The previous request may still be processing. Check the conversation first. Sending again may duplicate the reply.
+      ru: Предыдущий запрос ещё может обрабатываться. Сначала проверьте диалог. При повторной отправке возможен дубликат.
+    auth.signUp.rollbackUnconfirmed:
+      en: Could not confirm returning to the previous step. Check the conversation.
+      ru: Не удалось подтвердить возврат на предыдущий шаг. Проверьте диалог.
+    auth.signUp.screenTitle:
+      en: Registration
+      ru: Регистрация
+    calendar.chooseDate:
+      en: Choose a date
+      ru: Выберите дату
+    calendar.empty:
+      en: No date selected
+      ru: Дата не выбрана
+    calendar.month:
+      en: Choose month
+      ru: Выбрать месяц
+    calendar.next:
+      en: Next period
+      ru: Следующий период
+    calendar.previous:
+      en: Previous period
+      ru: Предыдущий период
+    calendar.year:
+      en: Choose year
+      ru: Выбрать год
+    camera.accessError:
+      en: Camera is unavailable. Check permissions and retry.
+      ru: Камера недоступна. Проверьте разрешение и повторите попытку.
+    camera.capture:
+      en: Take photo
+      ru: Сфотографировать
+    camera.captureError:
+      en: Could not take the photo. Try again.
+      ru: Не удалось сделать снимок. Попробуйте ещё раз.
+    camera.delete:
+      en: Delete photo
+      ru: Удалить снимок
+    camera.deviceUnavailable:
+      en: Camera is unavailable. Check that it is connected and not in use.
+      ru: Камера недоступна. Проверьте подключение и не используется ли она другим приложением.
+    camera.document:
+      en: Document photo
+      ru: Фото документа
+    camera.interrupted:
+      en: Camera disconnected. Try again.
+      ru: Камера отключилась. Попробуйте ещё раз.
+    camera.permission:
+      en: Allow camera access in your browser settings, then retry.
+      ru: Разрешите доступ к камере в настройках браузера и повторите попытку.
+    camera.permissionDescription:
+      en: Camera access is needed to take the photos requested in the app.
+      ru: Доступ к камере нужен для съёмки фотографий, запрашиваемых в приложении.
+    camera.preview:
+      en: Photo preview
+      ru: Предпросмотр снимка
+    camera.resume:
+      en: Continue taking photos
+      ru: Продолжить съёмку
+    camera.retake:
+      en: Retake
+      ru: Переснять
+    camera.switch:
+      en: Switch camera
+      ru: Переключить камеру
+    camera.torch:
+      en: Light
+      ru: Свет
+    camera.unavailable:
+      en: Camera is unavailable. Check camera access and try again.
+      ru: Камера недоступна. Проверьте доступ к камере и повторите попытку.
+    camera.use:
+      en: Use photo
+      ru: Использовать
+    cars.card.book:
+      en: Book
+      ru: Забронировать
+    cars.card.guestMessage:
+      en: Log in to view car details.
+      ru: Войдите, чтобы посмотреть информацию об автомобиле.
+    cars.card.options:
+      en: Options
+      ru: Опции
+    cars.card.unavailable:
+      en: This car is no longer available.
+      ru: Этот автомобиль больше недоступен.
+    cars.energy.charge:
+      en: Charge
+      ru: Заряд
+    cars.energy.fuel:
+      en: Fuel
+      ru: Топливо
+    cars.energy.range:
+      en: Range
+      ru: Запас хода
+    cars.gallery.photo:
+      en: Photo
+      ru: Фото
+    cars.gallery.title:
+      en: Gallery
+      ru: Галерея
+    cars.rates.all:
+      en: All tariffs
+      ru: Все тарифы
+    cars.rates.excessMileage:
+      en: excess mileage
+      ru: перепробег
+    cars.rates.perMinute:
+      en: per minute
+      ru: в минуту
+    cars.rates.unlock:
+      en: Unlock
+      ru: Открытие
+    cars.rates.waiting:
+      en: Waiting
+      ru: Ожидание
+    cities.names.bratislava:
+      en: Bratislava
+      ru: Братислава
+    cities.names.dubai:
+      en: Dubai
+      ru: Дубай
+    cities.names.hongKong:
+      en: Hong Kong
+      ru: Гонконг
+    cities.names.kaliningrad:
+      en: Kaliningrad
+      ru: Калининград
+    cities.names.kladno:
+      en: Kladno
+      ru: Кладно
+    cities.names.pilsen:
+      en: Pilsen
+      ru: Пльзень
+    cities.names.prague:
+      en: Prague
+      ru: Прага
+    cities.names.valencia:
+      en: Valencia
+      ru: Валенсия
+    cities.names.warsaw:
+      en: Warsaw
+      ru: Варшава
+    cities.names.yekaterinburg:
+      en: Yekaterinburg
+      ru: Екатеринбург
+    common.back:
+      en: Back
+      ru: Назад
+    common.cancel:
+      en: Cancel
+      ru: Отмена
+    common.close:
+      en: Close
+      ru: Закрыть
+    common.done:
+      en: Done
+      ru: Готово
+    common.error:
+      en: Something went wrong
+      ru: Что-то пошло не так
+    common.getDirections:
+      en: Get directions
+      ru: Построить маршрут
+    common.loading:
+      en: Loading…
+      ru: Загрузка…
+    common.moreInfo:
+      en: More details
+      ru: Подробнее
+    common.ok:
+      en: OK
+      ru: ОК
+    common.retry:
+      en: Retry
+      ru: Повторить
+    common.send:
+      en: Send
+      ru: Отправить
+    fuelStations.rules:
+      en: Refueling rules
+      ru: Правила заправки
+    map.controls.fuelStations:
+      en: Fuel stations
+      ru: Заправки
+    map.controls.parkingZones:
+      en: Parking zones
+      ru: Парковочные зоны
+    map.controls.zoomIn:
+      en: Zoom in
+      ru: Приблизить
+    map.controls.zoomOut:
+      en: Zoom out
+      ru: Отдалить
+    modal.collapse:
+      en: Collapse
+      ru: Свернуть
+    modal.expand:
+      en: Expand
+      ru: Развернуть
+    money.amount:
+      en: "{amount} {currency}"
+      ru: "{amount} {currency}"
+    serviceRules.contract:
+      en: Rental agreement
+      ru: Договор аренды
+    serviceRules.help:
+      en: Help
+      ru: Помощь
+    serviceRules.personalData:
+      en: Personal data consent
+      ru: Согласие на обработку персональных данных
+    serviceRules.title:
+      en: Service rules
+      ru: Правила сервиса
+    serviceRules.website:
+      en: Website
+      ru: Сайт
+    startup.description:
+      en: Check your internet connection or try again.
+      ru: Проверьте подключение к интернету или попробуйте ещё раз.
+    startup.nativeError:
+      en: Could not start the embedded app.
+      ru: Не удалось запустить встроенное приложение.
+    startup.retrying:
+      en: Retrying…
+      ru: Повторяем…
+    startup.title:
+      en: Service temporarily unavailable
+      ru: Сервис временно недоступен
+    support.chat:
+      en: Support chat
+      ru: Чат поддержки
+    units.kilometer:
+      en: km
+      ru: км
+    urlView.slow:
+      en: The page is taking longer to load. You can retry or close it.
+      ru: Страница загружается дольше обычного. Можно повторить загрузку или закрыть окно.
+    urlView.unavailable:
+      en: This page is currently unavailable.
+      ru: Страница сейчас недоступна.
+    urlView.unsupported:
+      en: To open this page, update the app and Android System WebView.
+      ru: Для открытия страницы обновите приложение и Android System WebView.
+    zones.bonus.description:
+      en: "Bonus for ending the rental: {bonus}."
+      ru: "Бонус за завершение аренды: {bonus}."
+    zones.bonus.title:
+      en: Bonus zone
+      ru: Бонусная зона
+    zones.paid.description:
+      en: "Charge for ending the rental: {bonus}."
+      ru: "Доплата за завершение аренды: {bonus}."
+    zones.paid.title:
+      en: Paid parking
+      ru: Платная парковка
