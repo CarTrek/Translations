@@ -1,926 +1,3257 @@
 Sections:
   NewApp:
+    cars.rates.waitingPerMinute:
+      en: per minute waiting
+      ru: в минуту ожидание
+      az: gözləmə dəqiqəsi üçün
+      cs: za minutu čekání
+      de: pro Warteminute
+      es: por minuto de espera
+      fr: par minute d’attente
+      hy: սպասման մեկ րոպեի համար
+      it: al minuto di attesa
+      kk: күту минутына
+      ms: seminit menunggu
+      pt: por minuto de espera
+      sk: za minútu čakania
+      sr: по минуту чекања
+      tg: барои як дақиқаи интизорӣ
+      th: ต่อนาทีที่รอ
+      uk: за хвилину очікування
+      uz: kutish daqiqasiga
+      vi: mỗi phút chờ
+      zh: 每分钟等待
     auth.agreement.terms.begin:
       en: I agree with
       ru: Я согласен с
       cs: Souhlasím s
       fr: J’accepte les
       az: Razıyam
+      de: Ich akzeptiere die
+      es: Acepto los
+      it: Accetto i
+      pt: Aceito os
+      uk: Я погоджуюся з
+      sk: Súhlasím s
+      sr: Прихватам
+      hy: Համաձայն եմ
+      kk: Мен
+      ms: Saya bersetuju dengan
+      tg: Ман
+      uz: Men
+      zh: 我同意
+      vi: Tôi đồng ý với
+      th: ฉันยอมรับ
     auth.agreement.terms.link:
       en: Terms of use of the app
       ru: Условиями использования приложения
       cs: podmínkami používání aplikace
       fr: conditions d’utilisation de l’application
       az: tətbiqdən istifadə şərtləri ilə
+      de: Nutzungsbedingungen der App
+      es: términos de uso de la aplicación
+      it: termini di utilizzo dell’app
+      pt: termos de uso do aplicativo
+      uk: умовами використання застосунку
+      sk: podmienkami používania aplikácie
+      sr: услове коришћења апликације
+      hy: հավելվածի օգտագործման պայմաններին
+      kk: қолданбаны пайдалану шарттарымен келісемін
+      ms: syarat penggunaan aplikasi
+      tg: ба шартҳои истифодаи барнома розӣ ҳастам
+      uz: ilovadan foydalanish shartlariga roziman
+      zh: 应用使用条款
+      vi: điều khoản sử dụng ứng dụng
+      th: ข้อกำหนดการใช้งานแอป
     auth.agreement.consent.begin:
       en: I give
       ru: Я даю
       cs: Uděluji
       fr: Je donne
       az: Verirəm
+      de: Ich erteile
+      es: Doy
+      it: Presto
+      pt: Dou
+      uk: Я даю
+      sk: Udeľujem
+      sr: Дајем
+      hy: Տալիս եմ
+      kk: Мен
+      ms: Saya memberikan
+      tg: Ман
+      uz: Men
+      zh: 我同意
+      vi: Tôi đồng ý
+      th: ฉันให้
     auth.agreement.consent.link:
       en: consent to my personal data processing
       ru: согласие на обработку моих персональных данных
       cs: souhlas se zpracováním svých osobních údajů
       fr: mon consentement au traitement de mes données personnelles
       az: şəxsi məlumatlarımın emalına razılıq
+      de: meine Einwilligung zur Verarbeitung meiner personenbezogenen Daten
+      es: mi consentimiento para el tratamiento de mis datos personales
+      it: il consenso al trattamento dei miei dati personali
+      pt: meu consentimento para o tratamento dos meus dados pessoais
+      uk: згоду на обробку моїх персональних даних
+      sk: súhlas so spracovaním svojich osobných údajov
+      sr: сагласност за обраду својих личних података
+      hy: իմ անձնական տվյալների մշակման համաձայնությունը
+      kk: дербес деректерімді өңдеуге келісім беремін
+      ms: persetujuan untuk pemprosesan data peribadi saya
+      tg: ба коркарди маълумоти шахсиам розигӣ медиҳам
+      uz: shaxsiy ma’lumotlarimni qayta ishlashga rozilik beraman
+      zh: 处理我的个人数据
+      vi: cho phép xử lý dữ liệu cá nhân của tôi
+      th: ความยินยอมในการประมวลผลข้อมูลส่วนบุคคลของฉัน
     auth.agreement.details:
       en: Details...
       ru: Подробнее...
       cs: Podrobnosti...
       fr: Détails...
       az: Ətraflı...
+      de: Details...
+      es: Detalles...
+      it: Dettagli...
+      pt: Detalhes...
+      uk: Докладніше...
+      sk: Podrobnosti...
+      sr: Детаљи...
+      hy: Մանրամասներ...
+      kk: Толығырақ...
+      ms: Butiran...
+      tg: Муфассал...
+      uz: Batafsil...
+      zh: 详情…
+      vi: Chi tiết...
+      th: รายละเอียด...
     auth.entry.signIn:
       en: Log in or register
       ru: Войти или зарегистрироваться
       cs: Přihlásit se nebo zaregistrovat
       fr: Se connecter ou s’inscrire
       az: Daxil olun və ya qeydiyyatdan keçin
+      de: Anmelden oder registrieren
+      es: Iniciar sesión o registrarse
+      it: Accedi o registrati
+      pt: Entrar ou cadastrar-se
+      uk: Увійти або зареєструватися
+      sk: Prihlásiť sa alebo zaregistrovať
+      sr: Пријавите се или се региструјте
+      hy: Մուտք գործել կամ գրանցվել
+      kk: Кіру немесе тіркелу
+      ms: Log masuk atau daftar
+      tg: Ворид шудан ё бақайдгирӣ
+      uz: Kirish yoki ro‘yxatdan o‘tish
+      zh: 登录或注册
+      vi: Đăng nhập hoặc đăng ký
+      th: เข้าสู่ระบบหรือลงทะเบียน
     auth.signIn.captchaChanged:
       en: The verification image has changed. Enter the new text.
       ru: Картинка проверки обновилась. Введите новый текст.
       cs: Ověřovací obrázek se změnil. Zadejte nový text.
       fr: L’image de vérification a changé. Saisissez le nouveau texte.
       az: Yoxlama şəkli dəyişdi. Yeni mətni daxil edin.
+      de: Das Prüfbild hat sich geändert. Geben Sie den neuen Text ein.
+      es: La imagen de verificación ha cambiado. Introduce el nuevo texto.
+      it: L’immagine di verifica è cambiata. Inserisci il nuovo testo.
+      pt: A imagem de verificação mudou. Digite o novo texto.
+      uk: Зображення перевірки змінилося. Введіть новий текст.
+      sk: Overovací obrázok sa zmenil. Zadajte nový text.
+      sr: Слика за проверу је промењена. Унесите нови текст.
+      hy: Ստուգման պատկերը փոխվել է։ Մուտքագրեք նոր տեքստը։
+      kk: Тексеру суреті өзгерді. Жаңа мәтінді енгізіңіз.
+      ms: Imej pengesahan telah berubah. Masukkan teks baharu.
+      tg: Тасвири санҷиш тағйир ёфт. Матни навро ворид кунед.
+      uz: Tekshiruv rasmi o‘zgardi. Yangi matnni kiriting.
+      zh: 验证码图片已更改，请输入新的文字。
+      vi: Ảnh xác minh đã thay đổi. Hãy nhập nội dung mới.
+      th: ภาพยืนยันเปลี่ยนแล้ว กรุณาป้อนข้อความใหม่
     auth.signIn.captchaHeaderText:
       en: Enter the text from the image
       ru: Введите текст с картинки
       cs: Zadejte text z obrázku
       fr: Saisissez le texte de l’image
       az: Şəkildəki mətni daxil edin
+      de: Geben Sie den Text aus dem Bild ein
+      es: Introduce el texto de la imagen
+      it: Inserisci il testo dell’immagine
+      pt: Digite o texto da imagem
+      uk: Введіть текст із зображення
+      sk: Zadajte text z obrázka
+      sr: Унесите текст са слике
+      hy: Մուտքագրեք պատկերի տեքստը
+      kk: Суреттегі мәтінді енгізіңіз
+      ms: Masukkan teks daripada imej
+      tg: Матни тасвирро ворид кунед
+      uz: Rasmdagi matnni kiriting
+      zh: 请输入图片中的文字
+      vi: Nhập nội dung trong ảnh
+      th: ป้อนข้อความจากภาพ
     auth.signIn.captchaImageAlt:
       en: Verification image
       ru: Изображение для проверки
       cs: Ověřovací obrázek
       fr: Image de vérification
       az: Yoxlama şəkli
+      de: Prüfbild
+      es: Imagen de verificación
+      it: Immagine di verifica
+      pt: Imagem de verificação
+      uk: Зображення перевірки
+      sk: Overovací obrázok
+      sr: Слика за проверу
+      hy: Ստուգման պատկեր
+      kk: Тексеру суреті
+      ms: Imej pengesahan
+      tg: Тасвири санҷиш
+      uz: Tekshiruv rasmi
+      zh: 验证码图片
+      vi: Ảnh xác minh
+      th: ภาพยืนยัน
     auth.signIn.captchaLoadError:
       en: Could not load the image. Try refreshing it.
       ru: Не удалось загрузить картинку. Попробуйте обновить её.
       cs: Obrázek se nepodařilo načíst. Zkuste ho obnovit.
       fr: Impossible de charger l’image. Essayez de l’actualiser.
       az: Şəkli yükləmək mümkün olmadı. Onu yeniləyin.
+      de: Das Bild konnte nicht geladen werden. Aktualisieren Sie es.
+      es: No se pudo cargar la imagen. Intenta actualizarla.
+      it: Impossibile caricare l’immagine. Prova ad aggiornarla.
+      pt: Não foi possível carregar a imagem. Tente atualizá-la.
+      uk: Не вдалося завантажити зображення. Спробуйте оновити його.
+      sk: Obrázok sa nepodarilo načítať. Skúste ho obnoviť.
+      sr: Није могуће учитати слику. Покушајте да је освежите.
+      hy: Չհաջողվեց բեռնել պատկերը։ Փորձեք թարմացնել այն։
+      kk: Суретті жүктеу мүмкін болмады. Оны жаңартып көріңіз.
+      ms: Imej tidak dapat dimuatkan. Cuba muat semula.
+      tg: Тасвир бор нашуд. Онро навсозӣ кунед.
+      uz: Rasmni yuklab bo‘lmadi. Uni yangilab ko‘ring.
+      zh: 无法加载图片，请尝试刷新。
+      vi: Không tải được ảnh. Hãy thử làm mới ảnh.
+      th: โหลดภาพไม่สำเร็จ กรุณาลองรีเฟรช
     auth.signIn.captchaLoading:
       en: Loading image…
       ru: Загружаем картинку…
       cs: Načítání obrázku…
       fr: Chargement de l’image…
       az: Şəkil yüklənir…
+      de: Bild wird geladen…
+      es: Cargando imagen…
+      it: Caricamento dell’immagine…
+      pt: Carregando imagem…
+      uk: Завантаження зображення…
+      sk: Načítava sa obrázok…
+      sr: Учитавање слике…
+      hy: Պատկերը բեռնվում է…
+      kk: Сурет жүктелуде…
+      ms: Memuatkan imej…
+      tg: Тасвир бор мешавад…
+      uz: Rasm yuklanmoqda…
+      zh: 正在加载图片…
+      vi: Đang tải ảnh…
+      th: กำลังโหลดภาพ…
     auth.signIn.captchaNotConnected:
       en: This target’s captcha provider is not connected yet.
       ru: Провайдер капчи этого таргета ещё не подключён.
       cs: Poskytovatel CAPTCHA pro tuto službu zatím není připojen.
       fr: Le fournisseur de CAPTCHA de ce service n’est pas encore connecté.
       az: Bu xidmətin CAPTCHA provayderi hələ qoşulmayıb.
+      de: Der CAPTCHA-Anbieter dieses Dienstes ist noch nicht angebunden.
+      es: El proveedor de CAPTCHA de este servicio aún no está conectado.
+      it: Il provider CAPTCHA di questo servizio non è ancora collegato.
+      pt: O provedor de CAPTCHA deste serviço ainda não está conectado.
+      uk: Провайдер CAPTCHA цього сервісу ще не підключений.
+      sk: Poskytovateľ CAPTCHA tejto služby ešte nie je pripojený.
+      sr: CAPTCHA провајдер за ову услугу још није повезан.
+      hy: Այս ծառայության CAPTCHA մատակարարը դեռ միացված չէ։
+      kk: Бұл қызметтің CAPTCHA провайдері әлі қосылмаған.
+      ms: Penyedia CAPTCHA perkhidmatan ini belum disambungkan.
+      tg: Провайдери CAPTCHA-и ин хидмат ҳанӯз пайваст нашудааст.
+      uz: Bu xizmatning CAPTCHA provayderi hali ulanmagan.
+      zh: 此服务的验证码提供商尚未接入。
+      vi: Nhà cung cấp CAPTCHA của dịch vụ này chưa được kết nối.
+      th: ผู้ให้บริการ CAPTCHA ของบริการนี้ยังไม่ได้เชื่อมต่อ
     auth.signIn.captchaRefresh:
       en: Refresh image
       ru: Обновить картинку
       cs: Obnovit obrázek
       fr: Actualiser l’image
       az: Şəkli yenilə
+      de: Bild aktualisieren
+      es: Actualizar imagen
+      it: Aggiorna immagine
+      pt: Atualizar imagem
+      uk: Оновити зображення
+      sk: Obnoviť obrázok
+      sr: Освежи слику
+      hy: Թարմացնել պատկերը
+      kk: Суретті жаңарту
+      ms: Muat semula imej
+      tg: Навсозии тасвир
+      uz: Rasmni yangilash
+      zh: 刷新图片
+      vi: Làm mới ảnh
+      th: รีเฟรชภาพ
     auth.signIn.captchaVerification:
       en: Captcha verification
       ru: Проверка капчи
       cs: Ověření CAPTCHA
       fr: Vérification CAPTCHA
       az: CAPTCHA yoxlaması
+      de: CAPTCHA-Prüfung
+      es: Verificación CAPTCHA
+      it: Verifica CAPTCHA
+      pt: Verificação CAPTCHA
+      uk: Перевірка CAPTCHA
+      sk: Overenie CAPTCHA
+      sr: CAPTCHA провера
+      hy: CAPTCHA ստուգում
+      kk: CAPTCHA тексеруі
+      ms: Pengesahan CAPTCHA
+      tg: Санҷиши CAPTCHA
+      uz: CAPTCHA tekshiruvi
+      zh: 验证码验证
+      vi: Xác minh CAPTCHA
+      th: การยืนยัน CAPTCHA
     auth.signIn.chooseCountry:
       en: Country or region
       ru: Страна или регион
       cs: Země nebo oblast
       fr: Pays ou région
       az: Ölkə və ya region
+      de: Land oder Region
+      es: País o región
+      it: Paese o regione
+      pt: País ou região
+      uk: Країна або регіон
+      sk: Krajina alebo oblasť
+      sr: Земља или регион
+      hy: Երկիր կամ տարածաշրջան
+      kk: Ел немесе аймақ
+      ms: Negara atau rantau
+      tg: Кишвар ё минтақа
+      uz: Mamlakat yoki hudud
+      zh: 国家或地区
+      vi: Quốc gia hoặc khu vực
+      th: ประเทศหรือภูมิภาค
     auth.signIn.cleanupError:
       en: Could not clear the previous user’s data. Try again.
       ru: Не удалось очистить данные предыдущего пользователя. Повторите попытку.
       cs: Data předchozího uživatele se nepodařilo vymazat. Zkuste to znovu.
       fr: Impossible d’effacer les données de l’utilisateur précédent. Réessayez.
       az: Əvvəlki istifadəçinin məlumatlarını silmək mümkün olmadı. Yenidən cəhd edin.
+      de: Die Daten des vorherigen Benutzers konnten nicht gelöscht werden. Versuchen Sie es erneut.
+      es: No se pudieron borrar los datos del usuario anterior. Inténtalo de nuevo.
+      it: Impossibile eliminare i dati dell’utente precedente. Riprova.
+      pt: Não foi possível apagar os dados do usuário anterior. Tente novamente.
+      uk: Не вдалося видалити дані попереднього користувача. Спробуйте ще раз.
+      sk: Údaje predchádzajúceho používateľa sa nepodarilo vymazať. Skúste to znova.
+      sr: Није могуће обрисати податке претходног корисника. Покушајте поново.
+      hy: Չհաջողվեց ջնջել նախորդ օգտատիրոջ տվյալները։ Փորձեք կրկին։
+      kk: Алдыңғы пайдаланушының деректерін өшіру мүмкін болмады. Қайталап көріңіз.
+      ms: Data pengguna terdahulu tidak dapat dipadamkan. Cuba lagi.
+      tg: Маълумоти корбари қаблӣ тоза нашуд. Аз нав кӯшиш кунед.
+      uz: Oldingi foydalanuvchi ma’lumotlarini o‘chirib bo‘lmadi. Qayta urinib ko‘ring.
+      zh: 无法清除上一位用户的数据，请重试。
+      vi: Không xóa được dữ liệu của người dùng trước. Hãy thử lại.
+      th: ลบข้อมูลผู้ใช้ก่อนหน้าไม่สำเร็จ กรุณาลองอีกครั้ง
     auth.signIn.code.heading:
       en: Enter the code sent to {phone-number}
       ru: Введите код, отправленный на {phone-number}
       cs: Zadejte kód odeslaný na číslo {phone-number}
       fr: Saisissez le code envoyé au {phone-number}
       az: "{phone-number} nömrəsinə göndərilən kodu daxil edin"
+      de: Geben Sie den an {phone-number} gesendeten Code ein
+      es: Introduce el código enviado a {phone-number}
+      it: Inserisci il codice inviato a {phone-number}
+      pt: Digite o código enviado para {phone-number}
+      uk: Введіть код, надісланий на {phone-number}
+      sk: Zadajte kód odoslaný na {phone-number}
+      sr: Унесите код послат на {phone-number}
+      hy: Մուտքագրեք {phone-number} համարին ուղարկված կոդը
+      kk: "{phone-number} нөміріне жіберілген кодты енгізіңіз"
+      ms: Masukkan kod yang dihantar ke {phone-number}
+      tg: Рамзи ба {phone-number} фиристодашударо ворид кунед
+      uz: "{phone-number} raqamiga yuborilgan kodni kiriting"
+      zh: 请输入发送至 {phone-number} 的验证码
+      vi: Nhập mã được gửi đến {phone-number}
+      th: ป้อนรหัสที่ส่งไปยัง {phone-number}
     auth.signIn.code.rejected:
       en: The code was not accepted. Check it and try again.
       ru: Код не принят. Проверьте его и попробуйте ещё раз.
       cs: Kód nebyl přijat. Zkontrolujte ho a zkuste to znovu.
       fr: Le code n’a pas été accepté. Vérifiez-le et réessayez.
       az: Kod qəbul edilmədi. Yoxlayıb yenidən cəhd edin.
+      de: Der Code wurde nicht akzeptiert. Prüfen Sie ihn und versuchen Sie es erneut.
+      es: El código no fue aceptado. Compruébalo e inténtalo de nuevo.
+      it: Il codice non è stato accettato. Controllalo e riprova.
+      pt: O código não foi aceito. Confira e tente novamente.
+      uk: Код не прийнято. Перевірте його та спробуйте ще раз.
+      sk: Kód nebol prijatý. Skontrolujte ho a skúste to znova.
+      sr: Код није прихваћен. Проверите га и покушајте поново.
+      hy: Կոդը չի ընդունվել։ Ստուգեք այն և փորձեք կրկին։
+      kk: Код қабылданбады. Оны тексеріп, қайталап көріңіз.
+      ms: Kod tidak diterima. Semak dan cuba lagi.
+      tg: Рамз қабул нашуд. Онро санҷида, аз нав кӯшиш кунед.
+      uz: Kod qabul qilinmadi. Uni tekshirib, qayta urinib ko‘ring.
+      zh: 验证码未被接受，请检查后重试。
+      vi: Mã không được chấp nhận. Hãy kiểm tra và thử lại.
+      th: รหัสไม่ผ่านการยืนยัน กรุณาตรวจสอบและลองอีกครั้ง
     auth.signIn.codeLabel:
       en: Verification code
       ru: Код подтверждения
       cs: Ověřovací kód
       fr: Code de vérification
       az: Təsdiq kodu
+      de: Bestätigungscode
+      es: Código de verificación
+      it: Codice di verifica
+      pt: Código de verificação
+      uk: Код підтвердження
+      sk: Overovací kód
+      sr: Код за потврду
+      hy: Հաստատման կոդ
+      kk: Растау коды
+      ms: Kod pengesahan
+      tg: Рамзи тасдиқ
+      uz: Tasdiqlash kodi
+      zh: 验证码
+      vi: Mã xác minh
+      th: รหัสยืนยัน
     auth.signIn.confirmationError:
       en: The code was accepted, but sign-in could not be completed. Retry the confirmation.
       ru: Код принят, но завершить вход не удалось. Повторите проверку.
       cs: Kód byl přijat, ale přihlášení se nepodařilo dokončit. Zopakujte potvrzení.
       fr: Le code a été accepté, mais la connexion n’a pas pu aboutir. Réessayez la confirmation.
       az: Kod qəbul edildi, lakin giriş tamamlanmadı. Təsdiqi təkrarlayın.
+      de: Der Code wurde akzeptiert, aber die Anmeldung konnte nicht abgeschlossen werden. Wiederholen Sie die Bestätigung.
+      es: El código fue aceptado, pero no se pudo completar el inicio de sesión. Repite la confirmación.
+      it: Il codice è stato accettato, ma non è stato possibile completare l’accesso. Ripeti la conferma.
+      pt: O código foi aceito, mas não foi possível concluir o acesso. Repita a confirmação.
+      uk: Код прийнято, але не вдалося завершити вхід. Повторіть підтвердження.
+      sk: Kód bol prijatý, ale prihlásenie sa nepodarilo dokončiť. Zopakujte potvrdenie.
+      sr: Код је прихваћен, али пријава није довршена. Поновите потврду.
+      hy: Կոդն ընդունվել է, բայց մուտքը չի ավարտվել։ Կրկնեք հաստատումը։
+      kk: Код қабылданды, бірақ кіруді аяқтау мүмкін болмады. Растауды қайталаңыз.
+      ms: Kod diterima, tetapi log masuk tidak dapat diselesaikan. Cuba pengesahan semula.
+      tg: Рамз қабул шуд, вале воридшавӣ анҷом наёфт. Тасдиқро такрор кунед.
+      uz: Kod qabul qilindi, lekin kirishni yakunlab bo‘lmadi. Tasdiqlashni takrorlang.
+      zh: 验证码已被接受，但无法完成登录，请重新确认。
+      vi: Mã đã được chấp nhận nhưng không thể hoàn tất đăng nhập. Hãy xác nhận lại.
+      th: รหัสผ่านการยืนยันแล้ว แต่เข้าสู่ระบบไม่สำเร็จ กรุณายืนยันอีกครั้ง
     auth.signIn.country:
       en: Country
       ru: Страна
       cs: Země
       fr: Pays
       az: Ölkə
+      de: Land
+      es: País
+      it: Paese
+      pt: País
+      uk: Країна
+      sk: Krajina
+      sr: Земља
+      hy: Երկիր
+      kk: Ел
+      ms: Negara
+      tg: Кишвар
+      uz: Mamlakat
+      zh: 国家
+      vi: Quốc gia
+      th: ประเทศ
     auth.signIn.countryNotFound:
       en: No countries found
       ru: Страны не найдены
       cs: Žádné země nenalezeny
       fr: Aucun pays trouvé
       az: Ölkə tapılmadı
+      de: Keine Länder gefunden
+      es: No se encontraron países
+      it: Nessun paese trovato
+      pt: Nenhum país encontrado
+      uk: Країн не знайдено
+      sk: Nenašli sa žiadne krajiny
+      sr: Ниједна земља није пронађена
+      hy: Երկրներ չեն գտնվել
+      kk: Елдер табылмады
+      ms: Tiada negara ditemui
+      tg: Кишваре ёфт нашуд
+      uz: Mamlakatlar topilmadi
+      zh: 未找到国家
+      vi: Không tìm thấy quốc gia
+      th: ไม่พบประเทศ
     auth.signIn.countrySearch:
       en: Country name or calling code
       ru: Название страны или телефонный код
       cs: Název země nebo telefonní předvolba
       fr: Nom du pays ou indicatif téléphonique
       az: Ölkənin adı və ya telefon kodu
+      de: Ländername oder Telefonvorwahl
+      es: Nombre del país o prefijo telefónico
+      it: Nome del paese o prefisso telefonico
+      pt: Nome do país ou código de discagem
+      uk: Назва країни або телефонний код
+      sk: Názov krajiny alebo telefónna predvoľba
+      sr: Назив земље или позивни број
+      hy: Երկրի անունը կամ հեռախոսային կոդը
+      kk: Ел атауы немесе телефон коды
+      ms: Nama negara atau kod panggilan
+      tg: Номи кишвар ё рамзи телефонӣ
+      uz: Mamlakat nomi yoki telefon kodi
+      zh: 国家名称或电话区号
+      vi: Tên quốc gia hoặc mã gọi quốc tế
+      th: ชื่อประเทศหรือรหัสโทรศัพท์
     auth.signIn.delivery.max:
       en: Get code in MAX
       ru: Получить код в MAX
       cs: Získat kód v MAX
       fr: Recevoir le code dans MAX
       az: Kodu MAX-da al
+      de: Code über MAX erhalten
+      es: Recibir código en MAX
+      it: Ricevi il codice su MAX
+      pt: Receber código no MAX
+      uk: Отримати код у MAX
+      sk: Získať kód v MAX
+      sr: Прими код у MAX-у
+      hy: Ստանալ կոդը MAX-ում
+      kk: Кодты MAX арқылы алу
+      ms: Dapatkan kod melalui MAX
+      tg: Гирифтани рамз дар MAX
+      uz: Kodni MAX orqali olish
+      zh: 通过 MAX 获取验证码
+      vi: Nhận mã qua MAX
+      th: รับรหัสผ่าน MAX
     auth.signIn.delivery.sms:
       en: Get code by SMS
       ru: Получить код по SMS
       cs: Získat kód SMS zprávou
       fr: Recevoir le code par SMS
       az: Kodu SMS ilə al
+      de: Code per SMS erhalten
+      es: Recibir código por SMS
+      it: Ricevi il codice via SMS
+      pt: Receber código por SMS
+      uk: Отримати код через SMS
+      sk: Získať kód cez SMS
+      sr: Прими код SMS-ом
+      hy: Ստանալ կոդը SMS-ով
+      kk: Кодты SMS арқылы алу
+      ms: Dapatkan kod melalui SMS
+      tg: Гирифтани рамз тавассути SMS
+      uz: Kodni SMS orqali olish
+      zh: 通过短信获取验证码
+      vi: Nhận mã qua SMS
+      th: รับรหัสทาง SMS
     auth.signIn.delivery.smscTelegram:
       en: Get code in Telegram
       ru: Получить код в Telegram
       cs: Získat kód v Telegramu
       fr: Recevoir le code dans Telegram
       az: Kodu Telegram-da al
+      de: Code über Telegram erhalten
+      es: Recibir código en Telegram
+      it: Ricevi il codice su Telegram
+      pt: Receber código no Telegram
+      uk: Отримати код у Telegram
+      sk: Získať kód v Telegrame
+      sr: Прими код у Telegram-у
+      hy: Ստանալ կոդը Telegram-ում
+      kk: Кодты Telegram арқылы алу
+      ms: Dapatkan kod melalui Telegram
+      tg: Гирифтани рамз дар Telegram
+      uz: Kodni Telegram orqali olish
+      zh: 通过 Telegram 获取验证码
+      vi: Nhận mã qua Telegram
+      th: รับรหัสผ่าน Telegram
     auth.signIn.delivery.whatsapp:
       en: Get code in WhatsApp
       ru: Получить код в WhatsApp
       cs: Získat kód ve WhatsAppu
       fr: Recevoir le code dans WhatsApp
       az: Kodu WhatsApp-da al
+      de: Code über WhatsApp erhalten
+      es: Recibir código en WhatsApp
+      it: Ricevi il codice su WhatsApp
+      pt: Receber código no WhatsApp
+      uk: Отримати код у WhatsApp
+      sk: Získať kód vo WhatsAppe
+      sr: Прими код у WhatsApp-у
+      hy: Ստանալ կոդը WhatsApp-ում
+      kk: Кодты WhatsApp арқылы алу
+      ms: Dapatkan kod melalui WhatsApp
+      tg: Гирифтани рамз дар WhatsApp
+      uz: Kodni WhatsApp orqali olish
+      zh: 通过 WhatsApp 获取验证码
+      vi: Nhận mã qua WhatsApp
+      th: รับรหัสผ่าน WhatsApp
     auth.signIn.deliveryUnavailable:
       en: Service is temporarily unavailable. Try again.
       ru: Сервис временно недоступен. Попробуйте ещё раз.
       cs: Služba je dočasně nedostupná. Zkuste to znovu.
       fr: Le service est temporairement indisponible. Réessayez.
       az: Xidmət müvəqqəti olaraq əlçatan deyil. Yenidən cəhd edin.
+      de: Der Dienst ist vorübergehend nicht verfügbar. Versuchen Sie es erneut.
+      es: El servicio no está disponible temporalmente. Inténtalo de nuevo.
+      it: Il servizio è temporaneamente non disponibile. Riprova.
+      pt: O serviço está temporariamente indisponível. Tente novamente.
+      uk: Сервіс тимчасово недоступний. Спробуйте ще раз.
+      sk: Služba je dočasne nedostupná. Skúste to znova.
+      sr: Услуга је привремено недоступна. Покушајте поново.
+      hy: Ծառայությունը ժամանակավորապես անհասանելի է։ Փորձեք կրկին։
+      kk: Қызмет уақытша қолжетімсіз. Қайталап көріңіз.
+      ms: Perkhidmatan tidak tersedia buat sementara waktu. Cuba lagi.
+      tg: Хидмат муваққатан дастнорас аст. Аз нав кӯшиш кунед.
+      uz: Xizmat vaqtincha mavjud emas. Qayta urinib ko‘ring.
+      zh: 服务暂时不可用，请重试。
+      vi: Dịch vụ tạm thời không khả dụng. Hãy thử lại.
+      th: บริการไม่พร้อมใช้งานชั่วคราว กรุณาลองอีกครั้ง
     auth.signIn.deliveryUncertain:
       en: We could not confirm delivery. If a code arrives, you can enter it here.
       ru: Не удалось подтвердить отправку. Если код пришёл, его можно ввести здесь.
       cs: Doručení se nepodařilo potvrdit. Pokud kód dorazí, můžete ho zadat zde.
       fr: Nous n’avons pas pu confirmer la réception. Si un code arrive, vous pouvez le saisir ici.
       az: Çatdırılmanı təsdiqləmək mümkün olmadı. Kod gəlsə, onu burada daxil edə bilərsiniz.
+      de: Die Zustellung konnte nicht bestätigt werden. Wenn ein Code ankommt, können Sie ihn hier eingeben.
+      es: No pudimos confirmar la entrega. Si recibes un código, puedes introducirlo aquí.
+      it: Non è stato possibile confermare la consegna. Se ricevi un codice, puoi inserirlo qui.
+      pt: Não foi possível confirmar a entrega. Se receber um código, você pode digitá-lo aqui.
+      uk: Не вдалося підтвердити доставку. Якщо код надійде, його можна ввести тут.
+      sk: Doručenie sa nepodarilo potvrdiť. Ak kód príde, môžete ho zadať tu.
+      sr: Није могуће потврдити доставу. Ако код стигне, можете га унети овде.
+      hy: Չհաջողվեց հաստատել առաքումը։ Եթե կոդը ստանաք, կարող եք մուտքագրել այն այստեղ։
+      kk: Жеткізуді растау мүмкін болмады. Код келсе, оны осында енгізе аласыз.
+      ms: Penghantaran tidak dapat disahkan. Jika kod diterima, anda boleh memasukkannya di sini.
+      tg: Расонидан тасдиқ нашуд. Агар рамз расад, метавонед онро дар ин ҷо ворид кунед.
+      uz: Yetkazilganini tasdiqlab bo‘lmadi. Kod kelsa, uni shu yerga kiritishingiz mumkin.
+      zh: 无法确认是否送达。如果收到验证码，可以在此输入。
+      vi: Không xác nhận được việc gửi mã. Nếu nhận được mã, bạn có thể nhập tại đây.
+      th: ยืนยันการส่งไม่สำเร็จ หากได้รับรหัส คุณสามารถป้อนได้ที่นี่
     auth.signIn.enterExistingCode:
       en: Enter a received code
       ru: Ввести полученный код
       cs: Zadat přijatý kód
       fr: Saisir un code reçu
       az: Alınan kodu daxil et
+      de: Erhaltenen Code eingeben
+      es: Introducir un código recibido
+      it: Inserisci un codice ricevuto
+      pt: Digitar um código recebido
+      uk: Ввести отриманий код
+      sk: Zadať prijatý kód
+      sr: Унеси примљени код
+      hy: Մուտքագրել ստացված կոդը
+      kk: Алынған кодты енгізу
+      ms: Masukkan kod yang diterima
+      tg: Ворид кардани рамзи гирифташуда
+      uz: Olingan kodni kiritish
+      zh: 输入已收到的验证码
+      vi: Nhập mã đã nhận
+      th: ป้อนรหัสที่ได้รับ
     auth.signIn.enterPhoneNumber:
       en: Enter phone number
       ru: Ввести номер телефона
       cs: Zadat telefonní číslo
       fr: Saisir le numéro de téléphone
       az: Telefon nömrəsini daxil et
+      de: Telefonnummer eingeben
+      es: Introducir número de teléfono
+      it: Inserisci numero di telefono
+      pt: Digitar número de telefone
+      uk: Ввести номер телефону
+      sk: Zadať telefónne číslo
+      sr: Унеси број телефона
+      hy: Մուտքագրել հեռախոսահամարը
+      kk: Телефон нөмірін енгізу
+      ms: Masukkan nombor telefon
+      tg: Ворид кардани рақами телефон
+      uz: Telefon raqamini kiritish
+      zh: 输入电话号码
+      vi: Nhập số điện thoại
+      th: ป้อนหมายเลขโทรศัพท์
     auth.signIn.idCtmsAuth:
       en: Sign in via messenger
       ru: Войти через мессенджер
       cs: Přihlásit se přes messenger
       fr: Se connecter via une messagerie
       az: Mesencer vasitəsilə daxil ol
+      de: Über Messenger anmelden
+      es: Iniciar sesión mediante mensajería
+      it: Accedi tramite un’app di messaggistica
+      pt: Entrar por aplicativo de mensagens
+      uk: Увійти через месенджер
+      sk: Prihlásiť sa cez komunikačnú aplikáciu
+      sr: Пријави се преко апликације за поруке
+      hy: Մուտք գործել մեսենջերով
+      kk: Мессенджер арқылы кіру
+      ms: Log masuk melalui aplikasi pemesejan
+      tg: Воридшавӣ тавассути паёмрасон
+      uz: Messenjer orqali kirish
+      zh: 通过即时通讯应用登录
+      vi: Đăng nhập qua ứng dụng nhắn tin
+      th: เข้าสู่ระบบผ่านแอปส่งข้อความ
     auth.signIn.idCtmsNotConnected:
       en: IdCTMS sign-in is not connected yet.
       ru: Вход через IdCTMS ещё не подключён.
       cs: Přihlášení přes IdCTMS zatím není připojeno.
       fr: La connexion IdCTMS n’est pas encore disponible.
       az: IdCTMS ilə giriş hələ qoşulmayıb.
+      de: Die Anmeldung über IdCTMS ist noch nicht angebunden.
+      es: El inicio de sesión con IdCTMS aún no está conectado.
+      it: L’accesso tramite IdCTMS non è ancora collegato.
+      pt: O acesso pelo IdCTMS ainda não está conectado.
+      uk: Вхід через IdCTMS ще не підключений.
+      sk: Prihlásenie cez IdCTMS ešte nie je pripojené.
+      sr: Пријава преко IdCTMS-а још није повезана.
+      hy: IdCTMS-ով մուտքը դեռ միացված չէ։
+      kk: IdCTMS арқылы кіру әлі қосылмаған.
+      ms: Log masuk IdCTMS belum disambungkan.
+      tg: Воридшавӣ тавассути IdCTMS ҳанӯз пайваст нашудааст.
+      uz: IdCTMS orqali kirish hali ulanmagan.
+      zh: IdCTMS 登录尚未接入。
+      vi: Đăng nhập qua IdCTMS chưa được kết nối.
+      th: การเข้าสู่ระบบผ่าน IdCTMS ยังไม่ได้เชื่อมต่อ
     auth.signIn.otherDelivery:
       en: Another way to get the code
       ru: Другой способ получения кода
       cs: Jiný způsob získání kódu
       fr: Autre moyen de recevoir le code
       az: Kodu almağın başqa yolu
+      de: Andere Möglichkeit, den Code zu erhalten
+      es: Otra forma de recibir el código
+      it: Un altro modo per ricevere il codice
+      pt: Outra forma de receber o código
+      uk: Інший спосіб отримати код
+      sk: Iný spôsob získania kódu
+      sr: Други начин за добијање кода
+      hy: Կոդը ստանալու այլ եղանակ
+      kk: Кодты алудың басқа тәсілі
+      ms: Cara lain untuk mendapatkan kod
+      tg: Роҳи дигари гирифтани рамз
+      uz: Kodni olishning boshqa usuli
+      zh: 其他获取验证码的方式
+      vi: Cách khác để nhận mã
+      th: วิธีอื่นในการรับรหัส
     auth.signIn.phone.heading:
       en: Enter your phone number
       ru: Введите номер телефона
       cs: Zadejte své telefonní číslo
       fr: Saisissez votre numéro de téléphone
       az: Telefon nömrənizi daxil edin
+      de: Geben Sie Ihre Telefonnummer ein
+      es: Introduce tu número de teléfono
+      it: Inserisci il tuo numero di telefono
+      pt: Digite seu número de telefone
+      uk: Введіть свій номер телефону
+      sk: Zadajte svoje telefónne číslo
+      sr: Унесите свој број телефона
+      hy: Մուտքագրեք ձեր հեռախոսահամարը
+      kk: Телефон нөміріңізді енгізіңіз
+      ms: Masukkan nombor telefon anda
+      tg: Рақами телефони худро ворид кунед
+      uz: Telefon raqamingizni kiriting
+      zh: 请输入您的电话号码
+      vi: Nhập số điện thoại của bạn
+      th: ป้อนหมายเลขโทรศัพท์ของคุณ
     auth.signIn.phoneInvalid:
       en: Check the number and country calling code
       ru: Проверьте номер и код страны
       cs: Zkontrolujte číslo a mezinárodní předvolbu
       fr: Vérifiez le numéro et l’indicatif du pays
       az: Nömrəni və ölkənin telefon kodunu yoxlayın
+      de: Prüfen Sie die Nummer und die Landesvorwahl
+      es: Comprueba el número y el prefijo del país
+      it: Controlla il numero e il prefisso internazionale
+      pt: Confira o número e o código do país
+      uk: Перевірте номер і телефонний код країни
+      sk: Skontrolujte číslo a medzinárodnú predvoľbu
+      sr: Проверите број и позивни број земље
+      hy: Ստուգեք համարը և երկրի հեռախոսային կոդը
+      kk: Нөмір мен елдің телефон кодын тексеріңіз
+      ms: Semak nombor dan kod panggilan negara
+      tg: Рақам ва рамзи телефонии кишварро санҷед
+      uz: Raqam va mamlakat telefon kodini tekshiring
+      zh: 请检查号码和国家电话区号
+      vi: Kiểm tra số điện thoại và mã quốc gia
+      th: ตรวจสอบหมายเลขและรหัสโทรศัพท์ประเทศ
     auth.signIn.phoneLabel:
       en: Phone number
       ru: Номер телефона
       cs: Telefonní číslo
       fr: Numéro de téléphone
       az: Telefon nömrəsi
+      de: Telefonnummer
+      es: Número de teléfono
+      it: Numero di telefono
+      pt: Número de telefone
+      uk: Номер телефону
+      sk: Telefónne číslo
+      sr: Број телефона
+      hy: Հեռախոսահամար
+      kk: Телефон нөмірі
+      ms: Nombor telefon
+      tg: Рақами телефон
+      uz: Telefon raqami
+      zh: 电话号码
+      vi: Số điện thoại
+      th: หมายเลขโทรศัพท์
     auth.signIn.requestAgain:
       en: Request another code
       ru: Получить код повторно
       cs: Vyžádat nový kód
       fr: Demander un nouveau code
       az: Yeni kod istə
+      de: Neuen Code anfordern
+      es: Solicitar otro código
+      it: Richiedi un altro codice
+      pt: Solicitar outro código
+      uk: Запросити новий код
+      sk: Vyžiadať nový kód
+      sr: Затражи нови код
+      hy: Պահանջել նոր կոդ
+      kk: Жаңа код сұрату
+      ms: Minta kod baharu
+      tg: Дархости рамзи нав
+      uz: Yangi kod so‘rash
+      zh: 重新获取验证码
+      vi: Yêu cầu mã mới
+      th: ขอรหัสใหม่
     auth.signIn.resendWaitTime:
       en: Request again in {time}
       ru: Повторить через {time}
       cs: Vyžádat znovu za {time}
       fr: Nouvelle demande dans {time}
       az: "{time} sonra yenidən istə"
+      de: Erneut anfordern in {time}
+      es: Volver a solicitar en {time}
+      it: Richiedi di nuovo tra {time}
+      pt: Solicitar novamente em {time}
+      uk: Запросити повторно через {time}
+      sk: Vyžiadať znova o {time}
+      sr: Затражи поново за {time}
+      hy: Կրկին պահանջել {time} անց
+      kk: "{time} кейін қайта сұрату"
+      ms: Minta semula dalam {time}
+      tg: Дархости такрорӣ баъд аз {time}
+      uz: "{time} dan keyin qayta so‘rash"
+      zh: "{time} 后可重新获取"
+      vi: Yêu cầu lại sau {time}
+      th: ขออีกครั้งใน {time}
     auth.signIn.retryConfirmation:
       en: Retry confirmation
       ru: Повторить проверку
       cs: Zopakovat potvrzení
       fr: Réessayer la confirmation
       az: Təsdiqi təkrarla
+      de: Bestätigung wiederholen
+      es: Repetir confirmación
+      it: Ripeti conferma
+      pt: Repetir confirmação
+      uk: Повторити підтвердження
+      sk: Zopakovať potvrdenie
+      sr: Понови потврду
+      hy: Կրկնել հաստատումը
+      kk: Растауды қайталау
+      ms: Cuba pengesahan semula
+      tg: Такрори тасдиқ
+      uz: Tasdiqlashni takrorlash
+      zh: 重新确认
+      vi: Xác nhận lại
+      th: ยืนยันอีกครั้ง
     auth.signIn.submitCode:
       en: Sign in
       ru: Войти
       cs: Přihlásit se
       fr: Se connecter
       az: Daxil ol
+      de: Anmelden
+      es: Iniciar sesión
+      it: Accedi
+      pt: Entrar
+      uk: Увійти
+      sk: Prihlásiť sa
+      sr: Пријави се
+      hy: Մուտք գործել
+      kk: Кіру
+      ms: Log masuk
+      tg: Ворид шудан
+      uz: Kirish
+      zh: 登录
+      vi: Đăng nhập
+      th: เข้าสู่ระบบ
     auth.signIn.verificationError:
       en: Could not confirm sign-in. Try again.
       ru: Не удалось подтвердить вход. Попробуйте ещё раз.
       cs: Přihlášení se nepodařilo potvrdit. Zkuste to znovu.
       fr: Impossible de confirmer la connexion. Réessayez.
       az: Girişi təsdiqləmək mümkün olmadı. Yenidən cəhd edin.
+      de: Die Anmeldung konnte nicht bestätigt werden. Versuchen Sie es erneut.
+      es: No se pudo confirmar el inicio de sesión. Inténtalo de nuevo.
+      it: Impossibile confermare l’accesso. Riprova.
+      pt: Não foi possível confirmar o acesso. Tente novamente.
+      uk: Не вдалося підтвердити вхід. Спробуйте ще раз.
+      sk: Prihlásenie sa nepodarilo potvrdiť. Skúste to znova.
+      sr: Није могуће потврдити пријаву. Покушајте поново.
+      hy: Չհաջողվեց հաստատել մուտքը։ Փորձեք կրկին։
+      kk: Кіруді растау мүмкін болмады. Қайталап көріңіз.
+      ms: Log masuk tidak dapat disahkan. Cuba lagi.
+      tg: Воридшавӣ тасдиқ нашуд. Аз нав кӯшиш кунед.
+      uz: Kirishni tasdiqlab bo‘lmadi. Qayta urinib ko‘ring.
+      zh: 无法确认登录，请重试。
+      vi: Không xác nhận được đăng nhập. Hãy thử lại.
+      th: ยืนยันการเข้าสู่ระบบไม่สำเร็จ กรุณาลองอีกครั้ง
     auth.signIn.withoutAuth:
       en: View available cars
       ru: Посмотреть доступные машины
       cs: Zobrazit dostupná auta
       fr: Voir les voitures disponibles
       az: Mövcud avtomobillərə bax
+      de: Verfügbare Autos anzeigen
+      es: Ver coches disponibles
+      it: Visualizza le auto disponibili
+      pt: Ver carros disponíveis
+      uk: Переглянути доступні автомобілі
+      sk: Zobraziť dostupné autá
+      sr: Прикажи доступна возила
+      hy: Դիտել հասանելի մեքենաները
+      kk: Қолжетімді көліктерді көру
+      ms: Lihat kereta yang tersedia
+      tg: Дидани мошинҳои дастрас
+      uz: Mavjud avtomobillarni ko‘rish
+      zh: 查看可用车辆
+      vi: Xem xe có sẵn
+      th: ดูรถที่พร้อมใช้งาน
     auth.signIn.wrongPhoneNumber:
       en: Is {phone-number} not your number?
       ru: Ваш номер не {phone-number}?
       cs: Není {phone-number} vaše číslo?
       fr: "{phone-number} n’est pas votre numéro ?"
       az: "{phone-number} sizin nömrəniz deyil?"
+      de: Ist {phone-number} nicht Ihre Nummer?
+      es: ¿{phone-number} no es tu número?
+      it: "{phone-number} non è il tuo numero?"
+      pt: "{phone-number} não é seu número?"
+      uk: "{phone-number} — не ваш номер?"
+      sk: Nie je {phone-number} vaše číslo?
+      sr: "{phone-number} није ваш број?"
+      hy: "{phone-number}-ը ձեր համարը չէ՞։"
+      kk: "{phone-number} сіздің нөміріңіз емес пе?"
+      ms: "{phone-number} bukan nombor anda?"
+      tg: "{phone-number} рақами шумо нест?"
+      uz: "{phone-number} sizning raqamingiz emasmi?"
+      zh: "{phone-number} 不是您的号码？"
+      vi: "{phone-number} không phải số của bạn?"
+      th: "{phone-number} ไม่ใช่หมายเลขของคุณใช่ไหม?"
     auth.signUp.answerNotConnected:
       en: This type of reply is not connected yet.
       ru: Этот вид ответа ещё не подключён.
       cs: Tento typ odpovědi zatím není připojen.
       fr: Ce type de réponse n’est pas encore disponible.
       az: Bu cavab növü hələ qoşulmayıb.
+      de: Dieser Antworttyp ist noch nicht angebunden.
+      es: Este tipo de respuesta aún no está conectado.
+      it: Questo tipo di risposta non è ancora collegato.
+      pt: Este tipo de resposta ainda não está conectado.
+      uk: Цей тип відповіді ще не підключений.
+      sk: Tento typ odpovede ešte nie je pripojený.
+      sr: Ова врста одговора још није повезана.
+      hy: Պատասխանի այս տեսակը դեռ միացված չէ։
+      kk: Бұл жауап түрі әлі қосылмаған.
+      ms: Jenis balasan ini belum disambungkan.
+      tg: Ин намуди ҷавоб ҳанӯз пайваст нашудааст.
+      uz: Bu javob turi hali ulanmagan.
+      zh: 尚未接入此回复类型。
+      vi: Loại phản hồi này chưa được kết nối.
+      th: คำตอบประเภทนี้ยังไม่ได้เชื่อมต่อ
     auth.signUp.answerUncertain:
       en: Could not confirm your reply. Check the conversation before sending again.
       ru: Не удалось подтвердить ответ. Проверьте диалог перед повторной отправкой.
       cs: Odpověď se nepodařilo potvrdit. Před dalším odesláním zkontrolujte konverzaci.
       fr: Impossible de confirmer votre réponse. Vérifiez la conversation avant de la renvoyer.
       az: Cavabınızı təsdiqləmək mümkün olmadı. Yenidən göndərməzdən əvvəl söhbəti yoxlayın.
+      de: Ihre Antwort konnte nicht bestätigt werden. Prüfen Sie den Chat vor dem erneuten Senden.
+      es: No se pudo confirmar tu respuesta. Revisa la conversación antes de volver a enviarla.
+      it: Impossibile confermare la risposta. Controlla la conversazione prima di inviarla di nuovo.
+      pt: Não foi possível confirmar sua resposta. Confira a conversa antes de enviar novamente.
+      uk: Не вдалося підтвердити відповідь. Перевірте розмову перед повторним надсиланням.
+      sk: Odpoveď sa nepodarilo potvrdiť. Pred opätovným odoslaním skontrolujte konverzáciu.
+      sr: Није могуће потврдити одговор. Проверите разговор пре поновног слања.
+      hy: Չհաջողվեց հաստատել ձեր պատասխանը։ Կրկին ուղարկելուց առաջ ստուգեք զրույցը։
+      kk: Жауабыңызды растау мүмкін болмады. Қайта жібермес бұрын сөйлесуді тексеріңіз.
+      ms: Balasan anda tidak dapat disahkan. Semak perbualan sebelum menghantar semula.
+      tg: Ҷавоби шумо тасдиқ нашуд. Пеш аз фиристодани такрорӣ суҳбатро санҷед.
+      uz: Javobingizni tasdiqlab bo‘lmadi. Qayta yuborishdan oldin suhbatni tekshiring.
+      zh: 无法确认您的回复，请检查对话后再重新发送。
+      vi: Không xác nhận được phản hồi của bạn. Hãy kiểm tra cuộc trò chuyện trước khi gửi lại.
+      th: ยืนยันคำตอบของคุณไม่สำเร็จ กรุณาตรวจสอบการสนทนาก่อนส่งอีกครั้ง
     auth.signUp.answerUnconfirmed:
       en: The reply is not confirmed yet. The previous request may still be processing.
       ru: Ответ пока не подтверждён. Предыдущий запрос ещё может обрабатываться.
       cs: Odpověď zatím není potvrzena. Předchozí požadavek se možná stále zpracovává.
       fr: La réponse n’est pas encore confirmée. La demande précédente est peut-être toujours en cours de traitement.
       az: Cavab hələ təsdiqlənməyib. Əvvəlki sorğu hələ emal oluna bilər.
+      de: Die Antwort ist noch nicht bestätigt. Die vorherige Anfrage wird möglicherweise noch bearbeitet.
+      es: La respuesta aún no está confirmada. Es posible que la solicitud anterior siga procesándose.
+      it: La risposta non è ancora confermata. La richiesta precedente potrebbe essere ancora in elaborazione.
+      pt: A resposta ainda não foi confirmada. A solicitação anterior pode ainda estar sendo processada.
+      uk: Відповідь ще не підтверджена. Попередній запит може досі оброблятися.
+      sk: Odpoveď ešte nie je potvrdená. Predchádzajúca požiadavka sa možno stále spracúva.
+      sr: Одговор још није потврђен. Претходни захтев се можда још обрађује.
+      hy: Պատասխանը դեռ հաստատված չէ։ Նախորդ հարցումը կարող է դեռ մշակվել։
+      kk: Жауап әлі расталмаған. Алдыңғы сұрау әлі өңделіп жатуы мүмкін.
+      ms: Balasan belum disahkan. Permintaan terdahulu mungkin masih diproses.
+      tg: Ҷавоб ҳанӯз тасдиқ нашудааст. Дархости қаблӣ шояд ҳанӯз коркард мешавад.
+      uz: Javob hali tasdiqlanmagan. Oldingi so‘rov hali qayta ishlanayotgan bo‘lishi mumkin.
+      zh: 回复尚未确认，之前的请求可能仍在处理中。
+      vi: Phản hồi chưa được xác nhận. Yêu cầu trước có thể vẫn đang được xử lý.
+      th: คำตอบยังไม่ได้รับการยืนยัน คำขอก่อนหน้าอาจยังอยู่ระหว่างประมวลผล
     auth.signUp.changePhone:
       en: Change phone number
       ru: Изменить номер телефона
       cs: Změnit telefonní číslo
       fr: Changer de numéro de téléphone
       az: Telefon nömrəsini dəyiş
+      de: Telefonnummer ändern
+      es: Cambiar número de teléfono
+      it: Cambia numero di telefono
+      pt: Alterar número de telefone
+      uk: Змінити номер телефону
+      sk: Zmeniť telefónne číslo
+      sr: Промени број телефона
+      hy: Փոխել հեռախոսահամարը
+      kk: Телефон нөмірін өзгерту
+      ms: Tukar nombor telefon
+      tg: Иваз кардани рақами телефон
+      uz: Telefon raqamini o‘zgartirish
+      zh: 更改电话号码
+      vi: Đổi số điện thoại
+      th: เปลี่ยนหมายเลขโทรศัพท์
     auth.signUp.checkConversation:
       en: Check conversation
       ru: Проверить диалог
       cs: Zkontrolovat konverzaci
       fr: Vérifier la conversation
       az: Söhbəti yoxla
+      de: Chat prüfen
+      es: Revisar conversación
+      it: Controlla conversazione
+      pt: Conferir conversa
+      uk: Перевірити розмову
+      sk: Skontrolovať konverzáciu
+      sr: Провери разговор
+      hy: Ստուգել զրույցը
+      kk: Сөйлесуді тексеру
+      ms: Semak perbualan
+      tg: Санҷидани суҳбат
+      uz: Suhbatni tekshirish
+      zh: 检查对话
+      vi: Kiểm tra cuộc trò chuyện
+      th: ตรวจสอบการสนทนา
     auth.signUp.confirmationError:
       en: Your reply was accepted. Retry checking registration status.
       ru: Ответ принят. Повторите проверку статуса регистрации.
       cs: Vaše odpověď byla přijata. Znovu zkontrolujte stav registrace.
       fr: Votre réponse a été acceptée. Vérifiez à nouveau l’état de l’inscription.
       az: Cavabınız qəbul edildi. Qeydiyyat statusunu yenidən yoxlayın.
+      de: Ihre Antwort wurde akzeptiert. Prüfen Sie den Registrierungsstatus erneut.
+      es: Tu respuesta fue aceptada. Vuelve a comprobar el estado del registro.
+      it: La tua risposta è stata accettata. Controlla di nuovo lo stato della registrazione.
+      pt: Sua resposta foi aceita. Confira novamente o status do cadastro.
+      uk: Вашу відповідь прийнято. Повторіть перевірку стану реєстрації.
+      sk: Vaša odpoveď bola prijatá. Znova skontrolujte stav registrácie.
+      sr: Ваш одговор је прихваћен. Поново проверите статус регистрације.
+      hy: Ձեր պատասխանն ընդունվել է։ Կրկին ստուգեք գրանցման կարգավիճակը։
+      kk: Жауабыңыз қабылданды. Тіркелу күйін қайта тексеріңіз.
+      ms: Balasan anda diterima. Semak semula status pendaftaran.
+      tg: Ҷавоби шумо қабул шуд. Вазъи бақайдгириро аз нав санҷед.
+      uz: Javobingiz qabul qilindi. Ro‘yxatdan o‘tish holatini qayta tekshiring.
+      zh: 您的回复已被接受，请重新检查注册状态。
+      vi: Phản hồi của bạn đã được chấp nhận. Hãy kiểm tra lại trạng thái đăng ký.
+      th: คำตอบของคุณได้รับการยอมรับแล้ว กรุณาตรวจสอบสถานะการลงทะเบียนอีกครั้ง
     auth.signUp.continue:
       en: Continue
       ru: Продолжить
       cs: Pokračovat
       fr: Continuer
       az: Davam et
+      de: Weiter
+      es: Continuar
+      it: Continua
+      pt: Continuar
+      uk: Продовжити
+      sk: Pokračovať
+      sr: Настави
+      hy: Շարունակել
+      kk: Жалғастыру
+      ms: Teruskan
+      tg: Идома додан
+      uz: Davom etish
+      zh: 继续
+      vi: Tiếp tục
+      th: ดำเนินการต่อ
     auth.signUp.continueRegistration:
       en: Continue registration
       ru: Продолжить регистрацию
       cs: Pokračovat v registraci
       fr: Poursuivre l’inscription
       az: Qeydiyyata davam et
+      de: Registrierung fortsetzen
+      es: Continuar registro
+      it: Continua la registrazione
+      pt: Continuar cadastro
+      uk: Продовжити реєстрацію
+      sk: Pokračovať v registrácii
+      sr: Настави регистрацију
+      hy: Շարունակել գրանցումը
+      kk: Тіркелуді жалғастыру
+      ms: Teruskan pendaftaran
+      tg: Идомаи бақайдгирӣ
+      uz: Ro‘yxatdan o‘tishni davom ettirish
+      zh: 继续注册
+      vi: Tiếp tục đăng ký
+      th: ลงทะเบียนต่อ
     auth.signUp.date:
       en: Date
       ru: Дата
       cs: Datum
       fr: Date
       az: Tarix
+      de: Datum
+      es: Fecha
+      it: Data
+      pt: Data
+      uk: Дата
+      sk: Dátum
+      sr: Датум
+      hy: Ամսաթիվ
+      kk: Күн
+      ms: Tarikh
+      tg: Сана
+      uz: Sana
+      zh: 日期
+      vi: Ngày
+      th: วันที่
     auth.signUp.documentSent:
       en: Document sent
       ru: Документ отправлен
       cs: Dokument odeslán
       fr: Document envoyé
       az: Sənəd göndərildi
+      de: Dokument gesendet
+      es: Documento enviado
+      it: Documento inviato
+      pt: Documento enviado
+      uk: Документ надіслано
+      sk: Dokument odoslaný
+      sr: Документ је послат
+      hy: Փաստաթուղթն ուղարկված է
+      kk: Құжат жіберілді
+      ms: Dokumen dihantar
+      tg: Ҳуҷҷат фиристода шуд
+      uz: Hujjat yuborildi
+      zh: 文件已发送
+      vi: Đã gửi tài liệu
+      th: ส่งเอกสารแล้ว
     auth.signUp.empty:
       en: The server has not returned a registration step yet.
       ru: Сервер пока не вернул шаг регистрации.
       cs: Server zatím nevrátil krok registrace.
       fr: Le serveur n’a pas encore renvoyé d’étape d’inscription.
       az: Server hələ qeydiyyat addımı qaytarmayıb.
+      de: Der Server hat noch keinen Registrierungsschritt zurückgegeben.
+      es: El servidor aún no ha devuelto un paso de registro.
+      it: Il server non ha ancora restituito un passaggio di registrazione.
+      pt: O servidor ainda não retornou uma etapa de cadastro.
+      uk: Сервер ще не повернув крок реєстрації.
+      sk: Server ešte nevrátil krok registrácie.
+      sr: Сервер још није вратио корак регистрације.
+      hy: Սերվերը դեռ չի վերադարձրել գրանցման քայլը։
+      kk: Сервер тіркелу қадамын әлі қайтарған жоқ.
+      ms: Pelayan belum mengembalikan langkah pendaftaran.
+      tg: Сервер ҳанӯз қадами бақайдгириро барнагардондааст.
+      uz: Server hali ro‘yxatdan o‘tish bosqichini qaytarmadi.
+      zh: 服务器尚未返回注册步骤。
+      vi: Máy chủ chưa trả về bước đăng ký.
+      th: เซิร์ฟเวอร์ยังไม่ได้ส่งขั้นตอนการลงทะเบียนกลับมา
     auth.signUp.imageError:
       en: Photo accepted. Preview is unavailable.
       ru: Фото принято. Предпросмотр недоступен.
       cs: Fotografie byla přijata. Náhled není dostupný.
       fr: Photo acceptée. Aperçu indisponible.
       az: Foto qəbul edildi. Önizləmə əlçatan deyil.
+      de: Foto akzeptiert. Vorschau nicht verfügbar.
+      es: Foto aceptada. Vista previa no disponible.
+      it: Foto accettata. Anteprima non disponibile.
+      pt: Foto aceita. Prévia indisponível.
+      uk: Фото прийнято. Попередній перегляд недоступний.
+      sk: Fotografia prijatá. Náhľad nie je dostupný.
+      sr: Фотографија је прихваћена. Преглед није доступан.
+      hy: Լուսանկարն ընդունվել է։ Նախադիտումն անհասանելի է։
+      kk: Фото қабылданды. Алдын ала қарау қолжетімсіз.
+      ms: Foto diterima. Pratonton tidak tersedia.
+      tg: Акс қабул шуд. Пешнамоиш дастнорас аст.
+      uz: Rasm qabul qilindi. Oldindan ko‘rish mavjud emas.
+      zh: 照片已接受，无法预览。
+      vi: Ảnh đã được chấp nhận. Không thể xem trước.
+      th: รับภาพแล้ว ไม่สามารถแสดงตัวอย่างได้
     auth.signUp.imageLoading:
       en: Loading photo…
       ru: Загружаем фото…
       cs: Načítání fotografie…
       fr: Chargement de la photo…
       az: Foto yüklənir…
+      de: Foto wird geladen…
+      es: Cargando foto…
+      it: Caricamento della foto…
+      pt: Carregando foto…
+      uk: Завантаження фото…
+      sk: Načítava sa fotografia…
+      sr: Учитавање фотографије…
+      hy: Լուսանկարը բեռնվում է…
+      kk: Фото жүктелуде…
+      ms: Memuatkan foto…
+      tg: Акс бор мешавад…
+      uz: Rasm yuklanmoqda…
+      zh: 正在加载照片…
+      vi: Đang tải ảnh…
+      th: กำลังโหลดภาพ…
     auth.signUp.loadError:
       en: Could not load the conversation. Try again.
       ru: Не удалось загрузить диалог. Попробуйте ещё раз.
       cs: Konverzaci se nepodařilo načíst. Zkuste to znovu.
       fr: Impossible de charger la conversation. Réessayez.
       az: Söhbəti yükləmək mümkün olmadı. Yenidən cəhd edin.
+      de: Der Chat konnte nicht geladen werden. Versuchen Sie es erneut.
+      es: No se pudo cargar la conversación. Inténtalo de nuevo.
+      it: Impossibile caricare la conversazione. Riprova.
+      pt: Não foi possível carregar a conversa. Tente novamente.
+      uk: Не вдалося завантажити розмову. Спробуйте ще раз.
+      sk: Konverzáciu sa nepodarilo načítať. Skúste to znova.
+      sr: Није могуће учитати разговор. Покушајте поново.
+      hy: Չհաջողվեց բեռնել զրույցը։ Փորձեք կրկին։
+      kk: Сөйлесуді жүктеу мүмкін болмады. Қайталап көріңіз.
+      ms: Perbualan tidak dapat dimuatkan. Cuba lagi.
+      tg: Суҳбат бор нашуд. Аз нав кӯшиш кунед.
+      uz: Suhbatni yuklab bo‘lmadi. Qayta urinib ko‘ring.
+      zh: 无法加载对话，请重试。
+      vi: Không tải được cuộc trò chuyện. Hãy thử lại.
+      th: โหลดการสนทนาไม่สำเร็จ กรุณาลองอีกครั้ง
     auth.signUp.loading:
       en: Loading the conversation…
       ru: Загружаем диалог…
       cs: Načítání konverzace…
       fr: Chargement de la conversation…
       az: Söhbət yüklənir…
+      de: Chat wird geladen…
+      es: Cargando conversación…
+      it: Caricamento della conversazione…
+      pt: Carregando conversa…
+      uk: Завантаження розмови…
+      sk: Načítava sa konverzácia…
+      sr: Учитавање разговора…
+      hy: Զրույցը բեռնվում է…
+      kk: Сөйлесу жүктелуде…
+      ms: Memuatkan perbualan…
+      tg: Суҳбат бор мешавад…
+      uz: Suhbat yuklanmoqda…
+      zh: 正在加载对话…
+      vi: Đang tải cuộc trò chuyện…
+      th: กำลังโหลดการสนทนา…
     auth.signUp.previousStep:
       en: Previous registration step
       ru: Предыдущий шаг регистрации
       cs: Předchozí krok registrace
       fr: Étape précédente de l’inscription
       az: Əvvəlki qeydiyyat addımı
+      de: Vorheriger Registrierungsschritt
+      es: Paso anterior del registro
+      it: Passaggio precedente della registrazione
+      pt: Etapa anterior do cadastro
+      uk: Попередній крок реєстрації
+      sk: Predchádzajúci krok registrácie
+      sr: Претходни корак регистрације
+      hy: Գրանցման նախորդ քայլը
+      kk: Тіркелудің алдыңғы қадамы
+      ms: Langkah pendaftaran terdahulu
+      tg: Қадами қаблии бақайдгирӣ
+      uz: Ro‘yxatdan o‘tishning oldingi bosqichi
+      zh: 上一个注册步骤
+      vi: Bước đăng ký trước
+      th: ขั้นตอนการลงทะเบียนก่อนหน้า
     auth.signUp.redirectCheckError:
       en: Could not check registration status. Try opening the link again.
       ru: Не удалось проверить статус регистрации. Попробуйте перейти ещё раз.
       cs: Stav registrace se nepodařilo zkontrolovat. Zkuste odkaz otevřít znovu.
       fr: Impossible de vérifier l’état de l’inscription. Essayez de rouvrir le lien.
       az: Qeydiyyat statusunu yoxlamaq mümkün olmadı. Keçidi yenidən açın.
+      de: Der Registrierungsstatus konnte nicht geprüft werden. Öffnen Sie den Link erneut.
+      es: No se pudo comprobar el estado del registro. Intenta abrir el enlace de nuevo.
+      it: Impossibile controllare lo stato della registrazione. Prova ad aprire di nuovo il link.
+      pt: Não foi possível conferir o status do cadastro. Tente abrir o link novamente.
+      uk: Не вдалося перевірити стан реєстрації. Спробуйте знову відкрити посилання.
+      sk: Stav registrácie sa nepodarilo skontrolovať. Skúste odkaz otvoriť znova.
+      sr: Није могуће проверити статус регистрације. Покушајте поново да отворите везу.
+      hy: Չհաջողվեց ստուգել գրանցման կարգավիճակը։ Փորձեք կրկին բացել հղումը։
+      kk: Тіркелу күйін тексеру мүмкін болмады. Сілтемені қайта ашып көріңіз.
+      ms: Status pendaftaran tidak dapat disemak. Cuba buka pautan semula.
+      tg: Вазъи бақайдгирӣ санҷида нашуд. Пайвандро аз нав кушоед.
+      uz: Ro‘yxatdan o‘tish holatini tekshirib bo‘lmadi. Havolani qayta ochib ko‘ring.
+      zh: 无法检查注册状态，请尝试重新打开链接。
+      vi: Không kiểm tra được trạng thái đăng ký. Hãy thử mở lại liên kết.
+      th: ตรวจสอบสถานะการลงทะเบียนไม่สำเร็จ กรุณาลองเปิดลิงก์อีกครั้ง
     auth.signUp.redirectRegistrationRequired:
       en: Registration is not complete yet. Continue in this chat.
       ru: Регистрация ещё не завершена. Продолжите её в этом чате.
       cs: Registrace zatím není dokončena. Pokračujte v tomto chatu.
       fr: L’inscription n’est pas encore terminée. Continuez dans cette conversation.
       az: Qeydiyyat hələ tamamlanmayıb. Bu söhbətdə davam edin.
+      de: Die Registrierung ist noch nicht abgeschlossen. Fahren Sie in diesem Chat fort.
+      es: El registro aún no está completo. Continúa en este chat.
+      it: La registrazione non è ancora completa. Continua in questa chat.
+      pt: O cadastro ainda não foi concluído. Continue nesta conversa.
+      uk: Реєстрація ще не завершена. Продовжуйте в цьому чаті.
+      sk: Registrácia ešte nie je dokončená. Pokračujte v tomto chate.
+      sr: Регистрација још није завршена. Наставите у овом разговору.
+      hy: Գրանցումը դեռ ավարտված չէ։ Շարունակեք այս զրույցում։
+      kk: Тіркелу әлі аяқталған жоқ. Осы чатта жалғастырыңыз.
+      ms: Pendaftaran belum selesai. Teruskan dalam sembang ini.
+      tg: Бақайдгирӣ ҳанӯз анҷом наёфтааст. Дар ин суҳбат идома диҳед.
+      uz: Ro‘yxatdan o‘tish hali tugallanmagan. Shu suhbatda davom eting.
+      zh: 注册尚未完成，请在此对话中继续。
+      vi: Đăng ký chưa hoàn tất. Hãy tiếp tục trong cuộc trò chuyện này.
+      th: การลงทะเบียนยังไม่เสร็จสมบูรณ์ กรุณาดำเนินการต่อในแชตนี้
     auth.signUp.redirectUnavailable:
       en: This destination is not supported by the app yet.
       ru: Этот переход пока не поддерживается приложением.
       cs: Aplikace tento cíl zatím nepodporuje.
       fr: Cette destination n’est pas encore prise en charge par l’application.
       az: Tətbiq bu istiqaməti hələ dəstəkləmir.
+      de: Dieses Ziel wird von der App noch nicht unterstützt.
+      es: La aplicación aún no admite este destino.
+      it: Questa destinazione non è ancora supportata dall’app.
+      pt: Este destino ainda não é compatível com o aplicativo.
+      uk: Застосунок ще не підтримує цей напрямок переходу.
+      sk: Aplikácia tento cieľ ešte nepodporuje.
+      sr: Апликација још не подржава ово одредиште.
+      hy: Հավելվածը դեռ չի աջակցում այս ուղղությանը։
+      kk: Қолданба бұл өту бағытын әлі қолдамайды.
+      ms: Destinasi ini belum disokong oleh aplikasi.
+      tg: Барнома ҳанӯз ин самти гузаришро дастгирӣ намекунад.
+      uz: Ilova bu yo‘nalishni hali qo‘llab-quvvatlamaydi.
+      zh: 应用尚不支持此跳转目标。
+      vi: Ứng dụng chưa hỗ trợ đích đến này.
+      th: แอปยังไม่รองรับปลายทางนี้
     auth.signUp.reply:
       en: Your reply
       ru: Ваш ответ
       cs: Vaše odpověď
       fr: Votre réponse
       az: Cavabınız
+      de: Ihre Antwort
+      es: Tu respuesta
+      it: La tua risposta
+      pt: Sua resposta
+      uk: Ваша відповідь
+      sk: Vaša odpoveď
+      sr: Ваш одговор
+      hy: Ձեր պատասխանը
+      kk: Жауабыңыз
+      ms: Balasan anda
+      tg: Ҷавоби шумо
+      uz: Javobingiz
+      zh: 您的回复
+      vi: Phản hồi của bạn
+      th: คำตอบของคุณ
     auth.signUp.resendAnswer:
       en: Send again
       ru: Отправить повторно
       cs: Odeslat znovu
       fr: Renvoyer
       az: Yenidən göndər
+      de: Erneut senden
+      es: Volver a enviar
+      it: Invia di nuovo
+      pt: Enviar novamente
+      uk: Надіслати ще раз
+      sk: Odoslať znova
+      sr: Пошаљи поново
+      hy: Ուղարկել կրկին
+      kk: Қайта жіберу
+      ms: Hantar semula
+      tg: Аз нав фиристодан
+      uz: Qayta yuborish
+      zh: 重新发送
+      vi: Gửi lại
+      th: ส่งอีกครั้ง
     auth.signUp.retryAnswer:
       en: Send again?
       ru: Отправить повторно?
       cs: Odeslat znovu?
       fr: Renvoyer ?
       az: Yenidən göndərilsin?
+      de: Erneut senden?
+      es: ¿Volver a enviar?
+      it: Inviare di nuovo?
+      pt: Enviar novamente?
+      uk: Надіслати ще раз?
+      sk: Odoslať znova?
+      sr: Послати поново?
+      hy: Ուղարկե՞լ կրկին։
+      kk: Қайта жіберу керек пе?
+      ms: Hantar semula?
+      tg: Аз нав фиристода шавад?
+      uz: Qayta yuborilsinmi?
+      zh: 重新发送？
+      vi: Gửi lại?
+      th: ส่งอีกครั้งหรือไม่?
     auth.signUp.retryRollback:
       en: Retry returning
       ru: Повторить возврат
       cs: Zkusit návrat znovu
       fr: Réessayer le retour
       az: Geri qayıtmağa yenidən cəhd et
+      de: Rückkehr erneut versuchen
+      es: Reintentar volver
+      it: Riprova a tornare indietro
+      pt: Tentar voltar novamente
+      uk: Повторити повернення
+      sk: Znova skúsiť návrat
+      sr: Покушај поново да се вратиш
+      hy: Կրկին փորձել վերադառնալ
+      kk: Қайту әрекетін қайталау
+      ms: Cuba kembali semula
+      tg: Такрори бозгашт
+      uz: Qaytishni yana sinash
+      zh: 重试返回
+      vi: Thử quay lại
+      th: ลองย้อนกลับอีกครั้ง
     auth.signUp.retryRollbackTitle:
       en: Retry returning?
       ru: Повторить возврат?
       cs: Zkusit návrat znovu?
       fr: Réessayer le retour ?
       az: Geri qayıtmağa yenidən cəhd edilsin?
+      de: Rückkehr erneut versuchen?
+      es: ¿Reintentar volver?
+      it: Riprovare a tornare indietro?
+      pt: Tentar voltar novamente?
+      uk: Повторити повернення?
+      sk: Znova skúsiť návrat?
+      sr: Покушати поново са повратком?
+      hy: Կրկի՞ն փորձել վերադառնալ։
+      kk: Қайту әрекетін қайталау керек пе?
+      ms: Cuba kembali semula?
+      tg: Бозгашт такрор шавад?
+      uz: Qaytish yana sinalsinmi?
+      zh: 重试返回？
+      vi: Thử quay lại?
+      th: ลองย้อนกลับอีกครั้งหรือไม่?
     auth.signUp.retryWarning:
       en: The previous request may still be processing. Check the conversation first. Sending again may duplicate the reply.
       ru: Предыдущий запрос ещё может обрабатываться. Сначала проверьте диалог. При повторной отправке возможен дубликат.
       cs: Předchozí požadavek se možná stále zpracovává. Nejprve zkontrolujte konverzaci. Další odeslání může odpověď zdvojit.
       fr: La demande précédente est peut-être toujours en cours de traitement. Vérifiez d’abord la conversation. Un nouvel envoi peut créer un doublon.
       az: Əvvəlki sorğu hələ emal oluna bilər. Əvvəlcə söhbəti yoxlayın. Yenidən göndərmək cavabın təkrarlanmasına səbəb ola bilər.
+      de: Die vorherige Anfrage wird möglicherweise noch bearbeitet. Prüfen Sie zuerst den Chat. Erneutes Senden kann die Antwort duplizieren.
+      es: Es posible que la solicitud anterior siga procesándose. Revisa primero la conversación. Volver a enviar puede duplicar la respuesta.
+      it: La richiesta precedente potrebbe essere ancora in elaborazione. Controlla prima la conversazione. Un nuovo invio potrebbe duplicare la risposta.
+      pt: A solicitação anterior pode ainda estar sendo processada. Confira a conversa primeiro. Enviar novamente pode duplicar a resposta.
+      uk: Попередній запит може досі оброблятися. Спочатку перевірте розмову. Повторне надсилання може дублювати відповідь.
+      sk: Predchádzajúca požiadavka sa možno stále spracúva. Najprv skontrolujte konverzáciu. Opätovné odoslanie môže odpoveď zdvojiť.
+      sr: Претходни захтев се можда још обрађује. Прво проверите разговор. Поновно слање може удвостручити одговор.
+      hy: Նախորդ հարցումը կարող է դեռ մշակվել։ Նախ ստուգեք զրույցը։ Կրկին ուղարկելը կարող է կրկնօրինակել պատասխանը։
+      kk: Алдыңғы сұрау әлі өңделіп жатуы мүмкін. Алдымен сөйлесуді тексеріңіз. Қайта жіберу жауапты қайталауы мүмкін.
+      ms: Permintaan terdahulu mungkin masih diproses. Semak perbualan dahulu. Penghantaran semula mungkin menduplikasi balasan.
+      tg: Дархости қаблӣ шояд ҳанӯз коркард мешавад. Аввал суҳбатро санҷед. Фиристодани такрорӣ метавонад ҷавобро дубора сабт кунад.
+      uz: Oldingi so‘rov hali qayta ishlanayotgan bo‘lishi mumkin. Avval suhbatni tekshiring. Qayta yuborish javobning takrorlanishiga olib kelishi mumkin.
+      zh: 之前的请求可能仍在处理中。请先检查对话，重新发送可能导致重复回复。
+      vi: Yêu cầu trước có thể vẫn đang được xử lý. Hãy kiểm tra cuộc trò chuyện trước. Gửi lại có thể tạo phản hồi trùng lặp.
+      th: คำขอก่อนหน้าอาจยังอยู่ระหว่างประมวลผล กรุณาตรวจสอบการสนทนาก่อน การส่งอีกครั้งอาจทำให้คำตอบซ้ำ
     auth.signUp.rollbackUnconfirmed:
       en: Could not confirm returning to the previous step. Check the conversation.
       ru: Не удалось подтвердить возврат на предыдущий шаг. Проверьте диалог.
       cs: Návrat k předchozímu kroku se nepodařilo potvrdit. Zkontrolujte konverzaci.
       fr: Impossible de confirmer le retour à l’étape précédente. Vérifiez la conversation.
       az: Əvvəlki addıma qayıdışı təsdiqləmək mümkün olmadı. Söhbəti yoxlayın.
+      de: Die Rückkehr zum vorherigen Schritt konnte nicht bestätigt werden. Prüfen Sie den Chat.
+      es: No se pudo confirmar la vuelta al paso anterior. Revisa la conversación.
+      it: Impossibile confermare il ritorno al passaggio precedente. Controlla la conversazione.
+      pt: Não foi possível confirmar o retorno à etapa anterior. Confira a conversa.
+      uk: Не вдалося підтвердити повернення до попереднього кроку. Перевірте розмову.
+      sk: Návrat k predchádzajúcemu kroku sa nepodarilo potvrdiť. Skontrolujte konverzáciu.
+      sr: Није могуће потврдити повратак на претходни корак. Проверите разговор.
+      hy: Չհաջողվեց հաստատել վերադարձը նախորդ քայլին։ Ստուգեք զրույցը։
+      kk: Алдыңғы қадамға қайтуды растау мүмкін болмады. Сөйлесуді тексеріңіз.
+      ms: Kembali ke langkah terdahulu tidak dapat disahkan. Semak perbualan.
+      tg: Бозгашт ба қадами қаблӣ тасдиқ нашуд. Суҳбатро санҷед.
+      uz: Oldingi bosqichga qaytishni tasdiqlab bo‘lmadi. Suhbatni tekshiring.
+      zh: 无法确认是否已返回上一步，请检查对话。
+      vi: Không xác nhận được việc quay lại bước trước. Hãy kiểm tra cuộc trò chuyện.
+      th: ยืนยันการกลับไปขั้นตอนก่อนหน้าไม่สำเร็จ กรุณาตรวจสอบการสนทนา
     auth.signUp.screenTitle:
       en: Registration
       ru: Регистрация
       cs: Registrace
       fr: Inscription
       az: Qeydiyyat
+      de: Registrierung
+      es: Registro
+      it: Registrazione
+      pt: Cadastro
+      uk: Реєстрація
+      sk: Registrácia
+      sr: Регистрација
+      hy: Գրանցում
+      kk: Тіркелу
+      ms: Pendaftaran
+      tg: Бақайдгирӣ
+      uz: Ro‘yxatdan o‘tish
+      zh: 注册
+      vi: Đăng ký
+      th: ลงทะเบียน
     calendar.chooseDate:
       en: Choose a date
       ru: Выберите дату
       cs: Vyberte datum
       fr: Choisir une date
       az: Tarix seçin
+      de: Datum wählen
+      es: Elegir fecha
+      it: Scegli una data
+      pt: Escolher uma data
+      uk: Оберіть дату
+      sk: Vyberte dátum
+      sr: Изаберите датум
+      hy: Ընտրեք ամսաթիվը
+      kk: Күнді таңдаңыз
+      ms: Pilih tarikh
+      tg: Санаро интихоб кунед
+      uz: Sanani tanlang
+      zh: 选择日期
+      vi: Chọn ngày
+      th: เลือกวันที่
     calendar.empty:
       en: No date selected
       ru: Дата не выбрана
       cs: Datum není vybráno
       fr: Aucune date sélectionnée
       az: Tarix seçilməyib
+      de: Kein Datum ausgewählt
+      es: No hay fecha seleccionada
+      it: Nessuna data selezionata
+      pt: Nenhuma data selecionada
+      uk: Дату не обрано
+      sk: Dátum nie je vybraný
+      sr: Датум није изабран
+      hy: Ամսաթիվ ընտրված չէ
+      kk: Күн таңдалмаған
+      ms: Tiada tarikh dipilih
+      tg: Сана интихоб нашудааст
+      uz: Sana tanlanmagan
+      zh: 尚未选择日期
+      vi: Chưa chọn ngày
+      th: ยังไม่ได้เลือกวันที่
     calendar.month:
       en: Choose month
       ru: Выбрать месяц
       cs: Vybrat měsíc
       fr: Choisir le mois
       az: Ay seçin
+      de: Monat wählen
+      es: Elegir mes
+      it: Scegli mese
+      pt: Escolher mês
+      uk: Обрати місяць
+      sk: Vybrať mesiac
+      sr: Изабери месец
+      hy: Ընտրել ամիսը
+      kk: Айды таңдау
+      ms: Pilih bulan
+      tg: Интихоби моҳ
+      uz: Oyni tanlash
+      zh: 选择月份
+      vi: Chọn tháng
+      th: เลือกเดือน
     calendar.next:
       en: Next period
       ru: Следующий период
       cs: Další období
       fr: Période suivante
       az: Növbəti dövr
+      de: Nächster Zeitraum
+      es: Periodo siguiente
+      it: Periodo successivo
+      pt: Próximo período
+      uk: Наступний період
+      sk: Nasledujúce obdobie
+      sr: Следећи период
+      hy: Հաջորդ ժամանակահատվածը
+      kk: Келесі кезең
+      ms: Tempoh seterusnya
+      tg: Давраи оянда
+      uz: Keyingi davr
+      zh: 下一时段
+      vi: Khoảng thời gian tiếp theo
+      th: ช่วงเวลาถัดไป
     calendar.previous:
       en: Previous period
       ru: Предыдущий период
       cs: Předchozí období
       fr: Période précédente
       az: Əvvəlki dövr
+      de: Vorheriger Zeitraum
+      es: Periodo anterior
+      it: Periodo precedente
+      pt: Período anterior
+      uk: Попередній період
+      sk: Predchádzajúce obdobie
+      sr: Претходни период
+      hy: Նախորդ ժամանակահատվածը
+      kk: Алдыңғы кезең
+      ms: Tempoh terdahulu
+      tg: Давраи қаблӣ
+      uz: Oldingi davr
+      zh: 上一时段
+      vi: Khoảng thời gian trước
+      th: ช่วงเวลาก่อนหน้า
     calendar.year:
       en: Choose year
       ru: Выбрать год
       cs: Vybrat rok
       fr: Choisir l’année
       az: İl seçin
+      de: Jahr wählen
+      es: Elegir año
+      it: Scegli anno
+      pt: Escolher ano
+      uk: Обрати рік
+      sk: Vybrať rok
+      sr: Изабери годину
+      hy: Ընտրել տարին
+      kk: Жылды таңдау
+      ms: Pilih tahun
+      tg: Интихоби сол
+      uz: Yilni tanlash
+      zh: 选择年份
+      vi: Chọn năm
+      th: เลือกปี
     camera.accessError:
       en: Camera is unavailable. Check permissions and retry.
       ru: Камера недоступна. Проверьте разрешение и повторите попытку.
       cs: Fotoaparát není dostupný. Zkontrolujte oprávnění a zkuste to znovu.
       fr: L’appareil photo est indisponible. Vérifiez les autorisations et réessayez.
       az: Kamera əlçatan deyil. İcazələri yoxlayıb yenidən cəhd edin.
+      de: Die Kamera ist nicht verfügbar. Prüfen Sie die Berechtigungen und versuchen Sie es erneut.
+      es: La cámara no está disponible. Comprueba los permisos e inténtalo de nuevo.
+      it: La fotocamera non è disponibile. Controlla le autorizzazioni e riprova.
+      pt: A câmera está indisponível. Confira as permissões e tente novamente.
+      uk: Камера недоступна. Перевірте дозволи та спробуйте ще раз.
+      sk: Fotoaparát nie je dostupný. Skontrolujte povolenia a skúste to znova.
+      sr: Камера није доступна. Проверите дозволе и покушајте поново.
+      hy: Տեսախցիկն անհասանելի է։ Ստուգեք թույլտվությունները և փորձեք կրկին։
+      kk: Камера қолжетімсіз. Рұқсаттарды тексеріп, қайталап көріңіз.
+      ms: Kamera tidak tersedia. Semak kebenaran dan cuba lagi.
+      tg: Камера дастнорас аст. Иҷозатҳоро санҷида, аз нав кӯшиш кунед.
+      uz: Kamera mavjud emas. Ruxsatlarni tekshirib, qayta urinib ko‘ring.
+      zh: 相机不可用，请检查权限后重试。
+      vi: Máy ảnh không khả dụng. Hãy kiểm tra quyền truy cập và thử lại.
+      th: กล้องไม่พร้อมใช้งาน กรุณาตรวจสอบสิทธิ์และลองอีกครั้ง
     camera.capture:
       en: Take photo
       ru: Сфотографировать
       cs: Vyfotit
       fr: Prendre une photo
       az: Foto çək
+      de: Foto aufnehmen
+      es: Hacer foto
+      it: Scatta foto
+      pt: Tirar foto
+      uk: Зробити фото
+      sk: Odfotiť
+      sr: Сними фотографију
+      hy: Լուսանկարել
+      kk: Фото түсіру
+      ms: Ambil foto
+      tg: Акс гирифтан
+      uz: Rasmga olish
+      zh: 拍照
+      vi: Chụp ảnh
+      th: ถ่ายภาพ
     camera.captureError:
       en: Could not take the photo. Try again.
       ru: Не удалось сделать снимок. Попробуйте ещё раз.
       cs: Fotografii se nepodařilo pořídit. Zkuste to znovu.
       fr: Impossible de prendre la photo. Réessayez.
       az: Foto çəkmək mümkün olmadı. Yenidən cəhd edin.
+      de: Das Foto konnte nicht aufgenommen werden. Versuchen Sie es erneut.
+      es: No se pudo hacer la foto. Inténtalo de nuevo.
+      it: Impossibile scattare la foto. Riprova.
+      pt: Não foi possível tirar a foto. Tente novamente.
+      uk: Не вдалося зробити фото. Спробуйте ще раз.
+      sk: Fotografiu sa nepodarilo nasnímať. Skúste to znova.
+      sr: Није могуће снимити фотографију. Покушајте поново.
+      hy: Չհաջողվեց լուսանկարել։ Փորձեք կրկին։
+      kk: Фото түсіру мүмкін болмады. Қайталап көріңіз.
+      ms: Foto tidak dapat diambil. Cuba lagi.
+      tg: Акс гирифта нашуд. Аз нав кӯшиш кунед.
+      uz: Rasmga olib bo‘lmadi. Qayta urinib ko‘ring.
+      zh: 无法拍照，请重试。
+      vi: Không chụp được ảnh. Hãy thử lại.
+      th: ถ่ายภาพไม่สำเร็จ กรุณาลองอีกครั้ง
     camera.delete:
       en: Delete photo
       ru: Удалить снимок
       cs: Smazat fotografii
       fr: Supprimer la photo
       az: Fotonu sil
+      de: Foto löschen
+      es: Eliminar foto
+      it: Elimina foto
+      pt: Excluir foto
+      uk: Видалити фото
+      sk: Odstrániť fotografiu
+      sr: Обриши фотографију
+      hy: Ջնջել լուսանկարը
+      kk: Фотосуретті жою
+      ms: Padam foto
+      tg: Нест кардани акс
+      uz: Rasmni o‘chirish
+      zh: 删除照片
+      vi: Xóa ảnh
+      th: ลบภาพ
     camera.deviceUnavailable:
       en: Camera is unavailable. Check that it is connected and not in use.
       ru: Камера недоступна. Проверьте подключение и не используется ли она другим приложением.
       cs: Fotoaparát není dostupný. Zkontrolujte připojení a zda ho nepoužívá jiná aplikace.
       fr: L’appareil photo est indisponible. Vérifiez qu’il est connecté et qu’il n’est pas utilisé ailleurs.
       az: Kamera əlçatan deyil. Onun qoşulduğunu və başqa yerdə istifadə edilmədiyini yoxlayın.
+      de: Die Kamera ist nicht verfügbar. Prüfen Sie, ob sie angeschlossen ist und nicht anderweitig verwendet wird.
+      es: La cámara no está disponible. Comprueba que esté conectada y que no se esté usando.
+      it: La fotocamera non è disponibile. Controlla che sia collegata e non sia in uso.
+      pt: A câmera está indisponível. Confira se está conectada e não está em uso.
+      uk: Камера недоступна. Перевірте, чи підключена вона та чи не використовується іншою програмою.
+      sk: Fotoaparát nie je dostupný. Skontrolujte pripojenie a či ho nepoužíva iná aplikácia.
+      sr: Камера није доступна. Проверите да ли је повезана и да ли је користи друга апликација.
+      hy: Տեսախցիկն անհասանելի է։ Ստուգեք, որ այն միացված է և այլ տեղ չի օգտագործվում։
+      kk: Камера қолжетімсіз. Оның қосылғанын және басқа жерде қолданылмай тұрғанын тексеріңіз.
+      ms: Kamera tidak tersedia. Pastikan kamera disambungkan dan tidak sedang digunakan.
+      tg: Камера дастнорас аст. Санҷед, ки он пайваст аст ва дар ҷои дигар истифода намешавад.
+      uz: Kamera mavjud emas. U ulanganini va boshqa joyda ishlatilmayotganini tekshiring.
+      zh: 相机不可用，请确认相机已连接且未被其他应用占用。
+      vi: Máy ảnh không khả dụng. Hãy kiểm tra kết nối và bảo đảm máy ảnh không được sử dụng ở nơi khác.
+      th: กล้องไม่พร้อมใช้งาน กรุณาตรวจสอบว่ากล้องเชื่อมต่ออยู่และไม่ได้ถูกใช้งานที่อื่น
     camera.document:
       en: Document photo
       ru: Фото документа
       cs: Fotografie dokumentu
       fr: Photo du document
       az: Sənədin fotosu
+      de: Dokumentfoto
+      es: Foto del documento
+      it: Foto del documento
+      pt: Foto do documento
+      uk: Фото документа
+      sk: Fotografia dokumentu
+      sr: Фотографија документа
+      hy: Փաստաթղթի լուսանկար
+      kk: Құжат фотосы
+      ms: Foto dokumen
+      tg: Акси ҳуҷҷат
+      uz: Hujjat rasmi
+      zh: 证件照片
+      vi: Ảnh giấy tờ
+      th: ภาพเอกสาร
     camera.interrupted:
       en: Camera disconnected. Try again.
       ru: Камера отключилась. Попробуйте ещё раз.
       cs: Fotoaparát byl odpojen. Zkuste to znovu.
       fr: L’appareil photo a été déconnecté. Réessayez.
       az: Kamera bağlantısı kəsildi. Yenidən cəhd edin.
+      de: Die Kameraverbindung wurde getrennt. Versuchen Sie es erneut.
+      es: La cámara se ha desconectado. Inténtalo de nuevo.
+      it: La fotocamera è stata scollegata. Riprova.
+      pt: A câmera foi desconectada. Tente novamente.
+      uk: Камеру відключено. Спробуйте ще раз.
+      sk: Fotoaparát bol odpojený. Skúste to znova.
+      sr: Камера је искључена. Покушајте поново.
+      hy: Տեսախցիկն անջատվել է։ Փորձեք կրկին։
+      kk: Камера ажыратылды. Қайталап көріңіз.
+      ms: Kamera terputus sambungan. Cuba lagi.
+      tg: Камера қатъ шуд. Аз нав кӯшиш кунед.
+      uz: Kamera uzildi. Qayta urinib ko‘ring.
+      zh: 相机已断开连接，请重试。
+      vi: Máy ảnh đã ngắt kết nối. Hãy thử lại.
+      th: การเชื่อมต่อกล้องขาดหาย กรุณาลองอีกครั้ง
     camera.permission:
       en: Allow camera access in your browser settings, then retry.
       ru: Разрешите доступ к камере в настройках браузера и повторите попытку.
       cs: Povolte přístup k fotoaparátu v nastavení prohlížeče a zkuste to znovu.
       fr: Autorisez l’accès à l’appareil photo dans les paramètres du navigateur, puis réessayez.
       az: Brauzer parametrlərində kameraya girişə icazə verin və yenidən cəhd edin.
+      de: Erlauben Sie den Kamerazugriff in den Browsereinstellungen und versuchen Sie es erneut.
+      es: Permite el acceso a la cámara en la configuración del navegador y vuelve a intentarlo.
+      it: Consenti l’accesso alla fotocamera nelle impostazioni del browser, poi riprova.
+      pt: Permita o acesso à câmera nas configurações do navegador e tente novamente.
+      uk: Дозвольте доступ до камери в налаштуваннях браузера та спробуйте ще раз.
+      sk: Povoľte prístup k fotoaparátu v nastaveniach prehliadača a skúste to znova.
+      sr: Дозволите приступ камери у подешавањима прегледача, па покушајте поново.
+      hy: Թույլատրեք տեսախցիկի հասանելիությունը դիտարկիչի կարգավորումներում, ապա փորձեք կրկին։
+      kk: Браузер баптауларында камераға кіруге рұқсат беріп, қайталап көріңіз.
+      ms: Benarkan akses kamera dalam tetapan pelayar, kemudian cuba lagi.
+      tg: Дар танзимоти браузер дастрасӣ ба камераро иҷозат диҳед ва аз нав кӯшиш кунед.
+      uz: Brauzer sozlamalarida kameraga kirishga ruxsat bering va qayta urinib ko‘ring.
+      zh: 请在浏览器设置中允许访问相机，然后重试。
+      vi: Cho phép truy cập máy ảnh trong cài đặt trình duyệt, rồi thử lại.
+      th: อนุญาตให้เข้าถึงกล้องในการตั้งค่าเบราว์เซอร์ แล้วลองอีกครั้ง
     camera.permissionDescription:
       en: Camera access is needed to take the photos requested in the app.
       ru: Доступ к камере нужен для съёмки фотографий, запрашиваемых в приложении.
       cs: Přístup k fotoaparátu je potřeba k pořízení fotografií požadovaných v aplikaci.
       fr: L’accès à l’appareil photo est nécessaire pour prendre les photos demandées dans l’application.
       az: Tətbiqdə tələb olunan fotoları çəkmək üçün kameraya giriş lazımdır.
+      de: Der Kamerazugriff ist erforderlich, um die in der App angeforderten Fotos aufzunehmen.
+      es: Se necesita acceso a la cámara para hacer las fotos solicitadas en la aplicación.
+      it: L’accesso alla fotocamera è necessario per scattare le foto richieste nell’app.
+      pt: O acesso à câmera é necessário para tirar as fotos solicitadas no aplicativo.
+      uk: Доступ до камери потрібен для знімків, які запитує застосунок.
+      sk: Prístup k fotoaparátu je potrebný na nasnímanie fotografií požadovaných v aplikácii.
+      sr: Приступ камери је потребан за снимање фотографија које апликација тражи.
+      hy: Տեսախցիկի հասանելիությունն անհրաժեշտ է հավելվածում պահանջվող լուսանկարներն անելու համար։
+      kk: Қолданбада сұралған фотоларды түсіру үшін камераға кіру қажет.
+      ms: Akses kamera diperlukan untuk mengambil foto yang diminta dalam aplikasi.
+      tg: Барои гирифтани аксҳои дар барнома дархостшуда дастрасӣ ба камера лозим аст.
+      uz: Ilovada so‘ralgan rasmlarni olish uchun kameraga kirish kerak.
+      zh: 需要访问相机才能拍摄应用中要求的照片。
+      vi: Cần quyền truy cập máy ảnh để chụp những ảnh được yêu cầu trong ứng dụng.
+      th: ต้องใช้สิทธิ์เข้าถึงกล้องเพื่อถ่ายภาพที่แอปขอ
     camera.preview:
       en: Photo preview
       ru: Предпросмотр снимка
       cs: Náhled fotografie
       fr: Aperçu de la photo
       az: Fotonun önizləməsi
+      de: Fotovorschau
+      es: Vista previa de la foto
+      it: Anteprima foto
+      pt: Prévia da foto
+      uk: Попередній перегляд фото
+      sk: Náhľad fotografie
+      sr: Преглед фотографије
+      hy: Լուսանկարի նախադիտում
+      kk: Фотосуретті алдын ала қарау
+      ms: Pratonton foto
+      tg: Пешнамоиши акс
+      uz: Rasmni oldindan ko‘rish
+      zh: 照片预览
+      vi: Xem trước ảnh
+      th: ภาพตัวอย่าง
     camera.resume:
       en: Continue taking photos
       ru: Продолжить съёмку
       cs: Pokračovat ve fotografování
       fr: Continuer à prendre des photos
       az: Foto çəkməyə davam et
+      de: Weitere Fotos aufnehmen
+      es: Seguir haciendo fotos
+      it: Continua a scattare foto
+      pt: Continuar tirando fotos
+      uk: Продовжити знімання
+      sk: Pokračovať vo fotografovaní
+      sr: Настави фотографисање
+      hy: Շարունակել լուսանկարել
+      kk: Фото түсіруді жалғастыру
+      ms: Teruskan mengambil foto
+      tg: Идомаи аксгирӣ
+      uz: Rasmga olishni davom ettirish
+      zh: 继续拍照
+      vi: Tiếp tục chụp ảnh
+      th: ถ่ายภาพต่อ
     camera.retake:
       en: Retake
       ru: Переснять
       cs: Vyfotit znovu
       fr: Reprendre
       az: Yenidən çək
+      de: Neu aufnehmen
+      es: Repetir foto
+      it: Scatta di nuovo
+      pt: Tirar novamente
+      uk: Перезняти
+      sk: Odfotiť znova
+      sr: Сними поново
+      hy: Կրկին լուսանկարել
+      kk: Қайта түсіру
+      ms: Ambil semula
+      tg: Аз нав гирифтан
+      uz: Qayta olish
+      zh: 重拍
+      vi: Chụp lại
+      th: ถ่ายใหม่
     camera.switch:
       en: Switch camera
       ru: Переключить камеру
       cs: Přepnout fotoaparát
       fr: Changer d’appareil photo
       az: Kameranı dəyiş
+      de: Kamera wechseln
+      es: Cambiar cámara
+      it: Cambia fotocamera
+      pt: Trocar câmera
+      uk: Перемкнути камеру
+      sk: Prepnúť fotoaparát
+      sr: Промени камеру
+      hy: Փոխել տեսախցիկը
+      kk: Камераны ауыстыру
+      ms: Tukar kamera
+      tg: Иваз кардани камера
+      uz: Kamerani almashtirish
+      zh: 切换相机
+      vi: Chuyển máy ảnh
+      th: สลับกล้อง
     camera.torch:
       en: Light
       ru: Свет
       cs: Světlo
       fr: Éclairage
       az: İşıq
+      de: Licht
+      es: Luz
+      it: Luce
+      pt: Luz
+      uk: Світло
+      sk: Svetlo
+      sr: Светло
+      hy: Լույս
+      kk: Жарық
+      ms: Lampu
+      tg: Рӯшноӣ
+      uz: Chiroq
+      zh: 照明
+      vi: Đèn
+      th: ไฟ
     camera.unavailable:
       en: Camera is unavailable. Check camera access and try again.
       ru: Камера недоступна. Проверьте доступ к камере и повторите попытку.
       cs: Fotoaparát není dostupný. Zkontrolujte přístup k fotoaparátu a zkuste to znovu.
       fr: L’appareil photo est indisponible. Vérifiez son accès et réessayez.
       az: Kamera əlçatan deyil. Kameraya girişi yoxlayıb yenidən cəhd edin.
+      de: Die Kamera ist nicht verfügbar. Prüfen Sie den Kamerazugriff und versuchen Sie es erneut.
+      es: La cámara no está disponible. Comprueba el acceso a la cámara e inténtalo de nuevo.
+      it: La fotocamera non è disponibile. Controlla l’accesso alla fotocamera e riprova.
+      pt: A câmera está indisponível. Confira o acesso à câmera e tente novamente.
+      uk: Камера недоступна. Перевірте доступ до камери та спробуйте ще раз.
+      sk: Fotoaparát nie je dostupný. Skontrolujte prístup k fotoaparátu a skúste to znova.
+      sr: Камера није доступна. Проверите приступ камери и покушајте поново.
+      hy: Տեսախցիկն անհասանելի է։ Ստուգեք տեսախցիկի հասանելիությունը և փորձեք կրկին։
+      kk: Камера қолжетімсіз. Камераға кіруді тексеріп, қайталап көріңіз.
+      ms: Kamera tidak tersedia. Semak akses kamera dan cuba lagi.
+      tg: Камера дастнорас аст. Дастрасӣ ба камераро санҷида, аз нав кӯшиш кунед.
+      uz: Kamera mavjud emas. Kameraga kirishni tekshirib, qayta urinib ko‘ring.
+      zh: 相机不可用，请检查相机访问权限后重试。
+      vi: Máy ảnh không khả dụng. Hãy kiểm tra quyền truy cập máy ảnh và thử lại.
+      th: กล้องไม่พร้อมใช้งาน กรุณาตรวจสอบการเข้าถึงกล้องและลองอีกครั้ง
     camera.use:
       en: Use photo
       ru: Использовать
       cs: Použít fotografii
       fr: Utiliser la photo
       az: Fotodan istifadə et
+      de: Foto verwenden
+      es: Usar foto
+      it: Usa foto
+      pt: Usar foto
+      uk: Використати фото
+      sk: Použiť fotografiu
+      sr: Користи фотографију
+      hy: Օգտագործել լուսանկարը
+      kk: Фотосуретті пайдалану
+      ms: Gunakan foto
+      tg: Истифодаи акс
+      uz: Rasmdan foydalanish
+      zh: 使用照片
+      vi: Dùng ảnh
+      th: ใช้ภาพนี้
     cars.card.book:
       en: Book
       ru: Забронировать
       cs: Rezervovat
       fr: Réserver
       az: Rezerv et
+      de: Reservieren
+      es: Reservar
+      it: Prenota
+      pt: Reservar
+      uk: Забронювати
+      sk: Rezervovať
+      sr: Резервиши
+      hy: Ամրագրել
+      kk: Брондау
+      ms: Tempah
+      tg: Банд кардан
+      uz: Band qilish
+      zh: 预订
+      vi: Đặt xe
+      th: จอง
     cars.card.guestMessage:
       en: Log in to view car details.
       ru: Войдите, чтобы посмотреть информацию об автомобиле.
       cs: Pro zobrazení podrobností o autě se přihlaste.
       fr: Connectez-vous pour voir les détails du véhicule.
       az: Avtomobilin məlumatlarına baxmaq üçün daxil olun.
+      de: Melden Sie sich an, um Fahrzeugdetails zu sehen.
+      es: Inicia sesión para ver los detalles del coche.
+      it: Accedi per visualizzare i dettagli dell’auto.
+      pt: Entre para ver os detalhes do carro.
+      uk: Увійдіть, щоб переглянути інформацію про автомобіль.
+      sk: Prihláste sa na zobrazenie podrobností o aute.
+      sr: Пријавите се да видите детаље возила.
+      hy: Մեքենայի տվյալները տեսնելու համար մուտք գործեք։
+      kk: Көлік туралы мәліметтерді көру үшін жүйеге кіріңіз.
+      ms: Log masuk untuk melihat butiran kereta.
+      tg: Барои дидани маълумоти мошин ворид шавед.
+      uz: Avtomobil ma’lumotlarini ko‘rish uchun tizimga kiring.
+      zh: 请登录以查看车辆详情。
+      vi: Đăng nhập để xem thông tin xe.
+      th: เข้าสู่ระบบเพื่อดูรายละเอียดรถ
     cars.card.options:
       en: Options
       ru: Опции
       cs: Výbava
       fr: Équipements
       az: Təchizat
+      de: Ausstattung
+      es: Equipamiento
+      it: Dotazioni
+      pt: Equipamentos
+      uk: Опції
+      sk: Výbava
+      sr: Опрема
+      hy: Սարքավորումներ
+      kk: Жабдықтар
+      ms: Kelengkapan
+      tg: Таҷҳизот
+      uz: Jihozlar
+      zh: 配置
+      vi: Trang bị
+      th: อุปกรณ์
     cars.card.unavailable:
       en: This car is no longer available.
       ru: Этот автомобиль больше недоступен.
       cs: Toto auto již není dostupné.
       fr: Ce véhicule n’est plus disponible.
       az: Bu avtomobil artıq əlçatan deyil.
+      de: Dieses Auto ist nicht mehr verfügbar.
+      es: Este coche ya no está disponible.
+      it: Quest’auto non è più disponibile.
+      pt: Este carro não está mais disponível.
+      uk: Цей автомобіль більше недоступний.
+      sk: Toto auto už nie je dostupné.
+      sr: Ово возило више није доступно.
+      hy: Այս մեքենան այլևս հասանելի չէ։
+      kk: Бұл көлік енді қолжетімді емес.
+      ms: Kereta ini tidak lagi tersedia.
+      tg: Ин мошин дигар дастрас нест.
+      uz: Bu avtomobil endi mavjud emas.
+      zh: 此车辆已不可用。
+      vi: Xe này không còn khả dụng.
+      th: รถคันนี้ไม่พร้อมใช้งานแล้ว
     cars.energy.charge:
       en: Charge
       ru: Заряд
       cs: Nabití
       fr: Charge
       az: Şarj
+      de: Ladestand
+      es: Carga
+      it: Carica
+      pt: Carga
+      uk: Заряд
+      sk: Nabitie
+      sr: Напуњеност
+      hy: Լիցք
+      kk: Қуат деңгейі
+      ms: Cas
+      tg: Барқ
+      uz: Quvvat
+      zh: 电量
+      vi: Mức pin
+      th: ระดับแบตเตอรี่
     cars.energy.fuel:
       en: Fuel
       ru: Топливо
       cs: Palivo
       fr: Carburant
       az: Yanacaq
+      de: Kraftstoff
+      es: Combustible
+      it: Carburante
+      pt: Combustível
+      uk: Пальне
+      sk: Palivo
+      sr: Гориво
+      hy: Վառելիք
+      kk: Жанармай
+      ms: Bahan api
+      tg: Сӯзишворӣ
+      uz: Yoqilg‘i
+      zh: 油量
+      vi: Nhiên liệu
+      th: เชื้อเพลิง
     cars.energy.range:
       en: Range
       ru: Запас хода
       cs: Dojezd
       fr: Autonomie
       az: Gediş ehtiyatı
+      de: Reichweite
+      es: Autonomía
+      it: Autonomia
+      pt: Autonomia
+      uk: Запас ходу
+      sk: Dojazd
+      sr: Домет
+      hy: Ընթացքի պաշար
+      kk: Жүріс қоры
+      ms: Jarak perjalanan berbaki
+      tg: Захираи ҳаракат
+      uz: Yurish zaxirasi
+      zh: 续航里程
+      vi: Quãng đường còn lại
+      th: ระยะทางคงเหลือ
     cars.gallery.photo:
       en: Photo
       ru: Фото
       cs: Fotografie
       fr: Photo
       az: Foto
+      de: Foto
+      es: Foto
+      it: Foto
+      pt: Foto
+      uk: Фото
+      sk: Fotografia
+      sr: Фотографија
+      hy: Լուսանկար
+      kk: Фото
+      ms: Foto
+      tg: Акс
+      uz: Rasm
+      zh: 照片
+      vi: Ảnh
+      th: ภาพ
     cars.gallery.title:
       en: Gallery
       ru: Галерея
       cs: Galerie
       fr: Galerie
       az: Qalereya
+      de: Galerie
+      es: Galería
+      it: Galleria
+      pt: Galeria
+      uk: Галерея
+      sk: Galéria
+      sr: Галерија
+      hy: Պատկերասրահ
+      kk: Галерея
+      ms: Galeri
+      tg: Галерея
+      uz: Galereya
+      zh: 相册
+      vi: Bộ sưu tập
+      th: แกลเลอรี
     cars.rates.all:
       en: All tariffs
       ru: Все тарифы
       cs: Všechny tarify
       fr: Tous les tarifs
       az: Bütün tariflər
+      de: Alle Tarife
+      es: Todas las tarifas
+      it: Tutte le tariffe
+      pt: Todas as tarifas
+      uk: Усі тарифи
+      sk: Všetky tarify
+      sr: Све тарифе
+      hy: Բոլոր սակագները
+      kk: Барлық тарифтер
+      ms: Semua tarif
+      tg: Ҳамаи тарофаҳо
+      uz: Barcha tariflar
+      zh: 所有资费
+      vi: Tất cả mức giá
+      th: อัตราค่าบริการทั้งหมด
     cars.rates.excessMileage:
       en: excess mileage
       ru: перепробег
       cs: kilometry navíc
       fr: kilométrage supplémentaire
       az: əlavə yürüş
+      de: Mehrkilometer
+      es: kilometraje adicional
+      it: chilometraggio extra
+      pt: quilometragem excedente
+      uk: понадлімітний пробіг
+      sk: kilometre navyše
+      sr: додатна километража
+      hy: հավելյալ վազք
+      kk: артық жүріс
+      ms: jarak perjalanan berlebihan
+      tg: масофаи зиёдатӣ
+      uz: ortiqcha masofa
+      zh: 超出里程
+      vi: quãng đường vượt mức
+      th: ระยะทางส่วนเกิน
     cars.rates.perMinute:
       en: per minute
       ru: в минуту
       cs: za minutu
       fr: par minute
       az: dəqiqə üçün
+      de: pro Minute
+      es: por minuto
+      it: al minuto
+      pt: por minuto
+      uk: за хвилину
+      sk: za minútu
+      sr: по минуту
+      hy: մեկ րոպեի համար
+      kk: минутына
+      ms: seminit
+      tg: барои як дақиқа
+      uz: daqiqasiga
+      zh: 每分钟
+      vi: mỗi phút
+      th: ต่อนาที
     cars.rates.unlock:
       en: Unlock
       ru: Открытие
       cs: Odemknutí
       fr: Déverrouillage
       az: Kilidin açılması
+      de: Entriegelung
+      es: Desbloqueo
+      it: Sblocco
+      pt: Desbloqueio
+      uk: Відкриття
+      sk: Odomknutie
+      sr: Откључавање
+      hy: Ապակողպում
+      kk: Құлыпты ашу
+      ms: Buka kunci
+      tg: Кушодани қулф
+      uz: Qulfni ochish
+      zh: 解锁
+      vi: Mở khóa
+      th: ปลดล็อก
     cars.rates.waiting:
       en: Waiting
       ru: Ожидание
       cs: Čekání
       fr: Attente
       az: Gözləmə
+      de: Warten
+      es: Espera
+      it: Attesa
+      pt: Espera
+      uk: Очікування
+      sk: Čakanie
+      sr: Чекање
+      hy: Սպասում
+      kk: Күту
+      ms: Menunggu
+      tg: Интизорӣ
+      uz: Kutish
+      zh: 等待
+      vi: Chờ
+      th: รอ
     cities.names.bratislava:
       en: Bratislava
       ru: Братислава
       cs: Bratislava
       fr: Bratislava
       az: Bratislava
+      de: Bratislava
+      es: Bratislava
+      it: Bratislava
+      pt: Bratislava
+      uk: Братислава
+      sk: Bratislava
+      sr: Братислава
+      hy: Բրատիսլավա
+      kk: Братислава
+      ms: Bratislava
+      tg: Братислава
+      uz: Bratislava
+      zh: 布拉迪斯拉发
+      vi: Bratislava
+      th: บราติสลาวา
     cities.names.dubai:
       en: Dubai
       ru: Дубай
       cs: Dubaj
       fr: Dubaï
       az: Dubay
+      de: Dubai
+      es: Dubái
+      it: Dubai
+      pt: Dubai
+      uk: Дубай
+      sk: Dubaj
+      sr: Дубаи
+      hy: Դուբայ
+      kk: Дубай
+      ms: Dubai
+      tg: Дубай
+      uz: Dubay
+      zh: 迪拜
+      vi: Dubai
+      th: ดูไบ
     cities.names.hongKong:
       en: Hong Kong
       ru: Гонконг
       cs: Hongkong
       fr: Hong Kong
       az: Honkonq
+      de: Hongkong
+      es: Hong Kong
+      it: Hong Kong
+      pt: Hong Kong
+      uk: Гонконг
+      sk: Hongkong
+      sr: Хонгконг
+      hy: Հոնկոնգ
+      kk: Гонконг
+      ms: Hong Kong
+      tg: Ҳонконг
+      uz: Gonkong
+      zh: 香港
+      vi: Hồng Kông
+      th: ฮ่องกง
     cities.names.kaliningrad:
       en: Kaliningrad
       ru: Калининград
       cs: Kaliningrad
       fr: Kaliningrad
       az: Kalininqrad
+      de: Kaliningrad
+      es: Kaliningrado
+      it: Kaliningrad
+      pt: Kaliningrado
+      uk: Калінінград
+      sk: Kaliningrad
+      sr: Калињинград
+      hy: Կալինինգրադ
+      kk: Калининград
+      ms: Kaliningrad
+      tg: Калининград
+      uz: Kaliningrad
+      zh: 加里宁格勒
+      vi: Kaliningrad
+      th: คาลินินกราด
     cities.names.kladno:
       en: Kladno
       ru: Кладно
       cs: Kladno
       fr: Kladno
       az: Kladno
+      de: Kladno
+      es: Kladno
+      it: Kladno
+      pt: Kladno
+      uk: Кладно
+      sk: Kladno
+      sr: Кладно
+      hy: Կլադնո
+      kk: Кладно
+      ms: Kladno
+      tg: Кладно
+      uz: Kladno
+      zh: 克拉德诺
+      vi: Kladno
+      th: คลาดโน
     cities.names.pilsen:
       en: Pilsen
       ru: Пльзень
       cs: Plzeň
       fr: Pilsen
       az: Plzen
+      de: Pilsen
+      es: Pilsen
+      it: Pilsen
+      pt: Pilsen
+      uk: Пльзень
+      sk: Plzeň
+      sr: Плзењ
+      hy: Պլզեն
+      kk: Пльзень
+      ms: Pilsen
+      tg: Плзен
+      uz: Plzen
+      zh: 比尔森
+      vi: Plzeň
+      th: พิลเซน
     cities.names.prague:
       en: Prague
       ru: Прага
       cs: Praha
       fr: Prague
       az: Praqa
+      de: Prag
+      es: Praga
+      it: Praga
+      pt: Praga
+      uk: Прага
+      sk: Praha
+      sr: Праг
+      hy: Պրահա
+      kk: Прага
+      ms: Prague
+      tg: Прага
+      uz: Praga
+      zh: 布拉格
+      vi: Praha
+      th: ปราก
     cities.names.valencia:
       en: Valencia
       ru: Валенсия
       cs: Valencie
       fr: Valence
       az: Valensiya
+      de: Valencia
+      es: Valencia
+      it: Valencia
+      pt: Valência
+      uk: Валенсія
+      sk: Valencia
+      sr: Валенсија
+      hy: Վալենսիա
+      kk: Валенсия
+      ms: Valencia
+      tg: Валенсия
+      uz: Valensiya
+      zh: 瓦伦西亚
+      vi: Valencia
+      th: บาเลนเซีย
     cities.names.warsaw:
       en: Warsaw
       ru: Варшава
       cs: Varšava
       fr: Varsovie
       az: Varşava
+      de: Warschau
+      es: Varsovia
+      it: Varsavia
+      pt: Varsóvia
+      uk: Варшава
+      sk: Varšava
+      sr: Варшава
+      hy: Վարշավա
+      kk: Варшава
+      ms: Warsaw
+      tg: Варшава
+      uz: Varshava
+      zh: 华沙
+      vi: Warszawa
+      th: วอร์ซอ
     cities.names.yekaterinburg:
       en: Yekaterinburg
       ru: Екатеринбург
       cs: Jekatěrinburg
       fr: Iekaterinbourg
       az: Yekaterinburq
+      de: Jekaterinburg
+      es: Ekaterimburgo
+      it: Ekaterinburg
+      pt: Ecaterimburgo
+      uk: Єкатеринбург
+      sk: Jekaterinburg
+      sr: Јекатеринбург
+      hy: Եկատերինբուրգ
+      kk: Екатеринбург
+      ms: Yekaterinburg
+      tg: Екатеринбург
+      uz: Yekaterinburg
+      zh: 叶卡捷琳堡
+      vi: Yekaterinburg
+      th: เยคาเตรินบุร์ก
     common.back:
       en: Back
       ru: Назад
       cs: Zpět
       fr: Retour
       az: Geri
+      de: Zurück
+      es: Atrás
+      it: Indietro
+      pt: Voltar
+      uk: Назад
+      sk: Späť
+      sr: Назад
+      hy: Հետ
+      kk: Артқа
+      ms: Kembali
+      tg: Бозгашт
+      uz: Orqaga
+      zh: 返回
+      vi: Quay lại
+      th: ย้อนกลับ
     common.cancel:
       en: Cancel
       ru: Отмена
       cs: Zrušit
       fr: Annuler
       az: Ləğv et
+      de: Abbrechen
+      es: Cancelar
+      it: Annulla
+      pt: Cancelar
+      uk: Скасувати
+      sk: Zrušiť
+      sr: Откажи
+      hy: Չեղարկել
+      kk: Бас тарту
+      ms: Batal
+      tg: Бекор кардан
+      uz: Bekor qilish
+      zh: 取消
+      vi: Hủy
+      th: ยกเลิก
     common.close:
       en: Close
       ru: Закрыть
       cs: Zavřít
       fr: Fermer
       az: Bağla
+      de: Schließen
+      es: Cerrar
+      it: Chiudi
+      pt: Fechar
+      uk: Закрити
+      sk: Zavrieť
+      sr: Затвори
+      hy: Փակել
+      kk: Жабу
+      ms: Tutup
+      tg: Пӯшидан
+      uz: Yopish
+      zh: 关闭
+      vi: Đóng
+      th: ปิด
     common.done:
       en: Done
       ru: Готово
       cs: Hotovo
       fr: Terminé
       az: Hazırdır
+      de: Fertig
+      es: Hecho
+      it: Fatto
+      pt: Concluído
+      uk: Готово
+      sk: Hotovo
+      sr: Готово
+      hy: Պատրաստ է
+      kk: Дайын
+      ms: Selesai
+      tg: Омода
+      uz: Tayyor
+      zh: 完成
+      vi: Xong
+      th: เสร็จสิ้น
     common.error:
       en: Something went wrong
       ru: Что-то пошло не так
       cs: Něco se pokazilo
       fr: Une erreur est survenue
       az: Xəta baş verdi
+      de: Ein Fehler ist aufgetreten
+      es: Se ha producido un error
+      it: Si è verificato un errore
+      pt: Ocorreu um erro
+      uk: Сталася помилка
+      sk: Vyskytla sa chyba
+      sr: Дошло је до грешке
+      hy: Սխալ է տեղի ունեցել
+      kk: Қате пайда болды
+      ms: Ralat berlaku
+      tg: Хато рӯй дод
+      uz: Xato yuz berdi
+      zh: 出现错误
+      vi: Đã xảy ra lỗi
+      th: เกิดข้อผิดพลาด
     common.getDirections:
       en: Get directions
       ru: Построить маршрут
       cs: Naplánovat trasu
       fr: Itinéraire
       az: Marşrut qur
+      de: Route planen
+      es: Cómo llegar
+      it: Indicazioni stradali
+      pt: Traçar rota
+      uk: Прокласти маршрут
+      sk: Naplánovať trasu
+      sr: Прикажи путању
+      hy: Կառուցել երթուղի
+      kk: Бағыт құру
+      ms: Dapatkan arah
+      tg: Сохтани масир
+      uz: Yo‘nalish tuzish
+      zh: 规划路线
+      vi: Chỉ đường
+      th: ขอเส้นทาง
     common.loading:
       en: Loading…
       ru: Загрузка…
       cs: Načítání…
       fr: Chargement…
       az: Yüklənir…
+      de: Wird geladen…
+      es: Cargando…
+      it: Caricamento…
+      pt: Carregando…
+      uk: Завантаження…
+      sk: Načítava sa…
+      sr: Учитавање…
+      hy: Բեռնվում է…
+      kk: Жүктелуде…
+      ms: Memuatkan…
+      tg: Бор мешавад…
+      uz: Yuklanmoqda…
+      zh: 正在加载…
+      vi: Đang tải…
+      th: กำลังโหลด…
     common.moreInfo:
       en: More details
       ru: Подробнее
       cs: Další podrobnosti
       fr: Plus de détails
       az: Ətraflı məlumat
+      de: Weitere Details
+      es: Más detalles
+      it: Altri dettagli
+      pt: Mais detalhes
+      uk: Докладніше
+      sk: Ďalšie podrobnosti
+      sr: Више детаља
+      hy: Լրացուցիչ մանրամասներ
+      kk: Толығырақ
+      ms: Maklumat lanjut
+      tg: Маълумоти бештар
+      uz: Batafsil ma’lumot
+      zh: 更多详情
+      vi: Xem thêm chi tiết
+      th: รายละเอียดเพิ่มเติม
     common.ok:
       en: OK
       ru: ОК
       cs: OK
       fr: OK
       az: OK
+      de: OK
+      es: Aceptar
+      it: OK
+      pt: OK
+      uk: OK
+      sk: OK
+      sr: У реду
+      hy: Լավ
+      kk: Жарайды
+      ms: OK
+      tg: Хуб
+      uz: OK
+      zh: 确定
+      vi: OK
+      th: ตกลง
     common.retry:
       en: Retry
       ru: Повторить
       cs: Zkusit znovu
       fr: Réessayer
       az: Yenidən cəhd et
+      de: Erneut versuchen
+      es: Reintentar
+      it: Riprova
+      pt: Tentar novamente
+      uk: Повторити
+      sk: Skúsiť znova
+      sr: Покушај поново
+      hy: Փորձել կրկին
+      kk: Қайталау
+      ms: Cuba lagi
+      tg: Такрор кардан
+      uz: Qayta urinish
+      zh: 重试
+      vi: Thử lại
+      th: ลองอีกครั้ง
     common.send:
       en: Send
       ru: Отправить
       cs: Odeslat
       fr: Envoyer
       az: Göndər
+      de: Senden
+      es: Enviar
+      it: Invia
+      pt: Enviar
+      uk: Надіслати
+      sk: Odoslať
+      sr: Пошаљи
+      hy: Ուղարկել
+      kk: Жіберу
+      ms: Hantar
+      tg: Фиристодан
+      uz: Yuborish
+      zh: 发送
+      vi: Gửi
+      th: ส่ง
     fuelStations.rules:
       en: Refueling rules
       ru: Правила заправки
       cs: Pravidla tankování
       fr: Règles de ravitaillement
       az: Yanacaq doldurma qaydaları
+      de: Tankregeln
+      es: Normas de repostaje
+      it: Regole di rifornimento
+      pt: Regras de abastecimento
+      uk: Правила заправлення
+      sk: Pravidlá tankovania
+      sr: Правила точења горива
+      hy: Վառելիքի լիցքավորման կանոններ
+      kk: Жанармай құю ережелері
+      ms: Peraturan pengisian bahan api
+      tg: Қоидаҳои сӯзишворигирӣ
+      uz: Yoqilg‘i quyish qoidalari
+      zh: 加油规则
+      vi: Quy định đổ nhiên liệu
+      th: กฎการเติมเชื้อเพลิง
     map.controls.fuelStations:
       en: Fuel stations
       ru: Заправки
       cs: Čerpací stanice
       fr: Stations-service
       az: Yanacaqdoldurma məntəqələri
+      de: Tankstellen
+      es: Gasolineras
+      it: Stazioni di servizio
+      pt: Postos de combustível
+      uk: Заправки
+      sk: Čerpacie stanice
+      sr: Бензинске станице
+      hy: Լցակայաններ
+      kk: Жанармай құю бекеттері
+      ms: Stesen minyak
+      tg: Нуқтаҳои сӯзишворӣ
+      uz: Yoqilg‘i quyish shoxobchalari
+      zh: 加油站
+      vi: Trạm xăng
+      th: สถานีบริการน้ำมัน
     map.controls.parkingZones:
       en: Parking zones
       ru: Парковочные зоны
       cs: Parkovací zóny
       fr: Zones de stationnement
       az: Parklanma zonaları
+      de: Parkzonen
+      es: Zonas de aparcamiento
+      it: Zone di parcheggio
+      pt: Zonas de estacionamento
+      uk: Зони паркування
+      sk: Parkovacie zóny
+      sr: Паркинг зоне
+      hy: Կայանման գոտիներ
+      kk: Тұрақ аймақтары
+      ms: Zon parkir
+      tg: Минтақаҳои таваққуф
+      uz: To‘xtash hududlari
+      zh: 停车区域
+      vi: Khu vực đỗ xe
+      th: พื้นที่จอดรถ
     map.controls.zoomIn:
       en: Zoom in
       ru: Приблизить
       cs: Přiblížit
       fr: Zoom avant
       az: Yaxınlaşdır
+      de: Vergrößern
+      es: Acercar
+      it: Ingrandisci
+      pt: Aproximar
+      uk: Наблизити
+      sk: Priblížiť
+      sr: Увећај
+      hy: Մոտեցնել
+      kk: Жақындату
+      ms: Zum masuk
+      tg: Наздик кардан
+      uz: Yaqinlashtirish
+      zh: 放大
+      vi: Phóng to
+      th: ซูมเข้า
     map.controls.zoomOut:
       en: Zoom out
       ru: Отдалить
       cs: Oddálit
       fr: Zoom arrière
       az: Uzaqlaşdır
+      de: Verkleinern
+      es: Alejar
+      it: Riduci
+      pt: Afastar
+      uk: Віддалити
+      sk: Oddialiť
+      sr: Умањи
+      hy: Հեռացնել
+      kk: Алыстату
+      ms: Zum keluar
+      tg: Дур кардан
+      uz: Uzoqlashtirish
+      zh: 缩小
+      vi: Thu nhỏ
+      th: ซูมออก
     modal.collapse:
       en: Collapse
       ru: Свернуть
       cs: Sbalit
       fr: Réduire
       az: Yığ
+      de: Einklappen
+      es: Contraer
+      it: Comprimi
+      pt: Recolher
+      uk: Згорнути
+      sk: Zbaliť
+      sr: Скупи
+      hy: Ծալել
+      kk: Жию
+      ms: Runtuhkan
+      tg: Ҷамъ кардан
+      uz: Yig‘ish
+      zh: 收起
+      vi: Thu gọn
+      th: ย่อ
     modal.expand:
       en: Expand
       ru: Развернуть
       cs: Rozbalit
       fr: Développer
       az: Genişləndir
+      de: Ausklappen
+      es: Expandir
+      it: Espandi
+      pt: Expandir
+      uk: Розгорнути
+      sk: Rozbaliť
+      sr: Прошири
+      hy: Ընդլայնել
+      kk: Жаю
+      ms: Kembangkan
+      tg: Васеъ кардан
+      uz: Kengaytirish
+      zh: 展开
+      vi: Mở rộng
+      th: ขยาย
     money.amount:
       en: "{amount} {currency}"
       ru: "{amount} {currency}"
       cs: "{amount} {currency}"
       fr: "{amount} {currency}"
       az: "{amount} {currency}"
+      de: "{amount} {currency}"
+      es: "{amount} {currency}"
+      it: "{amount} {currency}"
+      pt: "{amount} {currency}"
+      uk: "{amount} {currency}"
+      sk: "{amount} {currency}"
+      sr: "{amount} {currency}"
+      hy: "{amount} {currency}"
+      kk: "{amount} {currency}"
+      ms: "{amount} {currency}"
+      tg: "{amount} {currency}"
+      uz: "{amount} {currency}"
+      zh: "{amount} {currency}"
+      vi: "{amount} {currency}"
+      th: "{amount} {currency}"
     serviceRules.contract:
       en: Rental agreement
       ru: Договор аренды
       cs: Nájemní smlouva
       fr: Contrat de location
       az: İcarə müqaviləsi
+      de: Mietvertrag
+      es: Contrato de alquiler
+      it: Contratto di noleggio
+      pt: Contrato de aluguel
+      uk: Договір оренди
+      sk: Nájomná zmluva
+      sr: Уговор о најму
+      hy: Վարձակալության պայմանագիր
+      kk: Жалға алу шарты
+      ms: Perjanjian sewaan
+      tg: Шартномаи иҷора
+      uz: Ijara shartnomasi
+      zh: 租赁协议
+      vi: Hợp đồng thuê xe
+      th: สัญญาเช่า
     serviceRules.help:
       en: Help
       ru: Помощь
       cs: Nápověda
       fr: Aide
       az: Kömək
+      de: Hilfe
+      es: Ayuda
+      it: Aiuto
+      pt: Ajuda
+      uk: Допомога
+      sk: Pomoc
+      sr: Помоћ
+      hy: Օգնություն
+      kk: Көмек
+      ms: Bantuan
+      tg: Кӯмак
+      uz: Yordam
+      zh: 帮助
+      vi: Trợ giúp
+      th: ความช่วยเหลือ
     serviceRules.personalData:
       en: Personal data consent
       ru: Согласие на обработку персональных данных
       cs: Souhlas se zpracováním osobních údajů
       fr: Consentement au traitement des données personnelles
       az: Şəxsi məlumatların emalına razılıq
+      de: Einwilligung zur Verarbeitung personenbezogener Daten
+      es: Consentimiento para el tratamiento de datos personales
+      it: Consenso al trattamento dei dati personali
+      pt: Consentimento para o tratamento de dados pessoais
+      uk: Згода на обробку персональних даних
+      sk: Súhlas so spracovaním osobných údajov
+      sr: Сагласност за обраду личних података
+      hy: Անձնական տվյալների մշակման համաձայնություն
+      kk: Дербес деректерді өңдеуге келісім
+      ms: Persetujuan pemprosesan data peribadi
+      tg: Розигӣ ба коркарди маълумоти шахсӣ
+      uz: Shaxsiy ma’lumotlarni qayta ishlashga rozilik
+      zh: 个人数据处理同意书
+      vi: Đồng ý xử lý dữ liệu cá nhân
+      th: ความยินยอมในการประมวลผลข้อมูลส่วนบุคคล
     serviceRules.title:
       en: Service rules
       ru: Правила сервиса
       cs: Pravidla služby
       fr: Règles du service
       az: Xidmət qaydaları
+      de: Nutzungsregeln
+      es: Normas del servicio
+      it: Regole del servizio
+      pt: Regras do serviço
+      uk: Правила сервісу
+      sk: Pravidlá služby
+      sr: Правила услуге
+      hy: Ծառայության կանոններ
+      kk: Қызмет ережелері
+      ms: Peraturan perkhidmatan
+      tg: Қоидаҳои хидмат
+      uz: Xizmat qoidalari
+      zh: 服务规则
+      vi: Quy định dịch vụ
+      th: กฎของบริการ
     serviceRules.website:
       en: Website
       ru: Сайт
       cs: Webové stránky
       fr: Site web
       az: Veb-sayt
+      de: Website
+      es: Sitio web
+      it: Sito web
+      pt: Site
+      uk: Сайт
+      sk: Webová stránka
+      sr: Веб-сајт
+      hy: Կայք
+      kk: Сайт
+      ms: Laman web
+      tg: Сомона
+      uz: Veb-sayt
+      zh: 网站
+      vi: Trang web
+      th: เว็บไซต์
     startup.description:
       en: Check your internet connection or try again.
       ru: Проверьте подключение к интернету или попробуйте ещё раз.
       cs: Zkontrolujte připojení k internetu nebo to zkuste znovu.
       fr: Vérifiez votre connexion Internet ou réessayez.
       az: İnternet bağlantınızı yoxlayın və ya yenidən cəhd edin.
+      de: Prüfen Sie Ihre Internetverbindung oder versuchen Sie es erneut.
+      es: Comprueba tu conexión a Internet o inténtalo de nuevo.
+      it: Controlla la connessione a Internet o riprova.
+      pt: Confira sua conexão com a Internet ou tente novamente.
+      uk: Перевірте підключення до інтернету або спробуйте ще раз.
+      sk: Skontrolujte internetové pripojenie alebo to skúste znova.
+      sr: Проверите интернет везу или покушајте поново.
+      hy: Ստուգեք ինտերնետ կապը կամ փորձեք կրկին։
+      kk: Интернет байланысын тексеріңіз немесе қайталап көріңіз.
+      ms: Semak sambungan Internet anda atau cuba lagi.
+      tg: Пайвасти интернетро санҷед ё аз нав кӯшиш кунед.
+      uz: Internet aloqasini tekshiring yoki qayta urinib ko‘ring.
+      zh: 请检查网络连接或重试。
+      vi: Kiểm tra kết nối Internet hoặc thử lại.
+      th: ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตหรือลองอีกครั้ง
     startup.nativeError:
       en: Could not start the embedded app.
       ru: Не удалось запустить встроенное приложение.
       cs: Vestavěnou aplikaci se nepodařilo spustit.
       fr: Impossible de démarrer l’application intégrée.
       az: Daxili tətbiqi başlatmaq mümkün olmadı.
+      de: Die integrierte App konnte nicht gestartet werden.
+      es: No se pudo iniciar la aplicación integrada.
+      it: Impossibile avviare l’app integrata.
+      pt: Não foi possível iniciar o aplicativo integrado.
+      uk: Не вдалося запустити вбудований застосунок.
+      sk: Vstavanú aplikáciu sa nepodarilo spustiť.
+      sr: Није могуће покренути уграђену апликацију.
+      hy: Չհաջողվեց գործարկել ներկառուցված հավելվածը։
+      kk: Кірістірілген қолданбаны іске қосу мүмкін болмады.
+      ms: Aplikasi terbina dalam tidak dapat dimulakan.
+      tg: Барномаи дарунсохт оғоз нашуд.
+      uz: Ichki ilovani ishga tushirib bo‘lmadi.
+      zh: 无法启动内嵌应用。
+      vi: Không khởi động được ứng dụng tích hợp.
+      th: เริ่มแอปที่ฝังไว้ไม่สำเร็จ
     startup.retrying:
       en: Retrying…
       ru: Повторяем…
       cs: Opakování…
       fr: Nouvelle tentative…
       az: Yenidən cəhd edilir…
+      de: Erneuter Versuch…
+      es: Reintentando…
+      it: Nuovo tentativo…
+      pt: Tentando novamente…
+      uk: Повторюємо…
+      sk: Opakuje sa…
+      sr: Поновни покушај…
+      hy: Կրկին փորձ է արվում…
+      kk: Қайталануда…
+      ms: Mencuba semula…
+      tg: Кӯшиши такрорӣ…
+      uz: Qayta urinilmoqda…
+      zh: 正在重试…
+      vi: Đang thử lại…
+      th: กำลังลองอีกครั้ง…
     startup.title:
       en: Service temporarily unavailable
       ru: Сервис временно недоступен
       cs: Služba je dočasně nedostupná
       fr: Service temporairement indisponible
       az: Xidmət müvəqqəti olaraq əlçatan deyil
+      de: Dienst vorübergehend nicht verfügbar
+      es: Servicio temporalmente no disponible
+      it: Servizio temporaneamente non disponibile
+      pt: Serviço temporariamente indisponível
+      uk: Сервіс тимчасово недоступний
+      sk: Služba je dočasne nedostupná
+      sr: Услуга је привремено недоступна
+      hy: Ծառայությունը ժամանակավորապես անհասանելի է
+      kk: Қызмет уақытша қолжетімсіз
+      ms: Perkhidmatan tidak tersedia buat sementara waktu
+      tg: Хидмат муваққатан дастнорас аст
+      uz: Xizmat vaqtincha mavjud emas
+      zh: 服务暂时不可用
+      vi: Dịch vụ tạm thời không khả dụng
+      th: บริการไม่พร้อมใช้งานชั่วคราว
     support.chat:
       en: Support chat
       ru: Чат поддержки
       cs: Chat s podporou
       fr: Discussion avec l’assistance
       az: Dəstək xidməti ilə söhbət
+      de: Support-Chat
+      es: Chat de soporte
+      it: Chat di assistenza
+      pt: Conversa com o suporte
+      uk: Чат підтримки
+      sk: Chat s podporou
+      sr: Разговор са подршком
+      hy: Աջակցության զրույց
+      kk: Қолдау чаты
+      ms: Sembang sokongan
+      tg: Суҳбат бо дастгирӣ
+      uz: Yordam xizmati bilan suhbat
+      zh: 客服聊天
+      vi: Trò chuyện với hỗ trợ
+      th: แชตกับฝ่ายช่วยเหลือ
     units.kilometer:
       en: km
       ru: км
       cs: km
       fr: km
       az: km
+      de: km
+      es: km
+      it: km
+      pt: km
+      uk: км
+      sk: km
+      sr: км
+      hy: կմ
+      kk: км
+      ms: km
+      tg: км
+      uz: km
+      zh: 公里
+      vi: km
+      th: กม.
     urlView.slow:
       en: The page is taking longer to load. You can retry or close it.
       ru: Страница загружается дольше обычного. Можно повторить загрузку или закрыть окно.
       cs: Načítání stránky trvá déle. Můžete to zkusit znovu nebo ji zavřít.
       fr: Le chargement de la page prend plus de temps. Vous pouvez réessayer ou la fermer.
       az: Səhifənin yüklənməsi daha çox vaxt aparır. Yenidən cəhd edə və ya onu bağlaya bilərsiniz.
+      de: Das Laden der Seite dauert länger. Sie können es erneut versuchen oder die Seite schließen.
+      es: La página está tardando más en cargar. Puedes reintentarlo o cerrarla.
+      it: Il caricamento della pagina richiede più tempo. Puoi riprovare o chiuderla.
+      pt: A página está demorando mais para carregar. Você pode tentar novamente ou fechá-la.
+      uk: Завантаження сторінки триває довше. Можна повторити спробу або закрити її.
+      sk: Načítanie stránky trvá dlhšie. Môžete to skúsiť znova alebo ju zavrieť.
+      sr: Учитавање странице траје дуже. Можете покушати поново или је затворити.
+      hy: Էջի բեռնումն ավելի երկար է տևում։ Կարող եք կրկին փորձել կամ փակել այն։
+      kk: Бетті жүктеу ұзаққа созылуда. Қайталап көруге немесе оны жабуға болады.
+      ms: Halaman mengambil masa lebih lama untuk dimuatkan. Anda boleh cuba lagi atau menutupnya.
+      tg: Боршавии саҳифа тӯл кашид. Метавонед аз нав кӯшиш кунед ё онро пӯшед.
+      uz: Sahifani yuklash uzoqroq davom etmoqda. Qayta urinishingiz yoki uni yopishingiz mumkin.
+      zh: 页面加载时间较长，您可以重试或关闭页面。
+      vi: Trang đang tải lâu hơn bình thường. Bạn có thể thử lại hoặc đóng trang.
+      th: หน้าเว็บใช้เวลาโหลดนานกว่าปกติ คุณสามารถลองอีกครั้งหรือปิดหน้าเว็บได้
     urlView.unavailable:
       en: This page is currently unavailable.
       ru: Страница сейчас недоступна.
       cs: Tato stránka je nyní nedostupná.
       fr: Cette page est actuellement indisponible.
       az: Bu səhifə hazırda əlçatan deyil.
+      de: Diese Seite ist derzeit nicht verfügbar.
+      es: Esta página no está disponible actualmente.
+      it: Questa pagina non è al momento disponibile.
+      pt: Esta página está indisponível no momento.
+      uk: Ця сторінка зараз недоступна.
+      sk: Táto stránka je momentálne nedostupná.
+      sr: Ова страница тренутно није доступна.
+      hy: Այս էջն այժմ անհասանելի է։
+      kk: Бұл бет қазір қолжетімсіз.
+      ms: Halaman ini tidak tersedia buat masa ini.
+      tg: Ин саҳифа ҳоло дастнорас аст.
+      uz: Bu sahifa hozir mavjud emas.
+      zh: 此页面目前不可用。
+      vi: Trang này hiện không khả dụng.
+      th: หน้าเว็บนี้ไม่พร้อมใช้งานในขณะนี้
     urlView.unsupported:
       en: To open this page, update the app and Android System WebView.
       ru: Для открытия страницы обновите приложение и Android System WebView.
       cs: Pro otevření této stránky aktualizujte aplikaci a Android System WebView.
       fr: Pour ouvrir cette page, mettez à jour l’application et Android System WebView.
       az: Bu səhifəni açmaq üçün tətbiqi və Android System WebView-u yeniləyin.
+      de: Aktualisieren Sie die App und Android System WebView, um diese Seite zu öffnen.
+      es: Para abrir esta página, actualiza la aplicación y Android System WebView.
+      it: Per aprire questa pagina, aggiorna l’app e Android System WebView.
+      pt: Para abrir esta página, atualize o aplicativo e o Android System WebView.
+      uk: Щоб відкрити цю сторінку, оновіть застосунок і Android System WebView.
+      sk: Ak chcete otvoriť túto stránku, aktualizujte aplikáciu a Android System WebView.
+      sr: Да бисте отворили ову страницу, ажурирајте апликацију и Android System WebView.
+      hy: Այս էջը բացելու համար թարմացրեք հավելվածը և Android System WebView-ը։
+      kk: Бұл бетті ашу үшін қолданбаны және Android System WebView жүйесін жаңартыңыз.
+      ms: Untuk membuka halaman ini, kemas kini aplikasi dan Android System WebView.
+      tg: Барои кушодани ин саҳифа барнома ва Android System WebView-ро навсозӣ кунед.
+      uz: Bu sahifani ochish uchun ilovani va Android System WebView’ni yangilang.
+      zh: 请更新应用和 Android System WebView 以打开此页面。
+      vi: Để mở trang này, hãy cập nhật ứng dụng và Android System WebView.
+      th: หากต้องการเปิดหน้านี้ ให้อัปเดตแอปและ Android System WebView
     zones.bonus.description:
       en: "Bonus for ending the rental: {bonus}."
       ru: "Бонус за завершение аренды: {bonus}."
       cs: "Bonus za ukončení pronájmu: {bonus}."
       fr: "Bonus pour terminer la location : {bonus}."
       az: "İcarəni bitirməyə görə bonus: {bonus}."
+      de: "Bonus für das Beenden der Miete: {bonus}."
+      es: "Bonificación por finalizar el alquiler: {bonus}."
+      it: "Bonus per la conclusione del noleggio: {bonus}."
+      pt: "Bônus por encerrar o aluguel: {bonus}."
+      uk: "Бонус за завершення оренди: {bonus}."
+      sk: "Bonus za ukončenie prenájmu: {bonus}."
+      sr: "Бонус за завршетак најма: {bonus}."
+      hy: Վարձակալությունն ավարտելու բոնուս՝ {bonus}։
+      kk: "Жалға алуды аяқтағаны үшін бонус: {bonus}."
+      ms: "Bonus untuk menamatkan sewaan: {bonus}."
+      tg: "Бонус барои анҷоми иҷора: {bonus}."
+      uz: "Ijarani yakunlash uchun bonus: {bonus}."
+      zh: 结束租赁奖励：{bonus}。
+      vi: "Thưởng khi kết thúc thuê xe: {bonus}."
+      th: "โบนัสเมื่อสิ้นสุดการเช่า: {bonus}"
     zones.bonus.title:
       en: Bonus zone
       ru: Бонусная зона
       cs: Bonusová zóna
       fr: Zone bonus
       az: Bonus zonası
+      de: Bonuszone
+      es: Zona con bonificación
+      it: Zona bonus
+      pt: Zona de bônus
+      uk: Бонусна зона
+      sk: Bonusová zóna
+      sr: Бонус зона
+      hy: Բոնուսային գոտի
+      kk: Бонус аймағы
+      ms: Zon bonus
+      tg: Минтақаи бонус
+      uz: Bonus hududi
+      zh: 奖励区域
+      vi: Khu vực thưởng
+      th: พื้นที่โบนัส
     zones.paid.description:
       en: "Charge for ending the rental: {bonus}."
       ru: "Доплата за завершение аренды: {bonus}."
       cs: "Příplatek za ukončení pronájmu: {bonus}."
       fr: "Supplément pour terminer la location : {bonus}."
       az: "İcarəni bitirməyə görə əlavə ödəniş: {bonus}."
+      de: "Aufpreis für das Beenden der Miete: {bonus}."
+      es: "Recargo por finalizar el alquiler: {bonus}."
+      it: "Supplemento per la conclusione del noleggio: {bonus}."
+      pt: "Taxa adicional por encerrar o aluguel: {bonus}."
+      uk: "Доплата за завершення оренди: {bonus}."
+      sk: "Príplatok za ukončenie prenájmu: {bonus}."
+      sr: "Доплата за завршетак најма: {bonus}."
+      hy: Վարձակալությունն ավարտելու հավելավճար՝ {bonus}։
+      kk: "Жалға алуды аяқтағаны үшін қосымша төлем: {bonus}."
+      ms: "Caj untuk menamatkan sewaan: {bonus}."
+      tg: "Пардохти иловагӣ барои анҷоми иҷора: {bonus}."
+      uz: "Ijarani yakunlash uchun qo‘shimcha to‘lov: {bonus}."
+      zh: 结束租赁附加费：{bonus}。
+      vi: "Phụ phí khi kết thúc thuê xe: {bonus}."
+      th: "ค่าธรรมเนียมเพิ่มเติมเมื่อสิ้นสุดการเช่า: {bonus}"
     zones.paid.title:
       en: Paid parking
       ru: Платная парковка
       cs: Placené parkování
       fr: Stationnement payant
       az: Ödənişli parklanma
+      de: Kostenpflichtiges Parken
+      es: Aparcamiento de pago
+      it: Parcheggio a pagamento
+      pt: Estacionamento pago
+      uk: Платне паркування
+      sk: Platené parkovanie
+      sr: Паркинг који се плаћа
+      hy: Վճարովի կայանում
+      kk: Ақылы тұрақ
+      ms: Parkir berbayar
+      tg: Таваққуфи пулакӣ
+      uz: Pulli to‘xtash joyi
+      zh: 付费停车
+      vi: Đỗ xe có thu phí
+      th: ที่จอดรถแบบเสียค่าบริการ
