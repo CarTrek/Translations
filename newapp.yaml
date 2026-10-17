@@ -1,5 +1,68 @@
 Sections:
   NewApp:
+    map.controls.location:
+      en: My location
+      ru: Моё местоположение
+      az: Məkanım
+      cs: Moje poloha
+      de: Mein Standort
+      es: Mi ubicación
+      fr: Ma position
+      hy: Իմ գտնվելու վայրը
+      it: La mia posizione
+      kk: Менің орналасқан жерім
+      ms: Lokasi saya
+      pt: A minha localização
+      sk: Moja poloha
+      sr: Моја локација
+      tg: Ҷойгиршавии ман
+      th: ตำแหน่งของฉัน
+      uk: Моє місцеперебування
+      uz: Mening joylashuvim
+      vi: Vị trí của tôi
+      zh: 我的位置
+    map.controls.north:
+      en: Orient map north
+      ru: Повернуть карту на север
+      az: Xəritəni şimala çevir
+      cs: Otočit mapu na sever
+      de: Karte nach Norden ausrichten
+      es: Orientar el mapa al norte
+      fr: Orienter la carte vers le nord
+      hy: Քարտեզն ուղղել դեպի հյուսիս
+      it: Orienta la mappa a nord
+      kk: Картаны солтүстікке бұру
+      ms: Halakan peta ke utara
+      pt: Orientar o mapa para norte
+      sk: Otočiť mapu na sever
+      sr: Окрени мапу ка северу
+      tg: Харитаро ба шимол гардонед
+      th: หมุนแผนที่ไปทางทิศเหนือ
+      uk: Повернути карту на північ
+      uz: Xaritani shimolga burish
+      vi: Xoay bản đồ về hướng bắc
+      zh: 将地图朝向北方
+    map.location.unavailable:
+      en: Unable to determine your location. Check location access and try again.
+      ru: Не удалось определить местоположение. Проверьте доступ к геолокации и попробуйте снова.
+      az: Məkanınızı müəyyən etmək mümkün olmadı. Məkan icazəsini yoxlayın və yenidən cəhd edin.
+      cs: Polohu se nepodařilo určit. Zkontrolujte přístup k poloze a zkuste to znovu.
+      de: Ihr Standort konnte nicht ermittelt werden. Prüfen Sie den Standortzugriff und versuchen Sie es erneut.
+      es: No se pudo determinar tu ubicación. Comprueba el acceso a la ubicación e inténtalo de nuevo.
+      fr: Impossible de déterminer votre position. Vérifiez l’accès à la localisation et réessayez.
+      hy: Չհաջողվեց որոշել ձեր գտնվելու վայրը։ Ստուգեք տեղորոշման թույլտվությունը և կրկին փորձեք։
+      it: Impossibile determinare la tua posizione. Controlla l’accesso alla posizione e riprova.
+      kk: Орналасқан жеріңізді анықтау мүмкін болмады. Геолокацияға рұқсатты тексеріп, қайталап көріңіз.
+      ms: Lokasi anda tidak dapat ditentukan. Semak akses lokasi dan cuba lagi.
+      pt: Não foi possível determinar a sua localização. Verifique o acesso à localização e tente novamente.
+      sk: Polohu sa nepodarilo určiť. Skontrolujte prístup k polohe a skúste to znova.
+      sr: Није могуће одредити вашу локацију. Проверите приступ локацији и покушајте поново.
+      tg: Ҷойгиршавии шумо муайян нашуд. Дастрасӣ ба ҷойгиршавиро санҷед ва дубора кӯшиш кунед.
+      th: ไม่สามารถระบุตำแหน่งได้ โปรดตรวจสอบสิทธิ์การเข้าถึงตำแหน่งแล้วลองอีกครั้ง
+      uk: Не вдалося визначити місцеперебування. Перевірте доступ до геолокації та спробуйте знову.
+      uz: Joylashuvingizni aniqlab bo‘lmadi. Joylashuvga ruxsatni tekshiring va qayta urinib ko‘ring.
+      vi: Không thể xác định vị trí của bạn. Hãy kiểm tra quyền truy cập vị trí và thử lại.
+      zh: 无法确定您的位置。请检查定位权限后重试。
     cars.rates.waitingPerMinute:
       en: per minute waiting
       ru: в минуту ожидание
@@ -3234,6 +3297,27 @@ Sections:
       zh: 结束租赁附加费：{bonus}。
       vi: "Phụ phí khi kết thúc thuê xe: {bonus}."
       th: "ค่าธรรมเนียมเพิ่มเติมเมื่อสิ้นสุดการเช่า: {bonus}"
+    map.location.permissionDescription:
+      en: Your location is used to show you on the map and find nearby vehicles.
+      ru: Геопозиция используется для отображения вас на карте и поиска транспорта поблизости.
+      cs: Vaše poloha slouží k zobrazení na mapě a vyhledání vozidel v okolí.
+      fr: Votre position permet de vous afficher sur la carte et de trouver des véhicules à proximité.
+      az: Məkanınız sizi xəritədə göstərmək və yaxınlıqdakı nəqliyyat vasitələrini tapmaq üçün istifadə olunur.
+      de: Ihr Standort wird verwendet, um Sie auf der Karte anzuzeigen und Fahrzeuge in der Nähe zu finden.
+      es: Tu ubicación se utiliza para mostrarte en el mapa y encontrar vehículos cercanos.
+      it: La tua posizione viene utilizzata per mostrarti sulla mappa e trovare veicoli nelle vicinanze.
+      pt: Sua localização é usada para mostrar você no mapa e encontrar veículos próximos.
+      uk: Геопозиція використовується для відображення вас на карті та пошуку транспорту поблизу.
+      sk: Vaša poloha sa používa na zobrazenie na mape a vyhľadanie vozidiel v okolí.
+      sr: Ваша локација се користи за приказ на мапи и проналажење возила у близини.
+      hy: Ձեր տեղադրությունն օգտագործվում է ձեզ քարտեզի վրա ցուցադրելու և մոտակա մեքենաները գտնելու համար։
+      kk: Орналасқан жеріңіз сізді картада көрсету және жақын жердегі көліктерді табу үшін пайдаланылады.
+      ms: Lokasi anda digunakan untuk menunjukkan anda pada peta dan mencari kenderaan berdekatan.
+      tg: Ҷойгиршавии шумо барои нишон додани шумо дар харита ва ёфтани нақлиёти наздик истифода мешавад.
+      uz: Joylashuvingiz sizni xaritada ko‘rsatish va yaqin atrofdagi transport vositalarini topish uchun ishlatiladi.
+      zh: 您的位置用于在地图上显示您的位置并查找附近的车辆。
+      vi: Vị trí của bạn được dùng để hiển thị bạn trên bản đồ và tìm xe ở gần.
+      th: ตำแหน่งของคุณใช้เพื่อแสดงคุณบนแผนที่และค้นหารถที่อยู่ใกล้เคียง
     zones.paid.title:
       en: Paid parking
       ru: Платная парковка
