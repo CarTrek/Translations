@@ -950,6 +950,9 @@ Sections:
     UserWarningChargeDebt:
       en: 'You have a debt of {Currency}{DebtSum}. Please top up your bank card and press the button.'
       ru: 'У вас долг {Currency}{DebtSum}. Пожалуйста, пополните карту и нажмите кнопку.'
+    UserWarningPaymentProcessing:
+      en: 'We are processing your payment. It usually takes a few seconds.'
+      ru: 'Обрабатываем платёж. Обычно это занимает несколько секунд.'
     UserWarningAttachBankCard:
       en: 'Please attach a bank card'
       ru: 'Пожалуйста, прикрепите банковскую карту'
@@ -2331,6 +2334,9 @@ Sections:
       en: Your balance is negative
       ru: Баланс Вашей учётной записи отрицательный.
       uk: Баланс вашого облікового запису негативний.
+    BookCarResultFailedPaymentProcessing:
+      en: Your previous payment is still being processed. Please try to book again in a minute.
+      ru: Предыдущий платёж ещё обрабатывается. Попробуйте забронировать через минуту.
     BookCarResultFailedNoDriveZonesFound:
       cs: Pro zvolené vozidlo není nastavena cestovní zóna.
       ka: ამ მანქანისთვის არ არის დაყენებული მგზავრობის ზონა.
