@@ -2750,6 +2750,18 @@ Sections:
       de: Ablehnen
     clients.editor.NotAccepted:
       de: Nicht akzeptiert
+    clients.editor.PhotoBefore:
+      de: Vorher
+    clients.editor.PhotoAfter:
+      de: Jetzt
+    clients.editor.PhotoReplacedBadge:
+      de: Neu
+    clients.editor.PhotoCompare:
+      de: Mit dem vorherigen Foto vergleichen
+    clients.editor.PhotoOpenInNewTab:
+      de: In neuem Tab öffnen
+    clients.editor.PhotoRotate:
+      de: Drehen
     clients.editor.TABORDERS:
       de: Fahrten
     clients.editor.TABPAYMENTS:

@@ -6871,6 +6871,36 @@ Sections:
       en: Not accepted
       ge: უარყოფილი
       ru: Не принято
+    clients.editor.PhotoBefore:
+      cs: Dříve
+      en: Before
+      ge: მანამდე
+      ru: Было
+    clients.editor.PhotoAfter:
+      cs: Nyní
+      en: Now
+      ge: ახლა
+      ru: Стало
+    clients.editor.PhotoReplacedBadge:
+      cs: Nové
+      en: New
+      ge: ახალი
+      ru: Новое
+    clients.editor.PhotoCompare:
+      cs: Porovnat s předchozí fotkou
+      en: Compare with the previous photo
+      ge: წინა ფოტოსთან შედარება
+      ru: Сравнить с предыдущим фото
+    clients.editor.PhotoOpenInNewTab:
+      cs: Otevřít na nové kartě
+      en: Open in a new tab
+      ge: ახალ ჩანართში გახსნა
+      ru: Открыть в новой вкладке
+    clients.editor.PhotoRotate:
+      cs: Otočit
+      en: Rotate
+      ge: შემობრუნება
+      ru: Повернуть
     clients.editor.TABORDERS:
       cs: Jízdy
       en: Rides
