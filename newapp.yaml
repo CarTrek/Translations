@@ -1,5 +1,215 @@
 Sections:
   NewApp:
+    menu.support:
+      en: "Support"
+      ru: "Поддержка"
+      az: "Dəstək"
+      cs: "Podpora"
+      de: "Support"
+      es: "Soporte"
+      fr: "Assistance"
+      hy: "Աջակցություն"
+      it: "Assistenza"
+      kk: "Қолдау"
+      ms: "Sokongan"
+      pt: "Suporte"
+      sk: "Podpora"
+      sr: "Подршка"
+      tg: "Дастгирӣ"
+      th: "ฝ่ายช่วยเหลือ"
+      uk: "Підтримка"
+      uz: "Yordam"
+      vi: "Hỗ trợ"
+      zh: "客服"
+    menu.language:
+      en: "Language"
+      ru: "Язык"
+      az: "Dil"
+      cs: "Jazyk"
+      de: "Sprache"
+      es: "Idioma"
+      fr: "Langue"
+      hy: "Լեզու"
+      it: "Lingua"
+      kk: "Тіл"
+      ms: "Bahasa"
+      pt: "Idioma"
+      sk: "Jazyk"
+      sr: "Језик"
+      tg: "Забон"
+      th: "ภาษา"
+      uk: "Мова"
+      uz: "Til"
+      vi: "Ngôn ngữ"
+      zh: "语言"
+    menu.rates:
+      en: "Tariffs"
+      ru: "Тарифы"
+      az: "Tariflər"
+      cs: "Tarify"
+      de: "Tarife"
+      es: "Tarifas"
+      fr: "Tarifs"
+      hy: "Սակագներ"
+      it: "Tariffe"
+      kk: "Тарифтер"
+      ms: "Tarif"
+      pt: "Tarifas"
+      sk: "Tarify"
+      sr: "Тарифе"
+      tg: "Тарифҳо"
+      th: "อัตราค่าบริการ"
+      uk: "Тарифи"
+      uz: "Tariflar"
+      vi: "Bảng giá"
+      zh: "价目表"
+    menu.socialLinks:
+      en: "Social media"
+      ru: "Социальные сети"
+      az: "Sosial şəbəkələr"
+      cs: "Sociální sítě"
+      de: "Soziale Medien"
+      es: "Redes sociales"
+      fr: "Réseaux sociaux"
+      hy: "Սոցիալական ցանցեր"
+      it: "Social network"
+      kk: "Әлеуметтік желілер"
+      ms: "Media sosial"
+      pt: "Redes sociais"
+      sk: "Sociálne siete"
+      sr: "Друштвене мреже"
+      tg: "Шабакаҳои иҷтимоӣ"
+      th: "โซเชียลมีเดีย"
+      uk: "Соціальні мережі"
+      uz: "Ijtimoiy tarmoqlar"
+      vi: "Mạng xã hội"
+      zh: "社交媒体"
+    serviceRules.licenceAgreement:
+      en: "Terms of use"
+      ru: "Условия использования"
+      az: "İstifadə şərtləri"
+      cs: "Podmínky používání"
+      de: "Nutzungsbedingungen"
+      es: "Condiciones de uso"
+      fr: "Conditions d’utilisation"
+      hy: "Օգտագործման պայմաններ"
+      it: "Condizioni d’uso"
+      kk: "Пайдалану шарттары"
+      ms: "Syarat penggunaan"
+      pt: "Termos de uso"
+      sk: "Podmienky používania"
+      sr: "Услови коришћења"
+      tg: "Шартҳои истифода"
+      th: "เงื่อนไขการใช้งาน"
+      uk: "Умови використання"
+      uz: "Foydalanish shartlari"
+      vi: "Điều khoản sử dụng"
+      zh: "使用条款"
+    serviceRules.privacyPolicy:
+      en: "Privacy policy"
+      ru: "Политика конфиденциальности"
+      az: "Məxfilik siyasəti"
+      cs: "Zásady ochrany osobních údajů"
+      de: "Datenschutzerklärung"
+      es: "Política de privacidad"
+      fr: "Politique de confidentialité"
+      hy: "Գաղտնիության քաղաքականություն"
+      it: "Informativa sulla privacy"
+      kk: "Құпиялылық саясаты"
+      ms: "Dasar privasi"
+      pt: "Política de privacidade"
+      sk: "Zásady ochrany osobných údajov"
+      sr: "Политика приватности"
+      tg: "Сиёсати махфият"
+      th: "นโยบายความเป็นส่วนตัว"
+      uk: "Політика конфіденційності"
+      uz: "Maxfiylik siyosati"
+      vi: "Chính sách bảo mật"
+      zh: "隐私政策"
+    serviceRules.insurance:
+      en: "Insurance conditions"
+      ru: "Условия страхования"
+      az: "Sığorta şərtləri"
+      cs: "Pojistné podmínky"
+      de: "Versicherungsbedingungen"
+      es: "Condiciones del seguro"
+      fr: "Conditions d’assurance"
+      hy: "Ապահովագրության պայմաններ"
+      it: "Condizioni assicurative"
+      kk: "Сақтандыру шарттары"
+      ms: "Syarat insurans"
+      pt: "Condições do seguro"
+      sk: "Poistné podmienky"
+      sr: "Услови осигурања"
+      tg: "Шартҳои суғурта"
+      th: "เงื่อนไขการประกันภัย"
+      uk: "Умови страхування"
+      uz: "Sug‘urta shartlari"
+      vi: "Điều kiện bảo hiểm"
+      zh: "保险条款"
+    menu.profile:
+      en: Profile
+      ru: Профиль
+      az: Profil
+      cs: Profil
+      de: Profil
+      es: Perfil
+      fr: Profil
+      hy: Պրոֆիլ
+      it: Profilo
+      kk: Профиль
+      ms: Profil
+      pt: Perfil
+      sk: Profil
+      sr: Профил
+      tg: Профил
+      th: โปรไฟล์
+      uk: Профіль
+      uz: Profil
+      vi: Hồ sơ
+      zh: 个人资料
+    menu.bonusBalance:
+      en: 'Bonuses: {amount} {currency}'
+      ru: 'Бонусы: {amount} {currency}'
+      az: 'Bonuslar: {amount} {currency}'
+      cs: 'Bonusy: {amount} {currency}'
+      de: 'Bonusguthaben: {amount} {currency}'
+      es: 'Bonificaciones: {amount} {currency}'
+      fr: 'Bonus : {amount} {currency}'
+      hy: 'Բոնուսներ՝ {amount} {currency}'
+      it: 'Bonus: {amount} {currency}'
+      kk: 'Бонустар: {amount} {currency}'
+      ms: 'Bonus: {amount} {currency}'
+      pt: 'Bónus: {amount} {currency}'
+      sk: 'Bonusy: {amount} {currency}'
+      sr: 'Бонуси: {amount} {currency}'
+      tg: 'Бонусҳо: {amount} {currency}'
+      th: 'โบนัส: {amount} {currency}'
+      uk: 'Бонуси: {amount} {currency}'
+      uz: 'Bonuslar: {amount} {currency}'
+      vi: 'Tiền thưởng: {amount} {currency}'
+      zh: '奖励：{amount} {currency}'
+    menu.title:
+      en: Menu
+      ru: Меню
+      az: Menyu
+      cs: Menu
+      de: Menü
+      es: Menú
+      fr: Menu
+      hy: Մենյու
+      it: Menu
+      kk: Мәзір
+      ms: Menu
+      pt: Menu
+      sk: Menu
+      sr: Мени
+      tg: Меню
+      th: เมนู
+      uk: Меню
+      uz: Menyu
+      vi: Menu
+      zh: 菜单
     map.controls.location:
       en: My location
       ru: Моё местоположение
