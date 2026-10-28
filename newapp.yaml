@@ -1,5 +1,194 @@
 Sections:
   NewApp:
+    menu.account:
+      en: Account
+      ru: Аккаунт
+      az: Hesab
+      cs: Účet
+      de: Konto
+      es: Cuenta
+      fr: Compte
+      hy: Հաշիվ
+      it: Account
+      kk: Тіркелгі
+      ms: Akaun
+      pt: Conta
+      sk: Účet
+      sr: Налог
+      tg: Ҳисоб
+      th: บัญชี
+      uk: Обліковий запис
+      uz: Hisob
+      vi: Tài khoản
+      zh: 账户
+    menu.personalData:
+      en: My details
+      ru: Мои данные
+      az: Məlumatlarım
+      cs: Moje údaje
+      de: Meine Daten
+      es: Mis datos
+      fr: Mes informations
+      hy: Իմ տվյալները
+      it: I miei dati
+      kk: Менің деректерім
+      ms: Maklumat saya
+      pt: Os meus dados
+      sk: Moje údaje
+      sr: Моји подаци
+      tg: Маълумоти ман
+      th: ข้อมูลของฉัน
+      uk: Мої дані
+      uz: Ma’lumotlarim
+      vi: Thông tin của tôi
+      zh: 我的资料
+    menu.ridesHistory:
+      en: Trips
+      ru: Поездки
+      az: Səfərlər
+      cs: Jízdy
+      de: Fahrten
+      es: Viajes
+      fr: Trajets
+      hy: Ուղևորություններ
+      it: Viaggi
+      kk: Сапарлар
+      ms: Perjalanan
+      pt: Viagens
+      sk: Jazdy
+      sr: Вожње
+      tg: Сафарҳо
+      th: การเดินทาง
+      uk: Поїздки
+      uz: Safarlar
+      vi: Chuyến đi
+      zh: 行程
+    menu.myTrips:
+      en: My trips
+      ru: Мои поездки
+      az: Səfərlərim
+      cs: Moje jízdy
+      de: Meine Fahrten
+      es: Mis viajes
+      fr: Mes trajets
+      hy: Իմ ուղևորությունները
+      it: I miei viaggi
+      kk: Менің сапарларым
+      ms: Perjalanan saya
+      pt: As minhas viagens
+      sk: Moje jazdy
+      sr: Моје вожње
+      tg: Сафарҳои ман
+      th: การเดินทางของฉัน
+      uk: Мої поїздки
+      uz: Safarlarim
+      vi: Chuyến đi của tôi
+      zh: 我的行程
+    menu.paymentMethods:
+      en: Payment methods
+      ru: Способ оплаты
+      az: Ödəniş üsulları
+      cs: Platební metody
+      de: Zahlungsmethoden
+      es: Métodos de pago
+      fr: Moyens de paiement
+      hy: Վճարման եղանակներ
+      it: Metodi di pagamento
+      kk: Төлем әдістері
+      ms: Kaedah pembayaran
+      pt: Métodos de pagamento
+      sk: Platobné metódy
+      sr: Начини плаћања
+      tg: Усулҳои пардохт
+      th: วิธีการชำระเงิน
+      uk: Спосіб оплати
+      uz: To‘lov usullari
+      vi: Phương thức thanh toán
+      zh: 支付方式
+    menu.purchaseBonuses:
+      en: Buy bonuses
+      ru: Купить бонусы
+      az: Bonus almaq
+      cs: Koupit bonusy
+      de: Bonuspunkte kaufen
+      es: Comprar bonos
+      fr: Acheter des bonus
+      hy: Գնել բոնուսներ
+      it: Acquista bonus
+      kk: Бонустар сатып алу
+      ms: Beli bonus
+      pt: Comprar bônus
+      sk: Kúpiť bonusy
+      sr: Купи бонусе
+      tg: Харидани бонусҳо
+      th: ซื้อโบนัส
+      uk: Купити бонуси
+      uz: Bonuslar sotib olish
+      vi: Mua điểm thưởng
+      zh: 购买奖励积分
+    menu.bonusesHistory:
+      en: Bonus history
+      ru: История бонусов
+      az: Bonus tarixçəsi
+      cs: Historie bonusů
+      de: Bonusverlauf
+      es: Historial de bonos
+      fr: Historique des bonus
+      hy: Բոնուսների պատմություն
+      it: Cronologia bonus
+      kk: Бонустар тарихы
+      ms: Sejarah bonus
+      pt: Histórico de bônus
+      sk: História bonusov
+      sr: Историја бонуса
+      tg: Таърихи бонусҳо
+      th: ประวัติโบนัส
+      uk: Історія бонусів
+      uz: Bonuslar tarixi
+      vi: Lịch sử điểm thưởng
+      zh: 奖励积分记录
+    menu.promoCode:
+      en: Promo code
+      ru: Промокод
+      az: Promokod
+      cs: Promo kód
+      de: Aktionscode
+      es: Código promocional
+      fr: Code promo
+      hy: Պրոմոկոդ
+      it: Codice promozionale
+      kk: Промокод
+      ms: Kod promosi
+      pt: Código promocional
+      sk: Promo kód
+      sr: Промо код
+      tg: Рамзи тахфиф
+      th: รหัสโปรโมชัน
+      uk: Промокод
+      uz: Promokod
+      vi: Mã khuyến mãi
+      zh: 优惠码
+    menu.catalog:
+      en: Select a car
+      ru: Выбрать автомобиль
+      az: Avtomobil seçin
+      cs: Vybrat auto
+      de: Auto auswählen
+      es: Elegir un coche
+      fr: Choisir une voiture
+      hy: Ընտրել մեքենա
+      it: Scegli un’auto
+      kk: Көлік таңдау
+      ms: Pilih kereta
+      pt: Escolher um carro
+      sk: Vybrať auto
+      sr: Изабери аутомобил
+      tg: Интихоби мошин
+      th: เลือกรถ
+      uk: Вибрати автомобіль
+      uz: Avtomobil tanlash
+      vi: Chọn xe
+      zh: 选择车辆
     menu.contacts:
       en: "Contacts"
       ru: "Контакты"
