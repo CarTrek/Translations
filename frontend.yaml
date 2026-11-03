@@ -5433,6 +5433,24 @@ Sections:
       en: Login name
       ge: შესვლა
       ru: Логин
+    access.signin.CODE_SENT:
+      en: "We have sent a sign-in code to {{email}}"
+      ru: "Мы отправили код для входа на {{email}}"
+    access.signin.CODE:
+      en: "Code from the email"
+      ru: "Код из письма"
+    access.signin.CONFIRM:
+      en: "Confirm"
+      ru: "Подтвердить"
+    access.signin.RESEND:
+      en: "Send the code again"
+      ru: "Отправить код ещё раз"
+    access.signin.RESEND_IN:
+      en: "Send again in {{seconds}} s"
+      ru: "Отправить ещё раз через {{seconds}} с"
+    access.signin.BACK:
+      en: "Back"
+      ru: "Назад"
     access.404.TOAPP:
       cs: vrátit se do aplikace
       en: Return to the App

@@ -247,6 +247,39 @@ Sections:
     EmailSendTokenEmailTopic:
       en: "{code} - your verification code"
       ru: "{code} - ваш код для входа"
+    AdminLoginCodeEmailTopic:
+      en: "{code} - admin panel sign-in code"
+      ru: "{code} - код для входа в админку"
+    AdminTwoFactorWrongCode:
+      en: "Wrong code"
+      ru: "Неверный код"
+    AdminTwoFactorTooManyAttempts:
+      en: "Too many wrong codes. Sign in with your password again"
+      ru: "Слишком много неверных кодов. Войдите с паролем ещё раз"
+    AdminTwoFactorCodeExpired:
+      en: "The code has expired. Sign in with your password again"
+      ru: "Срок действия кода истёк. Войдите с паролем ещё раз"
+    AdminTwoFactorTooManyCodes:
+      en: "Too many codes were requested. Try again in an hour"
+      ru: "Запрошено слишком много кодов. Попробуйте через час"
+    AdminTwoFactorCodeNotSent:
+      en: "Failed to send the code. Try again later"
+      ru: "Не удалось отправить код. Попробуйте позже"
+    AdminTwoFactorNoEmail:
+      en: "Your account has no email for the sign-in code. Ask an administrator to add it"
+      ru: "У вашей учётной записи не указан email для кода входа. Попросите администратора его добавить"
+    AdminTwoFactorUnavailable:
+      en: "Sign-in is temporarily unavailable. Try again later"
+      ru: "Вход временно недоступен. Попробуйте позже"
+    AdminTwoFactorDisabled:
+      en: "Two-factor sign-in is off"
+      ru: "Двухфакторный вход выключен"
+    AdminLoginCodeSent:
+      en: "Admin panel sign-in code sent"
+      ru: "Отправлен код для входа в админку"
+    AdminSessionExpired:
+      en: "Admin panel session expired"
+      ru: "Сессия админки истекла"
     EmailSignupEnterVerifiedEmail:
       en: "Enter the email you signed in with: {email}"
       ru: "Укажите email, с которым вы вошли: {email}"
