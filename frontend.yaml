@@ -12941,6 +12941,12 @@ Sections:
     zones.OrderStartedAt:
       en: Order started at
       ru: Заказ начат в
+    zones.ZoneGroup:
+      en: Zone group
+      ru: Группа зон
+    zones.ZoneGroupHint:
+      en: "Zones with the same group count as one place: a car taken in one of them and returned to another gets neither the zone bonus nor the zone fee."
+      ru: "Зоны одной группы считаются одним местом: если машину взяли в одной из них и вернули в другую, бонус и плата за завершение в зоне не начисляются."
     rates.PreRent:
       en: Prerent sum
       ru: Выбор тарифа

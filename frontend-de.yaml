@@ -5128,6 +5128,10 @@ Sections:
       de: Nichts ausgewählt
     zones.OrderStartedAt:
       de: Bestellung begonnen am
+    zones.ZoneGroup:
+      de: Zonengruppe
+    zones.ZoneGroupHint:
+      de: "Zonen derselben Gruppe gelten als ein Ort: Wird ein Auto in einer davon übernommen und in einer anderen zurückgegeben, fallen weder Zonenbonus noch Zonengebühr an."
     rates.PreRent:
       de: Vormietsumme
     rates.NoGroup:
